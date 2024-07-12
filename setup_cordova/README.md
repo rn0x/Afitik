@@ -107,8 +107,15 @@
 
 ----
 
-قم بتشغيل السكربت `setup_cordova.ps1` لتثبيت التلقائي للمتطلبات واضافة متغيرات البيئة 
+قم بتشغيل السكربت `setup_cordova` لتثبيت التلقائي للمتطلبات واضافة متغيرات البيئة 
 
-```powershell
-./setup_cordova.ps1
-```
+1. windows
+
+   ```powershell
+    ./setup_cordova.ps1
+   ```
+2. linux
+
+   ```bash
+    bash setup_cordova.sh
+   ```
