@@ -1,0 +1,37 @@
+{
+  "name": "org.i8xnet.fiti8",
+  "displayName": "Fiti8",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "keytool": "node keytool.js",
+    "dev": "browser-sync start -s www/ --watch --port 8080 --ui-port 8081",
+    "device": "cordova run android --device",
+    "build": "cordova build android --release",
+    "bundle": "cordova build android --release -- --packageTypjetifiere=bundle",
+    "android": "cordova platform add android@latest",
+    "clean": "cordova clean && npm cache clean --force",
+    "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run android && npm run device"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": {
+    "name": "Ryan Almalki",
+    "email": "rn0x.me@gmail.com",
+    "url": "https://www.altaqwaa.org"
+  },
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "cordova-android": "^13.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
