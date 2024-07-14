@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="org.i8xnet.fiti8" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Fiti8</name>
-    <description>Sample Apache Cordova App</description>
+    <description>Fiti8 is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.</description>
     <author email="rn0x.me@gmail.com" href="https://i8x.net">i8xnetTeam</author>
     <content src="index.html" />
     <!-- Allow-intent settings -->

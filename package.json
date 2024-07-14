@@ -1,26 +1,46 @@
 {
   "name": "org.i8xnet.fiti8",
+  "private": true,
   "displayName": "Fiti8",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "main": "index.js",
+  "description": "Fiti8 is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.",
   "scripts": {
     "keytool": "node keytool.js",
-    "dev": "browser-sync start -s www/ --watch --port 8080 --ui-port 8081",
+    "dev": "react-scripts start",
+    "react-build": "react-scripts build",
     "device": "cordova run android --device",
-    "build": "cordova build android --release",
-    "bundle": "cordova build android --release -- --packageTypjetifiere=bundle",
-    "android": "cordova platform add android@latest",
+    "cordova-build": "cordova build android --release",
+    "cordova-bundle": "cordova build android --release -- --packageTypjetifiere=bundle",
+    "cordova-android": "cordova platform add android@latest",
+    "logcat": "adb logcat",
+    "log": "adb logcat | Select-String \"INFO:CONSOLE\"",
     "clean": "cordova clean && npm cache clean --force",
     "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run android && npm run device"
   },
   "keywords": [
-    "ecosystem:cordova"
+    "fitness app",
+    "health and fitness",
+    "workout routines",
+    "exercise",
+    "diet plans",
+    "healthy lifestyle",
+    "fitness goals",
+    "personal trainer",
+    "weight loss",
+    "muscle gain",
+    "physical fitness",
+    "wellbeing",
+    "exercise programs",
+    "calorie tracker",
+    "bodybuilding",
+    "healthy eating",
+    "wellness app",
+    "fitness community"
   ],
   "author": {
     "name": "Ryan Almalki",
     "email": "rn0x.me@gmail.com",
-    "url": "https://www.altaqwaa.org"
+    "url": "https://github.com/rn0x/Fiti8"
   },
   "license": "GPL-3.0",
   "devDependencies": {
@@ -29,9 +49,33 @@
   "cordova": {
     "platforms": [
       "android"
-    ]
+    ],
+    "plugins": {}
   },
   "dependencies": {
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.24.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
