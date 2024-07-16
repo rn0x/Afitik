@@ -1,0 +1,81 @@
+.navigation-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--navigationbarBackground);
+    text-align: center;
+    z-index: 1000;
+    border-top: 1px solid var(--border);
+}
+
+.navigation-bar ul {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-bar li {
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+}
+
+.navigation-bar a {
+    color: var(--navigationbarColor);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 70px;
+    height: 60px;
+    padding: 7px;
+    border-radius: 7px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.2s ease-out;
+}
+
+.navigation-bar a::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background-color: var(--navigationbarBackgroundAfter);
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    opacity: 0;
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+    pointer-events: none;
+}
+
+.navigation-bar a:active::after {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+}
+
+.navigation-bar a:hover,
+.navigation-bar .active {
+    background-color: var(--navigationbarBackgroundHover);
+    transform: translateY(-5px);
+}
+
+.navigation-bar a:hover .icon,
+.navigation-bar .active .icon {
+    color: var(--navigationbarColorIcon);
+}
+
+.navigation-bar p {
+    margin: 5px 0 0;
+}
+
+.navigation-bar .icon {
+    width: 24px;
+    height: 24px;
+    margin-bottom: 5px;
+}

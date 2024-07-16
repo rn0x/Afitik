@@ -1,0 +1,14 @@
+[data-theme="light"] {
+    --whiteColor: #ffffff;
+    --background: #eceff4;
+    --border: #cdd1d4;
+    --navigationbarBackground: #ffffff;
+    --navigationbarColor: #000000;
+    --navigationbarColorIcon: #ff9900;
+    --navigationbarBackgroundHover: #eceff4;
+    --navigationbarBackgroundAfter: #ff99004d;
+}
+
+
+
+[data-theme="dark"] {}

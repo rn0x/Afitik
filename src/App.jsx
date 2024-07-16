@@ -1,24 +1,28 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Header from './components/Header.jsx';
-import Home from './pages/Home.jsx';
-import About from './pages/About.jsx';
-import NotFound from './pages/NotFound.jsx';
-import './assets/styles/App.css';
+import React from "react";
+import { Route, Routes } from "react-router-dom";
+import { HelmetProvider } from "react-helmet-async";
+import NavigationBar from "./components/NavigationBar.jsx";
+import Home from "./pages/Home.jsx";
+import NotFound from "./pages/NotFound.jsx";
+import Workouts from "./pages/Workouts.jsx";
+import Nutrition from "./pages/Nutrition.jsx";
+import Progress from "./pages/Progress.jsx";
+import Community from "./pages/Community.jsx";
 
-function App() {
+export default function App() {
   return (
-    <Router>
+    <HelmetProvider>
       <div className="App">
-        <Header />
+        <NavigationBar />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/Workouts" element={<Workouts />} />
+          <Route path="/Nutrition" element={<Nutrition />} />
+          <Route path="/Progress" element={<Progress />} />
+          <Route path="/Community" element={<Community />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
-    </Router>
+    </HelmetProvider>
   );
 }
-
-export default App;

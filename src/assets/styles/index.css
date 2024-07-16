@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Cairo';
+  src: url('../fonts/Cairo-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url('../fonts/Cairo-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url('../fonts/Cairo-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  /* قد يتطلب تعيين الوزن برقم معين */
+  font-style: normal;
+}
+
+* {
+  font-family: 'Cairo', Arial, sans-serif;
+  -webkit-tap-highlight-color: #00000000;
+}
+
+body {
+  background-color: var(--background);
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

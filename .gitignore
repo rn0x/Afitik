@@ -6,3 +6,5 @@ platforms
 release.keystore
 build.json
 .env
+www/*
+!www/index.html

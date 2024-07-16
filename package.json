@@ -7,10 +7,9 @@
   "scripts": {
     "keytool": "node keytool.js",
     "dev": "react-scripts start",
-    "react-build": "react-scripts build",
+    "build": "react-scripts build && move build www",
     "device": "cordova run android --device",
     "cordova-build": "cordova build android --release",
-    "cordova-bundle": "cordova build android --release -- --packageTypjetifiere=bundle",
     "cordova-android": "cordova platform add android@latest",
     "logcat": "adb logcat",
     "log": "adb logcat | Select-String \"INFO:CONSOLE\"",
@@ -56,6 +55,8 @@
     "dotenv": "^16.4.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-icons": "^5.2.1",
     "react-router-dom": "^6.24.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"

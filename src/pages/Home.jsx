@@ -1,16 +1,15 @@
-import React from 'react';
-import StyleLoader from '../components/StyleLoader.jsx';
+import React from "react";
+import { Helmet } from "react-helmet-async";
 
-function Home() {
+export default function Home() {
   return (
-    <div className="home" >
-      <StyleLoader href="/styles/Home.css" />
-      <div className="content">
-        <h2>Welcome to Home Page</h2>
-        <p>This is the home page content.</p>
-      </div>
-    </div>
+    <>
+      <Helmet>
+        <title>Home Page</title>
+        <meta name="description" content="Description Home Page" />
+      </Helmet>
+      <h2>Welcome to Home Page</h2>
+      <p>This is the home page content.</p>
+    </>
   );
 }
-
-export default Home;
