@@ -6,6 +6,7 @@
     text-align: center;
     z-index: 1000;
     border-top: 1px solid var(--border);
+    user-select: none;
 }
 
 .navigation-bar ul {

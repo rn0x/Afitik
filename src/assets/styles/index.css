@@ -36,3 +36,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+a {
+  user-select: none;
+  /* تمنع تحديد النص */
+  -moz-user-select: none;
+  /* تمنع تحديد النص على Firefox */
+  -webkit-user-select: none;
+  /* تمنع تحديد النص على Chrome و Safari و Edge */
+  -ms-user-select: none;
+  /* تمنع تحديد النص على Internet Explorer / Edge */
+}

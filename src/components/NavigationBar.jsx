@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import {
   MdFitnessCenter,
   MdFastfood,
@@ -8,6 +8,7 @@ import {
   MdForum,
 } from "react-icons/md";
 import "../assets/styles/NavigationBar.css";
+import NoSelectComponent from "./NoSelectComponent.jsx";
 
 export default function NavigationBar() {
   return (
@@ -15,34 +16,52 @@ export default function NavigationBar() {
       <nav>
         <ul>
           <li>
-            <NavLink to="/">
-              <MdHome className="icon" />
-              <p>الصفحة الرئيسية</p>
-            </NavLink>
+            <NoSelectComponent>
+              <NavLink
+                to="/"
+                title="الصفحة الرئيسية"
+                aria-label="الصفحة الرئيسية"
+              >
+                <MdHome className="icon" />
+                <p>الصفحة الرئيسية</p>
+              </NavLink>
+            </NoSelectComponent>
           </li>
           <li>
-            <NavLink to="/Workouts">
-              <MdFitnessCenter className="icon" />
-              <p>التمارين</p>
-            </NavLink>
+            <NoSelectComponent>
+              <NavLink to="/Workouts" title="التمارين" aria-label="التمارين">
+                <MdFitnessCenter className="icon" />
+                <p>التمارين</p>
+              </NavLink>
+            </NoSelectComponent>
           </li>
           <li>
-            <NavLink to="/Nutrition">
-              <MdFastfood className="icon" />
-              <p>التغذية</p>
-            </NavLink>
+            <NoSelectComponent>
+              <NavLink to="/Nutrition" title="التغذية" aria-label="التغذية">
+                <MdFastfood className="icon" />
+                <p>التغذية</p>
+              </NavLink>
+            </NoSelectComponent>
           </li>
           <li>
-            <NavLink to="/Progress">
-              <MdOutlineQueryStats className="icon" />
-              <p>التقدم الشخصي</p>
-            </NavLink>
+            <NoSelectComponent>
+              <NavLink
+                to="/Progress"
+                title="التقدم الشخصي"
+                aria-label="التقدم الشخصي"
+              >
+                <MdOutlineQueryStats className="icon" />
+                <p>التقدم الشخصي</p>
+              </NavLink>
+            </NoSelectComponent>
           </li>
           <li>
-            <NavLink to="/Community">
-              <MdForum className="icon" />
-              <p>المجتمع</p>
-            </NavLink>
+            <NoSelectComponent>
+              <NavLink to="/Community" title="المجتمع" aria-label="المجتمع">
+                <MdForum className="icon" />
+                <p>المجتمع</p>
+              </NavLink>
+            </NoSelectComponent>
           </li>
         </ul>
       </nav>
