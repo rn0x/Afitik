@@ -60,13 +60,13 @@
     opacity: 1;
 }
 
-.navigation-bar a:hover,
+/* .navigation-bar a:hover, */
 .navigation-bar .active {
     background-color: var(--navigationbarBackgroundHover);
     transform: translateY(-5px);
 }
 
-.navigation-bar a:hover .icon,
+/* .navigation-bar a:hover .icon, */
 .navigation-bar .active .icon {
     color: var(--navigationbarColorIcon);
 }
