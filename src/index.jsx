@@ -1,26 +1,34 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import { BrowserRouter } from "react-router-dom";
-import reportWebVitals from "./utils/reportWebVitals.js";
 import "./assets/styles/index.css";
 import "./assets/styles/variables.css";
 import App from "./App.jsx";
 
-function onAppReady() {
+
+function renderReactDom() {
   const container = document.getElementById("root");
   const root = createRoot(container);
   root.render(
     <React.StrictMode>
-      <BrowserRouter>
-          <App />
-      </BrowserRouter>
+      <App />
     </React.StrictMode>
   );
 }
 
 if (window.cordova) {
-  document.addEventListener("deviceready", onAppReady, false); // تنفيذ عند جاهزية Cordova
+  document.addEventListener('deviceready', () => {
+    console.log("Cordova is ready. Rendering React DOM...");
+
+    if (window.cordova.platformId === 'android') {
+      if (window.MobileAccessibility) {
+        window.MobileAccessibility.usePreferredTextZoom(false);
+      }
+    }
+
+    renderReactDom();
+
+  }, false);
 } else {
-  onAppReady(); // تنفيذ للتجريب في المتصفح
-  reportWebVitals();
+  console.log("Cordova is not available. Rendering React DOM...");
+  renderReactDom();
 }

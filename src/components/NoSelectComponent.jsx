@@ -10,16 +10,12 @@ import React from "react";
  * @returns {JSX.Element} NoSelectComponent
  */
 const NoSelectComponent = ({ children }) => {
-  /**
-   * Prevents default action on mouse down event.
-   * @param {React.MouseEvent<HTMLDivElement, MouseEvent>} e - Mouse down event object
-   */
-  const handleMouseDown = (e) => {
-    e.preventDefault();
-  };
-
   return (
-    <div className="no-select" onMouseDown={handleMouseDown}>
+    <div
+      className="no-select"
+      onMouseDown={(e) => e.preventDefault()}
+      draggable="false"
+    >
       {children}
     </div>
   );

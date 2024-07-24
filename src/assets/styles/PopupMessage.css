@@ -1,0 +1,39 @@
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-overlay>.popup-box {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  position: relative;
+  width: 80%;
+  max-width: 550px;
+}
+
+.popup-overlay>.popup-box .popup-close {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: var(--iconColor);
+}
+
+.popup-overlay>.popup-box .popup-message {
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  text-align: center;
+  word-break: break-all;
+}

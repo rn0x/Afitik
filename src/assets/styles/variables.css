@@ -1,12 +1,19 @@
 [data-theme="light"] {
     --whiteColor: #ffffff;
     --background: #eceff4;
-    --border: #cdd1d4;
+    --color-1: #CDE8E5;
+    --color-2: #EEF7FF;
+    --color-3: #7AB2B2;
+    --color-4: #4D869C;
+    --box: #dee2ea;
+    --box-2: #d4d7dc;
+    --border: #b8bfcb;
+    --iconColor: #7AB2B2;
     --navigationbarBackground: #ffffff;
     --navigationbarColor: #000000;
-    --navigationbarColorIcon: #ff9900;
+    --navigationbarColorIcon: #7AB2B2;
     --navigationbarBackgroundHover: #eceff4;
-    --navigationbarBackgroundAfter: #ff99004d;
+    --navigationbarBackgroundAfter: #7ab2b244;
 }
 
 

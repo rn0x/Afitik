@@ -1,7 +1,17 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
+import { MdOutlineTipsAndUpdates } from "react-icons/md";
+import AliceCarousel from "react-alice-carousel";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
+import StatusBarColor from "../components/StatusBarColor.jsx";
+import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
+import MenuList from "../components/MenuList.jsx";
+import tipsJson from "../assets/json/tips.json";
+import muscleData from "../assets/json/muscle_data.json";
+import "../assets/styles/Home.css";
+import "react-alice-carousel/lib/alice-carousel.css";
 
-export default function Home() {
+export default function Home(props) {
   const pageMetadata = {
     title: "الصفحة الرئيسية",
     description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
@@ -23,11 +33,76 @@ export default function Home() {
       },
     },
   };
+
+  const tipsRandom =
+    tipsJson.tips[Math.floor(Math.random() * tipsJson.tips.length)];
+  const musclesJson = muscleData.muscles;
+
+  const items = musclesJson.map((muscle, index) => (
+    <Link
+      to={`/muscles/${muscle.name_en}`}
+      title={muscle.name_en}
+      aria-label={muscle.name_en}
+      onMouseDown={(e) => e.preventDefault()}
+      draggable="false"
+      key={index}
+      className="slider-item"
+    >
+      <img
+        src={muscle.image}
+        alt={muscle.name_en}
+        title={muscle.name_en}
+        aria-label={muscle.name_en}
+        className="slider_muscles_image"
+      />
+      <p className="slider_muscles_names">
+        {`${muscle.name_en} | ${muscle.name}`}
+      </p>
+    </Link>
+  ));
+
+  const [isLargeScreen, setIsLargeScreen] = useState(window.innerWidth > 640);
+
+  useEffect(() => {
+    const handleResize = () => setIsLargeScreen(window.innerWidth > 640);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
   return (
     <div className="homepage">
       <SetPageMetadata {...pageMetadata} />
-      <h2>Welcome to Home Page</h2>
-      <p>This is the home page content.</p>
+      <StatusBarColor color="#eceff4" />
+      <ToggleActiveClass elementId="nvBarHome" isActive={true} />
+      <ToggleActiveClass elementId="nvBarWorkouts" isActive={false} />
+      <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
+      <ToggleActiveClass elementId="nvBarProgress" isActive={false} />
+      <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+
+      <div className="tips">
+        <MdOutlineTipsAndUpdates id="tipsIcon" />
+        <h3>{tipsRandom.tip}</h3>
+        <p>{tipsRandom.description}</p>
+      </div>
+
+      <h3 className="title_item">أسماء العضلات</h3>
+
+      <div className="slider-muscles">
+        <AliceCarousel
+          autoWidth
+          items={items}
+          infinite={true}
+          disableDotsControls={true}
+          disableButtonsControls={!isLargeScreen} // Disable controls if screen is smaller than 640px
+          touchTracking={true} // Enable touch tracking for all screen sizes
+        />
+      </div>
+
+      <MenuList/>
+
+      <p>
+        kkkkkkkkkkkkkk
+      </p>
     </div>
   );
 }

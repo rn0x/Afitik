@@ -7,15 +7,16 @@
   "scripts": {
     "keytool": "node keytool.js",
     "dev": "react-scripts start",
-    "build": "react-scripts build && mkdir www && xcopy /s /e /y build www && rmdir /s /q build",
+    "build": "node prebuild.js",
     "build-linux": "react-scripts build && mkdir -p www && mv build/* www && rm -r build",
     "device": "cordova run android --device",
     "cordova-build": "cordova build android --release",
-    "cordova-android": "cordova platform add android@latest",
+    "android": "cordova platform add android@latest",
+    "rm-android": "cordova platform rm android && cordova platform add android@latest",
     "logcat": "adb logcat",
     "log": "adb logcat | Select-String \"INFO:CONSOLE\"",
     "clean": "cordova clean && npm cache clean --force",
-    "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run android && npm run device"
+    "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run cordova-android"
   },
   "keywords": [
     "fitness app",
@@ -43,22 +44,33 @@
     "url": "https://github.com/rn0x/Fiti8"
   },
   "license": "GPL-3.0",
-  "devDependencies": {
-    "cordova-android": "^13.0.0"
-  },
   "cordova": {
     "platforms": [
       "android"
     ],
-    "plugins": {}
+    "plugins": {
+      "cordova-plugin-file": {
+        "ANDROIDX_WEBKIT_VERSION": "1.4.0"
+      },
+      "cordova-plugin-android-permissions": {},
+      "cordova-plugin-file-transfer": {},
+      "cordova-plugin-navigationbar-color": {},
+      "cordova-plugin-statusbar": {},
+      "phonegap-plugin-mobile-accessibility": {}
+    }
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.16.4",
     "dotenv": "^16.4.5",
+    "html2canvas": "^1.4.1",
     "react": "^18.3.1",
+    "react-alice-carousel": "^2.9.1",
     "react-dom": "^18.3.1",
     "react-helmet-async": "^2.0.5",
     "react-icons": "^5.2.1",
-    "react-router-dom": "^6.24.1",
+    "react-router-dom": "^6.25.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -79,5 +91,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cordova-android": "^13.0.0",
+    "cordova-plugin-android-permissions": "1.1.5",
+    "cordova-plugin-device": "github:apache/cordova-plugin-device",
+    "cordova-plugin-file": "8.1.0",
+    "cordova-plugin-file-transfer": "^2.0.0",
+    "cordova-plugin-navigationbar-color": "file:plugins-cordova/cordova-plugin-navigationbar-color",
+    "cordova-plugin-network-information": "github:apache/cordova-plugin-network-information",
+    "cordova-plugin-statusbar": "^4.0.0",
+    "phonegap-plugin-mobile-accessibility": "github:phonegap/phonegap-mobile-accessibility"
   }
 }

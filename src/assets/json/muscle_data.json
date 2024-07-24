@@ -1,0 +1,242 @@
+{
+  "muscles": [
+    {
+      "id": 1,
+      "name": "الصدر",
+      "name_en": "Chest",
+      "description": "عضلات الصدر تشمل العضلة الصدرية الكبرى والصغرى وتساعد في حركات الضغط والدفع.",
+      "image": "/images/Muscle/Chest.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "صدر علوي",
+            "name_en": "Upper Chest"
+          },
+          {
+            "id": 2,
+            "name": "صدر مستوي",
+            "name_en": "Mid Chest"
+          },
+          {
+            "id": 3,
+            "name": "صدر سفلي",
+            "name_en": "Lower Chest"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_chest.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": "الظهر",
+      "name_en": "Back",
+      "description": "عضلات الظهر تشمل العضلات الظهرية العريضة والمجموعة العضلية المثنية للعمود الفقري وتساعد في حركات السحب.",
+      "image": "/images/Muscle/Back.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "ظهر علوي",
+            "name_en": "Upper Back"
+          },
+          {
+            "id": 2,
+            "name": "الأكتاف الخلفية",
+            "name_en": "Rear Delts"
+          },
+          {
+            "id": 3,
+            "name": "عضلة الالتس/ الجوانح",
+            "name_en": "Lats"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_back.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "الأكتاف",
+      "name_en": "Shoulders",
+      "description": "عضلات الأكتاف تشمل الدالية الأمامية والوسطى والخلفية وتساعد في حركات الرفع والدفع.",
+      "image": "/images/Muscle/Shoulders.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "الكتف الأمامي",
+            "name_en": "Front Delt"
+          },
+          {
+            "id": 2,
+            "name": "الكتف الجانبي",
+            "name_en": "Lateral Delt"
+          },
+          {
+            "id": 3,
+            "name": "الكتف الخلفي",
+            "name_en": "Rear Delt"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_shoulders.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "البايسبس",
+      "name_en": "Biceps",
+      "description": "عضلات البايسبس توجد في الجزء الأمامي من الذراع وتساعد في حركات السحب والانثناء.",
+      "image": "/images/Muscle/Biceps.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "الرأس الطويل",
+            "name_en": "Long Head"
+          },
+          {
+            "id": 2,
+            "name": "الرأس القصير",
+            "name_en": "Short Head"
+          },
+          {
+            "id": 3,
+            "name": "العضلة العضدية",
+            "name_en": "Brachialis"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_biceps.png"
+      }
+    },
+    {
+      "id": 5,
+      "name": "الترايسبس",
+      "name_en": "Triceps",
+      "description": "عضلات الترايسبس توجد في الجزء الخلفي من الذراع وتساعد في حركات الدفع والانبساط.",
+      "image": "/images/Muscle/Triceps.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "الرأس الجانبي",
+            "name_en": "Lateral Head"
+          },
+          {
+            "id": 2,
+            "name": "الرأس الطويل",
+            "name_en": "Long Head"
+          },
+          {
+            "id": 3,
+            "name": "الرأس النصفي",
+            "name_en": "Medial Head"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_triceps.png"
+      }
+    },
+    {
+      "id": 6,
+      "name": "السواعد",
+      "name_en": "Forearms",
+      "description": "عضلات السواعد تشمل مجموعة العضلات الصغيرة التي تساعد في حركات اليد والمعصم.",
+      "image": "/images/Muscle/Forearms.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "براشيورديالز",
+            "name_en": "Brachioradialis"
+          },
+          {
+            "id": 2,
+            "name": "فليكسورز",
+            "name_en": "Flexors"
+          },
+          {
+            "id": 3,
+            "name": "اكستنسورز",
+            "name_en": "Extensors"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_forearms.png"
+      }
+    },
+    {
+      "id": 7,
+      "name": "الفخذ الأمامي",
+      "name_en": "Quadriceps",
+      "description": "عضلات الفخذ الأمامي تشمل مجموعة العضلات الكبيرة في الجزء الأمامي من الفخذ وتساعد في حركات التمدد والرفع.",
+      "image": "/images/Muscle/Quadriceps.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "عضلة الفخذ الخارجية",
+            "name_en": "VASTUS LATERALIS"
+          },
+          {
+            "id": 2,
+            "name": "عضلة الفخذ الوسطى",
+            "name_en": "RECTUS FEMORIS"
+          },
+          {
+            "id": 3,
+            "name": "عضلة الفخذ الداخلية",
+            "name_en": "VASTUS MEDIALIS"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_quadriceps.png"
+      }
+    },
+    {
+      "id": 8,
+      "name": "الفخذ الخلفي",
+      "name_en": "Hamstrings",
+      "description": "عضلات الفخذ الخلفي تشمل مجموعة العضلات الكبيرة في الجزء الخلفي من الفخذ وتساعد في حركات الانثناء والسحب.",
+      "image": "/images/Muscle/Hamstrings.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "العضلة الرئيسية للوتر الخلفي",
+            "name_en": "BICEPS FEMORIS"
+          },
+          {
+            "id": 2,
+            "name": "العضلة السفلية الداخلية للوتر الخلفي",
+            "name_en": "SEMIMEMBRANOSUS"
+          },
+          {
+            "id": 3,
+            "name": "العضلة العلوية الداخلية للوتر الخلفي",
+            "name_en": "SEMITENDINOSUS"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_hamstrings.png"
+      }
+    },
+    {
+      "id": 9,
+      "name": "البطات/السمانة",
+      "name_en": "Calves",
+      "description": "عضلات البطات/السمانة تشمل عضلات الساق الخلفية وتساعد في حركات الرفع والضغط.",
+      "image": "/images/Muscle/Calves.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "عضلة السمانة الداخلية",
+            "name_en": "GASTROCNEMIUS"
+          },
+          {
+            "id": 2,
+            "name": "عضلة السمانة الخارجية",
+            "name_en": "SOLEUS"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_calves.png"
+      }
+    }
+  ]
+}

@@ -23,11 +23,21 @@
 * {
   font-family: 'Cairo', Arial, sans-serif;
   -webkit-tap-highlight-color: #00000000;
+  user-select: none;
+  -webkit-user-select: none;
+  /* Safari */
+  -ms-user-select: none;
+  /* IE 10+ */
+  -moz-user-select: none;
+  /* Firefox */
 }
 
 body {
   background-color: var(--background);
-  margin: 0;
+  margin-top: 0px;
+  margin-bottom: 100px;
+  margin-left: 0px;
+  margin-right: 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -47,4 +57,11 @@ a {
   /* تمنع تحديد النص على Chrome و Safari و Edge */
   -ms-user-select: none;
   /* تمنع تحديد النص على Internet Explorer / Edge */
+}
+
+.title_item {
+  color: var(--color-4);
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }

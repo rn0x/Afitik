@@ -1,10 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.i8xnet.fiti8" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="org.i8xnet.fiti8" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>Fiti8</name>
     <description>Fiti8 is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.</description>
     <author email="rn0x.me@gmail.com" href="https://i8x.net">i8xnetTeam</author>
     <content src="index.html" />
+    
     <!-- Allow-intent settings -->
+    <access origin="*"/>
+    <allow-navigation href="*"/>
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+
+    <!-- Preferences -->
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    <preference name="android-compileSdkVersion" value="34" />
+    <preference name="AndroidLaunchMode" value="singleInstance"/>
+    <preference name="AndroidXEnabled" value="true" />
+    <preference name="KeepRunning" value="true" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="ErrorUrl" value="error.html" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="NavigationBarLight" value="true" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="BackgroundColor" value="#eceff4" />
+    <preference name="HideKeyboardFormAccessoryBar" value="true" />
+    <preference name="NavigationBarBackgroundColor" value="#ffffff" />
+    <preference name="SplashScreenBackgroundColor" value="#eceff4" />
+    <preference name="StatusBarBackgroundColor" value="#eceff4" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarStyle" value="default" />
+    
+    <!-- Permissions -->
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <allow-intent href="geo:*" />
+        
+        <config-file parent="/*" target="AndroidManifest.xml">
+            <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+            <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+            <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+            <!-- Optional: Include WRITE_EXTERNAL_STORAGE only if necessary -->
+            <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        </config-file>
+
+        <!-- Splash Screen settings -->
+        <preference name="AutoHideSplashScreen" value="true" />
+        <preference name="FadeSplashScreen" value="false"/>
+        <preference name="SplashScreenDelay" value="3000" />
+        <!-- <preference name="AndroidWindowSplashScreenAnimatedIcon" value="resources/splash.png" /> -->
+        <preference name="AndroidWindowSplashScreenBackground" value="#2e3338" />
+    </platform>
+    
 </widget>
