@@ -237,6 +237,33 @@
         ],
         "image": "/images/Muscle/muscle_classification_calves.png"
       }
+    },
+    {
+      "id": 10,
+      "name": "البطن",
+      "name_en": "Abdominals",
+      "description": "عضلات البطن تشمل مجموعة من العضلات التي تساعد في حركات الانثناء والدوران والاستقرار.",
+      "image": "/images/Muscle/Abdominals.jpg",
+      "classification": {
+        "items": [
+          {
+            "id": 1,
+            "name": "عضلة البطن المستقيمة",
+            "name_en": "Rectus Abdominis"
+          },
+          {
+            "id": 2,
+            "name": "عضلات البطن الجانبية",
+            "name_en": "Obliques"
+          },
+          {
+            "id": 3,
+            "name": "العضلة البطنية المستعرضة",
+            "name_en": "Transverse Abdominis"
+          }
+        ],
+        "image": "/images/Muscle/muscle_classification_abdominals.png"
+      }
     }
   ]
 }

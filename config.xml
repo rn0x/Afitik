@@ -47,7 +47,7 @@
         <!-- Splash Screen settings -->
         <preference name="AutoHideSplashScreen" value="true" />
         <preference name="FadeSplashScreen" value="false"/>
-        <preference name="SplashScreenDelay" value="3000" />
+        <preference name="SplashScreenDelay" value="2000" />
         <!-- <preference name="AndroidWindowSplashScreenAnimatedIcon" value="resources/splash.png" /> -->
         <preference name="AndroidWindowSplashScreenBackground" value="#2e3338" />
     </platform>
