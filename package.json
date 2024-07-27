@@ -1,9 +1,9 @@
 {
-  "name": "org.i8xnet.fiti8",
+  "name": "org.i8xnet.afitik",
   "private": true,
-  "displayName": "Fiti8",
+  "displayName": "Afitik",
   "version": "1.0.0",
-  "description": "Fiti8 is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.",
+  "description": "Afitik is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.",
   "scripts": {
     "keytool": "node keytool.js",
     "dev": "react-scripts start",
@@ -16,7 +16,7 @@
     "logcat": "adb logcat",
     "log": "adb logcat | Select-String \"INFO:CONSOLE\"",
     "clean": "cordova clean && npm cache clean --force",
-    "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run cordova-android"
+    "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run android"
   },
   "keywords": [
     "fitness app",
@@ -41,7 +41,7 @@
   "author": {
     "name": "Ryan Almalki",
     "email": "rn0x.me@gmail.com",
-    "url": "https://github.com/rn0x/Fiti8"
+    "url": "https://github.com/rn0x/Afitik"
   },
   "license": "GPL-3.0",
   "cordova": {

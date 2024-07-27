@@ -38,7 +38,7 @@ const ScreenshotCapture = ({
         const fileSystemURL = window.cordova.file.externalRootDirectory;
         window.resolveLocalFileSystemURL(fileSystemURL, (directoryEntry) => {
           directoryEntry.getDirectory('Download', { create: true, exclusive: false }, (downloadDir) => {
-            downloadDir.getDirectory('Fiti8', { create: true, exclusive: false }, (dir) => {
+            downloadDir.getDirectory('Afitik', { create: true, exclusive: false }, (dir) => {
               dir.getFile(fileName, { create: true, exclusive: false }, (fileEntry) => {
                 fileEntry.createWriter((fileWriter) => {
                   fileWriter.onwriteend = () => {
@@ -60,8 +60,8 @@ const ScreenshotCapture = ({
                 setPopupMessage('Failed to save file.');
               });
             }, (error) => {
-              console.error('Error getting Fiti8 directory:', error);
-              setPopupMessage('Failed to create Fiti8 directory.');
+              console.error('Error getting Afitik directory:', error);
+              setPopupMessage('Failed to create Afitik directory.');
             });
           }, (error) => {
             console.error('Error getting Download directory:', error);

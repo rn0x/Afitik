@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.i8xnet.fiti8" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>Fiti8</name>
-    <description>Fiti8 is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.</description>
+<widget id="org.i8xnet.afitik" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>عافيتك | Afitik</name>
+    <description>Afitik is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.</description>
     <author email="rn0x.me@gmail.com" href="https://i8x.net">i8xnetTeam</author>
     <content src="index.html" />
     
@@ -48,8 +48,17 @@
         <preference name="AutoHideSplashScreen" value="true" />
         <preference name="FadeSplashScreen" value="false"/>
         <preference name="SplashScreenDelay" value="2000" />
-        <!-- <preference name="AndroidWindowSplashScreenAnimatedIcon" value="resources/splash.png" /> -->
-        <preference name="AndroidWindowSplashScreenBackground" value="#2e3338" />
+        <preference name="AndroidWindowSplashScreenBackground" value="#ffffff" />
+        <preference name="AndroidWindowSplashScreenAnimatedIcon" value="resources/splash.png" />
+
+
+        <!-- Icons -->
+        <icon density="ldpi" src="resources/mipmap-hdpi/ic_launcher.png" />
+        <icon density="mdpi" src="resources/mipmap-mdpi/ic_launcher.png" />
+        <icon density="xhdpi" src="resources/mipmap-xhdpi/ic_launcher.png" />
+        <icon density="xxhdpi" src="resources/mipmap-xxhdpi/ic_launcher.png" />
+        <icon density="xxxhdpi" src="resources/mipmap-xxxhdpi/ic_launcher.png" />
+
     </platform>
     
 </widget>

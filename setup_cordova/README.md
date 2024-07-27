@@ -35,6 +35,7 @@
 
    ```powershell
    [System.Environment]::SetEnvironmentVariable("JAVA_HOME", "C:\Java\jdk-17+20", "User")
+   [System.Environment]::SetEnvironmentVariable("Path", "$($env:Path);C:\Java\jdk-17+20\bin", "User")
    ```
 
    **ملاحظة:** تأكد من تعديل مسار JDK إلى المسار الفعلي حيث تم تثبيت Java JDK.
@@ -93,7 +94,9 @@
    قم بتثبيت Platform 34 باستخدام SDK Manager.
 
    ```powershell
-   sdkmanager "platforms;android-34"
+   sdkmanager --sdk_root="C:\AndroidSDK" "platforms;android-34"
+   sdkmanager --sdk_root="C:\AndroidSDK" "build-tools;34.0.0"
+
    ```
 
 2. **تكوين المتغيرات البيئية لـ Android SDK Platform:**
@@ -112,10 +115,8 @@
 1. windows
 
    ```powershell
-    ./setup_cordova.ps1
-   ```
-2. linux
-
-   ```bash
-    bash setup_cordova.sh
+   Get-ExecutionPolicy
+   Set-ExecutionPolicy RemoteSigned
+   ./setup_cordova.ps1
+   Set-ExecutionPolicy Restricted
    ```
