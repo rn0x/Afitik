@@ -1,0 +1,41 @@
+.app-bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: var(--color-3);
+    /* لون خلفية شريط التطبيق */
+    color: var(--whiteColor);
+    padding: 0 16px;
+    height: 56px;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    box-sizing: border-box;
+}
+
+.app-bar .back-button {
+    background: none;
+    border: none;
+    color: var(--whiteColor);
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.app-bar .title {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.app-bar .title h1 {
+    margin: 0;
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+}

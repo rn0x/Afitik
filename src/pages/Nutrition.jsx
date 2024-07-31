@@ -30,9 +30,9 @@ export default function Nutrition() {
       <SetPageMetadata {...pageMetadata} />
       <StatusBarColor color="#eceff4" />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
-      <ToggleActiveClass elementId="nvBarWorkouts" isActive={false} />
+      <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={true} />
-      <ToggleActiveClass elementId="nvBarProgress" isActive={false} />
+      <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
       <div>Nutrition</div>
     </>

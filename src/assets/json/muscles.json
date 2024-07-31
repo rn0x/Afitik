@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "عضلات البطن",
+    "name_en": "Abdominals",
+    "slug": "Abdominals",
+    "description": "جمالياً، يعتبر البطن من أكثر العضلات الراغبة في امتلاكها. بالنسبة لغالبية الناس، البطن يتألف فقط من ستة أجزاء، ومع ذلك، هذا هو جزء واحد فقط من العضلات البطنية.",
+    "description_en_us": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the “6 pack,” however, this is only one part of the abdominals.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/abdominals-front-Afitik.png",
+        "back": null
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/abdominals-front-Afitik.png",
+        "back": null
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "الصدر",
+    "name_en": "Chest",
+    "slug": "Chest",
+    "description": "بشكل أساسي، هناك ثلاثة عضلات صدرية تشارك في الحركة: العضلة الصدرية الكبرى، العضلة الصدرية الصغرى، والعضلة المشطية الأمامية. \n\nترتبط العضلات الصدرية بشكل أساسي بحركة الكتفين والذراعين. عند العمل معًا، فإنها توفر الاستقرار للأنظمة العظمية مثل الترقوة (مفصل الترقوة) والكتف (العظم الشعاعي). تمكننا عضلات الصدر من رفع أذرعنا، وتمديدها، ولفها، إلى جانب اللعب دورًا في عملية التنفس. تتطلب العضلات الصدرية للقيام بالأنشطة اليومية مثل نقل الأثاث، رفع الأشياء الثقيلة، رمي الكرة الطائرة، وتمدد أذرعنا.",
+    "description_en_us": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/chest-front-Afitik.png",
+        "back": null
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/chest-front-Afitik.png",
+        "back": null
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "العضلة الشبه منحرفة (الترابيزيوس)",
+    "name_en": "Traps",
+    "slug": "Traps",
+    "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+    "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/traps-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/female/back/traps-back-Afitik.png"
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/traps-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/male/back/traps-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "الكتفين",
+    "name_en": "Shoulders",
+    "slug": "Shoulders",
+    "description": "بالنسبة للرجال والنساء على حد سواء، الدلتويد، والمعروف أيضا بالدلت، هو عضلة مرغوبة جدا لبناءها. الأكتاف الجيدة التطور يمكن أن تعطي مظهرا لخصر أصغر (لأن الأكتاف تبدو أوسع). لذلك، الدلتويد الجيدة التدريب يحسن مظهر الجسم بأكمله.\n\nتحتوي العضلة الدلتويدية على ثلاثة رؤوس مختلفة: الأمامية (الجبهة)، والجانبية (الوسط)، والخلفية (الخلف). كل رأس له وظائف مشابهة، ولكن لديهم بعض التفاوت.",
+    "description_en_us": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/front-shoulders-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/female/back/rear-shoulders-back-Afitik.png"
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/front-shoulders-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/male/back/rear-shoulders-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "عضلات البايسبس",
+    "name_en": "Biceps",
+    "slug": "Biceps",
+    "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+    "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/biceps-front-Afitik.png",
+        "back": null
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/biceps-front-Afitik.png",
+        "back": null
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "الساعدين",
+    "name_en": "Forearms",
+    "slug": "Forearms",
+    "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+    "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/forearms-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/female/back/forearms-back-Afitik.png"
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/forearms-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/male/back/forearms-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "عضلات البطن الجانبية",
+    "name_en": "Obliques",
+    "slug": "Obliques",
+    "description": "العضلات المائلة تتكون من العضلات المائلة الداخلية والخارجية.\n\nتقع العضلة المائلة الداخلية بين العضلة البطنية العرضية والعضلة المائلة الخارجية. يكون المنشأ من الحافة الحرقفية، والجزء السفلي من الحوض. الإدراج يكون في الخط الأبيض، والحافة العانية، والأضلاع السفلية 3-4.\n\nالعضلة المائلة الداخلية لها نفس الوظائف بالضبط كالعضلة المائلة الخارجية - تساعد في دوران العمود الفقري، والانحناء والانحناء الجانبي.\n\nالعضلة المائلة الخارجية مرئية عند نسب الدهون الجسمية المنخفضة. تظهر العضلة كسلسلة من الخطوط المائلة المتصلة بالبطن المقسمة.\n\nتنشأ العضلة المائلة الخارجية من الأضلاع 5-8، وتدخل في عدة نقاط (الخط الأبيض، والعرافة الحرقفية، والحافة العانية، والحافة الحرقفية).\n\nوظائف العضلة المائلة الخارجية هي المساعدة في الدوران (كقطع شجرة)، والانحناء (كالانحناء للأمام)، والانحناء الجانبي للعمود الفقري (كالانحناء إلى الجانب).",
+    "description_en_us": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th – 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side).",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/obliques-front-Afitik.png",
+        "back": null
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/obliques-front-Afitik.png",
+        "back": null
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "العضلات الرباعية",
+    "name_en": "Quads",
+    "slug": "Quads",
+    "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+    "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/quads-front-Afitik.png",
+        "back": null
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/quads-front-Afitik.png",
+        "back": null
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "عضلات الساق",
+    "name_en": "Calves",
+    "slug": "Calves",
+    "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+    "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/calves-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/female/back/calves-back-Afitik.png"
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/calves-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/male/back/calves-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "عضلة الترايسبس",
+    "name_en": "Triceps",
+    "slug": "Triceps",
+    "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+    "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement.",
+    "bodymaps": {
+      "female": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/female/back/triceps-back-Afitik.png"
+      },
+      "male": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/male/back/triceps-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "العضلات شبه المنحرفة الوسطى",
+    "name_en": "Traps",
+    "slug": "traps-middle",
+    "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
+    "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions.",
+    "bodymaps": {
+      "female": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/female/back/traps-middle-back-Afitik.png"
+      },
+      "male": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/male/back/traps-middle-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "عضلات الظهر العريضة",
+    "name_en": "Lats",
+    "slug": "Lats",
+    "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+    "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller.",
+    "bodymaps": {
+      "female": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/female/back/lats-back-Afitik.png"
+      },
+      "male": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/male/back/lats-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "الظهر الأسفل",
+    "name_en": "Lower back",
+    "slug": "Lowerback",
+    "description": "عضلة العمود الفقري هي عضلة أخرى غالبًا ما يُساء فهمها. تعتبر العضلات المثبتة للعمود الفقري كما لو كانت عضلات الظهر السفلي. ولكن، تسافر العضلات المثبتة للعمود الفقري طول العمود الفقري بأكمله. الألياف العلوية تختفي تحت العضلة الجناحية العريضة والعضلة الفخذية، وبالتالي فإنها غير مرئية للعين المجردة.",
+    "description_en_us": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the “lower back” muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye.",
+    "bodymaps": {
+      "female": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/female/back/lowerback-back-Afitik.png"
+      },
+      "male": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/male/back/lowerback-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "الأرداف",
+    "name_en": "Glutes",
+    "slug": "Glutes",
+    "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+    "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions.",
+    "bodymaps": {
+      "female": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/female/back/glutes-back-Afitik.png"
+      },
+      "male": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/male/back/glutes-back-Afitik.png"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "عضلات الفخذ الخلفية",
+    "name_en": "Hamstrings",
+    "slug": "Hamstrings",
+    "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+    "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings.",
+    "bodymaps": {
+      "female": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/female/back/hamstrings-back-Afitik.png"
+      },
+      "male": {
+        "front": null,
+        "back": "/musclewiki/bodymaps/male/back/hamstrings-back-Afitik.png"
+      }
+    }
+  }
+]

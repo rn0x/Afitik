@@ -39,7 +39,7 @@
         <config-file parent="/*" target="AndroidManifest.xml">
             <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
             <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
-            <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+            <!-- <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" /> -->
             <!-- Optional: Include WRITE_EXTERNAL_STORAGE only if necessary -->
             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
         </config-file>

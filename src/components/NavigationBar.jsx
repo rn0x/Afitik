@@ -4,7 +4,7 @@ import {
   MdFitnessCenter,
   MdFastfood,
   MdHome,
-  MdOutlineQueryStats,
+  MdOutlineSettingsSuggest ,
   MdForum,
 } from "react-icons/md";
 import { Skeleton } from "@mui/material";
@@ -53,8 +53,8 @@ export default function NavigationBar() {
           <li>
             <NoSelectComponent>
               <Link
-                to="/Workouts"
-                id="nvBarWorkouts"
+                to="/Exercises"
+                id="nvBarExercises"
                 title="التمارين"
                 aria-label="التمارين"
                 onMouseDown={(e) => e.preventDefault()}
@@ -99,22 +99,22 @@ export default function NavigationBar() {
           <li>
             <NoSelectComponent>
               <Link
-                to="/Progress"
-                id="nvBarProgress"
-                title="التقدم الشخصي"
-                aria-label="التقدم الشخصي"
+                to="/Tools"
+                id="nvBarTools"
+                title="الأدوات"
+                aria-label="الأدوات"
                 onMouseDown={(e) => e.preventDefault()}
                 draggable="false"
               >
                 {isLoading ? (
                   <Skeleton variant="circular" width={40} height={40} />
                 ) : (
-                  <MdOutlineQueryStats className="icon" />
+                  <MdOutlineSettingsSuggest  className="icon" />
                 )}
                 {isLoading ? (
                   <Skeleton variant="text" width={80} />
                 ) : (
-                  <p>التقدم الشخصي</p>
+                  <p>الأدوات</p>
                 )}
               </Link>
             </NoSelectComponent>

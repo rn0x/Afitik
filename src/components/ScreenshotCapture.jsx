@@ -1,5 +1,8 @@
-import React, { useState } from "react";
+import React, { useState, useCallback } from "react";
 import html2canvas from "html2canvas";
+import { MdOutlineImage } from "react-icons/md";
+import generateUniqueId from '../utils/generateUniqueId.js';
+import saveFile from '../utils/saveFile.js';
 import PopupMessage from "./PopupMessage.jsx";
 
 /**
@@ -18,9 +21,10 @@ const ScreenshotCapture = ({
   fileName = "screenshot.png",
   className = "",
 }) => {
+  const uniqueId = generateUniqueId(40);
   const [popupMessage, setPopupMessage] = useState("");
-  
-  const handleCapture = async () => {
+
+  const handleCapture = useCallback(async () => {
     if (!captureRef || !captureRef.current) {
       console.error("Invalid reference provided for the element.");
       return;
@@ -29,66 +33,31 @@ const ScreenshotCapture = ({
     try {
       const canvas = await html2canvas(captureRef.current, {
         useCORS: true,
+        allowTaint: true,
+        logging: true,
+        scrollX: 0,
+        scrollY: -window.scrollY
       });
 
       const img = canvas.toDataURL("image/png");
       const blob = await fetch(img).then(res => res.blob());
 
-      if (window.cordova) {
-        const fileSystemURL = window.cordova.file.externalRootDirectory;
-        window.resolveLocalFileSystemURL(fileSystemURL, (directoryEntry) => {
-          directoryEntry.getDirectory('Download', { create: true, exclusive: false }, (downloadDir) => {
-            downloadDir.getDirectory('Afitik', { create: true, exclusive: false }, (dir) => {
-              dir.getFile(fileName, { create: true, exclusive: false }, (fileEntry) => {
-                fileEntry.createWriter((fileWriter) => {
-                  fileWriter.onwriteend = () => {
-                    setPopupMessage(`File saved successfully! File path: ${fileEntry.toURL()}`);
-                  };
+      saveFile(blob, `${uniqueId}-${fileName}`, (message) => {
+        setPopupMessage(message);
+      }, (message) => {
+        setPopupMessage(message);
+      });
 
-                  fileWriter.onerror = (error) => {
-                    console.error('Write error:', error);
-                    setPopupMessage('Failed to save file.');
-                  };
-
-                  fileWriter.write(blob);
-                }, (error) => {
-                  console.error('Error creating file writer:', error);
-                  setPopupMessage('Failed to save file.');
-                });
-              }, (error) => {
-                console.error('Error getting file:', error);
-                setPopupMessage('Failed to save file.');
-              });
-            }, (error) => {
-              console.error('Error getting Afitik directory:', error);
-              setPopupMessage('Failed to create Afitik directory.');
-            });
-          }, (error) => {
-            console.error('Error getting Download directory:', error);
-            setPopupMessage('Failed to create Download directory.');
-          });
-        }, (error) => {
-          console.error('Error resolving local file system URL:', error);
-          setPopupMessage('Failed to resolve file system URL.');
-        });
-      } else {
-        const link = document.createElement("a");
-        link.href = URL.createObjectURL(blob);
-        link.download = fileName;
-        link.click();
-      
-        // setPopupMessage(`File saved successfully!`);
-      }
     } catch (error) {
       console.error("An error occurred while capturing the image:", error);
       setPopupMessage('An error occurred while capturing the image.');
     }
-  };
+  }, [captureRef, fileName, uniqueId]);
 
   return (
     <>
       <button onClick={handleCapture} className={className}>
-        {buttonText}
+        <MdOutlineImage />
       </button>
       {popupMessage && (
         <PopupMessage message={popupMessage} onClose={() => setPopupMessage("")} />

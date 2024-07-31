@@ -3,14 +3,16 @@ import { useParams } from "react-router-dom";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
+import AppBar from "../components/AppBar.jsx";
 import ScreenshotCapture from "../components/ScreenshotCapture.jsx";
-import muscleData from "../assets/json/muscle_data.json";
+import musclesData from "../assets/json/muscles.json";
+import '../assets/styles/MusclePage.css'
 
 export default function MusclePage() {
     const { muscleId } = useParams();
     const captureRef = useRef(null);
 
-    const muscle = muscleData.muscles.find(m => m.name_en === muscleId);
+    const muscle = musclesData.find(m => m.slug === muscleId);
     if (!muscle) {
         return <div>Muscle not found</div>;
     }
@@ -36,24 +38,45 @@ export default function MusclePage() {
         <>
             <SetPageMetadata {...pageMetadata} />
             <StatusBarColor color="#7AB2B2" />
-            <ToggleActiveClass elementId="nvBarHome" isActive={false} />
-            <ToggleActiveClass elementId="nvBarWorkouts" isActive={false} />
+            <ToggleActiveClass elementId="nvBarHome" isActive={true} />
+            <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
             <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
-            <ToggleActiveClass elementId="nvBarProgress" isActive={false} />
+            <ToggleActiveClass elementId="nvBarTools" isActive={false} />
             <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
 
+            <AppBar title={muscle.name} backLink="/" />
+
             <div className={`muscles_pages`} ref={captureRef}>
-                <h2 className="Muscle_Name">{muscle.name}</h2>
-                <div className="muscle_description">{muscle.description}</div>
-                <h3 className="title_item">تقسيمات العضلة</h3>
-                <img
-                    src={muscle.classification.image}
-                    alt=""
-                    onMouseDown={(e) => e.preventDefault()}
-                    draggable="false"
-                />
-                {/* <ScreenshotCapture captureRef={captureRef} buttonText="التقط صورة الآن" fileName="my_capture.png" /> */}
+
+                <div className="muscle_description" >{muscle.description}</div>
+
+                <div className="muscles_pages_images">
+                    {muscle.bodymaps.male.front ? <img
+                        src={muscle.bodymaps.male.front}
+                        alt={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
+                        title={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
+                        aria-label={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
+                        onMouseDown={(e) => e.preventDefault()}
+                        draggable="false"
+                    /> : ''}
+
+                    {muscle.bodymaps.male.back ? <img
+                        src={muscle.bodymaps.male.back}
+                        alt={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
+                        title={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
+                        aria-label={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
+                        onMouseDown={(e) => e.preventDefault()}
+                        draggable="false"
+                    /> : ''}
+                </div>
+
             </div>
+
+            <ScreenshotCapture
+                captureRef={captureRef}
+                fileName="my_capture.png"
+                className="muscles_pages_ScreenshotCaptureButton"
+            />
         </>
     );
 }

@@ -56,7 +56,8 @@
       "cordova-plugin-file-transfer": {},
       "cordova-plugin-navigationbar-color": {},
       "cordova-plugin-statusbar": {},
-      "phonegap-plugin-mobile-accessibility": {}
+      "phonegap-plugin-mobile-accessibility": {},
+      "cordova-plugin-filechooser": {}
     }
   },
   "dependencies": {
@@ -98,6 +99,7 @@
     "cordova-plugin-device": "github:apache/cordova-plugin-device",
     "cordova-plugin-file": "8.1.0",
     "cordova-plugin-file-transfer": "^2.0.0",
+    "cordova-plugin-filechooser": "^1.2.0",
     "cordova-plugin-navigationbar-color": "file:plugins-cordova/cordova-plugin-navigationbar-color",
     "cordova-plugin-network-information": "github:apache/cordova-plugin-network-information",
     "cordova-plugin-statusbar": "^4.0.0",

@@ -4,7 +4,7 @@
     max-width: 600px;
     width: 87%;
     margin-top: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
@@ -62,10 +62,10 @@
     position: relative;
 }
 
-.homepage>.slider-muscles .alice-carousel__stage li {
+/* .homepage>.slider-muscles .alice-carousel__stage li {
     margin-right: 5px;
     margin-left: 5px;
-}
+} */
 
 
 .homepage>.slider-muscles .slider_muscles_image {
@@ -78,15 +78,21 @@
 .homepage>.slider-muscles .slider_muscles_names {
     position: absolute;
     left: 50%;
-    bottom: 0px;
+    bottom: 10px;
     transform: translateX(-50%);
     margin: 0;
     font-size: 10px;
     text-wrap: nowrap;
-    color: var(--color-3);
+    color: var(--color-4);
     background-color: var(--whiteColor);
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+
+.homepage>.slider-muscles .alice-carousel__stage li:hover .slider_muscles_names {
+    color: var(--whiteColor);
+    background-color: var(--color-3);
 }
 
 .homepage>.menu-list {
@@ -112,66 +118,50 @@
 
 .homepage>.menu-list>.menu-item>.menu-link {
     display: flex;
+    height: 150px;
     justify-content: center;
     align-items: center;
     align-content: center;
     text-decoration: none;
     color: var(--color-3);
     padding: 10px;
-    border: 1px solid var(--border);
-    border-radius: 4px;
+    /* border: 1px solid var(--border); */
+    border-radius: 18px;
     box-sizing: border-box;
+    background-color: black;
+}
+
+.homepage>.menu-list>.menu-item>.menu-link>.backgroundMenuList {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+    z-index: 0;
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+    opacity: 0.5;
+
+}
+
+.homepage>.menu-list>.menu-item>.menu-link>.backgroundMenuList:hover {
+    opacity: 0.7;
 }
 
 .homepage>.menu-list>.menu-item>.menu-link:hover {
     background-color: var(--box);
-    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
-}
-
-.homepage>.menu-list>.menu-item>.menu-link>.icon {
-    margin-left: 10px;
-    font-size: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .homepage>.menu-list>.menu-item>.menu-link>p {
-    /* background-color: #808080; */
-}
-
-
-/*
- صفحات العضلات وتقسيماتها
- page: muscles
- class: muscles_chest_page, muscles_back_page, muscles_biceps_page, muscles_calfs_page, muscles_forearms_page, muscles_hamstrings_page, muscles_quadriceps_page, muscles_shoulders_page, muscles_triceps_page   
-*/
-
-.muscles_pages>.muscle_description {
-    width: 90%;
-    max-width: 600px;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.muscles_pages img {
-    display: block;
-    width: 80%;
-    max-width: 500px;
-    margin-right: auto;
-    margin-left: auto;
-    border-width: 2px;
-    border-style: dashed;
-    border-color: var(--color-3);
-    border-radius: 18px;
-}
-
-.muscles_pages>.Muscle_Name {
-    text-align: center;
-    margin: 0 0 0 0;
-    background-color: var(--color-3);
+    position: 'relative';
     color: var(--whiteColor);
+    /* background-color: #0000003e; */
+    padding: 15px;
+    border-radius: 10px;
+    z-index: 1;
+    font-size: 15px;
+    text-shadow: 2px 2px 4px #000000;
 }

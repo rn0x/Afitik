@@ -7,7 +7,7 @@ import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import MenuList from "../components/MenuList.jsx";
 import tipsJson from "../assets/json/tips.json";
-import muscleData from "../assets/json/muscle_data.json";
+import musclesData from "../assets/json/muscles.json";
 import "../assets/styles/Home.css";
 import "react-alice-carousel/lib/alice-carousel.css";
 
@@ -36,11 +36,10 @@ export default function Home(props) {
 
   const tipsRandom =
     tipsJson.tips[Math.floor(Math.random() * tipsJson.tips.length)];
-  const musclesJson = muscleData.muscles;
 
-  const items = musclesJson.map((muscle, index) => (
+  const items = musclesData.map((muscle, index) => (
     <Link
-      to={`/muscles/${muscle.name_en}`}
+      to={`/muscles/${muscle.slug}`}
       title={muscle.name_en}
       aria-label={muscle.name_en}
       onMouseDown={(e) => e.preventDefault()}
@@ -49,14 +48,14 @@ export default function Home(props) {
       className="slider-item"
     >
       <img
-        src={muscle.image}
+        src={muscle.bodymaps.male.front ? muscle.bodymaps.male.front : muscle.bodymaps.male.back}
         alt={muscle.name_en}
         title={muscle.name_en}
         aria-label={muscle.name_en}
         className="slider_muscles_image"
       />
       <p className="slider_muscles_names">
-        {`${muscle.name_en} | ${muscle.name}`}
+        {`${muscle.name}`}
       </p>
     </Link>
   ));
@@ -74,9 +73,9 @@ export default function Home(props) {
       <SetPageMetadata {...pageMetadata} />
       <StatusBarColor color="#eceff4" />
       <ToggleActiveClass elementId="nvBarHome" isActive={true} />
-      <ToggleActiveClass elementId="nvBarWorkouts" isActive={false} />
+      <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
-      <ToggleActiveClass elementId="nvBarProgress" isActive={false} />
+      <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
 
       <div className="tips">
@@ -98,7 +97,10 @@ export default function Home(props) {
         />
       </div>
 
-      <MenuList/>
+
+      <h3 className="title_item">القائمة الرئيسية</h3>
+
+      <MenuList />
 
       <p>
         kkkkkkkkkkkkkk

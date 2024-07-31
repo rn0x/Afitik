@@ -3,7 +3,7 @@ import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 
-export default function Workouts() {
+export default function Tools() {
   const pageMetadata = {
     title: "الصفحة الرئيسية",
     description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
@@ -30,11 +30,11 @@ export default function Workouts() {
       <SetPageMetadata {...pageMetadata} />
       <StatusBarColor color="#eceff4" />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
-      <ToggleActiveClass elementId="nvBarWorkouts" isActive={true} />
+      <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
-      <ToggleActiveClass elementId="nvBarProgress" isActive={false} />
+      <ToggleActiveClass elementId="nvBarTools" isActive={true} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
-      <div>Workouts</div>
+      <div>Tools</div>
     </>
   );
 }

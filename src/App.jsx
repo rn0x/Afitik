@@ -10,7 +10,9 @@ export default function App() {
     <Router>
       <HelmetProvider>
         <div className="App">
-          <MainRoutes />
+          <div className="Main">
+            <MainRoutes />
+          </div>
           <NavigationBar />
         </div>
       </HelmetProvider>

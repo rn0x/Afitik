@@ -1,0 +1,141 @@
+.ExercisesPage>.ExercisesPageSelectGender {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    width: 80%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>a {
+    /* background-color: aqua; */
+    box-sizing: border-box;
+    text-decoration: none;
+    border-radius: 8px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#male {
+    border-color: var(--male);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#female {
+    border-color: var(--female);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#male:hover {
+    background-color: var(--male);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#female:hover {
+    background-color: var(--female);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>a>p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#male>p {
+    color: var(--male);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#female>p {
+    color: var(--female);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#male:hover>p {
+    color: var(--whiteColor);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>#female:hover>p {
+    color: var(--whiteColor);
+}
+
+.ExercisesPage>.ExercisesPageSelectGender>a>img {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+/* ====| MuscleSelectionPage |==== */
+
+.MuscleSelectionPage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 66px;
+    width: 90%;
+    max-width: 700px;
+}
+
+.MuscleSelectionPage>.MuscleSelection {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    /* تحديد عمودين */
+    gap: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.MuscleSelectionPage>.MuscleSelection>a {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 200px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 7px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--color-3);
+}
+
+.MuscleSelectionPage>.MuscleSelection>a:hover {
+    background-color: var(--color-1);
+}
+
+.MuscleSelectionPage>.MuscleSelection>a>p {
+    color: var(--color-3);
+    text-align: center;
+}
+
+.MuscleSelectionPage>.MuscleSelection>a:hover>p {
+    color: var(--color-4);
+}
+
+.MuscleSelectionPage>.MuscleSelection>a>img {
+    display: block;
+    width: 100%;
+    max-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ====| ExerciseList |==== */
+
+.ExerciseListPage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 66px;
+    width: 90%;
+    max-width: 700px;
+}
