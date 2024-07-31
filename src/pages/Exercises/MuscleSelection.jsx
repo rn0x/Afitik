@@ -48,6 +48,7 @@ export default function MuscleSelection() {
 
       return (
         <Link
+          key={muscle.slug}
           to={`/Exercises/${normalizedGender}/${muscle.slug}`}
           title={`${muscle.name} | ${muscle.name_en}`}
           aria-label={`${muscle.name} | ${muscle.name_en}`}
@@ -70,7 +71,7 @@ export default function MuscleSelection() {
 
   // دالة لعرض رسالة الجنس غير صالح
   const renderInvalidGenderMessage = () => (
-    <div style={{ textAlign: "center" , direction: "ltr" }} className="InvalidGender">
+    <div style={{ textAlign: "center", direction: "ltr" }} className="InvalidGender">
       <p>Invalid gender selected. Please go back and select a valid gender.</p>
       <Link to="/Exercises" onMouseDown={(e) => e.preventDefault()} draggable="false" >Go back to Exercises</Link>
     </div>

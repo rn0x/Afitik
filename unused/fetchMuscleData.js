@@ -22,6 +22,12 @@ const createDirectories = () => {
     });
 };
 
+// استخراج اسم الملف من الرابط
+const extractFileName = (url) => {
+    const urlObject = new URL(url);
+    return path.basename(urlObject.pathname);
+};
+
 // حفظ الملفات مع معالجة الأخطاء وإعادة المحاولة
 const saveFile = async (url, filePath) => {
     if (fs.existsSync(filePath)) {
@@ -109,6 +115,7 @@ for (const lop of resMusclesJson) {
 
     const allExercises = [];
 
+    let numId = 1;
     for (const item of results) {
         console.log(`Exercise: ${item?.name_en_us}`);
         const name = item?.name;
@@ -181,11 +188,11 @@ for (const lop of resMusclesJson) {
         const videos = {
             male: item?.male_images?.map(e => ({
                 original_video: e?.original_video ? e?.original_video : e?.unbranded_video ? e?.unbranded_video : e?.branded_video,
-                file_path: `musclewiki/male/videos/${lop.url_name}-${slug}-${Afitik}.mp4`,
+                file_path: `musclewiki/male/videos/${Afitik}-${extractFileName(e?.original_video || e?.unbranded_video || e?.branded_video)}`,
             })),
             female: item?.female_images?.map(e => ({
-                original_video: e.original_video ? e?.original_video : e?.unbranded_video ? e?.unbranded_video : e?.branded_video,
-                file_path: `musclewiki/female/videos/${lop?.url_name}-${slug}-${Afitik}.mp4`,
+                original_video: e?.original_video ? e?.original_video : e?.unbranded_video ? e?.unbranded_video : e?.branded_video,
+                file_path: `musclewiki/female/videos/${Afitik}-${extractFileName(e?.original_video || e?.unbranded_video || e?.branded_video)}`,
             })),
         };
 
@@ -226,6 +233,7 @@ for (const lop of resMusclesJson) {
 
         // إضافة البيانات إلى القائمة
         allExercises.push({
+            id: numId++,
             name,
             name_en,
             name_alternative,

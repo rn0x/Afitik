@@ -23,36 +23,41 @@
     border-style: solid;
     margin-left: 5px;
     margin-right: 5px;
+    position: relative;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#male {
-    border-color: var(--male);
+    border-color: #7185bc;
+    background-color: var(--male);
+
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#female {
-    border-color: var(--female);
+    border-color: #be87bd;
+    background-color: var(--female);
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#male:hover {
-    background-color: var(--male);
+    box-shadow: #7185bc 0px 20px 50px 0px;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#female:hover {
-    background-color: var(--female);
+    box-shadow: #be87bd 0px 20px 50px 0px;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>a>p {
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: center;
+    font-size: 30px;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#male>p {
-    color: var(--male);
+    color: #506295;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#female>p {
-    color: var(--female);
+    color: #a272a1;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#male:hover>p {
