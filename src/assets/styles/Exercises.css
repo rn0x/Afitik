@@ -141,6 +141,81 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 66px;
-    width: 90%;
+    width: 100%;
     max-width: 700px;
 }
+
+.ExerciseListPage>.ExerciseList>.item-exercise {
+    display: block;
+    width: 90%;
+    max-width: 700px;
+    background-color: var(--box-3);
+    /* padding: 10px; */
+    border-radius: 8px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: var(--border); */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    box-shadow: #0000002a 0px 15px 20px -20px;
+    position: relative;
+}
+
+.ExerciseListPage>.ExerciseList>.item-exercise>.slider {
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.ExerciseListPage>.ExerciseList>.item-exercise>.slider .alice-carousel__dots-item.__active {
+    background-color: var(--color-4);
+}
+
+.ExerciseListPage>.ExerciseList>.item-exercise>.slider .alice-carousel__dots-item {
+    background-color: var(--color-2);
+}
+
+
+.ExerciseListPage>.ExerciseList>.item-exercise>.slider img {
+    width: 100%;
+    background-color: var(--box-2);
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.ExerciseListPage>.ExerciseList>.item-exercise>.item-exercise-title {
+    display: flex;
+    align-items: center; /* لتوسيط العنصر عمودياً */
+    justify-content: center; /* لتوسيط العنصر أفقياً */
+    width: 100%;
+    height: 40px;
+    background-color: var(--color-1);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.ExerciseListPage>.ExerciseList>.item-exercise>.item-exercise-title>p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    white-space: nowrap; /* لمنع الالتفاف */
+    overflow: hidden;    /* لإخفاء النص الزائد */
+    text-overflow: ellipsis; /* لإظهار "..." في نهاية النص */
+    color: var(--color-4);
+}
+
+.ExerciseListPage>.ExerciseList>.item-exercise>.difficulty {
+    background-color: var(--color-4);
+    color: var(--whiteColor);
+    position:absolute;
+    top: 50px;
+    right: -10px;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+

@@ -1,0 +1,819 @@
+{
+  "id": 45,
+  "name": "قدمين",
+  "name_en_us": "Feet",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "أبجدية",
+      "name_en": "Alphabet",
+      "name_alternative": null,
+      "slug": "alphabet",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على صندوق أو مقعد",
+          "text_en": "Sit on a box or bench"
+        },
+        {
+          "text": "احتفظ بقدم واحدة مرفوعة عن الأرض بجذبها نحو ركبتك، أو بتقاطع قدم واحدة فوق الركبة المقابلة.",
+          "text_en": "Keep one foot off the ground by pulling onto your knee, or by crossing one leg over the opposite knee."
+        },
+        {
+          "text": "حاول تشكيل حروف الأبجدية بقدمك.",
+          "text_en": "Try to form the letters of the Alphabet with your foot."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-alphabet-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-alphabet-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-alphabet-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-alphabet-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-alphabet-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-alphabet-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-alphabet-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-alphabet-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-alphabet-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-alphabet-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-alphabet-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-alphabet-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alphabet_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alphabet_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-alphabet-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-alphabet-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alphabet_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alphabet_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-alphabet-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-alphabet-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "تبعيد إبهام القدم",
+      "name_en": "Big Toe Abduction",
+      "name_alternative": null,
+      "slug": "big-toe-abduction",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على مقعد بقدمك العارية على الأرض.",
+          "text_en": "Sit on a bench with your bare foot on the ground."
+        },
+        {
+          "text": "ارفع إصبع قدمك الكبير قليلاً قبل محاولة تحريكه باتجاه الجانب الآخر (الإبعاد).",
+          "text_en": "Slightly raise your big toe before trying to move it towards the opposite side (abduction)."
+        },
+        {
+          "text": "توقع أن يكون نطاق الحركة محدودًا جدًا والحركة صعبة للغاية.",
+          "text_en": "Expect he range of motion is very limited and the movement to be very difficult."
+        },
+        {
+          "text": "يساعد كثيرًا وضع إصبع قدمك على خط كمعيار.",
+          "text_en": "It helps a lot having your toe on a line as benchmark."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-big-toe-abduction-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-big-toe-abduction-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-big-toe-abduction-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-big-toe-abduction-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-big-toe-abduction-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-big-toe-abduction-seated-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-big-toe-abduction-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-big-toe-abduction-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-big-toe-abduction-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-big-toe-abduction-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-big-toe-abduction-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-big-toe-abduction-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_abduction_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_abduction_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-big-toe-abduction-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-big-toe-abduction-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_abduction_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_abduction_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-big-toe-abduction-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-big-toe-abduction-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "انثناء إصبع القدم الكبير للأعلى",
+      "name_en": "Big Toe Dorsiflexion",
+      "name_alternative": null,
+      "slug": "big-toe-dorsiflexion",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على مقعد بقدمك العارية على الأرض.",
+          "text_en": "Sit on a bench with your bare foot on the ground."
+        },
+        {
+          "text": "ارفع إصبع قدمك الكبير لأقصى حد يمكنه الوصول إليه، دون تحريك بقية الأصابع.",
+          "text_en": "Raise your big toe as far as it can go, without moving the rest of the toes."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-big-toe-dorsiflexion-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-big-toe-dorsiflexion-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-big-toe-dorsiflexion-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-big-toe-dorsiflexion-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-big-toe-dorsiflexion-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-big-toe-dorsiflexion-seated-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-big-toe-dorsiflexion-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-big-toe-dorsiflexion-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-big-toe-dorsiflexion-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-big-toe-dorsiflexion-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-big-toe-dorsiflexion-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-big-toe-dorsiflexion-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_dorsiflexion_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_dorsiflexion_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-big-toe-dorsiflexion-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-big-toe-dorsiflexion-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_dorsiflexion_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/big_toe_dorsiflexion_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-big-toe-dorsiflexion-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-big-toe-dorsiflexion-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "الوقوف المقوّس",
+      "name_en": "Standing Doming",
+      "name_alternative": null,
+      "slug": "standing-doming",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من وضعية الوقوف، اضغط بإصبع القدم الكبير على الأرض حتى تشعر بارتفاع الجزء الداخلي من قدمك عن الأرض",
+          "text_en": "From the standing position press the big toe into the ground till you feel the inside part of your foot raise off the ground"
+        },
+        {
+          "text": "يجب أن يكون قوس قدمك الآن أكثر وضوحًا.",
+          "text_en": "The arch of your foot should now look more pronounced."
+        },
+        {
+          "text": "لا تدير قدمك للخارج لرفع الجزء الداخلي من قدمك.",
+          "text_en": "Do not roll your foot out to lift the inside part of your foot."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-doming-2-standing-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-doming-2-standing-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-doming-2-standing-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-doming-2-standing-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-doming-2-standing-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-doming-2-standing-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-doming-2-standing-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-doming-2-standing-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-doming-2-standing-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-doming-2-standing-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-doming-2-standing-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-doming-2-standing-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_doming_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_doming_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-standing-doming-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-standing-doming-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_doming_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_doming_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-standing-doming-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-standing-doming-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "الجلوس في وضع القبة",
+      "name_en": "Seated Doming",
+      "name_alternative": null,
+      "slug": "seated-doming",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على مقعد أو صندوق. اضغط بإبهام قدمك على الأرض حتى تشعر بارتفاع الجزء الداخلي من قدمك عن الأرض.",
+          "text_en": "Sit on a bench or box. Press the big toe into the ground till you feel the inside part of your foot raise off the ground"
+        },
+        {
+          "text": "يجب أن يبدو قوس قدمك الآن أكثر وضوحًا. لا تقم بلف قدمك للخارج لرفع الجزء الداخلي من قدمك.",
+          "text_en": "The arch of your foot should now look more pronounced. Do not roll your foot out to lift the inside part of your foot"
+        },
+        {
+          "text": "يجب أن تؤدي التمرين حافي القدمين أو بالجوارب، ولكن لا ترتدي الأحذية.",
+          "text_en": "You should perform the exercise bare foot or with socks, but do not wear shoes."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-doming-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-doming-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-doming-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-doming-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-doming-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-doming-seated-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-doming-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-doming-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-doming-seated-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-doming-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-doming-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-doming-seated-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_doming_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_doming_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-seated-doming-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-seated-doming-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_doming_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_doming_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-seated-doming-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-seated-doming-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "القلب العكسي",
+      "name_en": "Eversions",
+      "name_alternative": null,
+      "slug": "eversions",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على درجة أو صندوق منخفض، يفضل أن يكون مع دعامة خلفية. مد كلا الساقين ولف الشريط حول كرات القدم العاملة.",
+          "text_en": "Sit on a step or low box, preferably with a back support. Extend both legs and wrap the band around the balls of the working foot"
+        },
+        {
+          "text": "مرر الشريط حول القدم الأخرى كما هو موضح في الفيديو. أمسك طرف الشريط بالذراع المقابل للقدم التي تعمل",
+          "text_en": "Pass the band around the other foot as shown in the video. Hold the end of the band with the opposite arm of the working foot"
+        },
+        {
+          "text": "يجب أن يكون الكاحل عند زاوية 90 درجة وملتوي للداخل (الانقلاب) قبل أن تبدأ الحركة. قم بلف الكاحل للخارج دون تحريك بقية الساق.",
+          "text_en": "The ankle should be at 90° and turned inwards (inversion) before you start the movement. Turn the ankle out, without moving the rest of the leg."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-eversions-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-eversions-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-eversions-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-eversions-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-eversions-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-eversions-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-eversions-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-eversions-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-eversions-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-eversions-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-eversions-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-eversions-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eversions_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eversions_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-eversions-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-eversions-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eversions_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eversions_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-eversions-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-eversions-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "الوقوف في وضعية الانقلاب",
+      "name_en": "Standing Inversions Hold",
+      "name_alternative": null,
+      "slug": "standing-inversions-hold",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بشكل مستقيم مع وقفة ضيقة نسبيًا.",
+          "text_en": "Stand up straight with a relatively narrow stance."
+        },
+        {
+          "text": "قم بتدوير قدميك إلى الخارج وحافظ على توازنك.",
+          "text_en": "Roll your feet out and balance."
+        },
+        {
+          "text": "تأكد من عدم الإفراط في التمدد أو ستخاطر بإعادة الإصابة.",
+          "text_en": "Make sure you do not roll out excessively or you are risking re-injury."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-inversions-isometric-standing-bilateral-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-inversions-isometric-standing-bilateral-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-inversions-isometric-standing-bilateral-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-inversions-isometric-standing-bilateral-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-inversions-isometric-standing-bilateral-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-inversions-isometric-standing-bilateral-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-inversions-isometric-standing-bilateral-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-inversions-isometric-standing-bilateral-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-inversions-isometric-standing-bilateral-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-inversions-isometric-standing-bilateral-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-inversions-isometric-standing-bilateral-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-inversions-isometric-standing-bilateral-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_inversions_hold_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_inversions_hold_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-standing-inversions-hold-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-standing-inversions-hold-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_inversions_hold_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_inversions_hold_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-standing-inversions-hold-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-standing-inversions-hold-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "تمارين الانقلاب المقعد بالحزام",
+      "name_en": "Band Seated Inversions",
+      "name_alternative": null,
+      "slug": "band-seated-inversions",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "قدمين",
+          "name_en_us": "Feet",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على درجة أو صندوق منخفض، يفضل أن يكون مع دعامة خلفية. مد كلا الساقين وضع الساق العاملة فوق الساق غير العاملة.",
+          "text_en": "Sit on a step or low box, preferably with a back support. Extend both legs and cross the working leg over the non working leg."
+        },
+        {
+          "text": "لف الشريط حول كرات القدم العاملة. أمرر الشريط حول القدم الأخرى كما هو موضح في الفيديو.",
+          "text_en": "Wrap the band around the balls of the working foot. Pass the band around the other foot as shown in the video."
+        },
+        {
+          "text": "امسك طرف الشريط بنفس الذراع الذي يوافق القدم التي تعمل. يجب أن يكون الكاحل عند زاوية ٩٠ درجة ومتجهًا للخارج (الخلع) قبل أن تبدأ الحركة.",
+          "text_en": "Hold the end of the band with the same arm as the working foot. The ankle should be at 90° and turned outwards (eversion) before you start the movement"
+        },
+        {
+          "text": "ادر الكاحل للداخل دون تحريك باقي الساق.",
+          "text_en": "Turn the ankle in, without moving the rest of the leg."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-inversions-resisted-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-inversions-resisted-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-inversions-resisted-seated-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-inversions-resisted-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-inversions-resisted-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-inversions-resisted-seated-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-inversions-resisted-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-inversions-resisted-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-inversions-resisted-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-inversions-resisted-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-inversions-resisted-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-inversions-resisted-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_seated_inversions_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_seated_inversions_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/feet-band-seated-inversions-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/feet-band-seated-inversions-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_seated_inversions_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_seated_inversions_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/feet-band-seated-inversions-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/feet-band-seated-inversions-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

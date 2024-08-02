@@ -1,0 +1,1192 @@
+{
+  "id": 11,
+  "name": "عضلة الساق الداخلية (سوليوس)",
+  "name_en_us": "Soleus",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "تمارين رفع العجل من الجهاز بالجلوس",
+      "name_en": "Machine Seated Calf Raises",
+      "name_alternative": null,
+      "slug": "machine-seated-calf-raises",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس براحة على الجهاز، ثم ضع فخذيك السفليين تحت ذراع التبديل المبطن. ضع أصابع قدميك وجزء القدم الأمامي على دعامات القدم.",
+          "text_en": "Get comfortable on the machine, then place your lower thighs beneath the padded lever. Place your toes and the balls of your feet onto the foot supports."
+        },
+        {
+          "text": "منع الوزن من الانزلاق الى الامام عن طريق التمسك بالمقابض، وتحرير القضيب الآمن. قم بخفض الوزن حتى يتم تمديد عضلات الساق الخاصة بك.",
+          "text_en": "Prevent the weight from slipping forward by gripping the handles, and release the safety bar. Lower the weight until your calves are extended."
+        },
+        {
+          "text": "اِدفع كعبيك للأعلى لرفع العتلة المبطنة وحافظ على وضعية التقلص، ثم اعود ببطء إلى الوضعية الابتدائية. كرر الحركة.",
+          "text_en": "Push your heels up to lift the padded lever and hold the contracted position, then slowly lower back down to the starting position. Repeat."
+        }
+      ],
+      "seo_tags": [
+        "كيفية تنفيذ تمارين رفع العجلة السفلية باستخدام الآلة بينما أنت جالس",
+        "How To Do A Machine Seated Calf Raises",
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves",
+        "beginner Machine exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-seated-calf-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-seated-calf-raise-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-machine-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-seated-calf-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-machine-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-seated-calf-raise-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_front_male_QmKRTpF.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_back_male_whDYjMs.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-machine-seated-calf-raises-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-machine-seated-calf-raises-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_front_female_V04Fq3U.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_back_female_eIgYgTx.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-machine-seated-calf-raises-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-machine-seated-calf-raises-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "رفع عجلة الساق المتعددة أثناء الجلوس بواسطة الكتلة",
+      "name_en": "Kettlebell Seated Calf Raise",
+      "name_alternative": null,
+      "slug": "kettlebell-seated-calf-raise",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "جلس براحة على الكرسي واجعل عضلات المعدة الأساسية في حالة انشطار، ضع قدميك على الأرض.",
+          "text_en": "Sitting comfortably on a chair with your core stomach muscles engaged, place your feet on the floor."
+        },
+        {
+          "text": "ضع الكيتلبيل على ساقيك ، فوق الركبتين بقليل ثم ارفع كعبيك لأعلى بعيدًا عن الأرض.",
+          "text_en": "Place the kettlebell on your legs, just above the knees and raise your heels upwards off the floor."
+        },
+        {
+          "text": "توقف عندما تكون كعبيك ممتدتين بالكامل، ثم عد ببطء إلى الوضعية الابتدائية وكرر الحركة.",
+          "text_en": "Pause when your heels are fully extended and then slowly return to the starting position and repeat."
+        }
+      ],
+      "seo_tags": [
+        "كيفية تنفيذ تمرين رفع العجلة من الكرسي باستخدام الكاتلبيل",
+        "Kettlebell Exercise",
+        "How To Do A Kettlebell Seated Calf Raise",
+        "beginner Kettlebells exercise",
+        "Kettlebells",
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_front_male_ZoPgY2d.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_back_male_4Iunupv.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-kettlebell-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-kettlebell-seated-calf-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_front_female_Px1el3c.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_back_female_KRIABbV.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-kettlebell-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-kettlebell-seated-calf-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "رفع عجلة البار بينما تجلس على العجلة",
+      "name_en": "Dumbbell Seated Calf Raise",
+      "name_alternative": null,
+      "slug": "dumbbell-seated-calf-raise",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ بالجلوس على مقعد بحيث تكون قدميك في مستوى الكتفين وهناك حديدة في كل يد موضوعة على كل ساق.",
+          "text_en": "Start by sitting on a bench with your feet shoulder-width apart and a dumbbell in each hand placed on each leg."
+        },
+        {
+          "text": "من هذه الوضعية الابتدائية، ارفع كعبيك إلى أعلى ما يمكن بواسطة الدفع لأعلى عبر أصابع قدميك.",
+          "text_en": "From this starting position, raise your heels as high as you can by pushing up through your toes."
+        },
+        {
+          "text": "أعد كعبك ببطء إلى وضع البداية، ثم كرر الحركة للعدد المطلوب من التكرارات.",
+          "text_en": "Slowly lower your heels back down to the starting position, and repeat for the desired number of repetitions."
+        }
+      ],
+      "seo_tags": [
+        "أثقال",
+        "عضلات الساق",
+        "How To Do A Dumbbell Seated Calf Raise",
+        "Calves",
+        "Dumbbell Exercise",
+        "Leg Exercise",
+        "Calves Exercise",
+        "beginner Dumbbells exercise",
+        "رفع العجل",
+        "How to do Dumbbell Seated Calf Raise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-seated-calf-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-seated-calf-raise-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-seated-calf-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-seated-calf-raise-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_front_male_gAud0S7.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_back_male_dAZoDNe.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-dumbbell-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-dumbbell-seated-calf-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_front_female_JZmSKWu.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_back_female_VrTRLf6.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-dumbbell-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-dumbbell-seated-calf-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "رفع عجلة الباربيل وأنت جالس على العجل",
+      "name_en": "Barbell Seated Calf Raise",
+      "name_alternative": null,
+      "slug": "barbell-seated-calf-raise",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ عن طريق الجلوس على مقعد مع استراحة البار فيل على ركبتيك. يجب أن تكون قدميك مسطحة على الأرض، على بُعد يساوي عرض الورك تقريبًا.",
+          "text_en": "Start by sitting on a bench with a barbell resting on your knees. Your feet should be flat on the ground, about hip-width apart."
+        },
+        {
+          "text": "ضع يديك على الباربيل للدعم، وارفع كعبيك عن الأرض.",
+          "text_en": "Place your hands on the barbell for support, and lift your heels off the ground."
+        },
+        {
+          "text": "حافظ على هذا الوضع للحظة، ثم قم بخفض كعبيك ببطء إلى الأرض.",
+          "text_en": "Hold this position for a moment, then slowly lower your heels back to the ground."
+        }
+      ],
+      "seo_tags": [
+        "عضلات الساقين",
+        "Leg Exercise",
+        "How To Do A Barbell Seated Calf Raise",
+        "Calves Exercise",
+        "Calves",
+        "beginner Barbell exercise",
+        "How to do Barbell Seated Calf Raise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-seated-calf-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-seated-calf-raise-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-seated-calf-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-seated-calf-raise-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_front_male_7YWBQqO.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_back_male_lbwKPSG.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-barbell-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-barbell-seated-calf-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_front_female_VDJ5POX.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_back_female_YQwP88s.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-barbell-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-barbell-seated-calf-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "قفز العجلة بالباربيل",
+      "name_en": "Barbell Calf Jump",
+      "name_alternative": null,
+      "slug": "barbell-calf-jump",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "عضلة الساق البطنية (السمانة)",
+          "name_en_us": "Gastrocnemius",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بقدميك على بعد متساوٍ من عرض الكتفين وركبتيك مثنية قليلاً.",
+          "text_en": "Stand with your feet shoulder-width apart and your knees slightly bent."
+        },
+        {
+          "text": "انقل وزنك إلى كرات قدميك وابقَ على الأرض بالكامل. باستخدام عضلات الساق لديك، قلد حركة القفز ولكن دون مغادرة الأرض.",
+          "text_en": "Shift your weight onto the balls of your feet and raise stay flat footed. Using your calf muscles, mimic a jumping motion but don't leave the floor."
+        },
+        {
+          "text": "انفجر على أطراف أصابع قدميك وحافظ على هذا الوضع لثانية واحدة.",
+          "text_en": "Explode onto your tip toes and hold for a second."
+        },
+        {
+          "text": "أعد كعبيك إلى الأرض، ثم ابدأ الجولة التالية.",
+          "text_en": "Bring your heels back to the floor then initiate the next rep."
+        }
+      ],
+      "seo_tags": [
+        "عضلات الساق الخلفية",
+        "How To Do A Barbell Calf Jump",
+        "عضلات الساق",
+        "advanced exercise",
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves",
+        "advanced Barbell exercise",
+        "كيفية أداء قفزة عجلة البار بالساقين",
+        "متفجر"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-calf-jump-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-calf-jump-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-calf-jump-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-calf-jump-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-calf-jump-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-calf-jump-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-calf-jump-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-calf-jump-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-calf-jump-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-calf-jump-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-calf-jump-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-calf-jump-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_front_male_C4jtWvX.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_back_male_qAoDpq5.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-barbell-calf-jump-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-barbell-calf-jump-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_front_female_AdjufbW.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_back_female_ZA841PR.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-barbell-calf-jump-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-barbell-calf-jump-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "رفع الساقين المزدوج بالكتلبيل وهو جالس",
+      "name_en": "Kettlebell Seated Calf Raise Double",
+      "name_alternative": null,
+      "slug": "kettlebell-seated-calf-raise-double",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ بالجلوس على مقعد مع وضع الباربيل على الركبتين. يجب أن تكون قدميك مسطحة على الأرض وعلى بُعد يعادل تقريباً عرض الوركين.",
+          "text_en": "Start by sitting on a bench with a barbell resting on your knees. Your feet should be flat on the ground, about hip-width apart."
+        },
+        {
+          "text": "ضع يديك على الباربل للدعم، وارفع كعبيك عن الأرض.",
+          "text_en": "Place your hands on the barbell for support, and lift your heels off the ground."
+        },
+        {
+          "text": "حافظ على هذه الوضعية للحظة، ثم قم بخفض كعبيك ببطء إلى الأرض.",
+          "text_en": "Hold this position for a moment, then slowly lower your heels back to the ground."
+        }
+      ],
+      "seo_tags": [
+        "Kettlebell Exercise",
+        "Kettlebells",
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-seated-calf-raise-double-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-double-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-double-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-seated-calf-raise-double-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-double-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-seated-calf-raise-double-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-seated-calf-raise-double-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-double-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-double-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-seated-calf-raise-double-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-double-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-seated-calf-raise-double-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_double_front_male_5YVdOXY.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_double_back_male_PSXofrQ.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-kettlebell-seated-calf-raise-double-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-kettlebell-seated-calf-raise-double-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_double_front_female_lDibS6z.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_seated_calf_raise_double_back_female_RiAiSVe.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-kettlebell-seated-calf-raise-double-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-kettlebell-seated-calf-raise-double-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "رفع الساقين المثبتة بواسطة آلة سميث والجلوس",
+      "name_en": "Smith Machine Seated Calf Raise",
+      "name_alternative": null,
+      "slug": "smith-machine-seated-calf-raise",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة سميث",
+        "name_en": "Smith-Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ بالجلوس على مقعد أو صندوق ودع القضيب يستريح على ركبتيك. يجب أن تكون قدميك مسطحة على الأرض، وتتباعد عن بعضها البعض بمقدار عرض الورك تقريبا.",
+          "text_en": "Start by sitting on a bench or box with the bar resting on your knees. Your feet should be flat on the ground, about hip-width apart."
+        },
+        {
+          "text": "ضع يديك على الباربيل للدعم، وارفع كعبيك عن الأرض.",
+          "text_en": "Place your hands on the barbell for support, and lift your heels off the ground."
+        },
+        {
+          "text": "حافظ على هذه الوضعية للحظة، ثم أعد كعبيك ببطء إلى الأرض.",
+          "text_en": "Hold this position for a moment, then slowly lower your heels back to the ground."
+        }
+      ],
+      "seo_tags": [
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-seated-calf-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-seated-calf-raise-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-seated-calf-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-seated-calf-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-seated-calf-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-seated-calf-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-seated-calf-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-seated-calf-raise-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_seated_calf_raise_front_male_Mjigjo8.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_seated_calf_raise_back_male_cihnOzH.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-smith-machine-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-smith-machine-seated-calf-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_seated_calf_raise_front_female_L1aNBwl.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_seated_calf_raise_back_female_nTeQczK.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-smith-machine-seated-calf-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-smith-machine-seated-calf-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "نص: رفع العجل 3A مع التركيز على العضلة السولية بشكل ثنائي",
+      "name_en": "Calf Raise 3A Soleus Bias Bilateral",
+      "name_alternative": null,
+      "slug": "calf-raise-3a-soleus-bias-bilateral",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من الوضع القائم، انحني على ركبتيك حتى تصل إلى وضعية القرفصاء أو نصف القرفصاء",
+          "text_en": "From the standing position, bend your knees till you get to a squated or semi-squated position"
+        },
+        {
+          "text": "حافظ على القرفصاء بينما ترفع كلا الكعبين عن الأرض",
+          "text_en": "Maintain the squat while raising both heels off the ground"
+        },
+        {
+          "text": "احتفظ بالوضعية لمدة ثانية معدودة قبل أن تعيد خفض كعبيك مرة أخرى",
+          "text_en": "Hold the position for a split second before lowering your heels again"
+        },
+        {
+          "text": "لا تستريح في النهاية. بمجرد أن تشعر بلمس كعبك للأرض، كرر الحركة",
+          "text_en": "Do not rest at the bottom. As soon as you feel your heels touch the ground, repeat the movement"
+        }
+      ],
+      "seo_tags": [
+        "Leg Exercise",
+        "Calves Exercise",
+        "Soleus Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-3a-soleus-bias-bilateral-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-calf-raise-3a-soleus-bias-bilateral-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-calf-raise-3a-soleus-bias-bilateral-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-3a-soleus-bias-bilateral-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-calf-raise-3a-soleus-bias-bilateral-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-calf-raise-3a-soleus-bias-bilateral-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-calf-raise-3a-soleus-bias-bilateral-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-calf-raise-3a-soleus-bias-bilateral-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-calf-raise-3a-soleus-bias-bilateral-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-calf-raise-3a-soleus-bias-bilateral-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-calf-raise-3a-soleus-bias-bilateral-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-calf-raise-3a-soleus-bias-bilateral-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_front_male_AleS60K.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_back_male_bfDlpv1.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-calf-raise-3a-soleus-bias-bilateral-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-calf-raise-3a-soleus-bias-bilateral-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_front_female_CIo3LwM.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_back_female_HBKHpDZ.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-calf-raise-3a-soleus-bias-bilateral-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-calf-raise-3a-soleus-bias-bilateral-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "الرفع من العجل 3B تحيز السوليوس الفردي",
+      "name_en": "Calf Raise 3B Soleus Bias Unilateral",
+      "name_alternative": null,
+      "slug": "calf-raise-3b-soleus-bias-unilateral",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من الوضع القائم، انحنِ ركبتيك حتى تصل إلى وضع الجلوس المتربع أو نصف المتربع. كن بالقرب من عمود أو رف الجلوس المتربع لاستخدامه للتوازن.",
+          "text_en": "From the standing position, bend your knees till you get to a squated or semi-squated position. Be close to a pole or squat rack to use for balance"
+        },
+        {
+          "text": "حافظ على موقف القرفصاء بينما تقوم بتحويل وزنك إلى الساق التي تعمل ورفع الاخرى عن الأرض",
+          "text_en": "Maintain the squat while shifting your weight onto the working leg and raising the other off the ground"
+        },
+        {
+          "text": "Raise your heel off the ground",
+          "text_en": "Raise your heel off the ground"
+        },
+        {
+          "text": "ابق في الوضع لجزء من الثانية قبل أن تخفض كعبك مرة أخرى",
+          "text_en": "Hold the position for a split second before lowering your heel again"
+        },
+        {
+          "text": "لا تستريح في الأسفل. بمجرد أن تشعر بكعبك يلمس الأرض، كرر الحركة.",
+          "text_en": "Do not rest at the bottom. As soon as you feel your heel touch the ground, repeat the movement"
+        }
+      ],
+      "seo_tags": [
+        "Leg Exercise",
+        "Calves Exercise",
+        "Soleus Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-3b-soleus-bias-unilateral-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-calf-raise-3b-soleus-bias-unilateral-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-calf-raise-3b-soleus-bias-unilateral-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-3b-soleus-bias-unilateral-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-calf-raise-3b-soleus-bias-unilateral-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-calf-raise-3b-soleus-bias-unilateral-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-calf-raise-3b-soleus-bias-unilateral-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-calf-raise-3b-soleus-bias-unilateral-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-calf-raise-3b-soleus-bias-unilateral-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-calf-raise-3b-soleus-bias-unilateral-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-calf-raise-3b-soleus-bias-unilateral-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-calf-raise-3b-soleus-bias-unilateral-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3b_soleus_bias_unilateral_front_male_ktHL8yP.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3b_soleus_bias_unilateral_back_male_y6IM7H5.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-calf-raise-3b-soleus-bias-unilateral-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-calf-raise-3b-soleus-bias-unilateral-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3b_soleus_bias_unilateral_front_female_fRJF3Ya.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3b_soleus_bias_unilateral_back_female_ubhWC58.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-calf-raise-3b-soleus-bias-unilateral-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-calf-raise-3b-soleus-bias-unilateral-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "تمدد العضلة السولية",
+      "name_en": "Soleus Stretch",
+      "name_alternative": null,
+      "slug": "soleus-stretch-static",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الساق",
+          "name_en_us": "Calves",
+          "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
+          "description_en_us": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "name": "عضلة الساق الداخلية (سوليوس)",
+          "name_en_us": "Soleus",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بالقرب من الحائط في وضعية ضيقة ومتدرجة (يجب أن يكون أصابع القدم الخلفية على نفس مستوى كعب القدم الأمامية).",
+          "text_en": "Stand close to a wall on a narrow, staggered stance (toes of the back leg should be at the same level as the heel of the front leg)."
+        },
+        {
+          "text": "حافظ على وزنك على الساق الخلفية أثناء ثني ركبتيك.",
+          "text_en": "Keep your weight on the back leg as you bend your knees."
+        },
+        {
+          "text": "ابق في الوضعية للمدة المحددة.",
+          "text_en": "Hold the position for the prescribed duration."
+        }
+      ],
+      "seo_tags": [
+        "Leg Exercise",
+        "Calves Exercise",
+        "Soleus Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-soleus-stretch-static-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-soleus-stretch-static-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-soleus-stretch-static-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-soleus-stretch-static-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-soleus-stretch-static-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-soleus-stretch-static-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-soleus-stretch-static-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-soleus-stretch-static-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-soleus-stretch-static-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-soleus-stretch-static-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-soleus-stretch-static-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-soleus-stretch-static-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/soleus_stretch_front_male_35ToEmJ.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/soleus_stretch_back_male_e8xpUZq.png",
+          "front_file_path": "musclewiki/male/bodymaps/soleus-soleus-stretch-static-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/soleus-soleus-stretch-static-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/soleus_stretch_front_female_dofu463.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/soleus_stretch_back_female_K22tKpq.png",
+          "front_file_path": "musclewiki/female/bodymaps/soleus-soleus-stretch-static-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/soleus-soleus-stretch-static-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

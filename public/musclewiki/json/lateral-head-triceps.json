@@ -1,0 +1,1727 @@
+{
+  "id": 29,
+  "name": "الترايسبس (الرأس الجانبي)",
+  "name_en_us": "Lateral Head Triceps",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "الضغط لأسفل بالحبل على الكابل",
+      "name_en": "Cable Rope Pushdown",
+      "name_alternative": null,
+      "slug": "cable-rope-pushdown",
+      "description": "<p><b><span style=font-size: 36px;>كيفية أداء تمرين الضغط بكابل المرونة</span></b></p><p><b><span style=font-size: 24px;>الإعداد</span></b></p><p>ضع قطب الكابل في أعلى موقعه. يمكنك استخدام حبل أو قضيب مستقيم لهذا التمرين. في الفيديو التوضيحي الخاص بنا ، نحن نستخدم الحبل، لذا ستكون التعليمات محددة لذلك.</p><p>أمسك بالحبل وخط قدميك بضع خطوات إلى الخلف. يمكنك البدء بمرفقيك في وضع ممتد أو منحني. <br></p><p>ادفع مؤخرتك إلى الخلف بعض الشيء. هذا سيبعد الوركين لتتاح لذراعيك مساحة كافية للتمديد بشكل كامل.</p><p><b><span style=font-size: 24px;>أداء التمرين</span></b></p><p>أحبها أكثر للاستخدام هو ذراعي T-Rex في تمرين الضغط على الثلاثية. من المهم جداً أن تبقي الذراع العلوية وكوعك محتك بجانبك. يجب أن يكون المفصل المحدث للحركة هو مفصل الكوع ويجب أن يكون الذراع السفلي هو الجزء الوحيد من الجسم الذي يتحرك. هذا سيحافظ على التوتر بالكامل على عضلات الثلاثية ولن يقوم بتجنيد أجزاء أخرى من الجسم. تأكد من التمديد والثني الكامل للمرفق في كل مرة.</p><p> احذر من التأرجح والتمايل أثناء هذا التمرين. من الشائع جداً استخدام وزن كبير جداً في هذا التمرين. إذا وجدت نفسك بحاجة لاستخدام العزم ، فيجب أن يكون الوزن كبيراً. </p><p> أيضاً ، إذا لاحظت أن كتفيك بدأت تتقدم في الدورة المركزية ، فالوزن كبير جداً. نظامك العصبي المركزي ذكي بشكل لا يصدق وسيساعدك على الانتقال من النقطة أ إلى النقطة ب بأي وسيلة ممكنة. ستبدأ في محاولة تجنيد عضلة الدلتا الأمامية والصدر الرئيسية عن طريق طي كتفيك إلى الأمام فوق الحبل أو القضيب المستقيم حتى يمكنك ضغط الوزن لأسفل بدلاً من أداء تمديد العضلات الثلاثية الصارمة.</p>",
+      "description_en_us": "<p><b><span style=\"font-size: 36px;\">How To Perform The Cable Pushdown</span></b></p><p><b><span style=\"font-size: 24px;\">Set Up</span></b></p><p>Set the cable pin all the way to the top. You can use a rope or a straight bar attachment for this exercise. In our demo video, we are using a rope so our instructions will be specific to that.</p><p>Grab onto the rope and take a few steps back. You can start with your elbows in an extended or flexed position.<br></p><p>Push your butt back slightly. This will get your hips out of the way giving your arms enough room to fully extend.</p><p><b><span style=\"font-size: 24px;\">Performing The Cable Pushdown</span></b></p><p>My favorite cue to use on the Tricep Push Down is, \"T-Rex arms.\" It's extremely important that you keep your upper arm and your elbows glued to your side. Your elbow joint should be causing the movement and your forearm should be the only moving body part. This will keep the stress and tension purely on your triceps and not recruit other body parts. Make sure to fully extend and flex your elbows on each rep.</p><p>Be careful of swinging and bouncing on this exercise. It is very common to use too much weight on this exercise. If you find yourself having to use momentum, the weight is too heavy. </p><p>Also, if you notice your shoulders beginning to roll forward on the concentric, the weight is too heavy. Your central nervous system is extremely intelligent and will help you get from point A to point B by any means necessary. It will begin trying to recruit your anterior deltoid and pec major by rolling your shoulders forward on top of the rope or straight bar so you can press the weight down instead of performing a strict Triceps Extension.</p>",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/HmNadC4YvNY"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/HmNadC4YvNY"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "يجب ضبط الكابل في أعلى الجهاز تمامًا.",
+          "text_en": "The cable should be set all the way at the top of the machine."
+        },
+        {
+          "text": "تأكد من إبقاء ذراعك العلوي ملتصقًا بجانبك. مد ذراعيك حتى تشعر بتقلص العضلة ثلاثية الرؤوس.",
+          "text_en": "Make sure to keep your upper arm glued at your side. Extend your elbows until you feel your triceps contract."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Cable Push Down",
+        "Arm Exercise",
+        "beginner Cables exercise",
+        "Tricep Exercise",
+        "Triceps Exercise",
+        "How to do Cable Push Down"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-push-down-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-push-down-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-push-down-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-push-down-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-push-down-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-push-down-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-push-down-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-push-down-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-push-down-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-push-down-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-push-down-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-push-down-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_pushdown_front_male_I7iPrzs.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_pushdown_back_male_KEPNxsm.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-rope-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-rope-pushdown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_pushdown_front_female_T0l3KOi.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_pushdown_back_female_f5hSvsb.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-rope-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-rope-pushdown-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "تمارين الضغط على كرسي الجاك مع مقبض مغلق بالباربيل",
+      "name_en": "Barbell Close Grip Bench Press",
+      "name_alternative": null,
+      "slug": "barbell-close-grip-bench-press",
+      "description": "<p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><b style=text-align: right; font-size: 36px; font-family: Arial; color: rgb(51, 51, 51);><font color=#000000>كيفية تنفيذ تمرين الضغط على المقاعد بقبضة مغلقة</font></b></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><b style=font-size: 24px; font-family: Arial; text-align: right; color: rgb(0, 0, 0);>الاعداد</b></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><b style=font-size: 11pt; font-family: Arial; text-align: right; color: rgb(0, 0, 0);>وضع القدم</b></p><p dir=rtl text-align: justify; line-height:1.38;margin-top:0pt;margin-bottom:0pt;>يمكنك أن تكون في وضعية قدمين مسطحتين أو مجرد أصابع على الأرض. في كلا الحالتين، ادفع أصابع قدمك لتوليد بعض التوتر في العضلات الأمامية للفخذ. سيساعد توليد التوتر في جسمك بأكمله على رفع الوزن أكثر.</p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><b style=font-size: 11pt; font-family: Arial; text-align: right; color: rgb(0, 0, 0);>تقنية الجذع</b></p><p dir=rtl text-align: justify; line-height:1.38;margin-top:0pt;margin-bottom:0pt;>اشر على قفصك الصدري نحو السقف واسحب شفرات الكتف الخاصة بك بقوة حقاً. حفر شفرات الكتف الخاصة بك في المقعد. سيؤدي هذا إلى انحناء العمود الفقري بعض الشيء. هذه هي الوحيدة مرة يكون من الجيد أن تمدد العمود الفقري. لأنك مشدودة ضد المقعد، فإن المقعد سوف يمتص الكثير من التوتر الذي سيقع على العمود الفقري القطني وإلا.</p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><b style=font-size: 11pt; font-family: Arial; text-align: right; color: rgb(0, 0, 0);>القبضه</b></p><p dir=rtl text-align: justify; line-height:1.38;margin-top:0pt;margin-bottom:0pt;>يجب أن يكون عرض القبضة بالضبط عرض الكتف. تقريب الأيدي من العرض الكتف لن يزيد من مدى الحركة في المرفقين (المفصل الذي تعمل عليه العضلة ثلاثية الرؤوس). والذهاب إلى أي مكان أقرب من عرض الكتف عادةً ما يصعب فقط على المفاصل الكتف والمعصم. إذا كنت غير متأكد مما إذا كان عرض الكتف، ببساطة شاهد كلا ذراعيك مباشرة أمامك. يمكنك أيضا أن تكمن على المقعد وتفعل هذا. استخدم التمييز على القضيب للتأكد من أن يديك تساوي أيضا.</p><p dir=rtl text-align: justify; line-height:1.38;margin-top:0pt;margin-bottom:0pt;>تأكد من أن القضيب مثبت بعمق جدا في يديك. سيساعد ذلك على الحفاظ على معصميك في وضع قوي محايد. أيضا، سوف يمنع معصميك من الحصول على التمديد.</p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><b style=font-size: 24px; font-family: Arial; text-align: right; color: rgb(0, 0, 0);>تنفيذ تمرين الضغط على المقاعد بقبضة مغلقة</b></p><p dir=rtl text-align: justify; line-height:1.38;margin-top:0pt;margin-bottom:0pt;>بعد أن أعيدت القضيب، سوف تبدأ الجولة بكسره في المرفقين. اكسر مرفقيك بقوة جداً الى جانبك. يجب أن يهبط القضيب أقل على جذعك من تمرين الضغط على المقاعد العادي. عندما تضغط جذعك بالقضيب، ابدأ بضغط القضيب مرة أخرى نحو السقف في رسم ج بشكل قوس. تأكد من تمديد (ولكن ليس الإفراط في التمديد) مرفقيك في أعلى كل جولة.</p>",
+      "description_en_us": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: Arial; font-size: 36px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><font color=\"#000000\" style=\"box-sizing: border-box;\">How To Perform The Close Grip Bench Press</font></b><span style=\"font-size: 36px; font-family: Arial; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#000000\" style=\"\"></font></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setting Up</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Foot Placement</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">You can either be flat footed or just have toes on the ground. Either way, push your toes to generate some tension in your quads. Generating tension through your whole body will help you lift more weight.&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Torso Technique</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Point your rib cage at the ceiling and pull your shoulder blades back really hard. Dig your shoulder blades into the bench. This will arch your spine somewhat. This is the only time it is ok to extend your spine. Because you are braced against the bench, the bench will soak up a lot of the tension that would otherwise fall on your lumbar spine.</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Grip</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Grip width should be exactly shoulder width.&nbsp; Bringing your hands closer than shoulder width will not increase the range of motion at your elbows (the joint the triceps act on). And going any closer than shoulder width tends to only put more stress on your wrist and shoulder joints. If you are not sure what a shoulder width grip is, simply point both of your arms straight out in front of you. You can also lay on the bench and do this. Use the markings on the bar to make sure your hands are even as well.&nbsp;</span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-09169b8c-7fff-db63-1c2a-8ed08931f2d7\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Make sure the bar is set very deeply in your hands. This will help keep your wrists in a strong neutral position. Also, this will prevent your wrists from getting extended.&nbsp;</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing&nbsp;The close Grip Bench Press</b></span></p><p></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">After you have un-racked the bar, you will initiate the rep by breaking at the elbows. Took your elbows very hard into your side. The bar should land lower on your torso than it does with a normal bench press. As you tap your torso with the bar begin to press the bar back up toward the ceiling in a J shaped arc. Make sure to extend (but not hyperextend) your elbows at the top of each rep.</span></p><div><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></div>",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الصدر",
+          "name_en_us": "Chest",
+          "description": "بشكل أساسي، هناك ثلاثة عضلات صدرية تشارك في الحركة: العضلة الصدرية الكبرى، العضلة الصدرية الصغرى، والعضلة المشطية الأمامية. \n\nترتبط العضلات الصدرية بشكل أساسي بحركة الكتفين والذراعين. عند العمل معًا، فإنها توفر الاستقرار للأنظمة العظمية مثل الترقوة (مفصل الترقوة) والكتف (العظم الشعاعي). تمكننا عضلات الصدر من رفع أذرعنا، وتمديدها، ولفها، إلى جانب اللعب دورًا في عملية التنفس. تتطلب العضلات الصدرية للقيام بالأنشطة اليومية مثل نقل الأثاث، رفع الأشياء الثقيلة، رمي الكرة الطائرة، وتمدد أذرعنا.",
+          "description_en_us": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/HmNadC4YvNY"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/HmNadC4YvNY"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "استلقِ بشكل مستوي على الكرسي مع وضعية قدميك على الأرض. بواسطة قبضة ضيقة على القضيب، قم بتقويم ذراعيك.",
+          "text_en": "Lay flat on the bench with your feet on the ground. With a narrow grip on the bar, straighten your arms"
+        },
+        {
+          "text": "أنزل القضيب إلى منتصف صدرك الأسفل",
+          "text_en": "Lower the bar to your lower-mid chest"
+        },
+        {
+          "text": "ارفع العصا ببطء حتى تقفل مرفقيك.",
+          "text_en": "Slowly raise the bar until you've locked your elbows."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Tricep Exercise",
+        "intermediate Barbell exercise",
+        "Triceps Exercise",
+        "كيفية تنفيذ تمرين الضغط على المقعد باستخدام الباربيل بقبضة ضيقة",
+        "How To Do A Barbell Close Grip Bench Press"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-close-grip-bench-press-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-close-grip-bench-press-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-close-grip-bench-press-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-close-grip-bench-press-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-close-grip-bench-press-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-close-grip-bench-press-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-close-grip-bench-press-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-close-grip-bench-press-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-close-grip-bench-press-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-close-grip-bench-press-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-close-grip-bench-press-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-close-grip-bench-press-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_close_grip_bench_press_front_male_pp7Jzkj.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_close_grip_bench_press_back_male_VB8UNfp.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-barbell-close-grip-bench-press-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-barbell-close-grip-bench-press-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_close_grip_bench_press_front_female_XWU8V7r.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_close_grip_bench_press_back_female_DEKXKcV.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-barbell-close-grip-bench-press-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-barbell-close-grip-bench-press-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "تمرين كسر الجمجمة بالدمبل",
+      "name_en": "Dumbbell Skullcrusher",
+      "name_alternative": null,
+      "slug": "dumbbell-skullcrusher",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/HmNadC4YvNY"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/HmNadC4YvNY"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "استلقِ مباشرة على الأرض أو على مقعد مع مد أيديك وكأنك تلكم باتجاه السقف وبقبضة محايدة.",
+          "text_en": "Lay flat on the floor or a bench with your fists extended to the ceiling and a neutral grip."
+        },
+        {
+          "text": "أوقف في المرفقين حتى تكون قبضتاك بجانب معابدك. ثم مد مرفقيك و انثني ثنيتك في الأعلى.",
+          "text_en": "Break at the elbows until your fists are by your temples. Then extend your elbows and flex your triceps at the top."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "عضلات الثلاثية",
+        "الرأس الطويل",
+        "Tricep Exercise",
+        "Triceps Exercise",
+        "Dumbbell Exercise",
+        "intermediate Dumbbells exercise",
+        "كيفية تنفيذ تمرين سحق الجمجمة باستخدام الأثقال الحرة",
+        "How To Do A Dumbbell Skullcrusher"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-skullcrusher-front_hgKANkM.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-skullcrusher-front_hgKANkM.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-skullcrusher-front_hgKANkM.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-skullcrusher-side_bgn7Uzz.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-skullcrusher-side_bgn7Uzz.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-skullcrusher-side_bgn7Uzz.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-skullcrusher-front_GclHKmS.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-skullcrusher-front_GclHKmS.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-skullcrusher-front_GclHKmS.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-skullcrusher-side_BixlAFc.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-skullcrusher-side_BixlAFc.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-skullcrusher-side_BixlAFc.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_skullcrusher_front_male_M2WySrs.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_skullcrusher_back_male_DppZ6qW.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-dumbbell-skullcrusher-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-dumbbell-skullcrusher-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_skullcrusher_front_female_PScGvl0.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_skullcrusher_back_female_4WTIFUC.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-dumbbell-skullcrusher-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-dumbbell-skullcrusher-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "تمارين الغمس على الدكة",
+      "name_en": "Bench Dips",
+      "name_alternative": null,
+      "slug": "bench-dips",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/hsEKg3M45dc"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/hsEKg3M45dc"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك بحافة الكرسي بيديك، احتفظ بقدميك متماسكتين وأبقِ رجليك مستقيمتين.",
+          "text_en": "Grip the edge of the bench with your hands, Keep your feet together and legs straight."
+        },
+        {
+          "text": "أنزل جسمك لأسفل بشكل مستقيم.",
+          "text_en": "Lower your body straight down."
+        },
+        {
+          "text": "قم بالضغط ببطء للعودة إلى نقطة البداية.",
+          "text_en": "Slowly press back up to the starting point."
+        },
+        {
+          "text": "نصيحة: يمكنك زيادة صعوبة التمرين برفع قدميك عن الأرض وإضافة وزن.",
+          "text_en": "TIP: Make this harder by raising your feet off the floor and adding weight."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Bench Dips",
+        "كيفية تنفيذ تمارين الغطس على الدكة",
+        "beginner Bodyweight exercise",
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Bodyweight Fitness",
+        "Triceps Exercise",
+        "At Home Exercise",
+        "Bodyweight Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-bodyweight-tricep-dips-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-bodyweight-tricep-dips-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-bodyweight-tricep-dips-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-bodyweight-tricep-dips-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-bodyweight-tricep-dips-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-bodyweight-tricep-dips-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-bodyweight-tricep-dips-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-bodyweight-tricep-dips-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-bodyweight-tricep-dips-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-bodyweight-tricep-dips-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-bodyweight-tricep-dips-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-bodyweight-tricep-dips-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_dips_front_male_VdROCFJ.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_dips_back_male_Kkaa85j.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-bench-dips-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-bench-dips-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_dips_front_female_unkYtdR.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_dips_back_female_5An6x6c.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-bench-dips-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-bench-dips-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "دفعات اليدين الماسية",
+      "name_en": "Diamond Push Ups",
+      "name_alternative": null,
+      "slug": "diamond-push-ups",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/lxufUii4fd4?si=9fttoFmT-UdHafWj"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/lxufUii4fd4?si=9fttoFmT-UdHafWj"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "ضع أصابع السبابة والإبهام بحيث تلمس بعضها البعض، لتكوين شكل الماس",
+          "text_en": "Position your index fingers and thumbs so they are touching, forming a diamond shape"
+        },
+        {
+          "text": "استخدم وضعية الضغط القياسية",
+          "text_en": "Use a standard push up position"
+        },
+        {
+          "text": "أخفض صدرك نحو يديك، وابقِ مرفقيك بالقرب من جسمك",
+          "text_en": "Lower your chest towards your hands, keep your elbows close to your body"
+        },
+        {
+          "text": "توقف قبل أن يلامس صدرك الأرض بقليل، ثم ادفع نفسك للأعلى مرة أخرى إلى الموضع الابتدائي.",
+          "text_en": "Stop just before your chest touches the floor, then push back up to the starting position."
+        }
+      ],
+      "seo_tags": [
+        "beginner Bodyweight exercise",
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Bodyweight Fitness",
+        "Triceps Exercise",
+        "How To Do A Diamond Push Ups",
+        "At Home Exercise",
+        "Bodyweight Exercise",
+        "كيفية تنفيذ تمارين الضغط الماسية"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-diamond-push-ups-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-diamond-push-ups-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-diamond-push-ups-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-diamond-push-ups-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-diamond-push-ups-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-diamond-push-ups-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-diamond-push-ups-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-diamond-push-ups-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-diamond-push-ups-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-diamond-push-ups-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-diamond-push-ups-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-diamond-push-ups-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/diamond_push_ups_front_male_ADPzk3B.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/diamond_push_ups_back_male_TETwiMz.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-diamond-push-ups-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-diamond-push-ups-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/diamond_push_ups_front_female_OsCFEYH.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/diamond_push_ups_back_female_OlWSbGi.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-diamond-push-ups-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-diamond-push-ups-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "تمديدات ثلاثية الرؤوس بالباربيل وأنت مستلقي",
+      "name_en": "Barbell Laying Triceps Extensions",
+      "name_alternative": null,
+      "slug": "barbell-laying-triceps-extensions",
+      "description": "<p><br></p>\n<h1>تمارين تمديد عضلات الذراع باستخدام البار: دليل شامل</h1>\n\n<h2>الإعداد</h2>\n<ul>\n   <li>استلقِ بشكل مستقيم على الدكة وضع قدميك بشكل ثابت على الأرض وضمان وضع الرأس وشفرات الكتف بشكل أمن على دكة التمرين.</li>\n   <li>أمسك البار (الباربيل) وارفعه فوق رأسك بيديك ممتدتين بالكامل وكفيك تشيران نحو الأعلى.</li>\n   <li>تأكد من أن البار موازن فوق صدرك وليس مائلاً نحو الجانب الأيسر أو الأيمن.</li>\n</ul>\n\n<h2>كيفية التنفيذ</h2>\n<ul>\n   <li>ثني ذراعيك ببطء وأخفض البار نحو جبينك وحافظ على أن يكون المرفقين قريبين من رأسك.</li>\n   <li>بمجرد وصولك للعمق المطلوب، قم بالتوقف برهة ثم مد ذراعيك مرة أخرى للوضعية الأصلية، مع مد عضلات الذراع الثلاثية بشكل كامل.</li>\n   <li>كرر التمرين للعدد المطلوب من المرات، مع التأكد من الحفاظ على النمط الصحيح والسيطرة طوال الحركة.</li>\n</ul>\n\n<h2>التقنية</h2>\n<ul>\n   <li>احافظ على استرخاء الأكتاف وتجنب رفعها أو تجاهلها نحو الأذنين.</li>\n   <li>حافظ على انحناء طفيف في أسفل ظهرك للحد من خطر الإصابة وزيادة تنشيط عضلات الذراع الثلاثية.</li>\n   <li>قم بالزفير أثناء تمديد ذراعيك والشهيق أثناء خفض البار نحو جبينك.</li>\n   <li>ركز على استخدام عضلات الذراع الثلاثية طوال النطاق المتحرك بأكمله، من أسفل الحركة إلى الأعلى.</li>\n</ul>\n\n<h2>الأمور التي يجب تجنبها</h2>\n<ul>\n   <li>ارتداد البار من جبينك أو استخدام القوة الدافعة لرفع الوزن.</li>\n   <li>السماح للمرفقين بالانبساط إلى الجانبين، مما يمكن أن يضع ضغطًا زائدًا على مفصل الكتف.</li>\n   <li>ثني ظهرك السفلي بشكل مفرط أو الانحناء كثيراً، مما يمكن أن يضر بفقرات العمود الفقري ويقلل من فعالية التمرين.</li>\n   <li>رفع وزن زائد والتنازل عن النمط الصحيح، مما يمكن أن يزيد من خطر الإصابة ويقلل من فعالية التمرين.</li>\n</ul>",
+      "description_en_us": "<p><br></p>\r\n<h1>Barbell Laying Triceps Extensions: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Lie flat on a bench with your feet firmly planted on the ground and your head and shoulder blades securely on the bench.</li>\r\n  <li>Grab a barbell and lift it over your head with your arms fully extended and your palms facing up.</li>\r\n  <li>Ensure that the barbell is balanced above your chest and not leaning to one side or the other.</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li>Slowly bend your arms and lower the barbell towards your forehead, keeping your elbows close to your head.</li>\r\n  <li>Once you reach the desired depth, pause briefly and then extend your arms back to the starting position, fully extending your triceps.</li>\r\n  <li>Repeat for the desired number of repetitions, making sure to maintain proper form and control throughout the movement.</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li>Keep your shoulders relaxed and avoid shrugging or lifting them towards your ears.</li>\r\n  <li>Maintain a slight arch in your lower back to reduce the risk of injury and increase activation of your triceps.</li>\r\n  <li>Exhale as you extend your arms and inhale as you lower the barbell towards your forehead.</li>\r\n  <li>Focus on engaging your triceps throughout the entire range of motion, from the bottom of the movement to the top.</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li>Bouncing the barbell off your forehead or using momentum to lift the weight.</li>\r\n  <li>Allowing your elbows to flare out to the sides, which can put excessive strain on your shoulder joint.</li>\r\n  <li>Rounding your lower back or arching too much, which can strain your spine and reduce the effectiveness of the exercise.</li>\r\n  <li>Lifting too much weight and compromising form, which can increase the risk of injury and decrease the effectiveness of the exercise.</li>\r\n</ul>",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "",
+        "name_en": "",
+        "description": "",
+        "description_en_us": ""
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استلقي على مقعد مستوي بينما تمسك بأحد الأثقال الطويلة (باربل) بقبضة بعرض الكتفين.",
+          "text_en": "Lay on a flat bench while holding a barbell with a shoulder-width grip."
+        },
+        {
+          "text": "قم بتمديد كوعيك بالكامل حتى يكون الباربيل مباشرة أعلى صدرك.",
+          "text_en": "Fully extend your elbows until the barbell is directly over your chest."
+        },
+        {
+          "text": "ابدأ بثني مرفقيك واسمح للباربيل بأن يلامس جبهتك تقريبًا.",
+          "text_en": "Begin to flex your elbows and allow the barbell to nearly touch your forehead."
+        },
+        {
+          "text": "أعد تمديد مرفقيك إلى الوضع الابتدائي وكرر الحركة.",
+          "text_en": "Extend your elbows back to the starting position and repeat."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Barbell Laying Triceps Extensions",
+        "Arm Exercise",
+        "Tricep Exercise",
+        "intermediate Barbell exercise",
+        "Triceps Exercise",
+        "كيفية أداء تمارين التمديد لعضلة ثلاثية الرؤوس بواسطة الباربيل وأنت مستلقٍ"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-laying-tricep-extensions-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-laying-tricep-extensions-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-laying-tricep-extensions-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-laying-tricep-extensions-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-laying-tricep-extensions-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-laying-tricep-extensions-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-laying-tricep-extensions-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-laying-tricep-extensions-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-laying-tricep-extensions-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-laying-tricep-extensions-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-laying-tricep-extensions-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-laying-tricep-extensions-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_laying_triceps_extensions_front_male_0H2tGkC.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_laying_triceps_extensions_back_male_9phZ4Ft.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-barbell-laying-triceps-extensions-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-barbell-laying-triceps-extensions-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_laying_triceps_extensions_front_female_hY5dfNz.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_laying_triceps_extensions_back_female_9wewwAB.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-barbell-laying-triceps-extensions-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-barbell-laying-triceps-extensions-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "تمديد ثلاثي الرؤوس باستخدام الدمبل المتدحرج",
+      "name_en": "Dumbbell Rolling Tricep Extension",
+      "name_alternative": null,
+      "slug": "dumbbell-rolling-tricep-extension",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Tricep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استلقِ بشكلٍ مسطح على مقعد التمارين بينما تمسك بثقلين دمبل متجهةً نحو السقف.",
+          "text_en": "Lay flat on a bench with two dumbbells pointed toward the ceiling."
+        },
+        {
+          "text": "قم بالانحناء من المرفقين حتى تلامس ساعديك ذراعيك العلويتين، ثم اثن من مفصل الكتف جاعلاً ذراعيك العلوية على جانبي رأسك.",
+          "text_en": "Break at the elbows until your forearms touch your biceps, then flex at the shoulder joint bringing your upper arms to the sides of your head."
+        },
+        {
+          "text": "أعد ثني مرفقيك للأعلى حتى تشيرا إلى السقف، ثم مد مرفقيك.",
+          "text_en": "Bring your elbows back up until they are pointed at the ceiling, then extend your elbows."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Dumbbell Rolling Tricep Extension",
+        "How to do Dumbbell Rolling Tricep Extension",
+        "Arm Exercise",
+        "ثلاثية الرؤوس",
+        "Tricep Exercise",
+        "advanced exercise",
+        "Triceps Exercise",
+        "Dumbbell Exercise",
+        "advanced Dumbbells exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-rolling-tricep-extension-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-rolling-tricep-extension-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-rolling-tricep-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-rolling-tricep-extension-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-rolling-tricep-extension-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-rolling-tricep-extension-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-rolling-tricep-extension-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-rolling-tricep-extension-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-rolling-tricep-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-rolling-tricep-extension-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-rolling-tricep-extension-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-rolling-tricep-extension-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rolling_tricep_extension_front_male_Qw6WES0.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rolling_tricep_extension_back_male_lo02mEZ.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-dumbbell-rolling-tricep-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-dumbbell-rolling-tricep-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rolling_tricep_extension_front_female_S6sqfHq.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rolling_tricep_extension_back_female_h6irSX9.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-dumbbell-rolling-tricep-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-dumbbell-rolling-tricep-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "الضغط لأسفل بواسطة حديد التمارين",
+      "name_en": "Cable Bar Pushdown",
+      "name_alternative": null,
+      "slug": "cable-bar-pushdown",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق القضيب. يجب ضبط الكابل في الجزء الأعلى تمامًا من الجهاز.",
+          "text_en": "Use the bar attachment. The cable should be set all the way at the top of the machine."
+        },
+        {
+          "text": "تأكد من أن تحافظ على ذراعك العلوية ملتصقة بجانبك. مد مرفقيك حتى تشعر بتقلص العضلة ثلاثية الرؤوس الخاصة بك.",
+          "text_en": "Make sure to keep your upper arm glued at your side. Extend your elbows until you feel your triceps contract."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Triceps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bar-pushdown-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bar-pushdown-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bar-pushdown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bar-pushdown-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bar-pushdown-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bar-pushdown-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bar-pushdown-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bar-pushdown-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bar-pushdown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bar-pushdown-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bar-pushdown-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bar-pushdown-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_pushdown_front_male_XqYkkcy.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_pushdown_back_male_TEk3CBA.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-bar-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-bar-pushdown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_pushdown_front_female_CfSVnak.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_pushdown_back_female_injMqO1.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-bar-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-bar-pushdown-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "تمرين كابل العضلة ثلاثية الرؤوس للوراء",
+      "name_en": "Cable Tricep Kickback",
+      "name_alternative": null,
+      "slug": "cable-tricep-kickback",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق المقبض. يجب أن يتم ضبط الكابل على ارتفاع الورك.",
+          "text_en": "Use a handle attachment. The cable should be set to hip height."
+        },
+        {
+          "text": "انحنِ للأمام. تأكد من أن تبقي ذراعك العلويّ ملتصق بالجانب. مد مفاصلك حتى تشعر بتقلص العضلات ثلاثية الرؤوس.",
+          "text_en": "Hinge forward. Make sure to keep your upper arm glued at your side. Extend your elbows until you feel your triceps contract."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Triceps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-tricep-kickback-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-tricep-kickback-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-tricep-kickback-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-tricep-kickback-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-tricep-kickback-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-tricep-kickback-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-tricep-kickback-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-tricep-kickback-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-tricep-kickback-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-tricep-kickback-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-tricep-kickback-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-tricep-kickback-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_tricep_kickback_front_male_AjZ8Z78.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_tricep_kickback_back_male_xrrRI3g.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-tricep-kickback-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-tricep-kickback-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_tricep_kickback_front_female_893aWr9.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_tricep_kickback_back_female_z6xW117.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-tricep-kickback-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-tricep-kickback-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "خفض الحبل بذراع واحدة باستخدام الكابل",
+      "name_en": "Cable Single Arm Rope Pushdown",
+      "name_alternative": null,
+      "slug": "cable-single-arm-rope-pushdown",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق الحبل. يجب أن يتم ضبط الكابل في أعلى الجهاز تمامًا.",
+          "text_en": "Use the rope attachment. The cable should be set all the way at the top of the machine."
+        },
+        {
+          "text": "تأكد من إبقاء ذراعك العلوي ملتصقًا بجانبك. مد أذرعك حتى تشعر بانكماش ثلاثية الرؤوس العضلة.",
+          "text_en": "Make sure to keep your upper arm glued at your side. Extend your elbows until you feel your triceps contract."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Triceps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-single-arm-rope-pushdown-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-single-arm-rope-pushdown-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-single-arm-rope-pushdown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-single-arm-rope-pushdown-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-single-arm-rope-pushdown-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-single-arm-rope-pushdown-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-single-arm-rope-pushdown-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-single-arm-rope-pushdown-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-single-arm-rope-pushdown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-single-arm-rope-pushdown-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-single-arm-rope-pushdown-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-single-arm-rope-pushdown-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_rope_pushdown_front_male_28Mgc88.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_rope_pushdown_back_male_b0lUg9C.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-single-arm-rope-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-single-arm-rope-pushdown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_rope_pushdown_front_female_7wRdpEf.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_rope_pushdown_back_female_geMB9Yd.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-single-arm-rope-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-single-arm-rope-pushdown-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "تمرين تمديد الذراعين بواسطة الدمبل وهو مستلقٍ على المائل",
+      "name_en": "Dumbbell Incline Skullover",
+      "name_alternative": null,
+      "slug": "dumbbell-incline-skullover",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Tricep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استلقِ بشكل مستقيم على مقعد مائل مع حمل ثقلين موجهين نحو السقف.",
+          "text_en": "Lay flat on an incline bench with two dumbbells pointed toward the ceiling."
+        },
+        {
+          "text": "قم بالانحناء عند المرفقين حتى تلمس ساعديك ذراعيك العلويتين، ثم ارفع في مفصل الكتف لتجلب ذراعيك العلويتين إلى جانبي رأسك.",
+          "text_en": "Break at the elbows until your forearms touch your biceps, then flex at the shoulder joint bringing your upper arms to the sides of your head."
+        },
+        {
+          "text": "ارفع مرفقيك إلى الأعلى حتى يشيران إلى السقف، ثم استدِر مرفقيك.",
+          "text_en": "Bring your elbows back up until they are pointed at the ceiling, then extend your elbows."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Dumbbell Exercise",
+        "Tricep Exercise",
+        "Triceps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-incline-skullover-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-incline-skullover-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-incline-skullover-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-incline-skullover-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-incline-skullover-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-incline-skullover-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-incline-skullover-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-incline-skullover-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-incline-skullover-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-incline-skullover-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-incline-skullover-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-incline-skullover-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_skullover_front_male_KkGY3Rd.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_skullover_back_male_4hfsArB.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-dumbbell-incline-skullover-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-dumbbell-incline-skullover-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_skullover_front_female_bIlVLya.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_skullover_back_female_ixQjk02.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-dumbbell-incline-skullover-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-dumbbell-incline-skullover-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "تمارين الغمس المساعدة بوزن الجسم على الصندوق",
+      "name_en": "Bodyweight Box Assisted Dips",
+      "name_alternative": null,
+      "slug": "bodyweight-box-assisted-dips",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الصدر",
+          "name_en_us": "Chest",
+          "description": "بشكل أساسي، هناك ثلاثة عضلات صدرية تشارك في الحركة: العضلة الصدرية الكبرى، العضلة الصدرية الصغرى، والعضلة المشطية الأمامية. \n\nترتبط العضلات الصدرية بشكل أساسي بحركة الكتفين والذراعين. عند العمل معًا، فإنها توفر الاستقرار للأنظمة العظمية مثل الترقوة (مفصل الترقوة) والكتف (العظم الشعاعي). تمكننا عضلات الصدر من رفع أذرعنا، وتمديدها، ولفها، إلى جانب اللعب دورًا في عملية التنفس. تتطلب العضلات الصدرية للقيام بالأنشطة اليومية مثل نقل الأثاث، رفع الأشياء الثقيلة، رمي الكرة الطائرة، وتمدد أذرعنا.",
+          "description_en_us": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الصدر",
+          "name_en_us": "Chest",
+          "description": "بشكل أساسي، هناك ثلاثة عضلات صدرية تشارك في الحركة: العضلة الصدرية الكبرى، العضلة الصدرية الصغرى، والعضلة المشطية الأمامية. \n\nترتبط العضلات الصدرية بشكل أساسي بحركة الكتفين والذراعين. عند العمل معًا، فإنها توفر الاستقرار للأنظمة العظمية مثل الترقوة (مفصل الترقوة) والكتف (العظم الشعاعي). تمكننا عضلات الصدر من رفع أذرعنا، وتمديدها، ولفها، إلى جانب اللعب دورًا في عملية التنفس. تتطلب العضلات الصدرية للقيام بالأنشطة اليومية مثل نقل الأثاث، رفع الأشياء الثقيلة، رمي الكرة الطائرة، وتمدد أذرعنا.",
+          "description_en_us": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك بحافة الصناديق باستخدام يديك، حافظ على أقدامك معًا وأرجلك مستقيمة.",
+          "text_en": "Grip the edge of the boxes with your hands, Keep your feet together and legs straight."
+        },
+        {
+          "text": "أنزل جسمك مباشرةً للأسفل.",
+          "text_en": "Lower your body straight down."
+        },
+        {
+          "text": "اضغط ببطء للعودة إلى نقطة البداية.",
+          "text_en": "Slowly press back up to the starting point."
+        },
+        {
+          "text": "نصيحة: يمكنك زيادة صعوبة التمرين برفع قدميك عن الأرض وإضافة وزن.",
+          "text_en": "TIP: Make this harder by raising your feet off the floor and adding weight."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Bodyweight Fitness",
+        "Triceps Exercise",
+        "At Home Exercise",
+        "Bodyweight Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-box-assisted-dips-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-bodyweight-box-assisted-dips-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-bodyweight-box-assisted-dips-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-box-assisted-dips-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-bodyweight-box-assisted-dips-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-bodyweight-box-assisted-dips-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-bodyweight-box-assisted-dips-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-bodyweight-box-assisted-dips-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-bodyweight-box-assisted-dips-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-bodyweight-box-assisted-dips-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-bodyweight-box-assisted-dips-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-bodyweight-box-assisted-dips-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_box_assisted_dips_front_male_QIoddiv.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_box_assisted_dips_back_male_fDRZfFG.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-bodyweight-box-assisted-dips-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-bodyweight-box-assisted-dips-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_box_assisted_dips_front_female_CEpyADG.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_box_assisted_dips_back_female_YPKJWvq.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-bodyweight-box-assisted-dips-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-bodyweight-box-assisted-dips-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "تمارين الضغط بالمقبض الصغير على آلة سميث",
+      "name_en": "Smith Machine Close Grip Bench Press",
+      "name_alternative": null,
+      "slug": "smith-machine-close-grip-bench-press",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الصدر",
+          "name_en_us": "Chest",
+          "description": "بشكل أساسي، هناك ثلاثة عضلات صدرية تشارك في الحركة: العضلة الصدرية الكبرى، العضلة الصدرية الصغرى، والعضلة المشطية الأمامية. \n\nترتبط العضلات الصدرية بشكل أساسي بحركة الكتفين والذراعين. عند العمل معًا، فإنها توفر الاستقرار للأنظمة العظمية مثل الترقوة (مفصل الترقوة) والكتف (العظم الشعاعي). تمكننا عضلات الصدر من رفع أذرعنا، وتمديدها، ولفها، إلى جانب اللعب دورًا في عملية التنفس. تتطلب العضلات الصدرية للقيام بالأنشطة اليومية مثل نقل الأثاث، رفع الأشياء الثقيلة، رمي الكرة الطائرة، وتمدد أذرعنا.",
+          "description_en_us": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة سميث",
+        "name_en": "Smith-Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استلقِ على القاعدة بظهرك مع وضع قدميك على الأرض. مع أن تضم أيديك على القضيب، يجب أن تجعل ذراعيك مستقيمة.",
+          "text_en": "Lay flat on the bench with your feet on the ground. With a narrow grip on the bar, straighten your arms"
+        },
+        {
+          "text": "أنزل القضيب إلى منتصف صدرك الأسفل",
+          "text_en": "Lower the bar to your lower-mid chest"
+        },
+        {
+          "text": "Slowly raise the bar until you've locked your elbows.",
+          "text_en": "Slowly raise the bar until you've locked your elbows."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Triceps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-close-grip-bench-press-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-close-grip-bench-press-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-close-grip-bench-press-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-close-grip-bench-press-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-close-grip-bench-press-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-close-grip-bench-press-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-close-grip-bench-press-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-close-grip-bench-press-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-close-grip-bench-press-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-close-grip-bench-press-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-close-grip-bench-press-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-close-grip-bench-press-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_close_grip_bench_press_front_male_NHEB78V.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_close_grip_bench_press_back_male_xWOktUV.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-smith-machine-close-grip-bench-press-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-smith-machine-close-grip-bench-press-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_close_grip_bench_press_front_female_SwJIjei.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_close_grip_bench_press_back_female_VcVHsi8.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-smith-machine-close-grip-bench-press-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-smith-machine-close-grip-bench-press-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "ضغط لأسفل بقبضة معكوسة عبر سلك البار",
+      "name_en": "Cable Bar Reverse Grip Pushdown",
+      "name_alternative": null,
+      "slug": "cable-bar-reverse-grip-pushdown",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترايسبس",
+          "name_en_us": "Triceps",
+          "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
+          "description_en_us": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+        },
+        {
+          "name": "الترايسبس (الرأس الجانبي)",
+          "name_en_us": "Lateral Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الترايسبس (الرأس الأوسط)",
+          "name_en_us": "Medial Head Triceps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق القضيب. يجب تعيين الكابل في أعلى الجهاز تمامًا. أمسك القضيب بقبضة اليد العليا.",
+          "text_en": "Use the bar attachment. The cable should be set all the way at the top of the machine. Grab the bar with n overhand grip."
+        },
+        {
+          "text": "تأكد من أن تبقي ذراعك العلوية ملتصقة بجانبك. استمر في تمديد مرفقيك حتى تشعر بتقلص ثلاثي رؤوس العضلة.",
+          "text_en": "Make sure to keep your upper arm glued at your side. Extend your elbows until you feel your triceps contract."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Tricep Exercise",
+        "Triceps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bar-reverse-grip-pushdown-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bar-reverse-grip-pushdown-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bar-reverse-grip-pushdown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bar-reverse-grip-pushdown-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bar-reverse-grip-pushdown-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bar-reverse-grip-pushdown-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bar-reverse-grip-pushdown-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bar-reverse-grip-pushdown-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bar-reverse-grip-pushdown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bar-reverse-grip-pushdown-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bar-reverse-grip-pushdown-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bar-reverse-grip-pushdown-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_reverse_grip_pushdown_front_male_Z36fNuV.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_reverse_grip_pushdown_back_male_AB51cXL.png",
+          "front_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-bar-reverse-grip-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lateral-head-triceps-cable-bar-reverse-grip-pushdown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_reverse_grip_pushdown_front_female_8Hl6Ds1.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_reverse_grip_pushdown_back_female_ey5bpUc.png",
+          "front_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-bar-reverse-grip-pushdown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lateral-head-triceps-cable-bar-reverse-grip-pushdown-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

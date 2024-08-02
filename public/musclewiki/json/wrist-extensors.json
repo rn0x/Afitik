@@ -1,0 +1,1665 @@
+{
+  "id": 14,
+  "name": "عضلات ممدة الرسغ",
+  "name_en_us": "Wrist Extensors",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "تمرين الشريطة العكسي بالدمبل",
+      "name_en": "Dumbbell Reverse Curl",
+      "name_alternative": null,
+      "slug": "dumbbell-reverse-curl",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك بالأثقال الحرة (الدمبلز) بقبضة معكوسة (من الأعلى). يمكنك تنفيذ هذا التمرين بدون استخدام الإبهام إذا كان أكثر راحة لمعصميك.",
+          "text_en": "Grab the dumbbells with a pronated (overhand) grip. You can do this exercise thumbless if it's more comfortable on your wrists."
+        },
+        {
+          "text": "افلق مرفقيك حتى يلامس ذراعك العلوية ذراعك السفلية. حاول ألا تدع مرفقيك تتأرجح خارجًا.",
+          "text_en": "Flex at the elbows until your biceps touch your forearms. Try not to let your elbows flair outward."
+        }
+      ],
+      "seo_tags": [
+        "How to do Dumbbell Reverse Curl",
+        "How To Do A Dumbbell Reverse Curl",
+        "Arm Exercise",
+        "Dumbbell Exercise",
+        "intermediate Dumbbells exercise",
+        "Biceps Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-reverse-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-reverse-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-reverse-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-reverse-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-reverse-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-reverse-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_front_male_pJwkhUN.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_back_male_ZoqJgMo.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-dumbbell-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-dumbbell-reverse-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_front_female_1bLvI1n.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_back_female_8bF73Zq.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-dumbbell-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-dumbbell-reverse-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "كرل عكسي بالباربيل",
+      "name_en": "Barbell Reverse Curl",
+      "name_alternative": null,
+      "slug": "barbell-reverse-curl",
+      "description": "<p><br></p>\n<h1>تمارين الشريط الثقيل بالمعكوس: دليل شامل</h1>\n<h2>الإعداد</h2>\n<ul>\n  <li>اختر شريطًا ثقيلًا بالوزن المناسب لمستوى قوتك</li>\n  <li>وقف مع قدميك على بُعد عرض الكتفين وأمسك الشريط بمسكة عكسية عرض كتفيك</li>\n  <li>احافظ على ذراعيك ممدة والشريط المعلق بطول الذراعين أمام أفخاذك</li>\n</ul>\n<h2>الطريقة الصحيحة لتأديتها</h2>\n<ul>\n  <li>تنفس بداخلك وشد عضلات كور الجسم</li>\n  <li>ارفع الشريط باتجاه صدرك، مع الحفاظ على ثبات أعلى الذراعين وإبقاء المرفقين قريبين من جذع الجسم</li>\n  <li>احتفظ بالتقلص في الأعلى لعدد واحد</li>\n  <li>أعد الشريط إلى الوضعية الابتدائية بتحكم، مع استنشاق الهواء أثناء ذلك</li>\n  <li>كرر الحركة للعدد المطلوب من التكرارات</li>\n</ul>\n<h2>التقنية</h2>\n<ul>\n  <li>احرص على أن تكون حركاتك سلسة ومسيطر عليها طوال التمرين</li>\n  <li>تجنب استخدام القوة لتأرجح الشريط صعودًا ونزولًا</li>\n  <li>ابق رأسك وعنقك في وضع محايد، ونظرًا للأمام وتجنب أي استجهاد غير ضروري للعنق</li>\n  <li>نشط شفرات الكتف وابق كتفيك لأسفل وبعيدًا عن أذنيك</li>\n</ul>\n<h2>أمور يجب تجنبها</h2>\n<ul>\n  <li>الاستخدام وزن ثقيل جدًا والتضحية بالشكل</li>\n  <li>الانحناء الزائد للظهر أو التمايل بشكل مفرط</li>\n  <li>تأمين المرفقين في أعلى الحركة</li>\n  <li>السماح للمرفقين بالانبساط إلى الجانبين</li>\n</ul>",
+      "description_en_us": "<p><br></p>\r\n<h1>Barbell Reverse Curl: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Select a barbell with the appropriate weight for your strength level</li>\r\n  <li>Stand with your feet shoulder-width apart and grip the barbell with a shoulder-width overhand grip</li>\r\n  <li>Keep your arms straight and the barbell hanging at arm's length in front of your thighs</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li>Breathe in and tighten your core</li>\r\n  <li>Curl the barbell upwards towards your chest, keeping your upper arms stationary and your elbows tucked in close to your torso</li>\r\n  <li>Hold the contraction at the top for a count of one</li>\r\n  <li>Lower the barbell back down to the starting position with control, inhaling as you do so</li>\r\n  <li>Repeat the movement for the desired number of reps</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li>Keep your movements smooth and controlled throughout the exercise</li>\r\n  <li>Avoid using momentum to swing the barbell up and down</li>\r\n  <li>Keep your head and neck in a neutral position, looking straight ahead and avoiding any unnecessary neck strain</li>\r\n  <li>Engage your shoulder blades and keep your shoulders down and away from your ears</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li>Using a weight that is too heavy and sacrificing form</li>\r\n  <li>Arching your back or swaying excessively</li>\r\n  <li>Locking out your elbows at the top of the movement</li>\r\n  <li>Allowing your elbows to flare out to the sides</li>\r\n</ul>",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قم بأخذ قبضة مزدوجة من فوق الكتف بمقدار عرض الكتف. انحني بمرفقيك مع الحفاظ على راحتيك في الداخل. حاول عدم السماح لهما بالانبساط.",
+          "text_en": "Take a double overhand grip that's about shoulder width. Flex your elbows while keeping your elbows tucked in. Try not to let them flare out."
+        },
+        {
+          "text": "قم بالثني حتى يضغط ساعدك على ذراعك العلوية. ثم قم بتمديد مرفقيك بالكامل في نهاية كل تكرار.",
+          "text_en": "Curl until your forearm presses into your bicep. Then fully extend your elbows at the bottom of each rep."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "How to do Barbell Reverse Curl",
+        "How To Do A Barbell Reverse Curl",
+        "advanced exercise",
+        "Biceps Exercise",
+        "advanced Barbell exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-reverse-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-reverse-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-reverse-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-reverse-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-reverse-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-reverse-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-reverse-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_front_male_Jz9Z4q2.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_back_male_yKvCmPb.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-barbell-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-barbell-reverse-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_front_female_Isie5EQ.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_back_female_w7dhuxo.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-barbell-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-barbell-reverse-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "تمديد المعصم بالدمبل",
+      "name_en": "Dumbbell Wrist Extension",
+      "name_alternative": null,
+      "slug": "dumbbell-wrist-extension",
+      "description": "<p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><font color=#000000 face=Arial><span style=font-size: 36px; white-space: pre-wrap;><b>التفاصيل الدقيقة لتمرين تمديد المعصم بالدمبل:</b></span></font></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b><br></b></span></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>الإعداد</b></span></p><p><b style=font-weight:normal; id=docs-internal-guid-cb1a3cfe-7fff-8055-9e1a-87e8061b0e84><br></b></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>سوف تحتاج إلى صندوق أو مقعد. يمكنك اخذ وضعية الجلوس (كما في الفيديو التوضيحي لدينا)، أو وضعية الركوع.</span></p><ul style=margin-top:0;margin-bottom:0;padding-inline-start:48px;><li dir=ltr style=list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre; aria-level=1><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt; role=presentation><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>في وضعية الجلوس، ضع قدميك على عرض الكتفين وضع ساعديك فوق ركبتيك.</span></p></li><li dir=ltr style=list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre; aria-level=1><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt; role=presentation><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;> في وضعية الركوع، ضع ساعديك فوق حافة الصندوق أو المقعد. يجب أن يكون ساعدك بعيداً بما فيه الكفاية عن الصندوق أو المقعد بحيث تستطيع أن تثني معصمك بالكامل في نهاية نطاق الحركة.</span></p></li></ul><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b><br></b></span></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>تأدية الحركة</b></span></p><p><br></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>دع الدمبل يثني معصمك بالكامل قبل بدء تنفيذ التراكبي. قم بتمديد معصمك وارفع قبضتك باتجاه السقف بأعلى ما يمكن. يجب أن تشعر بتقلص عضلات الساعد في جزء اليد العلوي بقوة شديدة. اجعل التركيز على نطاق الحركة مع هذا التمرين. يمكن أن يكون من السهل جداً البدء في القيام بتكرارات ضمن نطاق حركة جزئي في هذا التمرين. مثل أي تمرين آخر، عندما لا تستطيع القيام بنطاق حركة مناسب، انه الجولة.</span></p>",
+      "description_en_us": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\" face=\"Arial\"><span style=\"font-size: 36px; white-space: pre-wrap;\"><b>Dumbbell Wrist Extension Detailed How To:</b></span></font></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-cb1a3cfe-7fff-8055-9e1a-87e8061b0e84\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">You will need a box or a bench. You can either take a seated position (like in our demo video), or a kneeling position.&nbsp;</span></p><ul style=\"margin-top:0;margin-bottom:0;padding-inline-start:48px;\"><li dir=\"ltr\" style=\"list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\" role=\"presentation\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">In the seated position, put your feet shoulder width, and drape your forearms over your knees.&nbsp;</span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\" role=\"presentation\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">In a kneeling position, drape your forearms over the edge of the box, or a bench. Your forearms should be far enough off the box or bench that you can fully flex your wrist at the bottom of the range of motion.</span></p></li></ul><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing</b></span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Let the dumbbells fully flex your wrists before initiating the concentric. Extend your wrists and point your fists up towards the ceiling as high as you possibly can. You should feel the forearm muscles on the top of your arm contract really hard. Make sure to focus on the range of motion with this exercise. It can be very easy to begin doing partial range of motion reps on this exercise. Like any other exercise, when you can no longer perform the adequate range of motion end the set</span></p>",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/lyMpCIUE6ms"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/lyMpCIUE6ms"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك بثنائية الأثقال بإطباق علوي وضع ساعدك على ركبتيك.",
+          "text_en": "Grab two dumbbells with an overhand grip and lay your forearms across your knees."
+        },
+        {
+          "text": "دع معصميك تنحني بشكل كامل، ثم قم بتمديد معصميك.",
+          "text_en": "Let your wrists flex fully, then extend your wrists."
+        }
+      ],
+      "seo_tags": [
+        "Forearm Exercise",
+        "Forearms Exercise",
+        "How to do Dumbbell Wrist Extension",
+        "Dumbbell Exercise",
+        "How To Do A Dumbbell Wrist Extension",
+        "beginner Dumbbells exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wrist-extension-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-wrist-extension-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wrist-extension-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-wrist-extension-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-wrist-extension-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-wrist-extension-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-wrist-extension-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-wrist-extension-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_front_male_s0Q9Mh5.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_back_male_SnkuXQw.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-dumbbell-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-dumbbell-wrist-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_front_female_U6FnUBc.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_back_female_LSBUll6.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-dumbbell-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-dumbbell-wrist-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "تمديد المعصم بواسطة الكابل",
+      "name_en": "Cable Wrist Extension",
+      "name_alternative": null,
+      "slug": "cable-wrist-extension",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "",
+        "name_en": "",
+        "description": "",
+        "description_en_us": ""
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق المقبض. يجب ضبط الكابل في الجزء السفلي الأقصى من الجهاز.",
+          "text_en": "Use a handle attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "اوجه وجهك بعيدًا عن آلة الكابل. قم بتباعد خطواتك لتحصل على قاعدة دعم أفضل.",
+          "text_en": "Face away from the cable machine. Stagger your stance so you have a better base of support."
+        },
+        {
+          "text": "ابدأ بوضع كوعك على زاوية 90 درجة مع توجيه راحتك لأسفل. ثم انحن وامتد عند المعصم.",
+          "text_en": "Start with your elbow at a 90 degree angle with your palm facing down. Flex and extend at the wrist."
+        }
+      ],
+      "seo_tags": [
+        "Forearm Exercise",
+        "Forearms Exercise",
+        "advanced exercise",
+        "advanced Cables exercise",
+        "كيفية تنفيذ تمرين تمديد معصم بواسطة الكابلات",
+        "How To Do A Cable Wrist Extension"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-wrist-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-cable-wrist-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-cable-wrist-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-wrist-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-cable-wrist-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-cable-wrist-curl-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-cable-wrist-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-cable-wrist-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-cable-wrist-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-cable-wrist-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-cable-wrist-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-cable-wrist-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_wrist_extension_front_male_DIxFTPs.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_wrist_extension_back_male_xf7w6S7.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-wrist-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_wrist_extension_front_female_XvMVEqH.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_wrist_extension_back_female_kveCzfk.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-wrist-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "تمديد المعصم بالكرة الحديدية",
+      "name_en": "Kettlebell Wrist Extension",
+      "name_alternative": null,
+      "slug": "kettlebell-wrist-extension",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "",
+        "name_en": "",
+        "description": "",
+        "description_en_us": ""
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قم بالوقوف بشكل مستقيم مع غلاية في كلتا يديك أمام حوضك، مع مواجهة ساعديك للداخل.",
+          "text_en": "Stand up straight with a kettlebell in both hands in front of your pelvis, with your forearms facing inwards."
+        },
+        {
+          "text": "ثنِ معصمك نحو الأعلى حتى يتم تمديد المعاصم بشكل كامل.",
+          "text_en": "Flex your wrist upwards until wrists are fully extended."
+        },
+        {
+          "text": "أعد الانحناء إلى الوضعية الابتدائية وكرر.",
+          "text_en": "Lower to the starting position and repeat."
+        }
+      ],
+      "seo_tags": [
+        "Forearm Exercise",
+        "Forearms Exercise",
+        "Kettlebell Exercise",
+        "beginner Kettlebells exercise",
+        "Kettlebells",
+        "How To Do A Kettlebell Wrist Extension",
+        "كيفية تنفيذ تمرين تمديد المعصم باستخدام الكاتلبيل"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-wrist-extension-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-wrist-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-wrist-extension-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-wrist-extension-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-wrist-extension-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-wrist-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-wrist-extension-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-wrist-extension-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_wrist_extension_front_male_AOH8DFf.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_wrist_extension_back_male_eAOfTqf.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-kettlebell-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-kettlebell-wrist-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_wrist_extension_front_female_KAK8SuK.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_wrist_extension_back_female_969CXVD.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-kettlebell-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-kettlebell-wrist-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "تمرين الكابل العكسي لذراع واحدة",
+      "name_en": "Cable Single Arm Reverse Curl",
+      "name_alternative": null,
+      "slug": "cable-single-arm-reverse-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق المقبض. يجب ضبط الكابل في الجزء الأدنى من الجهاز تمامًا.",
+          "text_en": "Use a handle attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "وجه ظهرك نحو آلة الكابلات. إجعل وضعية قدميك منتظمة بشكل متباعد لتحصل على قاعدة دعم أفضل.",
+          "text_en": "Face away from the cable machine. Stagger your stance so you have a better base of support."
+        },
+        {
+          "text": "وجه راحة يدك إلى الأسفل. انحنِ في المرفق ومد.",
+          "text_en": "Face your palm downwards. Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "intermediate Cables exercise",
+        "How To Do A Cable Reverse Curl",
+        "Biceps Exercise",
+        "How to do Cable Reverse Curl",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-reverse-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-reverse-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-reverse-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-reverse-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-reverse-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-reverse-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_reverse_curl_front_male_oKWoio1.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_reverse_curl_back_male_JjkkDET.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-single-arm-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-single-arm-reverse-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_reverse_curl_front_female_ojYF9nd.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_reverse_curl_back_female_7vcairT.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-single-arm-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-single-arm-reverse-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "تمرين ببنش باستخدام الكابل بالجلوس في الوضع المعكوس",
+      "name_en": "Cable Seated Bayesian Reverse Curl",
+      "name_alternative": null,
+      "slug": "cable-seated-bayesian-reverse-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق مقبض. يجب ضبط الكابل في الجزء الأسفل من الجهاز تمامًا.",
+          "text_en": "Use a handle attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "استدر بعيدًا عن آلة الكابل واجلس على الكرسي. قم بتناوب وضعية قوائمك لتحصل على قاعدة دعم أفضل.",
+          "text_en": "Face away from the cable machine and sit on the bench. Stagger your stance so you have a better base of support."
+        },
+        {
+          "text": "وجّه راحة يدك نحو الأسفل. انحن في المرفق ومدّ يديك.",
+          "text_en": "Face your palm downwards. Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-seated-bayesian-reverse-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-seated-bayesian-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-seated-bayesian-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-seated-bayesian-reverse-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-seated-bayesian-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-seated-bayesian-reverse-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-seated-bayesian-reverse-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-seated-bayesian-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-seated-bayesian-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-seated-bayesian-reverse-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-seated-bayesian-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-seated-bayesian-reverse-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_reverse_curl_front_male_JQrBT7L.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_reverse_curl_back_male_8LXA92k.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-seated-bayesian-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-seated-bayesian-reverse-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_reverse_curl_front_female_eeAzME1.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_reverse_curl_back_female_9Knzl78.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-seated-bayesian-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-seated-bayesian-reverse-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "تمارين الرفع الثنائية العكسية باستخدام الكابلات",
+      "name_en": "Cable Reverse Bayesian Curl",
+      "name_alternative": null,
+      "slug": "cable-reverse-bayesian-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق المقبض. يجب ضبط الكابل في الجزء الأسفل تمامًا من الجهاز.",
+          "text_en": "Use a handle attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "اوجه ظهرك بعيداً عن آلة الكابل. قم بتباعد قدميك بشكل متساوٍ لتحصل على قاعدة دعم أفضل.",
+          "text_en": "Face away from the cable machine. Stagger your stance so you have a better base of support."
+        },
+        {
+          "text": "وجّه راحة يدك للأسفل. اثنِ في المرفق ومدّ.",
+          "text_en": "Face your palm downwards. Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-reverse-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-reverse-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-reverse-bayesian-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-reverse-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-reverse-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-reverse-bayesian-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-reverse-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-reverse-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-reverse-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-reverse-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-reverse-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-reverse-bayesian-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_reverse_bayesian_curl_front_male_681rYcm.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_reverse_bayesian_curl_back_male_DpGe6fO.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-reverse-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-cable-reverse-bayesian-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_reverse_bayesian_curl_front_female_9VdIGPp.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_reverse_bayesian_curl_back_female_hnU14BU.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-reverse-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-cable-reverse-bayesian-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "تمديد معصم الباربيل",
+      "name_en": "Barbell Wrist Extension",
+      "name_alternative": null,
+      "slug": "barbell-wrist-extension",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك بالباربيل بقبضة علوية وضع ساعدك على مقعد.",
+          "text_en": "Grab a barbell with an overhand grip and lay your forearms across a bench."
+        },
+        {
+          "text": "دع مفاصل يديك تنحني بشكل كامل، ثم امتداد مفاصل يديك.",
+          "text_en": "Let your wrists flex fully, then extend your wrists."
+        }
+      ],
+      "seo_tags": [
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-wrist-extension-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-wrist-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-wrist-extension-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-wrist-extension-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-wrist-extension-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-wrist-extension-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-wrist-extension-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-wrist-extension-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_wrist_extension_front_male_kMfqslm.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_wrist_extension_back_male_upnqicu.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-barbell-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-barbell-wrist-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_wrist_extension_front_female_OF8o9vT.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_wrist_extension_back_female_nsK29mm.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-barbell-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-barbell-wrist-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "تمديد معصم الدمبل على الدكة",
+      "name_en": "Dumbbell Bench Wrist Extension",
+      "name_alternative": null,
+      "slug": "dumbbell-bench-wrist-extension",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك بدمبلين بإستخدام قبضة الطائرة وضع ساعديك على مقعد التمارين.",
+          "text_en": "Grab two dumbbells with an overhand grip and lay your forearms across a bench."
+        },
+        {
+          "text": "دع معصميك تنحني بشكل كامل، ثم مد معصميك.",
+          "text_en": "Let your wrists flex fully, then extend your wrists."
+        }
+      ],
+      "seo_tags": [
+        "Dumbbell Exercise",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-bench-wrist-extension-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-bench-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-bench-wrist-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-bench-wrist-extension-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-bench-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-bench-wrist-extension-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-bench-wrist-extension-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-bench-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-bench-wrist-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-bench-wrist-extension-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-bench-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-bench-wrist-extension-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_extension_front_male_XWAdrk1.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_extension_back_male_T6AelA2.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-dumbbell-bench-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-dumbbell-bench-wrist-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_extension_front_female_9hdURmn.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_extension_back_female_j2MxxsQ.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-dumbbell-bench-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-dumbbell-bench-wrist-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "تمديد معصم الكرسي باستخدام الكرة الحديدية",
+      "name_en": "Kettlebell Bench Wrist Extension",
+      "name_alternative": null,
+      "slug": "kettlebell-bench-wrist-extension",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "امسك بكيتلبيلين بقبضة علوية وضع ساعديك على مقعد الرياضة.",
+          "text_en": "Grab two kettlebells with an overhand grip and lay your forearms across a bench."
+        },
+        {
+          "text": "اترك معصميك تتمددان بشكل كامل، ثم قم بتمديد معصميك.",
+          "text_en": "Let your wrists flex fully, then extend your wrists."
+        }
+      ],
+      "seo_tags": [
+        "Kettlebell Exercise",
+        "Kettlebells",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-bench-wrist-extension-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-bench-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-bench-wrist-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-bench-wrist-extension-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-bench-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-bench-wrist-extension-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-bench-wrist-extension-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-bench-wrist-extension-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-bench-wrist-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-bench-wrist-extension-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-bench-wrist-extension-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-bench-wrist-extension-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_bench_wrist_extension_front_male_lWYGvvp.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_bench_wrist_extension_back_male_FOrGkES.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-kettlebell-bench-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-kettlebell-bench-wrist-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_bench_wrist_extension_front_female_1hylh6N.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_bench_wrist_extension_back_female_Bahpdwh.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-kettlebell-bench-wrist-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-kettlebell-bench-wrist-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "نص: الاستمرار في الركوع مع تمدد عضلات الرسغ",
+      "name_en": "Wrist Extensor Kneeling Hold",
+      "name_alternative": null,
+      "slug": "wrist-extensor-isometric-dumbbell-kneeling",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ضع ساعدك على دكة.",
+          "text_en": "Drape your forearm over a bench."
+        },
+        {
+          "text": "احمل ثقل من الدمبل بوضعية محايدة للمعصم بحيث تكون راحة يدك متجهة للأسفل.",
+          "text_en": "Hold a dumbbell in a neutral wrist position with your palm facing downwards."
+        }
+      ],
+      "seo_tags": [
+        "Wrist Extensors Exercise",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_front_male_6uhmHYf.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_back_male_lkU14dK.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-wrist-extensor-isometric-dumbbell-kneeling-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-wrist-extensor-isometric-dumbbell-kneeling-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_front_female_t5h3miG.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_back_female_33BdOVz.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-wrist-extensor-isometric-dumbbell-kneeling-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-wrist-extensor-isometric-dumbbell-kneeling-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "نص: تحريك عضلات مُوَسِّعة المعصم",
+      "name_en": "Wrist Extensor Mobilisation",
+      "name_alternative": null,
+      "slug": "wrist-extensor-mobilisation-lacrosse-ball-kneeling",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "Kneel by a bench placing the arm you want to mobilise on, palm facing down.",
+          "text_en": "Kneel by a bench placing the arm you want to mobilise on, palm facing down."
+        },
+        {
+          "text": "Bring a massage ball to the top of your forearm and move it around applying gentle pressure.",
+          "text_en": "Bring a massage ball to the top of your forearm and move it around applying gentle pressure."
+        },
+        {
+          "text": "Find the right/sore spot.",
+          "text_en": "Find the right/sore spot."
+        },
+        {
+          "text": "يمكنك تحريك معصمك في اتجاهات مختلفة لتحرير عضلات معصمك الممتدة.",
+          "text_en": "You can move your wrist in various directions in order to mobilise your wrist extensors."
+        }
+      ],
+      "seo_tags": [
+        "Wrist Extensors Exercise",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_front_male_XV13Niy.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_back_male_B3RdVHs.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-wrist-extensor-mobilisation-lacrosse-ball-kneeling-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_front_female_4IrjAsT.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_back_female_gc6FDDe.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-wrist-extensor-mobilisation-lacrosse-ball-kneeling-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "تمارين الإطالة لعضلات مُوَسِّع الرسغ وأنت جالس",
+      "name_en": "Seated Wrist Extensor Stretch",
+      "name_alternative": null,
+      "slug": "wrist-extensor-stretch-seated",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات ممدة الرسغ",
+          "name_en_us": "Wrist Extensors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "النص: ارفع ذراعك الواحدة مع الحفاظ على استرخاء كتفك.",
+          "text_en": "Raise one arm keeping your shoulder relaxed."
+        },
+        {
+          "text": "أمسك بظهر كفك باليد الأخرى وافرد المعصم بشكل سلبي.",
+          "text_en": "Hold the back of your palm with the other hand and passively flex the wrist."
+        },
+        {
+          "text": "يجب أن تشعر بمد في الجزء العلوي من ذراعك.",
+          "text_en": "You should feel a stretch on the top part of your arm."
+        }
+      ],
+      "seo_tags": [
+        "Wrist Extensors Exercise",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-stretch-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-wrist-extensor-stretch-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-wrist-extensor-stretch-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-stretch-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-wrist-extensor-stretch-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-wrist-extensor-stretch-seated-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-wrist-extensor-stretch-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-wrist-extensor-stretch-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-wrist-extensor-stretch-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-wrist-extensor-stretch-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-wrist-extensor-stretch-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-wrist-extensor-stretch-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_front_male_ph0mMPo.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_back_male_ilbvPrU.png",
+          "front_file_path": "musclewiki/male/bodymaps/wrist-extensors-wrist-extensor-stretch-seated-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/wrist-extensors-wrist-extensor-stretch-seated-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_front_female_tq1mGHe.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_back_female_fS0DewD.png",
+          "front_file_path": "musclewiki/female/bodymaps/wrist-extensors-wrist-extensor-stretch-seated-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/wrist-extensors-wrist-extensor-stretch-seated-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

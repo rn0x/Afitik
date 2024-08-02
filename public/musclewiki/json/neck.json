@@ -1,0 +1,702 @@
+{
+  "id": 48,
+  "name": "رقبة",
+  "name_en_us": "Neck",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "تمارين دوران الرقبة واقفًا",
+      "name_en": "Standing Neck Mobility Circumductions",
+      "name_alternative": null,
+      "slug": "standing-neck-mobility-circumductions",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اسحب كتفيك للخلف وبعيدًا عن الأذنين وقم بفرد ظهرك.",
+          "text_en": "Pull your shoulders back and away from the ears and straighten the back"
+        },
+        {
+          "text": "حرك الرأس دائريًا في الاتجاهين، الساعة وعكس عقارب الساعة، مع التأكد من أنك تعمل على المدى النهائي للحركة طوال الوقت.",
+          "text_en": "Circumduct the head both clockwise and anti-clockwise making sure you  are working on the end range throughout the movement."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-circumductions-standing-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-circumductions-standing-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-circumductions-standing-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-circumductions-standing-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-circumductions-standing-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-circumductions-standing-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-circumductions-standing-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-circumductions-standing-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-circumductions-standing-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-circumductions-standing-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-circumductions-standing-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-circumductions-standing-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_mobility_circumductions_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_mobility_circumductions_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/neck-standing-neck-mobility-circumductions-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/neck-standing-neck-mobility-circumductions-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_mobility_circumductions_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_mobility_circumductions_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/neck-standing-neck-mobility-circumductions-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/neck-standing-neck-mobility-circumductions-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "تمارين تمديد الرقبة الواقفة",
+      "name_en": "Standing Neck Extensions",
+      "name_alternative": null,
+      "slug": "standing-neck-extensions",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اسحب كتفيك للخلف وبعيدًا عن الأذنين وقم بفرد ظهرك.",
+          "text_en": "Pull your shoulders back and away from the ears and straighten the back."
+        },
+        {
+          "text": "مِل رأسك للخلف محاولًا الحفائظ على استقامة مقدمة العنق.",
+          "text_en": "Lean your head back trying to keep the front of the neck straight."
+        },
+        {
+          "text": "ارفع ذقنك نحو السقف.",
+          "text_en": "Point your chin to the ceiling."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-extensions-standing-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-extensions-standing-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-extensions-standing-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-extensions-standing-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-extensions-standing-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-extensions-standing-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-extensions-standing-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-extensions-standing-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-extensions-standing-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-extensions-standing-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-extensions-standing-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-extensions-standing-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_extensions_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_extensions_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/neck-standing-neck-extensions-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/neck-standing-neck-extensions-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_extensions_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_extensions_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/neck-standing-neck-extensions-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/neck-standing-neck-extensions-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "تمارين انثناء الرقبة واقفًا",
+      "name_en": "Standing Neck Flexions",
+      "name_alternative": null,
+      "slug": "standing-neck-flexions",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اسحب كتفيك للخلف وبعيدًا عن أذنيك وقم بفرد ظهرك.",
+          "text_en": "Pull your shoulders back and away from the ears and straighten the back."
+        },
+        {
+          "text": "احنِ ذقنك للداخل وأنزل رأسك إلى الأمام دون تقويس ظهرك.",
+          "text_en": "Tuck your chin in and drop your head forwards without rounding the back."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-flexions-standing-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-flexions-standing-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-flexions-standing-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-flexions-standing-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-flexions-standing-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-flexions-standing-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-flexions-standing-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-flexions-standing-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-flexions-standing-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-flexions-standing-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-flexions-standing-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-flexions-standing-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_flexions_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_flexions_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/neck-standing-neck-flexions-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/neck-standing-neck-flexions-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_flexions_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_flexions_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/neck-standing-neck-flexions-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/neck-standing-neck-flexions-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "دوران الرقبة الواقفة",
+      "name_en": "Standing Neck Rotations",
+      "name_alternative": null,
+      "slug": "standing-neck-rotations",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اسحب كتفيك للخلف وبعيدًا عن الأذنين وقم بفرد ظهرك.",
+          "text_en": "Pull your shoulders back and away from the ears and straighten the back."
+        },
+        {
+          "text": "قم بتحريك رأسك من جانب إلى جانب دون تقويس كتفيك.",
+          "text_en": "Rotate your head from side to side without rounding your shoulders."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-rotations-standing-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-rotations-standing-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-rotations-standing-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-rotations-standing-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-rotations-standing-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-rotations-standing-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-rotations-standing-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-rotations-standing-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-rotations-standing-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-rotations-standing-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-rotations-standing-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-rotations-standing-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_rotations_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_rotations_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/neck-standing-neck-rotations-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/neck-standing-neck-rotations-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_rotations_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_rotations_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/neck-standing-neck-rotations-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/neck-standing-neck-rotations-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "انثناءات الرقبة الجانبية واقفًا",
+      "name_en": "Standing Neck Side Flexions",
+      "name_alternative": null,
+      "slug": "standing-neck-side-flexions",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اسحب كتفيك للخلف وبعيدًا عن الأذنين وقم بفرد ظهرك.",
+          "text_en": "Pull your shoulders back and away from the ears and straighten the back."
+        },
+        {
+          "text": "أمل رأسك إلى الجانب (اقرب أذنك إلى كتفك) دون رفع كتفك أو ميلان العمود الفقري إلى الجانب.",
+          "text_en": "Lean your head to the side (bring your ear to your shoulder) without shrugging your shoulder or leaning the spine to the side."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-side-flexions-standing-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-side-flexions-standing-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-side-flexions-standing-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-neck-mobility-side-flexions-standing-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-neck-mobility-side-flexions-standing-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-neck-mobility-side-flexions-standing-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-side-flexions-standing-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-side-flexions-standing-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-side-flexions-standing-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-neck-mobility-side-flexions-standing-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-neck-mobility-side-flexions-standing-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-neck-mobility-side-flexions-standing-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_side_flexions_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_side_flexions_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/neck-standing-neck-side-flexions-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/neck-standing-neck-side-flexions-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_side_flexions_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_neck_side_flexions_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/neck-standing-neck-side-flexions-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/neck-standing-neck-side-flexions-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "تمرين تحريك العصب الشعاعي وأنت جالس",
+      "name_en": "Seated Radial Nerve Slider",
+      "name_alternative": null,
+      "slug": "seated-radial-nerve-slider",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من وضع الجلوس، قم بمد ذراعك إلى الجانب مع استدارة راحة اليد للخلف.",
+          "text_en": "From the seated position bring your arm out to the side with the palm facing back."
+        },
+        {
+          "text": "قم بثني معصمك في نفس الوقت الذي تميل فيه رأسك نحو ذراعك الممدودة.",
+          "text_en": "Flex your wrist at the same time you are leaning your head towards your outstretched arm."
+        },
+        {
+          "text": "اثنِ رأسك بعيدًا عن الذراع الممدودة في حين تقوم بمد معصمك في نفس الوقت.",
+          "text_en": "Bend your head away from the the outstretched arm while simultaneously extending the wrist."
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-radial-nerve-slider-mobility-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-radial-nerve-slider-mobility-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-radial-nerve-slider-mobility-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-radial-nerve-slider-mobility-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-radial-nerve-slider-mobility-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-radial-nerve-slider-mobility-seated-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-radial-nerve-slider-mobility-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-radial-nerve-slider-mobility-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-radial-nerve-slider-mobility-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-radial-nerve-slider-mobility-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-radial-nerve-slider-mobility-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-radial-nerve-slider-mobility-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_slider_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_slider_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/neck-seated-radial-nerve-slider-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/neck-seated-radial-nerve-slider-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_slider_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_slider_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/neck-seated-radial-nerve-slider-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/neck-seated-radial-nerve-slider-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "تمرين شد العصب الكعبري جالساً",
+      "name_en": "Seated Radial Nerve Tensioner",
+      "name_alternative": null,
+      "slug": "seated-radial-nerve-tensioner",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "رقبة",
+          "name_en_us": "Neck",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اثنِ مرفقك مقربًا إبهامك إلى وسط صدرك.",
+          "text_en": "Bend your elbow bringing your thumb to the centre of your chest."
+        },
+        {
+          "text": "مدِّ ذراعك إلى الجانب مع استدارة راحة يدك للخلف وانثناء المعصم",
+          "text_en": "Extend your elbow to the side with the palm facing back, and wrist flexed"
+        },
+        {
+          "text": "أثناء مد ذراعك، مِل رأسك نحو الكتف الآخر.",
+          "text_en": "As your extending the arm, lean your head towards the opposite shoulder"
+        },
+        {
+          "text": "بمجرد أن تصل إلى أقصى درجة من التوتر (دون ألم)، حافظ على الوضعية.",
+          "text_en": "Once you reach maximum tension (without pain) hold the position"
+        }
+      ],
+      "seo_tags": [],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-radial-nerve-tensioner-mobility-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-radial-nerve-tensioner-mobility-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-radial-nerve-tensioner-mobility-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-radial-nerve-tensioner-mobility-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-radial-nerve-tensioner-mobility-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-radial-nerve-tensioner-mobility-seated-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-radial-nerve-tensioner-mobility-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-radial-nerve-tensioner-mobility-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-radial-nerve-tensioner-mobility-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-radial-nerve-tensioner-mobility-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-radial-nerve-tensioner-mobility-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-radial-nerve-tensioner-mobility-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_tensioner_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_tensioner_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/neck-seated-radial-nerve-tensioner-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/neck-seated-radial-nerve-tensioner-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_tensioner_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_radial_nerve_tensioner_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/neck-seated-radial-nerve-tensioner-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/neck-seated-radial-nerve-tensioner-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

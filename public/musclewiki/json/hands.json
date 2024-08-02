@@ -1,0 +1,1078 @@
+{
+  "id": 43,
+  "name": "اليدين",
+  "name_en_us": "Hands",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "حمل الرياضيين برفع الكيتلبيل",
+      "name_en": "Kettlebell Farmers Carry",
+      "name_alternative": null,
+      "slug": "kettlebell-farmers-carry",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/kbYpTzM5Ua8"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/kbYpTzM5Ua8"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "امسك بكيتلبل في كل يد.",
+          "text_en": "Hold two kettlebells in each hand."
+        },
+        {
+          "text": "احرص على سحب لوحي كتفيك للخلف واستمر في المشي لمدة محددة.",
+          "text_en": "Keep your shoulders blades pulled back and walk for a specified duration."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Kettlebell Farmers Carry",
+        "Forearm Exercise",
+        "Forearms Exercise",
+        "Kettlebell Exercise",
+        "beginner Kettlebells exercise",
+        "Kettlebells",
+        "كيفية تنفيذ تمرين حمل الركبة بالكتل الحديدية"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-farmers-carry-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-farmers-carry-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-farmers-carry-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-farmers-carry-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-farmers-carry-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-farmers-carry-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-farmers-carry-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-farmers-carry-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-farmers-carry-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-farmers-carry-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-farmers-carry-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-farmers-carry-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_carry_front_male_mbaQgJj.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_carry_back_male_yhDlf7O.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-kettlebell-farmers-carry-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-kettlebell-farmers-carry-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_carry_front_female_vxC6gEU.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_carry_back_female_BosGDkV.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-kettlebell-farmers-carry-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-kettlebell-farmers-carry-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "حمل المزارع بطريقة القرص",
+      "name_en": "Plate Pinch Grip Farmer's Carry",
+      "name_alternative": null,
+      "slug": "plate-pinch-grip-farmers-carry",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "طبق",
+        "name_en": "Plate"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بكامل طولك ممسكاً بصحنين في كل يد بواسطة قبضة الراحة.",
+          "text_en": "Stand tall holding two plates in each hand with a pinch grip."
+        },
+        {
+          "text": "قم بالمشي للمسافة أو الوقت المطلوب.",
+          "text_en": "Walk for the desired distance or time."
+        }
+      ],
+      "seo_tags": [
+        "Forearm Exercise",
+        "Forearms Exercise",
+        "How to do Plate Pinch Grip Farmer's Carry",
+        "intermediate Plate exercise",
+        "How To Do A Plate Pinch Grip Farmer's Carry",
+        "Forearms",
+        "Farmer's Carry",
+        "Plate Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-farmers-carry-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-plate-pinch-grip-farmers-carry-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-plate-pinch-grip-farmers-carry-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-farmers-carry-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-plate-pinch-grip-farmers-carry-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-plate-pinch-grip-farmers-carry-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-plate-pinch-grip-farmers-carry-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-plate-pinch-grip-farmers-carry-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-plate-pinch-grip-farmers-carry-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-plate-pinch-grip-farmers-carry-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-plate-pinch-grip-farmers-carry-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-plate-pinch-grip-farmers-carry-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_farmers_carry_front_male_7EXvEAk.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_farmers_carry_back_male_Nidd8jV.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-plate-pinch-grip-farmers-carry-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-plate-pinch-grip-farmers-carry-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_farmers_carry_front_female_mxokf7w.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_farmers_carry_back_female_l6CKcfM.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-plate-pinch-grip-farmers-carry-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-plate-pinch-grip-farmers-carry-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "رفع الاثقال بواسطة ماسكة الصفيحة",
+      "name_en": "Plate Pinch Grip Deadlift",
+      "name_alternative": null,
+      "slug": "plate-pinch-grip-deadlift",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        }
+      ],
+      "muscles_tertiary": [
+        {
+          "name": "الظهر الأسفل",
+          "name_en_us": "Lower back",
+          "description": "عضلة العمود الفقري هي عضلة أخرى غالبًا ما يُساء فهمها. تعتبر العضلات المثبتة للعمود الفقري كما لو كانت عضلات الظهر السفلي. ولكن، تسافر العضلات المثبتة للعمود الفقري طول العمود الفقري بأكمله. الألياف العلوية تختفي تحت العضلة الجناحية العريضة والعضلة الفخذية، وبالتالي فإنها غير مرئية للعين المجردة.",
+          "description_en_us": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the “lower back” muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+        }
+      ],
+      "muscles": [
+        {
+          "name": "الظهر الأسفل",
+          "name_en_us": "Lower back",
+          "description": "عضلة العمود الفقري هي عضلة أخرى غالبًا ما يُساء فهمها. تعتبر العضلات المثبتة للعمود الفقري كما لو كانت عضلات الظهر السفلي. ولكن، تسافر العضلات المثبتة للعمود الفقري طول العمود الفقري بأكمله. الألياف العلوية تختفي تحت العضلة الجناحية العريضة والعضلة الفخذية، وبالتالي فإنها غير مرئية للعين المجردة.",
+          "description_en_us": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the “lower back” muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "طبق",
+        "name_en": "Plate"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "",
+        "name_en": "",
+        "description": "",
+        "description_en_us": ""
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف أمام اللوح مع قدميك متباعدتين بعرض الكتفين واللوحة موضوعة بين قدميك.",
+          "text_en": "Stand facing the plate with your feet shoulder-width apart and the plate positioned between your feet."
+        },
+        {
+          "text": "انحنِ لأسفل وامسك الصحن من الأطراف العليا بكلتا يديك، مع التأكد من أن أصابعك وإبهامك موزعين بشكل متساوي.",
+          "text_en": "Bend down and grasp the plate from the top edges with both hands, making sure your thumbs and fingers are evenly spaced."
+        },
+        {
+          "text": "حافظ على ظهرك مستقيمًا وصدرك مرفوعًا ونواة جسمك مشدودة، وقف وأنت تحمل اللوحة، مع الحفاظ على قربها من جسمك.",
+          "text_en": "Keep your back straight, chest up and core engaged, and stand up with the plate, keeping it close to your body."
+        },
+        {
+          "text": "أعد الصحن إلى الأرض ببطء، مع الحفاظ على السيطرة والمحافظة على وضعية جيدة.",
+          "text_en": "Lower the plate back down to the ground, keeping control and maintaining good posture."
+        }
+      ],
+      "seo_tags": [
+        "Forearm Exercise",
+        "Forearms Exercise",
+        "How To Do A Plate Pinch Grip Deadlift",
+        "Lats Exercise",
+        "How to do Plate Pinch Grip Deadlift",
+        "Plate Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-deadlift-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-plate-pinch-grip-deadlift-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-plate-pinch-grip-deadlift-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-deadlift-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-plate-pinch-grip-deadlift-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-plate-pinch-grip-deadlift-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-plate-pinch-grip-deadlift-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-plate-pinch-grip-deadlift-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-plate-pinch-grip-deadlift-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-plate-pinch-grip-deadlift-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-plate-pinch-grip-deadlift-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-plate-pinch-grip-deadlift-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_deadlift_front_male_IZhz4ki.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_deadlift_back_male_Wd0cCon.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-plate-pinch-grip-deadlift-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-plate-pinch-grip-deadlift-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_deadlift_front_female_NEMhNRA.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plate_pinch_grip_deadlift_back_female_sE8kwLo.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-plate-pinch-grip-deadlift-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-plate-pinch-grip-deadlift-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "رفع الباربيل بطريقة الحقيبة",
+      "name_en": "Barbell Suitcase Deadlift",
+      "name_alternative": null,
+      "slug": "barbell-suitcase-deadlift",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "عضلات البطن الجانبية",
+          "name_en_us": "Obliques",
+          "description": "العضلات المائلة تتكون من العضلات المائلة الداخلية والخارجية.\n\nتقع العضلة المائلة الداخلية بين العضلة البطنية العرضية والعضلة المائلة الخارجية. يكون المنشأ من الحافة الحرقفية، والجزء السفلي من الحوض. الإدراج يكون في الخط الأبيض، والحافة العانية، والأضلاع السفلية 3-4.\n\nالعضلة المائلة الداخلية لها نفس الوظائف بالضبط كالعضلة المائلة الخارجية - تساعد في دوران العمود الفقري، والانحناء والانحناء الجانبي.\n\nالعضلة المائلة الخارجية مرئية عند نسب الدهون الجسمية المنخفضة. تظهر العضلة كسلسلة من الخطوط المائلة المتصلة بالبطن المقسمة.\n\nتنشأ العضلة المائلة الخارجية من الأضلاع 5-8، وتدخل في عدة نقاط (الخط الأبيض، والعرافة الحرقفية، والحافة العانية، والحافة الحرقفية).\n\nوظائف العضلة المائلة الخارجية هي المساعدة في الدوران (كقطع شجرة)، والانحناء (كالانحناء للأمام)، والانحناء الجانبي للعمود الفقري (كالانحناء إلى الجانب).",
+          "description_en_us": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th – 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الظهر الأسفل",
+          "name_en_us": "Lower back",
+          "description": "عضلة العمود الفقري هي عضلة أخرى غالبًا ما يُساء فهمها. تعتبر العضلات المثبتة للعمود الفقري كما لو كانت عضلات الظهر السفلي. ولكن، تسافر العضلات المثبتة للعمود الفقري طول العمود الفقري بأكمله. الألياف العلوية تختفي تحت العضلة الجناحية العريضة والعضلة الفخذية، وبالتالي فإنها غير مرئية للعين المجردة.",
+          "description_en_us": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the “lower back” muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+        }
+      ],
+      "muscles_tertiary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles": [
+        {
+          "name": "الظهر الأسفل",
+          "name_en_us": "Lower back",
+          "description": "عضلة العمود الفقري هي عضلة أخرى غالبًا ما يُساء فهمها. تعتبر العضلات المثبتة للعمود الفقري كما لو كانت عضلات الظهر السفلي. ولكن، تسافر العضلات المثبتة للعمود الفقري طول العمود الفقري بأكمله. الألياف العلوية تختفي تحت العضلة الجناحية العريضة والعضلة الفخذية، وبالتالي فإنها غير مرئية للعين المجردة.",
+          "description_en_us": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the “lower back” muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+        },
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "عضلات البطن الجانبية",
+          "name_en_us": "Obliques",
+          "description": "العضلات المائلة تتكون من العضلات المائلة الداخلية والخارجية.\n\nتقع العضلة المائلة الداخلية بين العضلة البطنية العرضية والعضلة المائلة الخارجية. يكون المنشأ من الحافة الحرقفية، والجزء السفلي من الحوض. الإدراج يكون في الخط الأبيض، والحافة العانية، والأضلاع السفلية 3-4.\n\nالعضلة المائلة الداخلية لها نفس الوظائف بالضبط كالعضلة المائلة الخارجية - تساعد في دوران العمود الفقري، والانحناء والانحناء الجانبي.\n\nالعضلة المائلة الخارجية مرئية عند نسب الدهون الجسمية المنخفضة. تظهر العضلة كسلسلة من الخطوط المائلة المتصلة بالبطن المقسمة.\n\nتنشأ العضلة المائلة الخارجية من الأضلاع 5-8، وتدخل في عدة نقاط (الخط الأبيض، والعرافة الحرقفية، والحافة العانية، والحافة الحرقفية).\n\nوظائف العضلة المائلة الخارجية هي المساعدة في الدوران (كقطع شجرة)، والانحناء (كالانحناء للأمام)، والانحناء الجانبي للعمود الفقري (كالانحناء إلى الجانب).",
+          "description_en_us": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th – 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ بالوقوف مع قدميك على بُعد مقارب لعرض الوركين وحاملاً أحد الأثقال الحديدي على جانب واحد من جسمك، بحيث تواجه كفيك فخذيك.",
+          "text_en": "Begin by standing with your feet hip-width apart and holding a barbell at one side of your body, with your palms facing your thighs."
+        },
+        {
+          "text": "حافظ على تجهيز عضلات البطن واستقامة ظهرك، وانحن في الورك والركبتين لخفض الباربيل نحو الأرض.",
+          "text_en": "Keeping your core engaged and your back straight, bend at the hips and knees to lower the barbell down towards the ground."
+        },
+        {
+          "text": "بمجرد أن تصل الباربيل إلى الأرض، استخدم ساقيك وعضلات ألأرداف للدفع من خلال كعبيك ومد نفسك من الوركين والركبتين لرفع جسمك مرة أخرى إلى الوضعية الابتدائية.",
+          "text_en": "As the barbell reaches the ground, use your legs and glutes to push through your heels and extend your hips and knees to raise your body back to the starting position."
+        },
+        {
+          "text": "كرر الحركة للعدد المطلوب من التكرارات، ثم ابدل الجهة وكرر التمرين مع الباربيل على الجانب المعاكس من جسمك.",
+          "text_en": "Repeat the movement for the desired number of reps, then switch sides and repeat the exercise with the barbell on the opposite side of your body."
+        }
+      ],
+      "seo_tags": [
+        "Ab Exercise",
+        "Glutes",
+        "How To Do A Barbell Suitcase Deadlift",
+        "كيفية أداء تمرين رفع الباربل الشامل المشبه بحقيبة اليد",
+        "Glute Exercise",
+        "Hamstrings Exercise",
+        "advanced exercise",
+        "Hamstring Exercise",
+        "Glutes Exercise",
+        "Leg Exercise",
+        "Obliques Exercise",
+        "رفع الاثقال",
+        "advanced Barbell exercise",
+        "Butt Exercise",
+        "Obliques"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-suitcase-deadlift-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-suitcase-deadlift-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-suitcase-deadlift-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-suitcase-deadlift-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-suitcase-deadlift-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-suitcase-deadlift-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-suitcase-deadlift-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-suitcase-deadlift-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-suitcase-deadlift-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-suitcase-deadlift-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-suitcase-deadlift-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-suitcase-deadlift-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_front_male_FTTBAw8.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_back_male_STXkFix.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-barbell-suitcase-deadlift-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-barbell-suitcase-deadlift-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_front_female_BkJbnp2.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_back_female_qJ2tsDD.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-barbell-suitcase-deadlift-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-barbell-suitcase-deadlift-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "مسيرة المزارعين بالكرة الحديدية",
+      "name_en": "Kettlebell Farmers March",
+      "name_alternative": null,
+      "slug": "kettlebell-farmers-march",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "وقف بشكل مرتفع مع حمل ثقلين من الكتل في كل يد.",
+          "text_en": "Stand tall holding two kettlebells in each hand."
+        },
+        {
+          "text": "ارتق في مكانك للعدد المطلوب من التكرارات أو الوقت المحدد.",
+          "text_en": "March in place for the desired amount of reps or time."
+        }
+      ],
+      "seo_tags": [
+        "Kettlebell Exercise",
+        "Kettlebells",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-farmers-march-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-farmers-march-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-farmers-march-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-farmers-march-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-farmers-march-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-farmers-march-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-farmers-march-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-farmers-march-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-farmers-march-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-farmers-march-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-farmers-march-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-farmers-march-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_march_front_male_5r0NMja.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_march_back_male_lHkA7at.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-kettlebell-farmers-march-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-kettlebell-farmers-march-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_march_front_female_441CCQu.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_farmers_march_back_female_Tz1R7jk.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-kettlebell-farmers-march-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-kettlebell-farmers-march-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "مارس الرافعة الواحدة للذراع مع كيتل بيل",
+      "name_en": "Kettlebell Single Arm Farmers March",
+      "name_alternative": null,
+      "slug": "kettlebell-single-arm-farmers-march",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بشكل مستقيم مع كرة الرفع في يد واحدة، وارفع ركبة ساق واحدة من الأرض إلى مستوى الركبة.",
+          "text_en": "Standing straight with a kettlebell in one hand, lift the knee of one leg off the floor to knee height."
+        },
+        {
+          "text": "أعد الرجل إلى الوقوف وكرر مع الرجل الأخرى، مع الحفاظ على الكرة الحديدية في الجانب نفسه.",
+          "text_en": "Bring the leg back to standing and repeat with the other leg, keeping the kettlebell on the same side."
+        },
+        {
+          "text": "أعد.",
+          "text_en": "Repeat."
+        }
+      ],
+      "seo_tags": [
+        "Kettlebell Exercise",
+        "Kettlebells",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-single-arm-farmers-march-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-single-arm-farmers-march-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-single-arm-farmers-march-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-single-arm-farmers-march-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-single-arm-farmers-march-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-single-arm-farmers-march-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-single-arm-farmers-march-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-single-arm-farmers-march-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-single-arm-farmers-march-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-single-arm-farmers-march-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-single-arm-farmers-march-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-single-arm-farmers-march-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_single_arm_farmers_march_front_male_UjK4TWH.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_single_arm_farmers_march_back_male_RzgDAyW.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-kettlebell-single-arm-farmers-march-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-kettlebell-single-arm-farmers-march-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_single_arm_farmers_march_front_female_LTRwoqd.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_single_arm_farmers_march_back_female_cL45WET.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-kettlebell-single-arm-farmers-march-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-kettlebell-single-arm-farmers-march-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "مسير المزارعين بالرفع بالكرة الحديدية",
+      "name_en": "Kettlebell Walking Farmers March",
+      "name_alternative": null,
+      "slug": "kettlebell-walking-farmers-march",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "Standing straight with kettlebells, start walking towards a set point. Pulling your knee up toward the ceiling.",
+          "text_en": "Standing straight with kettlebells, start walking towards a set point. Pulling your knee up toward the ceiling."
+        },
+        {
+          "text": "تأكد من أن تبقى صدرك مرتفعًا وأن تسحب شفرات كتفك للخلف.",
+          "text_en": "Make sure to keep your chest tall and shoulder blades pulled back."
+        },
+        {
+          "text": "حاول أن تحافظ على مسافة خطواتك تقريبًا بنفس القياس.",
+          "text_en": "Try to keep your stride distance roughly the same."
+        }
+      ],
+      "seo_tags": [
+        "Kettlebell Exercise",
+        "Kettlebells",
+        "Forearm Exercise",
+        "Forearms Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-walking-farmers-march-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-walking-farmers-march-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-walking-farmers-march-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-kettlebell-walking-farmers-march-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-kettlebell-walking-farmers-march-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-kettlebell-walking-farmers-march-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-walking-farmers-march-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-walking-farmers-march-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-walking-farmers-march-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-kettlebell-walking-farmers-march-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-kettlebell-walking-farmers-march-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-kettlebell-walking-farmers-march-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_walking_farmers_march_front_male_1AsCQFh.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_walking_farmers_march_back_male_fOeHSD1.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-kettlebell-walking-farmers-march-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-kettlebell-walking-farmers-march-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_walking_farmers_march_front_female_bZiKrVB.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_walking_farmers_march_back_female_0xAjGMx.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-kettlebell-walking-farmers-march-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-kettlebell-walking-farmers-march-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "نزول الحقيبة بالكتل الثقيلة",
+      "name_en": "Kettlebell Suitcase Deadlift",
+      "name_alternative": null,
+      "slug": "kettlebell-suitcase-deadlift",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "عضلات البطن الجانبية",
+          "name_en_us": "Obliques",
+          "description": "العضلات المائلة تتكون من العضلات المائلة الداخلية والخارجية.\n\nتقع العضلة المائلة الداخلية بين العضلة البطنية العرضية والعضلة المائلة الخارجية. يكون المنشأ من الحافة الحرقفية، والجزء السفلي من الحوض. الإدراج يكون في الخط الأبيض، والحافة العانية، والأضلاع السفلية 3-4.\n\nالعضلة المائلة الداخلية لها نفس الوظائف بالضبط كالعضلة المائلة الخارجية - تساعد في دوران العمود الفقري، والانحناء والانحناء الجانبي.\n\nالعضلة المائلة الخارجية مرئية عند نسب الدهون الجسمية المنخفضة. تظهر العضلة كسلسلة من الخطوط المائلة المتصلة بالبطن المقسمة.\n\nتنشأ العضلة المائلة الخارجية من الأضلاع 5-8، وتدخل في عدة نقاط (الخط الأبيض، والعرافة الحرقفية، والحافة العانية، والحافة الحرقفية).\n\nوظائف العضلة المائلة الخارجية هي المساعدة في الدوران (كقطع شجرة)، والانحناء (كالانحناء للأمام)، والانحناء الجانبي للعمود الفقري (كالانحناء إلى الجانب).",
+          "description_en_us": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th – 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الظهر الأسفل",
+          "name_en_us": "Lower back",
+          "description": "عضلة العمود الفقري هي عضلة أخرى غالبًا ما يُساء فهمها. تعتبر العضلات المثبتة للعمود الفقري كما لو كانت عضلات الظهر السفلي. ولكن، تسافر العضلات المثبتة للعمود الفقري طول العمود الفقري بأكمله. الألياف العلوية تختفي تحت العضلة الجناحية العريضة والعضلة الفخذية، وبالتالي فإنها غير مرئية للعين المجردة.",
+          "description_en_us": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the “lower back” muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+        }
+      ],
+      "muscles_tertiary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles": [
+        {
+          "name": "الظهر الأسفل",
+          "name_en_us": "Lower back",
+          "description": "عضلة العمود الفقري هي عضلة أخرى غالبًا ما يُساء فهمها. تعتبر العضلات المثبتة للعمود الفقري كما لو كانت عضلات الظهر السفلي. ولكن، تسافر العضلات المثبتة للعمود الفقري طول العمود الفقري بأكمله. الألياف العلوية تختفي تحت العضلة الجناحية العريضة والعضلة الفخذية، وبالتالي فإنها غير مرئية للعين المجردة.",
+          "description_en_us": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the “lower back” muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+        },
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "عضلات البطن الجانبية",
+          "name_en_us": "Obliques",
+          "description": "العضلات المائلة تتكون من العضلات المائلة الداخلية والخارجية.\n\nتقع العضلة المائلة الداخلية بين العضلة البطنية العرضية والعضلة المائلة الخارجية. يكون المنشأ من الحافة الحرقفية، والجزء السفلي من الحوض. الإدراج يكون في الخط الأبيض، والحافة العانية، والأضلاع السفلية 3-4.\n\nالعضلة المائلة الداخلية لها نفس الوظائف بالضبط كالعضلة المائلة الخارجية - تساعد في دوران العمود الفقري، والانحناء والانحناء الجانبي.\n\nالعضلة المائلة الخارجية مرئية عند نسب الدهون الجسمية المنخفضة. تظهر العضلة كسلسلة من الخطوط المائلة المتصلة بالبطن المقسمة.\n\nتنشأ العضلة المائلة الخارجية من الأضلاع 5-8، وتدخل في عدة نقاط (الخط الأبيض، والعرافة الحرقفية، والحافة العانية، والحافة الحرقفية).\n\nوظائف العضلة المائلة الخارجية هي المساعدة في الدوران (كقطع شجرة)، والانحناء (كالانحناء للأمام)، والانحناء الجانبي للعمود الفقري (كالانحناء إلى الجانب).",
+          "description_en_us": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th – 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+        },
+        {
+          "name": "اليدين",
+          "name_en_us": "Hands",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ بالوقوف بحيث تكون قدماك في مستوى الوركين ومع التمسك بكرة الحديد على جانب واحد من جسمك، وجه بالمك الى فخذيك.",
+          "text_en": "Begin by standing with your feet hip-width apart and holding a kettlebell at one side of your body, with your palms facing your thighs."
+        },
+        {
+          "text": "النص: حافظ على نشاط العضلات الأساسية في جسمك واستقامة ظهرك ، انحن في الورك والركبة لتخفض الكرة الحديدية نحو الأرض.",
+          "text_en": "Keeping your core engaged and your back straight, bend at the hips and knees to lower the kettlebell down towards the ground."
+        },
+        {
+          "text": "عندما يصل الكرة الحديدية إلى الأرض، استخدم ساقيك وعضلات الأرداف للدفع من خلال كعبيك وامتداد الوركين والركبة لرفع جسمك مرة أخرى إلى الوضعية الأولى.",
+          "text_en": "As the kettlebell reaches the ground, use your legs and glutes to push through your heels and extend your hips and knees to raise your body back to the starting position."
+        },
+        {
+          "text": "كرر الحركة للعدد المطلوب من التكرارات، ثم ابدل الجهة وكرر التمرين مع الكرة الحديدية على الجانب الآخر من جسمك.",
+          "text_en": "Repeat the movement for the desired number of reps, then switch sides and repeat the exercise with the kettlebell on the opposite side of your body."
+        }
+      ],
+      "seo_tags": [
+        "Ab Exercise",
+        "Glute Exercise",
+        "Kettlebell Exercise",
+        "Hamstrings Exercise",
+        "Hamstring Exercise",
+        "Glutes Exercise",
+        "Kettlebells",
+        "Leg Exercise",
+        "Obliques Exercise",
+        "Butt Exercise",
+        "Obliques"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-farmers-squat-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-farmers-squat-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-farmers-squat-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-farmers-squat-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-farmers-squat-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-farmers-squat-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-farmers-squat-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-farmers-squat-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-farmers-squat-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-farmers-squat-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-farmers-squat-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-farmers-squat-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_suitcase_deadlift_front_male_6irF9pE.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_suitcase_deadlift_back_male_fBG6jdS.png",
+          "front_file_path": "musclewiki/male/bodymaps/hands-kettlebell-suitcase-deadlift-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/hands-kettlebell-suitcase-deadlift-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_suitcase_deadlift_front_female_4bDJFTk.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_suitcase_deadlift_back_female_Bvnonly.png",
+          "front_file_path": "musclewiki/female/bodymaps/hands-kettlebell-suitcase-deadlift-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/hands-kettlebell-suitcase-deadlift-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

@@ -15,7 +15,12 @@
         "front": "/musclewiki/bodymaps/male/front/abdominals-front-Afitik.png",
         "back": null
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Abdominals.json",
+      "/musclewiki/json/lower-abdominals.json",
+      "/musclewiki/json/upper-abdominals.json"
+    ]
   },
   {
     "id": 2,
@@ -33,11 +38,16 @@
         "front": "/musclewiki/bodymaps/male/front/chest-front-Afitik.png",
         "back": null
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Chest.json",
+      "/musclewiki/json/mid-lower-pectoralis.json",
+      "/musclewiki/json/upper-pectoralis.json"
+    ]
   },
   {
     "id": 3,
-    "name": "العضلة الشبه منحرفة (الترابيزيوس)",
+    "name": "الترابس",
     "name_en": "Traps",
     "slug": "Traps",
     "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
@@ -51,7 +61,12 @@
         "front": "/musclewiki/bodymaps/male/front/traps-front-Afitik.png",
         "back": "/musclewiki/bodymaps/male/back/traps-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Traps.json",
+      "/musclewiki/json/lower-trapezius.json",
+      "/musclewiki/json/upper-trapezius.json"
+    ]
   },
   {
     "id": 4,
@@ -69,11 +84,19 @@
         "front": "/musclewiki/bodymaps/male/front/front-shoulders-front-Afitik.png",
         "back": "/musclewiki/bodymaps/male/back/rear-shoulders-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Shoulders.json",
+      "/musclewiki/json/front-shoulders.json",
+      "/musclewiki/json/rear-shoulders.json",
+      "/musclewiki/json/anterior-deltoid.json",
+      "/musclewiki/json/lateral-deltoid.json",
+      "/musclewiki/json/posterior-deltoid.json"
+    ]
   },
   {
     "id": 5,
-    "name": "عضلات البايسبس",
+    "name": "البايسبس",
     "name_en": "Biceps",
     "slug": "Biceps",
     "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
@@ -87,7 +110,12 @@
         "front": "/musclewiki/bodymaps/male/front/biceps-front-Afitik.png",
         "back": null
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Biceps.json",
+      "/musclewiki/json/long-head-bicep.json",
+      "/musclewiki/json/short-head-bicep.json"
+    ]
   },
   {
     "id": 6,
@@ -105,7 +133,12 @@
         "front": "/musclewiki/bodymaps/male/front/forearms-front-Afitik.png",
         "back": "/musclewiki/bodymaps/male/back/forearms-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Forearms.json",
+      "/musclewiki/json/wrist-extensors.json",
+      "/musclewiki/json/wrist-flexors.json"
+    ]
   },
   {
     "id": 7,
@@ -123,11 +156,12 @@
         "front": "/musclewiki/bodymaps/male/front/obliques-front-Afitik.png",
         "back": null
       }
-    }
+    },
+    "json_data_path": ["/musclewiki/json/Obliques.json"]
   },
   {
     "id": 8,
-    "name": "العضلات الرباعية",
+    "name": "عضلات الفخذ الرباعية",
     "name_en": "Quads",
     "slug": "Quads",
     "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
@@ -141,11 +175,17 @@
         "front": "/musclewiki/bodymaps/male/front/quads-front-Afitik.png",
         "back": null
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Quads.json",
+      "/musclewiki/json/inner-quadricep.json",
+      "/musclewiki/json/outer-quadricep.json",
+      "/musclewiki/json/rectus-femoris.json"
+    ]
   },
   {
     "id": 9,
-    "name": "عضلات الساق",
+    "name": "الساق",
     "name_en": "Calves",
     "slug": "Calves",
     "description": "تتكون العجول من عضلتين هما العضلة الغشائية والعضلة السمكية. كلا العضلتين نشطتين في كل مرة يُثنى فيها مفصل الكاحل. بمعنى آخر، تتدخل العجول في كل مرة تخطو خطوة، تقف، أو تقفز.",
@@ -159,11 +199,16 @@
         "front": "/musclewiki/bodymaps/male/front/calves-front-Afitik.png",
         "back": "/musclewiki/bodymaps/male/back/calves-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Calves.json",
+      "/musclewiki/json/gastrocnemius.json",
+      "/musclewiki/json/soleus.json"
+    ]
   },
   {
     "id": 10,
-    "name": "عضلة الترايسبس",
+    "name": "الترايسبس",
     "name_en": "Triceps",
     "slug": "Triceps",
     "description": "العضلة ذات الرأسين الثلاثة هي عضلة ذات ثلاثة رؤوس، ومن هنا جاء اسمها. هذه الرؤوس هي الرأس الطويل، والرأس الجانبي، والرأس الوسطي. تعتبر عضلة العضد ذات الرؤوس الثلاثة بشكل تقليدي كمحرك قوي بسبب قدرتها على الانثناء بسرعة فائقة. وتشير هذه التعبيرات إلى الألياف العضلية التي تنفق الطاقة بسرعة، وأن ثلاثية الرؤوس عضلة العضد تتفوق بشكل خاص في هذه الصفة. تكون ثلاثية الرؤوس عضلة العضد قائمة خلال أي حركة دفع.",
@@ -177,11 +222,17 @@
         "front": null,
         "back": "/musclewiki/bodymaps/male/back/triceps-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Triceps.json",
+      "/musclewiki/json/long-head-triceps.json",
+      "/musclewiki/json/medial-head-triceps.json",
+      "/musclewiki/json/lateral-head-triceps.json"
+    ]
   },
   {
     "id": 11,
-    "name": "العضلات شبه المنحرفة الوسطى",
+    "name": "الترابس (الجزء الأوسط من الظهر)",
     "name_en": "Traps",
     "slug": "traps-middle",
     "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
@@ -195,11 +246,12 @@
         "front": null,
         "back": "/musclewiki/bodymaps/male/back/traps-middle-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": ["/musclewiki/json/traps-middle.json"]
   },
   {
     "id": 12,
-    "name": "عضلات الظهر العريضة",
+    "name": "عضلات الظهر العريضة (لاتس)",
     "name_en": "Lats",
     "slug": "Lats",
     "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
@@ -213,7 +265,8 @@
         "front": null,
         "back": "/musclewiki/bodymaps/male/back/lats-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": ["/musclewiki/json/Lats.json"]
   },
   {
     "id": 13,
@@ -231,7 +284,8 @@
         "front": null,
         "back": "/musclewiki/bodymaps/male/back/lowerback-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": ["/musclewiki/json/Lowerback.json"]
   },
   {
     "id": 14,
@@ -249,7 +303,11 @@
         "front": null,
         "back": "/musclewiki/bodymaps/male/back/glutes-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Glutes.json",
+      "/musclewiki/json/gluteus-maximus.json"
+    ]
   },
   {
     "id": 15,
@@ -267,6 +325,52 @@
         "front": null,
         "back": "/musclewiki/bodymaps/male/back/hamstrings-back-Afitik.png"
       }
-    }
+    },
+    "json_data_path": [
+      "/musclewiki/json/Hamstrings.json",
+      "/musclewiki/json/lateral-hamstrings.json",
+      "/musclewiki/json/medial-hamstrings.json"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "الفخذ الداخلي",
+    "name_en": "Inner Thigh",
+    "slug": "inner-thigh",
+    "description": "الجزء الداخلي للفخذ يشير إلى المنطقة الواقعة في الجانب الداخلي من الفخذ. يحتوي هذا الجزء على مجموعة من العضلات تُعرف بالعضلات المقتربة (Adductors)، والتي تشمل العضلة العريضة (Adductor Longus)، العضلة القصيرة (Adductor Brevis)، العضلة الكبيرة (Adductor Magnus)، والعضلة الحرفية (Gracilis). هذه العضلات تلعب دوراً أساسياً في تقريبه الفخذ إلى الوسط ودعم حركة الفخذ.",
+    "description_en_us": "The inner thigh refers to the area located on the inner side of the thigh. This area includes a group of muscles known as the adductors, which comprise the Adductor Longus, Adductor Brevis, Adductor Magnus, and Gracilis. These muscles play a crucial role in bringing the thigh toward the center and supporting thigh movements.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/inner-thigh-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/female/back/inner-thigh-back-Afitik.png"
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/inner-thigh-front-Afitik.png",
+        "back": "/musclewiki/bodymaps/male/back/inner-thigh-back-Afitik.png"
+      }
+    },
+    "json_data_path": [
+      "/musclewiki/json/inner-thigh.json",
+      "/musclewiki/json/groin.json"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "عضلة الساق الأمامية (تيبياليس)",
+    "name_en": "Tibialis",
+    "slug": "tibialis",
+    "description": "عضلة الساق الأمامية (تيبياليس) هي إحدى العضلات الموجودة في الساق، وتعرف أيضًا بالعضلة الساقية الأمامية. تقع في الجزء الأمامي من الساق وتلعب دورًا أساسيًا في رفع القدم إلى الأعلى، مما يساعد في حركة القدم نحو الأعلى (دوران القدم للأعلى) والمساهمة في استقرار القدم خلال الحركة. كما تساعد في دعم القوس الداخلي للقدم.",
+    "description_en_us": "The Tibialis, also known as the Tibialis Anterior, is a muscle located in the front of the lower leg. It plays a crucial role in lifting the foot upward, assisting in dorsiflexion (lifting the foot up) and contributing to foot stability during movement. It also helps support the inner arch of the foot.",
+    "bodymaps": {
+      "female": {
+        "front": "/musclewiki/bodymaps/female/front/tibialis-front-Afitik.png",
+        "back": null
+      },
+      "male": {
+        "front": "/musclewiki/bodymaps/male/front/tibialis-front-Afitik.png",
+        "back": null
+      }
+    },
+    "json_data_path": ["/musclewiki/json/tibialis.json"]
   }
 ]

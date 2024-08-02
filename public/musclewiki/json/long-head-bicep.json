@@ -1,0 +1,1524 @@
+{
+  "id": 2,
+  "name": "البايسبس (الرأس الطويل)",
+  "name_en_us": "Long Head Bicep",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "تمرين الحديد المشدود بواسطة البيز المتموج",
+      "name_en": "Cable Bayesian Curl",
+      "name_alternative": null,
+      "slug": "cable-bilateral-bayesian-curl",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق المقبض. يجب أن يتم تعيين الكابل في الجزء السفلي الأقصى من الجهاز.",
+          "text_en": "Use a handle attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "استدر بعيدًا عن آلة الكابل.",
+          "text_en": "Face away from the cable machine."
+        },
+        {
+          "text": "رتّب وضعية قدميك لديك قاعدة دعم أفضل. واجه كف يدك للأمام. اثني في المرفق وأطلق.",
+          "text_en": "Stagger your stance so you have a better base of support. Face your palm forward. Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bilateral-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bilateral-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bilateral-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bilateral-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bilateral-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bilateral-bayesian-curl-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bilateral-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bilateral-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bilateral-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bilateral-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bilateral-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bilateral-bayesian-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bayesian_curl_front_male_dxyOW5B.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bayesian_curl_back_male_JovNRyh.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-bilateral-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-bilateral-bayesian-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bayesian_curl_front_female_j40sOEm.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bayesian_curl_back_female_9g9KkLt.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-bilateral-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-bilateral-bayesian-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "كابل تمارين البايز بذراع واحدة",
+      "name_en": "Cable Single Arm Bayesian Curl",
+      "name_alternative": null,
+      "slug": "cable-single-arm-bayesian-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/2VvIzDY4yVI"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/2VvIzDY4yVI"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق المقبض. يجب أن يتم ضبط الكابل في الجزء السفلي تمامًا من الجهاز.",
+          "text_en": "Use a handle attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "وجه ظهرك لجهاز الكابل.",
+          "text_en": "Face away from the cable machine."
+        },
+        {
+          "text": "قم بتناوب وضعية القدمين حتى تحصل على قاعدة دعم أفضل. وجه راحة يدك إلى الأمام. انحني في المرفق ومد.",
+          "text_en": "Stagger your stance so you have a better base of support. Face your palm forward. Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "beginner Cables exercise",
+        "Biceps Exercise",
+        "How to do Cable Bayesian Curl",
+        "How To Do A Cable Bayesian Curl",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bayesian-curl-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bayesian-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_bayesian_curl_front_male_VFhpM2a.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_bayesian_curl_back_male_ycaf70t.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-single-arm-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-single-arm-bayesian-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_bayesian_curl_front_female_3gJSQ4g.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_bayesian_curl_back_female_rJOkN4M.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-single-arm-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-single-arm-bayesian-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "تمرين شد الباربيل",
+      "name_en": "Barbell Curl",
+      "name_alternative": null,
+      "slug": "barbell-curl",
+      "description": "<p>**تفاصيل حول كيفية القيام بها:**</p><p><br></p><p>- أمسك بالباربيل بقبضة بيديك تحت الكتف.</p><p>- ثني ذراعيك عند المرفقين حتى تضغط ساعديك للأعلى على ذراعك العلوية (قد يكون الشكل مختلفاً من شخص لآخر).</p><p>- ابدأ بتمديد ذراعيك وثبت الوزن أثناء الجزء البطيء من التمرين.</p><p>- تأكد من تمديد ذراعيك بشكل كامل في نهاية التكرار.</p><p>- كرر حتى تصل إلى إعياء العضلات (بقاء 1-3 تكرارات)</p><p><br></p><p>**نصائح Ty.**</p><p><br></p><p>أحد العيوب واحدة من الباربيل كيرل هي أن الحديد يقلل بعض الشيء من نطاق الحركة. ستصطدم الشريحة بقدميك قبل أن تتمكن من تمديد ذراعيك بالكامل. في معظم التمارين، نريد أكبر \r\nنطاق حركة ممكن. لحل هذه المشكلة،</p><p><br></p><p>ارجع مؤخرتك قليلا. هذا سيعطيك المزيد من المجال لتمديد ذراعيك بشكل كامل.</p><p>احذر من الغش. استخدام الزخم غالبا ما يحدث بطبيعة الحال مع باربيل كيرل \r\n(ومعظم الأنواع المتغيرة من زنادق البندقية). هناك حركة تسمى كيرل الغش قدمها أرنولد بنفسه. ولكن يمكن النظر إليها كتمرين منفصل.</p><p><br></p><p>ضع قدميك على الأرض واستخدم المرآة لمراقبة شكلك. إذا بدأت الورك في الحركة وأصبحت غير قادر على الاستمرار في تنفيذ التكرارات دون أي حركة في الورك، انهي الجولة.</p><p>مدي ال 6-12 للتكرار يعمل بشكل جيد مع هذا التمرين.</p>",
+      "description_en_us": "<p>**Detailed How To:**</p><p><br></p><p>- Grab the barbell with a shoulder width, underhand grip.</p><p>- Flex at the elbows until your forearms press into your bicep (this will look different from person to person).</p><p>- Begin to extend your elbows and control the weight during the eccentric part of the exercise.</p><p>- Make sure to fully extend your elbows at the end of the rep.</p><p>- Repeat until you hit muscular fatigue (1-3 reps left in the tank)</p><p><br></p><p>**Ty's Tips**</p><p><br></p><p>One of the drawbacks with a Barbell Curl is the bar limits Range of Motion somewhat. The bar will hit your legs before you can fully extend your arms. On most exercises, we want the longest Range or Motion possible. To remedy this,</p><p><br></p><p>Push your butt back a tad bit. This will give you a little more room to fully extend your elbows.</p><p>Watch out for cheating. Using momentum often naturally happens with a Barbell Curl (and most Dumbbell curl variations). There is a move called the Cheat Curl popularized by Arnold himself. But consider that a separate exercise.</p><p><br></p><p>Root your feet to the floor and use a mirror to watch your form. If your hips begin moving and you're unable to continue to perform reps without any hip movement, end the set.</p><p>A 6-12 rep range works well for this exercise.</p>",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/ZoZTBY008V4?si=_eHS6ENHSyBHeBk2"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/ZoZTBY008V4?si=_eHS6ENHSyBHeBk2"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "أثناء الاحتفاظ بثبات الذراعين العلويتين، قم بثني الأثقال إلى الأمام مع تقلص العضلة ذات الرأسين أثناء التنفس.",
+          "text_en": "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out."
+        },
+        {
+          "text": "واصل الحركة حتى يتقلص ذراعيك بشكل كامل وتصبح القضيب على مستوى الكتف.",
+          "text_en": "Continue the movement until your biceps are fully contracted and the bar is at shoulder level."
+        },
+        {
+          "text": "قم بالإمساك في الوضع المتقلص لثانية واحدة واضغط بقوة على البايسبس.",
+          "text_en": "Hold the contracted position for a second and squeeze the biceps hard."
+        },
+        {
+          "text": "أعد الوزن ببطء إلى الوضعية الابتدائية.",
+          "text_en": "Slowly bring the weight back down to the starting position."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Barbell Curl",
+        "Arm Exercise",
+        "كيفية تنفيذ تمرين ثني الباربيل",
+        "العضلة ذات الرأسين",
+        "تمرين الكيرل",
+        "Biceps Exercise",
+        "beginner Barbell exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_front_male_GKjdpCJ.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_back_male_BxW2POI.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-barbell-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-barbell-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_front_female_TAoiuLU.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_back_female_wmAXhKR.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-barbell-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-barbell-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "تمارين بالدمبل على الميل الصاعد بشكل المطرقة",
+      "name_en": "Dumbbell Incline Hammer Curl",
+      "name_alternative": null,
+      "slug": "dumbbell-incline-hammer-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/tvRlfjjH5NA"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/tvRlfjjH5NA"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك الأثقال باستخدام قبضة محايدة (الأبهام تواجه السقف). الجلوس على دكة مائلة.",
+          "text_en": "Hold the dumbbells with a neutral grip (thumbs facing the ceiling). Seated on an incline bench."
+        },
+        {
+          "text": "ارفع الدمبل ببطء حتى ارتفاع الصدر",
+          "text_en": "Slowly lift the dumbbell up to chest height"
+        },
+        {
+          "text": "ارجع إلى وضع البداية وكرر.",
+          "text_en": "Return to starting position and repeat."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "تمرين التجذيف العمودي للبايسبس",
+        "How To Do A Dumbbell Incline Hammer Curl",
+        "كيفية تنفيذ تمرين ثني الساعد بالدمبل على المقعد المائل",
+        "Dumbbell Exercise",
+        "Biceps Exercise",
+        "beginner Dumbbells exercise",
+        "البايسبس",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-incline-hammer-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-incline-hammer-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-incline-hammer-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-incline-hammer-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-incline-hammer-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-incline-hammer-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-incline-hammer-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-incline-hammer-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-incline-hammer-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-incline-hammer-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-incline-hammer-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-incline-hammer-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_front_male_GyBSOd2.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_back_male_QjUcewP.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-dumbbell-incline-hammer-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-dumbbell-incline-hammer-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_front_female_vebXjz8.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_back_female_N7SHvGi.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-dumbbell-incline-hammer-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-dumbbell-incline-hammer-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "تمارين الايكولا المائلة العكسية بالدمبل",
+      "name_en": "Dumbbell Incline Reverse Curl",
+      "name_alternative": null,
+      "slug": "dumbbell-incline-reverse-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "استلق على مقعد مائل.",
+          "text_en": "Lay on an incline bench."
+        },
+        {
+          "text": "امسك بالأثقال الحديدية باستخدام قبضة مقلوبة (من الأعلى). يمكنك أداء هذا التمرين بدون استخدام الإبهام إذا كان أكثر راحة لمعصميك.",
+          "text_en": "Grab the dumbbells with a pronated (overhand) grip. You can do this exercise thumbless if it's more comfortable on your wrists."
+        },
+        {
+          "text": "ثنِي ذراعيك عند مفاصل الكوع حتى تلامس البايسبس لأسفل ساعديك. حاول ألا تترك مفاصل الكوع تنفتح إلى الخارج.",
+          "text_en": "Flex at the elbows until your biceps touch your forearms. Try not to let your elbows flair outward."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "الساعدين",
+        "How to do Dumbbell Incline Reverse Curl",
+        "Dumbbell Exercise",
+        "Biceps Exercise",
+        "beginner Dumbbells exercise",
+        "تمرين الشد العكسي",
+        "بايسبس",
+        "How To Do A Dumbbell Incline Reverse Curl",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-incline-reverse-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-incline-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-incline-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-incline-reverse-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-incline-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-incline-reverse-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-incline-reverse-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-incline-reverse-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-incline-reverse-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-incline-reverse-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-incline-reverse-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-incline-reverse-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_front_male_PV70cV1.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_back_male_4L6PrSZ.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-dumbbell-incline-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-dumbbell-incline-reverse-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_front_female_kuMq3WL.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_back_female_HOH8NLH.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-dumbbell-incline-reverse-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-dumbbell-incline-reverse-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "تمرين الزوتمان للطواحين على البينك المائل",
+      "name_en": "Dumbbell Incline Zottman Curl",
+      "name_alternative": null,
+      "slug": "dumbbell-incline-zottman-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الساعدين",
+          "name_en_us": "Forearms",
+          "description": "تتألف الساعدين من العديد من العضلات المختلفة، ويعتمد العدد الدقيق على كتاب التشريح الذي تقرأ! غالبًا ما يتم تقسيم الساعدين إلى ثلاثة أجزاء رئيسية: العضلة العرضية الذراعية وأعضلة مرنة المعصم والعضلة الملتوية الكبرى.",
+          "description_en_us": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+        },
+        {
+          "name": "مرنات الرسغ",
+          "name_en_us": "Wrist Flexors",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استلق على مقعد مائل بحيث تكون كفيك مواجهة للأمام.",
+          "text_en": "Lay on an incline bench with your palms facing forward."
+        },
+        {
+          "text": "ثنِ ركبتيك حتى تلامس ذراعيك السفلية عضلات ذراعيك العلوية.",
+          "text_en": "Flex at the elbows until your forearms touch your biceps."
+        },
+        {
+          "text": "عندما تصل إلى أعلى حركة، قم بتدوير راحة يديك ثم أنزل الأثقال ببطء.",
+          "text_en": "When you hit the top of the movement, rotate your palms and then lower the dumbbells slowly."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Dumbbell Incline Zottman Curl",
+        "Incline",
+        "Arm Exercise",
+        "عضلات الذراع العلوية",
+        "Dumbbell Exercise",
+        "intermediate Dumbbells exercise",
+        "Biceps Exercise",
+        "How to do Dumbbell Incline Zottman Curl",
+        "Forearms",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-incline-zottman-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-incline-zottman-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-incline-zottman-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-incline-zottman-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-incline-zottman-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-incline-zottman-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-incline-zottman-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-incline-zottman-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-incline-zottman-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-incline-zottman-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-incline-zottman-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-incline-zottman-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_front_male_HzTndUV.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_back_male_lTSg6dl.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-dumbbell-incline-zottman-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-dumbbell-incline-zottman-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_front_female_5KMw1v9.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_back_female_pCyBJfk.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-dumbbell-incline-zottman-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-dumbbell-incline-zottman-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "تمرين الحديد بالكابل",
+      "name_en": "Cable Bar Curl",
+      "name_alternative": null,
+      "slug": "cable-bar-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق القضيب. يجب ضبط الكابل في أسفل الجهاز تمامًا.",
+          "text_en": "Use a bar attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "واجه جهاز الكابلات.",
+          "text_en": "Face the cable machine."
+        },
+        {
+          "text": "قم بتباعد وضعية قدميك لتحصل على قاعدة دعم أفضل. وجه راحة يدك إلى الأمام. انحني عند المرفق وقم بالتمدد.",
+          "text_en": "Stagger your stance so you have a better base of support. Face your palm forward. Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Short Head Bicep Exercise",
+        "Long Head Bicep Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bar-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bar-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bar-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-bar-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-bar-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-bar-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bar-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bar-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bar-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-bar-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-bar-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-bar-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_curl_front_male_e7vExUo.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_curl_back_male_0NT4mjf.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-bar-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-bar-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_curl_front_female_MytBjll.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_bar_curl_back_female_jYMIjrH.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-bar-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-bar-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "تمارين الرفع الخفق للساعدين باستخدام حبل الكابل",
+      "name_en": "Cable Rope Hammer Curl",
+      "name_alternative": null,
+      "slug": "cable-rope-hammer-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق حبل. يجب ضبط الكابل في الجزء الأدنى من الجهاز.",
+          "text_en": "Use a rope attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "انقلب بوجهك بعيداً عن آلة الكابل. قم بتناوب وضعية قدميك لتحصل على قاعدة دعم أفضل.",
+          "text_en": "Face away from the cable machine. Stagger your stance so you have a better base of support."
+        },
+        {
+          "text": "استخدم قبضة محايدة (الإبهام يواجه للأعلى والبنصر يواجه للأسفل). انثن في المرفق ومد.",
+          "text_en": "Use a neutral grip thumb facing up pinky-facing down). Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Short Head Bicep Exercise",
+        "Long Head Bicep Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-rope-hammer-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-rope-hammer-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-rope-hammer-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-rope-hammer-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-rope-hammer-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-rope-hammer-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-rope-hammer-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-rope-hammer-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-rope-hammer-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-rope-hammer-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-rope-hammer-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-rope-hammer-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_hammer_curl_front_male_9vlwzlv.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_hammer_curl_back_male_4m199Ba.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-rope-hammer-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-rope-hammer-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_hammer_curl_front_female_AM8KqEl.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_rope_hammer_curl_back_female_3KaEpIe.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-rope-hammer-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-rope-hammer-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "تمارين التمدد البايزي الجالسة باستخدام الكابلات",
+      "name_en": "Cable Seated Bayesian Curl",
+      "name_alternative": null,
+      "slug": "cable-seated-bayesian-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق المقبض. يجب ضبط الكابل بالكامل في أسفل الجهاز.",
+          "text_en": "Use a handle attachment. The cable should be set all the way to the bottom of the machine."
+        },
+        {
+          "text": "اجلس على مقعد بحيث تكون ظهرك مواجهًا لجهاز الكابلات.",
+          "text_en": "Sit on a bench facing away from the cable machine."
+        },
+        {
+          "text": "قم بتبديل وضعية قاعدتك حتى تتمتع بقاعدة أكثر ثباتًا. وجه راحة يدك للأمام. إنحن في المرفق ومدّ.",
+          "text_en": "Stagger your stance so you have a better base of support. Face your palm forward. Flex at the elbow and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-seated-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-seated-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-seated-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-seated-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-seated-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-seated-bayesian-curl-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-seated-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-seated-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-seated-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-seated-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-seated-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-seated-bayesian-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_curl_front_male_oITexU3.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_curl_back_male_Zn78er4.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-seated-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-seated-bayesian-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_curl_front_female_AJiXlmv.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_bayesian_curl_back_female_y0UC1bR.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-seated-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-seated-bayesian-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "تمرين تجعيد العضلات باستخدام الكابل والمطرقة البايسونية",
+      "name_en": "Cable Hammer Bayesian Curl",
+      "name_alternative": null,
+      "slug": "cable-hammer-bayesian-curl",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف وجهاً للاتجاه المعاكس للكابلات وامسك بكلتا المقابض المرفقة.",
+          "text_en": "Stand facing away from the cables and grab two handle attachments."
+        },
+        {
+          "text": "خذ وضعية محايدة ، اثنِ مرفقيك، ومد.",
+          "text_en": "Take a neutral grip, flex your elbows, and extend."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Long Head Bicep Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-hammer-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-hammer-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-hammer-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-hammer-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-hammer-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-hammer-bayesian-curl-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-hammer-bayesian-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-hammer-bayesian-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-hammer-bayesian-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-hammer-bayesian-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-hammer-bayesian-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-hammer-bayesian-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hammer_bayesian_curl_front_male_Fg4Fjf3.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hammer_bayesian_curl_back_male_lotOnWp.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-hammer-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-cable-hammer-bayesian-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hammer_bayesian_curl_front_female_tdlBsx6.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hammer_bayesian_curl_back_female_nHgCNrB.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-hammer-bayesian-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-cable-hammer-bayesian-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "تمارين ثني الأذرع بالبار بالجر",
+      "name_en": "Barbell Drag Curl",
+      "name_alternative": null,
+      "slug": "barbell-drag-curl",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قم بالإمساك بالباربيل بطريقة الإمساك من الأسفل.",
+          "text_en": "Grab a barbell with an underhand grip."
+        },
+        {
+          "text": "ارفع مرفقيك للخلف بشكل مستقيم واترك القضيب يسحب ضد جسمك العلوي (أو بالقرب جداً منه).",
+          "text_en": "Pull your elbows straight back and let the bar drag against your upper body (or very close to it)."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Short Head Bicep Exercise",
+        "Long Head Bicep Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-drag-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-drag-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-drag-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-drag-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-barbell-drag-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-barbell-drag-curl-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-drag-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-drag-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-drag-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-barbell-drag-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-barbell-drag-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-barbell-drag-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_drag_curl_front_male_gnTU1BS.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_drag_curl_back_male_UjuXhc5.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-barbell-drag-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-barbell-drag-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_drag_curl_front_female_eQy6s9s.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_drag_curl_back_female_y1JWd7k.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-barbell-drag-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-barbell-drag-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "تمرين السحب على آلة سميث",
+      "name_en": "Smith Machine Drag Curl",
+      "name_alternative": null,
+      "slug": "smith-machine-drag-curl",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "البايسبس (الرأس الطويل)",
+          "name_en_us": "Long Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "البايسبس (الرأس القصير)",
+          "name_en_us": "Short Head Bicep",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة سميث",
+        "name_en": "Smith-Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك القضيب بقبضة سفلية.",
+          "text_en": "Grab the bar with an underhand grip."
+        },
+        {
+          "text": "اسحب مرفقيك مباشرة للخلف و دع القضيب يتحرك على جسمك العلوي (أو بالقرب جداً منه).",
+          "text_en": "Pull your elbows straight back and let the bar drag against your upper body (or very close to it)."
+        }
+      ],
+      "seo_tags": [
+        "Arm Exercise",
+        "Biceps Exercise",
+        "Short Head Bicep Exercise",
+        "Long Head Bicep Exercise",
+        "Bicep Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-drag-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-drag-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-drag-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-drag-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-drag-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-drag-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-drag-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-drag-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-drag-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-drag-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-drag-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-drag-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_drag_curl_front_male_Tq1TbkR.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_drag_curl_back_male_TrPgHBu.png",
+          "front_file_path": "musclewiki/male/bodymaps/long-head-bicep-smith-machine-drag-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/long-head-bicep-smith-machine-drag-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_drag_curl_front_female_1OKiGlY.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_drag_curl_back_female_zhA256l.png",
+          "front_file_path": "musclewiki/female/bodymaps/long-head-bicep-smith-machine-drag-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/long-head-bicep-smith-machine-drag-curl-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

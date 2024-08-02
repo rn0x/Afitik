@@ -1,25 +1,44 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
+import AliceCarousel from "react-alice-carousel";
+import { Skeleton } from "@mui/material";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
+import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
+import Slider from "../../components/Slider.jsx";
 import AppBar from "../../components/AppBar.jsx";
 import "../../assets/styles/Exercises.css";
 import musclesData from "../../assets/json/muscles.json";
 
+
 export default function ExerciseList() {
   const { gender, muscle } = useParams();
+  const [exerciseData, setExerciseData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [itemsToShow, setItemsToShow] = useState(10);
 
-  // قائمة الجنسين المقبولة
   const validGenders = ["male", "female"];
-
-  // تحويل الجنس إلى أحرف صغيرة
   const normalizedGender = gender ? gender.toLowerCase() : '';
-
-  // التحقق من صحة البيانات
   const isGenderValid = validGenders.includes(normalizedGender);
-
   const muscleValue = musclesData.find(m => m.slug === muscle);
+
+  useEffect(() => {
+    if (muscleValue) {
+      const fetchDataFromPath = async () => {
+        const json_data_path = muscleValue.json_data_path;
+        const { data, error } = await fetchData(json_data_path);
+        if (error) {
+          setError(error);
+        } else {
+          setExerciseData(data);
+        }
+        setLoading(false);
+      };
+      fetchDataFromPath();
+    }
+  }, [muscleValue]);
 
   const pageMetadata = {
     title: "الصفحة الرئيسية",
@@ -43,9 +62,8 @@ export default function ExerciseList() {
     },
   };
 
-  // دالة لعرض رسالة الجنس غير صالح
   const renderInvalidGenderMessage = () => (
-    <div style={{ textAlign: "center" , direction: "ltr" }} className="InvalidGender">
+    <div style={{ textAlign: "center", direction: "ltr" }} className="InvalidGender">
       <p>Invalid gender selected. Please go back and select a valid gender.</p>
       <Link to="/Exercises" onMouseDown={(e) => e.preventDefault()} draggable="false">Go back to Exercises</Link>
     </div>
@@ -58,21 +76,81 @@ export default function ExerciseList() {
     </div>
   );
 
-  // دالة لعرض قائمة التمارين
-  const renderExerciseList = () => (
-    <div style={{ textAlign: "center" }} className="ExerciseList">
-      <p>KKKKKKKKKKKKKKKKKK</p>
-    </div>
-  );
+  const renderExerciseList = () => {
+    if (loading) {
+      return (
+        <div>
+          {Array.from({ length: 10 }).map((_, index) => (
+            <Skeleton key={index} variant="rectangular" height={200} style={{ marginBottom: '20px' }} />
+          ))}
+        </div>
+      );
+    }
 
-  // تحديد عنوان AppBar
+    if (error) {
+      return <div style={{ textAlign: "center" }} className="ExerciseList">{error}</div>;
+    }
+
+    const handleLoadMore = () => {
+      setItemsToShow((prev) => prev + 10);
+    };
+
+    const exercises = exerciseData.flatMap(data => data.exercises);
+
+    return (
+      <div className="ExerciseList">
+        {exercises.slice(0, itemsToShow).map((ex, index) => {
+          const difficulty = ex.difficulty.name;
+          const videos = ex.videos[gender];
+          const videosMap = videos.map((videoData, videoIndex) => {
+            const preview_image = `https://musclewiki.i8x.net/api/files/${videoData.preview_image}`;
+            return (
+              <ImageWithSkeleton
+                key={videoIndex}
+                src={preview_image}
+                alt={ex.name}
+                title={ex.name}
+                className="slider_images"
+              />
+            );
+          });
+
+          return (
+            <Link
+              to={`/Exercises/${gender}/${muscle}/${ex.slug}`}
+              key={index}
+              title={ex.name}
+              aria-label={ex.name}
+              onMouseDown={(e) => e.preventDefault()}
+              draggable="false"
+              className="item-exercise"
+            >
+
+              <div className="item-exercise-title">
+                <p>{ex.name}</p>
+              </div>
+
+              <Slider items={videosMap} />
+
+              <p className="difficulty">{difficulty}</p>
+            </Link>
+          );
+        })}
+        {exercises.length > itemsToShow && (
+          <div style={{ textAlign: "center" }}>
+            <button onClick={handleLoadMore}>عرض المزيد</button>
+          </div>
+        )}
+      </div>
+    );
+  };
+
   const appBarTitle = !isGenderValid
     ? "Invalid gender selected"
     : muscleValue
       ? muscleValue.name
       : "Invalid Muscle selected";
 
-  // تحديد رابط العودة في AppBar
   const appBarBackLink = ((!isGenderValid && !muscleValue) || (!isGenderValid && muscleValue))
     ? "/Exercises"
     : `/Exercises/${normalizedGender}`;
@@ -96,3 +174,21 @@ export default function ExerciseList() {
     </>
   );
 }
+
+// دالة لجلب البيانات من مسار محدد
+const fetchData = async (paths) => {
+  try {
+    const data = await Promise.all(
+      paths.map(async (path) => {
+        const response = await fetch(path);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+    );
+    return { data, error: null };
+  } catch (error) {
+    return { data: null, error: `Error loading data: ${error.message}` };
+  }
+};

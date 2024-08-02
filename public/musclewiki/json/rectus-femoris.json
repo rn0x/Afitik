@@ -1,0 +1,2066 @@
+{
+  "id": 38,
+  "name": "عضلة الفخذ المستقيمة",
+  "name_en_us": "Rectus Femoris",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "تمديد الساق الواقفة بواسطة الكابل",
+      "name_en": "Cable Standing Leg Extension",
+      "name_alternative": null,
+      "slug": "cable-standing-leg-extension",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بشكل مستقيم مواجهاً بعيداً عن صليب الكبل مع ضبط الكبل على ارتفاع الوركين. استخدم إرفاق الكاحل / المعصم.",
+          "text_en": "Stand upright facing away from the cable crossover with the cable set to the height of your hips. Use an ankle/wrist attachment."
+        },
+        {
+          "text": "قم بالتمدد عند الركبة ضد الكابل.",
+          "text_en": "Extend at the knee against the cable."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "How To Do A Cable Standing Leg Extension",
+        "How to do Cable Standing Leg Extension",
+        "Quads Exercise",
+        "advanced exercise",
+        "advanced Cables exercise",
+        "Leg Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-standing-leg-extension-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-standing-leg-extension-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-standing-leg-extension-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-standing-leg-extension-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-standing-leg-extension-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-standing-leg-extension-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-standing-leg-extension-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-standing-leg-extension-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-standing-leg-extension-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-standing-leg-extension-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-standing-leg-extension-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-standing-leg-extension-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_standing_leg_extension_front_male_1MQnOvU.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_standing_leg_extension_back_male_tNcZCYH.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-cable-standing-leg-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-cable-standing-leg-extension-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_standing_leg_extension_front_female_3ch6cV8.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_standing_leg_extension_back_female_UpdZeHy.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-cable-standing-leg-extension-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-cable-standing-leg-extension-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "آلة سكوات القدح الإناث المتقدمة",
+      "name_en": "Machine Goblet Sissy Squat",
+      "name_alternative": null,
+      "slug": "machine-goblet-sissy-squat",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ضع وسادة القرفصاء فوق الركبة مباشرةً خلف الركبة، ووسادة الأمامية ضد كاحليك تمامًا.",
+          "text_en": "Place the sissy squat pad just behind the knees and the front pad all the way up against your ankles."
+        },
+        {
+          "text": "أمسك بالدمبل في وضعية الكأس.",
+          "text_en": "Hold a dumbbell in a goblet position."
+        },
+        {
+          "text": "اجلس بشكل مستقيم للوراء في وضعية القرفصاء. ثم ادفع بعجلي الساق نحو الجزء الخلفي من الوسادة وقم بتمديد ركبتيك إلى الوضعية الأصلية.",
+          "text_en": "Sit straight back into a squat. Then push your calves into the back of the pad and extend your knees back to the original position."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-goblet-sissy-squat-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-goblet-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-goblet-sissy-squat-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-goblet-sissy-squat-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-goblet-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-goblet-sissy-squat-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-goblet-sissy-squat-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-goblet-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-goblet-sissy-squat-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-goblet-sissy-squat-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-goblet-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-goblet-sissy-squat-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_front_male_tr5wPnC.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_back_male_Y5ODQ1E.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-machine-goblet-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-machine-goblet-sissy-squat-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_front_female_KrZ4mTq.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_back_female_k6XKVcp.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-machine-goblet-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-machine-goblet-sissy-squat-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "آلة سكوات سيسي",
+      "name_en": "Machine Sissy Squat",
+      "name_alternative": null,
+      "slug": "machine-sissy-squat",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ضع وسادة التمرين حيث يكون الركبة على الجهة الخلفية والوسادة الأمامية باكملها ضد كاحليك.",
+          "text_en": "Place the sissy squat pad just behind the knees and the front pad all the way up against your ankles."
+        },
+        {
+          "text": "أمسك بالدمبل في وضعية الكأس.",
+          "text_en": "Hold a dumbbell in a goblet position."
+        },
+        {
+          "text": "اجلس بشكل مستقيم في وضعية القرفصاء. ثم ادفع بعضلات الساق الخاصة بك نحو الجزء الخلفي من الوسادة وقم بتمديد ركبتيك مرة أخرى إلى الوضعية الأصلية.",
+          "text_en": "Sit straight back into a squat. Then push your calves into the back of the pad and extend your knees back to the original position."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-sissy-squat-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-sissy-squat-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-sissy-squat-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-sissy-squat-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-sissy-squat-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-sissy-squat-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-sissy-squat-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-sissy-squat-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_front_male_V1Kitzt.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_back_male_bhWO2EL.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-machine-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-machine-sissy-squat-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_front_female_mmYvvXE.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_back_female_TucZsN7.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-machine-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-machine-sissy-squat-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "سكوات سيسي على آلة سميث",
+      "name_en": "Smith Machine Sissy Squat",
+      "name_alternative": null,
+      "slug": "smith-machine-sissy-squat",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة سميث",
+        "name_en": "Smith-Machine"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "وقف وجهاً للمكان البعيد عن الجهاز، وضع قدميك أعرض بقليل من عرض الكتفين لتوفير قاعدة مستقرة، ثم استدر للخلف لتمسك القضيب بكلتا اليدين بقوة، محافظاً على قبضة علوية.",
+          "text_en": "Stand facing away from the machine, positioning your feet slightly wider than shoulder-width apart to provide a stable base, and then reach behind you to firmly grip the bar with both hands, maintaining an overhand grip."
+        },
+        {
+          "text": "ابدأ الحركة بالانحناء للخلف مما يسمح لجسمك العلوي بالإمالة بينما تثنِي ركبتيك في نفس الوقت. أثناء الهبوط ، حافظ على السيطرة.",
+          "text_en": "Initiate the movement by leaning backward, allowing your upper body to incline while simultaneously bending your knees. As you descend, maintain control"
+        },
+        {
+          "text": "قم بتحريك ربلة الساق بينما تقوم بدفع الوركين للأمام، مستقيمًا بشكل تدريجي ركبتيك. حافظ على سرعة بطيئة ومتحكم فيها",
+          "text_en": "drive through your quadriceps while pushing your hips forward, gradually straightening your knees. Maintain a slow, controlled pace"
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-sissy-squat-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-sissy-squat-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-sissy-squat-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-sissy-squat-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-sissy-squat-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-sissy-squat-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-sissy-squat-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-sissy-squat-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_sissy_squat_front_male_oJEEvFp.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_sissy_squat_back_male_W8Y2xqe.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-smith-machine-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-smith-machine-sissy-squat-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_sissy_squat_front_female_0WypUDE.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_sissy_squat_back_female_RLGQLf5.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-smith-machine-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-smith-machine-sissy-squat-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "سكوات الحديد البكرة الأرضية للمبتدئين",
+      "name_en": "Barbell Landmine Sissy Squat",
+      "name_alternative": null,
+      "slug": "barbell-landmine-sissy-squat",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "امسك القضيب في وضعية الكأس.",
+          "text_en": "Hold the bar in a goblet position."
+        },
+        {
+          "text": "قف بشكل مرتفع، ادفع ركبتيك للأمام حتى تلامس بطتي ساقك الخلفية.",
+          "text_en": "Stand tall, push your knees forward until your calves touch your hamstrings."
+        },
+        {
+          "text": "تأكد من بقاء وضعية الورك ممتدة.",
+          "text_en": "Make sure to keep your hips extended."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "How To Do A Landmine Sissy Squat",
+        "Quads Exercise",
+        "Leg Exercise",
+        "How to do Landmine Sissy Squat",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-sissy-squat-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-landmine-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-landmine-sissy-squat-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-sissy-squat-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-landmine-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-landmine-sissy-squat-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-landmine-sissy-squat-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-landmine-sissy-squat-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-landmine-sissy-squat-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-landmine-sissy-squat-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-landmine-sissy-squat-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-landmine-sissy-squat-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_sissy_squat_front_male_oDbAnuu.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_sissy_squat_back_male_5CvuBva.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-barbell-landmine-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-barbell-landmine-sissy-squat-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_sissy_squat_front_female_FEXqq7t.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_sissy_squat_back_female_NtgSyZl.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-barbell-landmine-sissy-squat-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-barbell-landmine-sissy-squat-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "الخطوة العكسية للوزن الجسدي",
+      "name_en": "Bodyweight Reverse Step Up",
+      "name_alternative": null,
+      "slug": "bodyweight-reverse-step-up",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ بوضع صندوق أو مقعد خلفك وأحد قدميك على الصندوق/المقعد.",
+          "text_en": "Start with a box or bench behind you and one of your feet on the box/bench."
+        },
+        {
+          "text": "يجب أن تكون كرات قدميك مثبتة على الصندوق / المقعد.",
+          "text_en": "The balls of your feet should be planted on the box/bench."
+        },
+        {
+          "text": "قُد من خلال كرة قدمك لتمديد ركبتيك حتى تكون عمودياً وتقف على الصندوق.",
+          "text_en": "Drive through the ball of your foot extending your knees until you're upright and standing on the box."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "تمديد الساق",
+        "Quads Exercise",
+        "عضلات الفخذ الرباعية",
+        "advanced exercise",
+        "How To Do A Bodyweight Reverse Step Up",
+        "Bodyweight Fitness",
+        "How to do Bodyweight Reverse Step Up",
+        "Leg Exercise",
+        "At Home Exercise",
+        "Bodyweight Exercise",
+        "advanced Bodyweight exercise",
+        "ارتقِ"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-reverse-step-up-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-reverse-step-up-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-reverse-step-up-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-bodyweight-reverse-step-up-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-bodyweight-reverse-step-up-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-bodyweight-reverse-step-up-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-bodyweight-reverse-step-up-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-bodyweight-reverse-step-up-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-bodyweight-reverse-step-up-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-bodyweight-reverse-step-up-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-bodyweight-reverse-step-up-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-bodyweight-reverse-step-up-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_reverse_step_up_front_male_99gkHv4.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_reverse_step_up_back_male_TUcPvow.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-bodyweight-reverse-step-up-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-bodyweight-reverse-step-up-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_reverse_step_up_front_female_B8VfvJl.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_reverse_step_up_back_female_Hof8OLi.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-bodyweight-reverse-step-up-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-bodyweight-reverse-step-up-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "قص السكين البطني المتقدم",
+      "name_en": "Cardio Forward Scissor",
+      "name_alternative": null,
+      "slug": "cardio-forward-scissor",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات البطن",
+          "name_en_us": "Abdominals",
+          "description": "جمالياً، يعتبر البطن من أكثر العضلات الراغبة في امتلاكها. بالنسبة لغالبية الناس، البطن يتألف فقط من ستة أجزاء، ومع ذلك، هذا هو جزء واحد فقط من العضلات البطنية.",
+          "description_en_us": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the “6 pack,” however, this is only one part of the abdominals."
+        },
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات البطن",
+          "name_en_us": "Abdominals",
+          "description": "جمالياً، يعتبر البطن من أكثر العضلات الراغبة في امتلاكها. بالنسبة لغالبية الناس، البطن يتألف فقط من ستة أجزاء، ومع ذلك، هذا هو جزء واحد فقط من العضلات البطنية.",
+          "description_en_us": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the “6 pack,” however, this is only one part of the abdominals."
+        },
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كارديو",
+        "name_en": "Cardio"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قم بقفزة خفيفة وقسم وضعية قدميك.",
+          "text_en": "Do a light hop and split your stance."
+        },
+        {
+          "text": "حط على أصابع قدميك بخفة، ثم قدم الساق المعاكسة للأمام.",
+          "text_en": "Land lightly on your toes, and then bring the opposing leg forward."
+        }
+      ],
+      "seo_tags": [
+        "Lower Abdominals Exercise",
+        "Quad Exercise",
+        "Abs",
+        "Glute Exercise",
+        "Quads Exercise",
+        "Glutes Exercise",
+        "Leg Exercise",
+        "Abs Exercise",
+        "Abdominal Exercise",
+        "Rectus Femoris Exercise",
+        "Abdominals Exercise",
+        "Butt Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-forward-scissor-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cardio-cardio-forward-scissor-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cardio-cardio-forward-scissor-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-forward-scissor-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cardio-cardio-forward-scissor-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cardio-cardio-forward-scissor-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cardio-cardio-forward-scissor-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cardio-cardio-forward-scissor-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cardio-cardio-forward-scissor-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cardio-cardio-forward-scissor-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cardio-cardio-forward-scissor-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cardio-cardio-forward-scissor-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_forward_scissor_front_male_qx18yI4.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_forward_scissor_back_male_tFhZg0C.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-cardio-forward-scissor-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-cardio-forward-scissor-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_forward_scissor_front_female_kcHkLpK.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_forward_scissor_back_female_NLHezy3.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-cardio-forward-scissor-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-cardio-forward-scissor-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "كارديو للداخل والخارج إلى الأمام",
+      "name_en": "Cardio In And Out Forward",
+      "name_alternative": null,
+      "slug": "cardio-in-and-out-forward",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات البطن",
+          "name_en_us": "Abdominals",
+          "description": "جمالياً، يعتبر البطن من أكثر العضلات الراغبة في امتلاكها. بالنسبة لغالبية الناس، البطن يتألف فقط من ستة أجزاء، ومع ذلك، هذا هو جزء واحد فقط من العضلات البطنية.",
+          "description_en_us": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the “6 pack,” however, this is only one part of the abdominals."
+        },
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات البطن",
+          "name_en_us": "Abdominals",
+          "description": "جمالياً، يعتبر البطن من أكثر العضلات الراغبة في امتلاكها. بالنسبة لغالبية الناس، البطن يتألف فقط من ستة أجزاء، ومع ذلك، هذا هو جزء واحد فقط من العضلات البطنية.",
+          "description_en_us": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the “6 pack,” however, this is only one part of the abdominals."
+        },
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كارديو",
+        "name_en": "Cardio"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "أخرج ساقًا إلى الأمام ثم الأخرى.",
+          "text_en": "Bring one leg forward and then the other."
+        },
+        {
+          "text": "قم بإرجاع الساق الأصلية إلى الخلف ثم الأخرى.",
+          "text_en": "Bring the original leg backwards and then the other."
+        }
+      ],
+      "seo_tags": [
+        "Lower Abdominals Exercise",
+        "Quad Exercise",
+        "Abs",
+        "Glute Exercise",
+        "Quads Exercise",
+        "Glutes Exercise",
+        "Leg Exercise",
+        "Abs Exercise",
+        "Abdominal Exercise",
+        "Rectus Femoris Exercise",
+        "Abdominals Exercise",
+        "Butt Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-in-and-out-forward-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cardio-cardio-in-and-out-forward-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cardio-cardio-in-and-out-forward-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-in-and-out-forward-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cardio-cardio-in-and-out-forward-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cardio-cardio-in-and-out-forward-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cardio-cardio-in-and-out-forward-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cardio-cardio-in-and-out-forward-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cardio-cardio-in-and-out-forward-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cardio-cardio-in-and-out-forward-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cardio-cardio-in-and-out-forward-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cardio-cardio-in-and-out-forward-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_in_and_out_forward_front_male_wVg3ikK.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_in_and_out_forward_back_male_CMvSaUv.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-cardio-in-and-out-forward-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-cardio-in-and-out-forward-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_in_and_out_forward_front_female_1VJ5P8d.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_in_and_out_forward_back_female_ZjcWGvV.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-cardio-in-and-out-forward-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-cardio-in-and-out-forward-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "الاحتفاظ بالانثناء الجالس للورك",
+      "name_en": "Seated Hip Flexion Hold",
+      "name_alternative": null,
+      "slug": "hip-flexion-seated-bench-isometric",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على مقعد بدون دعم للظهر.",
+          "text_en": "Sit on a bench without back support."
+        },
+        {
+          "text": "حافظ على ظهرك مستقيم وكتفيك للخلف.",
+          "text_en": "Keep an upright back and your shoulders back."
+        },
+        {
+          "text": "ارفع ساق واحدة وحافظ على الوضعية للمدة المحددة.",
+          "text_en": "Raise one leg and maintain the position for the specified duration."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexion-seated-bench-isometric-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexion-seated-bench-isometric-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexion-seated-bench-isometric-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexion-seated-bench-isometric-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexion-seated-bench-isometric-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexion-seated-bench-isometric-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexion-seated-bench-isometric-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexion-seated-bench-isometric-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexion-seated-bench-isometric-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexion-seated-bench-isometric-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexion-seated-bench-isometric-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexion-seated-bench-isometric-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_hip_flexion_hold_front_male_x4gPaV9.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_hip_flexion_hold_back_male_txqFMsL.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexion-seated-bench-isometric-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexion-seated-bench-isometric-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_hip_flexion_hold_front_female_vmPi2Os.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_hip_flexion_hold_back_female_YEDAhMZ.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexion-seated-bench-isometric-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexion-seated-bench-isometric-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "نص: تمرين الوقوف المصغر بالفرقة المرنة لثني الورك",
+      "name_en": "Standing Mini-Band Hip Flexion",
+      "name_alternative": null,
+      "slug": "hip-flexions-standing-resisted",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قم بلف حزام الحلقة حول قدميك.",
+          "text_en": "Wrap a loop band around your feet."
+        },
+        {
+          "text": "ارفع ركبتك إلى أعلى حتى تصبح فخذك موازية للأرض.",
+          "text_en": "Drive a knee upwards till your thigh is parallel to the ground."
+        },
+        {
+          "text": "توقف للحظة ثم اعد للوضعية الابتدائية.",
+          "text_en": "Pause for a moment and then return to the starting position."
+        },
+        {
+          "text": "حاول الحفاظ على التوازن ووضعية جيدة عند رفع الركبة.",
+          "text_en": "Try to maintain balance and a good posture when raising the knee."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexions-standing-resisted-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexions-standing-resisted-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexions-standing-resisted-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexions-standing-resisted-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexions-standing-resisted-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexions-standing-resisted-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexions-standing-resisted-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexions-standing-resisted-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexions-standing-resisted-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexions-standing-resisted-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexions-standing-resisted-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexions-standing-resisted-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_front_male_15AIaQ6.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_back_male_pbO44uy.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexions-standing-resisted-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexions-standing-resisted-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_front_female_7pOiMST.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_back_female_qgH6Pad.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexions-standing-resisted-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexions-standing-resisted-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "نص: ثني الساق المستقيمة بالفرقة لتمرين الورك",
+      "name_en": "Band Straight Leg Hip Flexions",
+      "name_alternative": null,
+      "slug": "hip-flexions-straight-leg-standing-resisted",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "النص: قم بتثبيت الشريط على نقطة ثابتة.",
+          "text_en": "Attach a band to a fixed point."
+        },
+        {
+          "text": "النص: لف الطرف السائل من الرباط حول كاحلك.",
+          "text_en": "Wrap the loose end of the band around your ankle."
+        },
+        {
+          "text": "اوجه وجهك بعيداً عن نقطة التثبيت.",
+          "text_en": "Face away from the attachment point."
+        },
+        {
+          "text": "ارفع ساقك العاملة ضد المقاومة.",
+          "text_en": "Raise your working leg against the resistance."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexions-straight-leg-standing-resisted-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexions-straight-leg-standing-resisted-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexions-straight-leg-standing-resisted-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexions-straight-leg-standing-resisted-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexions-straight-leg-standing-resisted-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexions-straight-leg-standing-resisted-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexions-straight-leg-standing-resisted-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexions-straight-leg-standing-resisted-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexions-straight-leg-standing-resisted-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexions-straight-leg-standing-resisted-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexions-straight-leg-standing-resisted-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexions-straight-leg-standing-resisted-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_straight_leg_hip_flexions_front_male_TJdUNtl.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_straight_leg_hip_flexions_back_male_PKfE1Gx.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexions-straight-leg-standing-resisted-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexions-straight-leg-standing-resisted-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_straight_leg_hip_flexions_front_female_i8SgYev.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_straight_leg_hip_flexions_back_female_q3VKIr2.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexions-straight-leg-standing-resisted-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexions-straight-leg-standing-resisted-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "نص: تمرين تمدد عضلات الورك بالركوع 1",
+      "name_en": "Hip Flexor Stretch Kneeling Lunge 1",
+      "name_alternative": null,
+      "slug": "hip-flexor-stretch-kneeling-lunge-1",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ضع نفسك في وضعية الركوع. حافظ على زاوية 90 درجة في الركبتين.",
+          "text_en": "Bring yourself to kneeling lunge position. Keep a 90° angle at knees."
+        },
+        {
+          "text": "انزلق بركبتك الأمامية إلى الأمام بينما تميل للخلف بلطف.",
+          "text_en": "Slide the front knee forward while gently leaning back."
+        },
+        {
+          "text": "اضغط على العضلة الأردافية على جانب الساق التي في المقدمة لتجنب الشكاوى من الظهر السفلي.",
+          "text_en": "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_front_male_zODqpWd.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_back_male_hxou3dZ.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-1-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-1-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_front_female_EwhzNOP.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_back_female_P4B6gfB.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-1-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-1-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "نص: تمارين تمدد عضلات الفخذ في وضعية الركوع الاندفاعي 2",
+      "name_en": "Hip Flexor Stretch Kneeling Lunge 2",
+      "name_alternative": null,
+      "slug": "hip-flexor-stretch-kneeling-lunge-2",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "نقل نفسك إلى وضعية الركوع المتوازي. حافظ على زاوية قدرها 90° في ركبتيك.",
+          "text_en": "Bring yourself to kneeling lunge position. Keep a 90° angle at knees."
+        },
+        {
+          "text": "النص: اسحب الركبة الأمامية إلى الأمام بينما تميل للخلف بلطف. ارفع ذراعك بزاوية مائلة إلى الخلف",
+          "text_en": "Slide the front knee forward while gently leaning back. Raise your arm diagonally backwards"
+        },
+        {
+          "text": "اضغط على العضلة الأردافية على جانب الساق التي في الأمام لتجنب شكاوى الظهر السفلي.",
+          "text_en": "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_front_male_KULcICy.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_back_male_bBXvQQH.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-2-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-2-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_front_female_XwDTSI2.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_back_female_yOfWOlS.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-2-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-2-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "نص: تمارين تمدد عضلات المرفق الوركي في وضع الانحناء على الركبتين 3",
+      "name_en": "Hip Flexor Stretch Kneeling Lunge 3",
+      "name_alternative": null,
+      "slug": "hip-flexor-stretch-kneeling-lunge-3",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الرباعية",
+          "name_en_us": "Quads",
+          "description": "تتألف العضلة الرباعية من الرأس من أربعة رؤوس (ولهذا السبب تسمى العضلة الرباعية). الرؤوس هي: العضلة المستقيمة الفخذية، العضلة الجانبية العريضة، العضلة الوسطية العريضة، والعضلة الوسطانية العريضة.\n\nباستثناء العضلة المستقيمة الفخذية، جميع رؤوس العضلة الرباعية لها وظيفة واحدة، وهي تمديد الركبة.\n\nوهذا يعني أن العضلة الرباعية نشطة في كل مرة تمشي أو تقف فيها. بالإضافة إلى ذلك، وبالتعاون مع العضلات الخلفية للفخذ، تقوم العضلة الرباعية بتثبيت الركبة.",
+          "description_en_us": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قم بجلب نفسك إلى وضعية الانحناء على الركبة. حافظ على زاوية 90° في ركبتيك.",
+          "text_en": "Bring yourself to kneeling lunge position. Keep a 90° angle at knees."
+        },
+        {
+          "text": "يجب أن تكون القدم الخلفية مرتفعة (كلما زاد ارتفاعها، كلما امتد العضلة الناقضة للورك / الربع العلوي).",
+          "text_en": "Back foot should be elevated (the higher the elevation the more the hip flexor/upper quad will stretch)."
+        },
+        {
+          "text": "قم بالانزلاق بركبتك الأمامية للأمام بينما تميل برفق إلى الخلف.",
+          "text_en": "Slide the front knee forward while gently leaning back."
+        },
+        {
+          "text": "قم بشد عضلات الأرداف على الجانب الذي يكون فيه الساق الأمامية لتجنب الشكاوى الخاصة بألم الظهر السفلي.",
+          "text_en": "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_front_male_4N6UJky.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_back_male_sHH1IUm.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-3-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-3-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_front_female_WnjcZhf.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_back_female_rCIhJxz.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-3-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-hip-flexor-stretch-kneeling-lunge-3-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "النص: الحلقة المتواصلة لتحسين مرونة الورك أثناء الوقوف",
+      "name_en": "Infinity Loop Standing Hip Mobility",
+      "name_alternative": null,
+      "slug": "infinity-loop-standing-hip-mobility",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الأرداف",
+          "name_en_us": "Glutes",
+          "description": "بالنظر إلى مدى الإعجاب ، الأرداف تزداد شعبية ، ولكن الأرداف أكثر بكثير من مجرد شيء جميل للنظر إليه. عضلات الأرداف الكبرى هي أكبر عضلة في الجسم وتؤدي العديد من الوظائف المهمة.",
+          "description_en_us": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+        },
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من الوضع القائم، ارفع ركبة واحدة حتى تصبح الفخذ موازية للأرض.",
+          "text_en": "From the standing position raise one knee till the thigh is parallel to the ground."
+        },
+        {
+          "text": "أجلب ركبتك إلى جانبك بدون تدوير الورك.",
+          "text_en": "Bring the knee to your side without rotating the hips."
+        },
+        {
+          "text": "الركبة تقود الحركة والكاحل يتأخر قليلاً.",
+          "text_en": "The knee drives the movement and the ankle lags slightly behind."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Glute Exercise",
+        "Quads Exercise",
+        "Glutes Exercise",
+        "Leg Exercise",
+        "Rectus Femoris Exercise",
+        "Butt Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-infinity-loop-standing-hip-mobility-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-infinity-loop-standing-hip-mobility-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-infinity-loop-standing-hip-mobility-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-infinity-loop-standing-hip-mobility-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-infinity-loop-standing-hip-mobility-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-infinity-loop-standing-hip-mobility-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-infinity-loop-standing-hip-mobility-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-infinity-loop-standing-hip-mobility-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-infinity-loop-standing-hip-mobility-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-infinity-loop-standing-hip-mobility-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-infinity-loop-standing-hip-mobility-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-infinity-loop-standing-hip-mobility-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/infinity_loop_standing_hip_mobility_front_male_7NzTS7R.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/infinity_loop_standing_hip_mobility_back_male_2r9Uxs5.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-infinity-loop-standing-hip-mobility-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-infinity-loop-standing-hip-mobility-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/infinity_loop_standing_hip_mobility_front_female_3WeTh8Y.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/infinity_loop_standing_hip_mobility_back_female_wF8W92j.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-infinity-loop-standing-hip-mobility-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-infinity-loop-standing-hip-mobility-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "نص: الوقوف ورفع الركبة والمكوث في هذا الوضع",
+      "name_en": "Standing Knee Raise Hold",
+      "name_alternative": null,
+      "slug": "knee-raise-standing-unilateral",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "تثبيت",
+        "name_en": "Hold",
+        "description": "تمارين تقاوم الحركة بدلاً من تحفيزها.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بشكل مستقيم وبوضعية صحيحة.",
+          "text_en": "Stand up straight and with a good posture."
+        },
+        {
+          "text": "انقل وزنك إلى الساق الداعمة أثناء رفع الركبة الأخرى.",
+          "text_en": "Shift your weight onto the supporting leg while driving the other knee."
+        },
+        {
+          "text": "يجب أن تكون فخذك موازية للأرض.",
+          "text_en": "Your thigh should be parallel to the ground."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-raise-standing-unilateral-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-knee-raise-standing-unilateral-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-knee-raise-standing-unilateral-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-raise-standing-unilateral-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-knee-raise-standing-unilateral-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-knee-raise-standing-unilateral-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-knee-raise-standing-unilateral-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-knee-raise-standing-unilateral-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-knee-raise-standing-unilateral-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-knee-raise-standing-unilateral-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-knee-raise-standing-unilateral-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-knee-raise-standing-unilateral-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_knee_raise_hold_front_male_kadKZ0t.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_knee_raise_hold_back_male_SJFBxDV.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-knee-raise-standing-unilateral-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-knee-raise-standing-unilateral-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_knee_raise_hold_front_female_pdBm04F.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_knee_raise_hold_back_female_ej5rh4i.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-knee-raise-standing-unilateral-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-knee-raise-standing-unilateral-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "نص: رفع الساقين على ميل الأرضية",
+      "name_en": "Floor Incline Leg Raise",
+      "name_alternative": null,
+      "slug": "leg-raise-straight-incline-seated",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الفخذ المستقيمة",
+          "name_en_us": "Rectus Femoris",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على الأرض واستند إلى الخلف على راحتيك أو على مرفقيك.",
+          "text_en": "Sit on the floor and lean back into your palms or on your elbows."
+        },
+        {
+          "text": "ارفع ساقك مباشرة بضعة سنتيمترات فوق الأرض وحافظ على الوضع للمدة المحددة.",
+          "text_en": "Raise a straight leg a few centimeters off the ground and hold the position for the specified duration."
+        }
+      ],
+      "seo_tags": [
+        "Quad Exercise",
+        "Leg Exercise",
+        "Quads Exercise",
+        "Rectus Femoris Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-leg-raise-straight-incline-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-leg-raise-straight-incline-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-leg-raise-straight-incline-seated-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-leg-raise-straight-incline-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-leg-raise-straight-incline-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-leg-raise-straight-incline-seated-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-leg-raise-straight-incline-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-leg-raise-straight-incline-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-leg-raise-straight-incline-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-leg-raise-straight-incline-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-leg-raise-straight-incline-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-leg-raise-straight-incline-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/floor_incline_leg_raise_front_male_XV9ECGo.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/floor_incline_leg_raise_back_male_rMyiOyI.png",
+          "front_file_path": "musclewiki/male/bodymaps/rectus-femoris-leg-raise-straight-incline-seated-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/rectus-femoris-leg-raise-straight-incline-seated-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/floor_incline_leg_raise_front_female_WVA1HqU.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/floor_incline_leg_raise_back_female_3olZ7sp.png",
+          "front_file_path": "musclewiki/female/bodymaps/rectus-femoris-leg-raise-straight-incline-seated-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/rectus-femoris-leg-raise-straight-incline-seated-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

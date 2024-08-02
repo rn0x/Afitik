@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
+import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import "../../assets/styles/Exercises.css"
 
 export default function Exercises() {
@@ -51,7 +52,8 @@ export default function Exercises() {
             id="male"
           >
             <p>ذكر</p>
-            <img
+
+            <ImageWithSkeleton
               src="/images/icons/male.png"
               alt="ذكر"
               title="ذكر"
@@ -68,7 +70,7 @@ export default function Exercises() {
             id="female"
           >
             <p>انثى</p>
-            <img
+            <ImageWithSkeleton
               src="/images/icons/female.png"
               alt="انثى"
               title="انثى"

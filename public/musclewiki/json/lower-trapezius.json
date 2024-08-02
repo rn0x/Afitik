@@ -1,0 +1,896 @@
+{
+  "id": 33,
+  "name": "عضلات الترابس السفلية",
+  "name_en_us": "Lower Traps",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "سحب الآلة",
+      "name_en": "Machine Pulldown",
+      "name_alternative": null,
+      "slug": "machine-pulldown",
+      "description": "<p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>كيفية تنفيذ التمرين السحب لأسفل</b></span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>الإعداد</b></span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>أولا، قم بتعديل وسادة الفخذ إلى الموضع الذي يتناسب مع طولك. يجب أن تتمكن من وضع ساقيك تحت وسادة الفخذ بالكامل، لكنها يجب أن تكون منخفضة بما يكفي لتجعلك ملتصقًا بالكرسي.</span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>هناك العديد من الأساليب التي يمكنك استخدامها في تمرين السحب لأسفل. في فيديو العرض الخاص بنا، نقوم بتنفيذ تمرين سحب عريض من فوق اليد، لذا ستكون التعليمات المتبعة لهذا النوع بشكل خاص.</span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>قم بأخذ قبضة من فوق اليد خارج الجزء من الحديد الذي ينحني للأسفل. يمكنك استخدام قبضة بالإبهام أو بدون الإبهام.</span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>أمسك بإحكام بالوزن و اجلس مباشرة على الأرض وألقي ساقيك تحت وسادة الفخذ.</span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>التنفيذ</b></span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>قبل أن تبدأ القرصة، تأكد من أن المرفقين في موضع ممتد بالكامل. يجب أن تكون أذنيك بين ذراعيك. عند بدء السحب، اميل قليلاً إلى الخلف. تخيل أنك تحاول سحب ذراعيك نحو جنبيك، وليس فقط نحو الأسفل. يجب أن يقع الحديد بين ترقوتك وخط الحلمة.</span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>بمجرد أن تلمس صدرك بالحديد ابدأ الرجوع. حاول أن تكون في تحكم دائم بالوزن أثناء الطريق إلى الأعلى. سوف تنتهي القرصة بما يعود المرفقين إلى موضعهم الممتد بالكامل.</span></p><p dir=rtl style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>احترس من الغش في هذا التمرين. من السهل جداً (وهو شائع جداً) استخدام الزخم في هذا التمرين. إذا كنت تستخدم بعض الحركات الجسدية وتهز الوزن لنقله من النقطة A إلى النقطة B والوزن ثقيل جداً. حاول أن تجعل الوزن أخف وتحكم طوال الطريق أثناء الارتفاع والنزول.</span></p>",
+      "description_en_us": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>How To Perform The Pulldown</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-c37ebc67-7fff-814e-9328-58180203681c\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">First, adjust the thigh pad to a position that works well with your height. You should be able to put your legs under the thigh pad fully, but it should be low enough to keep you glued to the chair.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">There are several grips you can use on a pull down.&nbsp; In our demo video, we are doing a wide grip overhand pull down, so these instructions will be for that variation in particular.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Take an overhand grip just outside the part of the bar that bends downward. You can either use a thumbed or thumbless grip.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Hold on tight to the weight and sit straight down throwing your legs underneath the thigh pad.&nbsp;</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing</b></span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Before you start the rep, make sure your elbows are in a fully extended position. Your ears should be between your biceps. As you initiate the pull, lean back slightly. Imagine you are trying to pull your elbows in toward your rib cage, and not just downward. The bar should land between your collarbone and nipple line.&nbsp;</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Once you have tapped your chest begin the eccentric. Control the weight on the way back up. The rep will end with your elbows returning to their fully extended position.</span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Be careful about cheating on this exercise. It is very easy (and very common) to use momentum on this exercise. If you are using some body English and jerking the weight to get it from point A to point B and the weight is too heavy. Try going lighter and controlling during both the concentric and eccentric.</span></p>",
+      "muscles_primary": [
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_tertiary": [
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles": [
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/wo_gGRjVrrw"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/wo_gGRjVrrw"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك القضيب بحيث تكون راحة يديك مواجهة للأمام، يجب أن تكون يديك متباعدة على مسافة أكبر من عرض الكتف.",
+          "text_en": "Grip the bar with the palms facing forward, your hands need to be spaced out at a distance wider than shoulder width."
+        },
+        {
+          "text": "بينما تمتد كلا ذراعيك أمامك معلقًا القضيب، حرك جذعك للخلف بحوالي 30 درجة مع تمدد صدرك للخارج.",
+          "text_en": "As you have both arms extended in front of you holding the bar, bring your torso back around 30 degrees while sticking your chest out."
+        },
+        {
+          "text": "أسحب القضيب نحو مستوى الذقن أو أقل قليلاً بحركة سلسة أثناء ضغط الكتفين معًا.",
+          "text_en": "Pull the bar down to about chin level or a little lower in a smooth movement whilst squeezing the shoulder blades together."
+        },
+        {
+          "text": "بعد ثانية من الضغط، ارفع القضيب ببطء إلى الموضع الابتدائي عندما تكون ذراعيك ممتدة بالكامل.",
+          "text_en": "After a second of squeezing, slowly raise the bar back to the starting position when your arms are fully extended."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Machine Pulldown",
+        "كيفية تنفيذ تمرين السحب على الجهاز",
+        "Lats Exercise",
+        "beginner Machine exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-pulldown-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-pulldown-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-pulldown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-pulldown-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-pulldown-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-pulldown-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-machine-pulldown-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-pulldown-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-pulldown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-machine-pulldown-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-pulldown-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-pulldown-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pulldown_front_male_MfRNqfU.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pulldown_back_male_lfplYka.png",
+          "front_file_path": "musclewiki/male/bodymaps/lower-trapezius-machine-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lower-trapezius-machine-pulldown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pulldown_front_female_j2JYR0X.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pulldown_back_female_cHIuglX.png",
+          "front_file_path": "musclewiki/female/bodymaps/lower-trapezius-machine-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lower-trapezius-machine-pulldown-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "سحب لأسفل باليد السفلية",
+      "name_en": "Underhand Pulldown",
+      "name_alternative": null,
+      "slug": "underhand-pulldown",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_tertiary": [
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق القضيب المستقيم. أمسك بقبضة تحتية.",
+          "text_en": "Use the Straight Bar attachment. Hold with an underhand grip."
+        },
+        {
+          "text": "أمسك بالملحق بينما تجلس على الجهاز وضع ساقيك تحت وسادات الرجل.",
+          "text_en": "Hold the attachment as you sit on the machine and put your legs under the leg pads."
+        },
+        {
+          "text": "اسحب القضيب إلى ترقوتك، ثم ارفعه مرة أخرى حتى تكون ذراعيك ممتدتين.",
+          "text_en": "Pull the bar to your clavicle, then raise back up until your arm are extended."
+        }
+      ],
+      "seo_tags": [
+        "Lats Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-underhand-pulldown-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-underhand-pulldown-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-underhand-pulldown-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-underhand-pulldown-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-underhand-pulldown-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-underhand-pulldown-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-underhand-pulldown-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-underhand-pulldown-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-underhand-pulldown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-underhand-pulldown-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-underhand-pulldown-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-underhand-pulldown-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_front_male_kKQZMqP.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_back_male_mI52F8f.png",
+          "front_file_path": "musclewiki/male/bodymaps/lower-trapezius-underhand-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lower-trapezius-underhand-pulldown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_front_female_eWR5Azg.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_back_female_KKj9q3O.png",
+          "front_file_path": "musclewiki/female/bodymaps/lower-trapezius-underhand-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lower-trapezius-underhand-pulldown-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "سحب ضيق",
+      "name_en": "Narrow Pulldown",
+      "name_alternative": null,
+      "slug": "narrow-pulldown",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الترابس (الجزء الأوسط من الظهر)",
+          "name_en_us": "Traps (mid-back)",
+          "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الترابس (الجزء الأوسط من الظهر)",
+          "name_en_us": "Traps (mid-back)",
+          "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق القضيب المستقيم.",
+          "text_en": "Use the Straight Bar attachment."
+        },
+        {
+          "text": "أمسك بالملحق بينما تجلس على الجهاز وضع ساقيك تحت وسادات الساق.",
+          "text_en": "Hold the attachment as you sit on the machine and put your legs under the leg pads."
+        },
+        {
+          "text": "اسحب القضيب نحو ترقوتك، ثم ارفعه مرة أخرى حتى تكون ذراعيك ممتدة.",
+          "text_en": "Pull the bar to your clavicle, then raise back up until your arm are extended."
+        }
+      ],
+      "seo_tags": [
+        "Lats Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-narrow-pulldown-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-narrow-pulldown-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-narrow-pulldown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-narrow-pulldown-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-narrow-pulldown-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-narrow-pulldown-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-narrow-pulldown-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-narrow-pulldown-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-narrow-pulldown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-narrow-pulldown-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-narrow-pulldown-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-narrow-pulldown-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_front_male_nC89noo.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_back_male_G4MXAtN.png",
+          "front_file_path": "musclewiki/male/bodymaps/lower-trapezius-narrow-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lower-trapezius-narrow-pulldown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_front_female_yp2Rm43.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_back_female_njdD0Rr.png",
+          "front_file_path": "musclewiki/female/bodymaps/lower-trapezius-narrow-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lower-trapezius-narrow-pulldown-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "السحب العمودي المحايد",
+      "name_en": "Neutral Pulldown",
+      "name_alternative": null,
+      "slug": "neutral-pulldown",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        }
+      ],
+      "muscles_tertiary": [
+        {
+          "name": "الترابس (الجزء الأوسط من الظهر)",
+          "name_en_us": "Traps (mid-back)",
+          "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles": [
+        {
+          "name": "البايسبس",
+          "name_en_us": "Biceps",
+          "description": "عضلة العضود العظمي هي واحدة من العضلات التي يتم تدريبها بشكل متكرر. بشكل نمطي، يريد معظم الرجال الحصول على عضلات عضود كبيرة - وفي الواقع، هذا غالباً ما يكون صحيحًا. كما هو معروف، الوظيفة الرئيسية للعضود العظمي هي انكماش المرفق (ما يحدث أثناء التمرين اللف). ولكن، للعضود العظمي مزيد من المسؤوليات بعيداً عن التمارين اللف فقط.",
+          "description_en_us": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+        },
+        {
+          "name": "الترابس (الجزء الأوسط من الظهر)",
+          "name_en_us": "Traps (mid-back)",
+          "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "عضلات الظهر العريضة",
+          "name_en_us": "Lats",
+          "description": "العضلات الظهرية العريضة هي عضلة كبيرة ومسطحة تبدأ من النقاط المتوسطة والسفلى للعمود الفقري، والحوض (حافة الحوض)، والأضلاع. العضلات الظهرية العريضة المتطورة جيدا تعطي مظهر أكبر للظهر، وبالتالي تجعل الخصر يبدو أصغر.",
+          "description_en_us": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق V Bar.",
+          "text_en": "Use the V Bar attachment."
+        },
+        {
+          "text": "أمسك بالملحق بينما تجلس على الجهاز وضع ساقيك تحت وسادات الساق.",
+          "text_en": "Hold the attachment as you sit on the machine and put your legs under the leg pads."
+        },
+        {
+          "text": "اسحب القضيب إلى ترقوتك، ثم ارفعه مرة أخرى حتى تكون ذراعيك ممتدة.",
+          "text_en": "Pull the bar to your clavicle, then raise back up until your arm are extended."
+        }
+      ],
+      "seo_tags": [
+        "Lats Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-neutral-pulldown-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-neutral-pulldown-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-neutral-pulldown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-neutral-pulldown-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-neutral-pulldown-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-neutral-pulldown-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-neutral-pulldown-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-neutral-pulldown-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-neutral-pulldown-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-neutral-pulldown-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-neutral-pulldown-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-neutral-pulldown-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_front_male_K8Cg9UL.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_back_male_TAwIbOy.png",
+          "front_file_path": "musclewiki/male/bodymaps/lower-trapezius-neutral-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lower-trapezius-neutral-pulldown-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_front_female_CMmnT1j.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_back_female_KCXPdKw.png",
+          "front_file_path": "musclewiki/female/bodymaps/lower-trapezius-neutral-pulldown-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lower-trapezius-neutral-pulldown-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "نشاط رفع الوزن من الدكة",
+      "name_en": "Bench Lift Off Active",
+      "name_alternative": null,
+      "slug": "bench-lift-off-active",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "نص: بينما أنت جالس على المقعد، ضع راحة يديك على المقعد بجانب جسمك",
+          "text_en": "While seated on a bench, place your palms on the bench by your sides"
+        },
+        {
+          "text": "يجب أن يسمح مكان وضع الكف للأصابع بالإمساك بحافة الدكة",
+          "text_en": "Palm placement should allow room for the fingers to grip the edge of the bench"
+        },
+        {
+          "text": "حاول رفع وزن جسمك عن الكرسي عن طريق دفع راحة يديك في الكرسي",
+          "text_en": "Try to lift your bodyweight off the bench by pushing the palms into the bench"
+        },
+        {
+          "text": "نص: قفل مرفقيك وكرر الحركة أو أبق على حالة استقرار ايزومترية",
+          "text_en": "Lockout your elbows and repeat or hold isometrically"
+        }
+      ],
+      "seo_tags": [
+        "Lower Abdominals Exercise",
+        "Abs",
+        "Traps Exercise",
+        "Abs Exercise",
+        "Abdominal Exercise",
+        "Lower Traps Exercise",
+        "Abdominals Exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-bench-lift-off-active-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-bench-lift-off-active-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-bench-lift-off-active-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-bench-lift-off-active-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-bench-lift-off-active-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-bench-lift-off-active-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-bench-lift-off-active-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-bench-lift-off-active-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-bench-lift-off-active-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-bench-lift-off-active-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-bench-lift-off-active-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-bench-lift-off-active-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_active_front_male_kK3MjGn.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_active_back_male_MwWFcQ0.png",
+          "front_file_path": "musclewiki/male/bodymaps/lower-trapezius-bench-lift-off-active-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lower-trapezius-bench-lift-off-active-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_active_front_female_kkCZ4eY.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_active_back_female_A7VUUtD.png",
+          "front_file_path": "musclewiki/female/bodymaps/lower-trapezius-bench-lift-off-active-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lower-trapezius-bench-lift-off-active-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "نص: رفع البنك من الراحة الثابتة",
+      "name_en": "Bench Lift Off Static",
+      "name_alternative": null,
+      "slug": "bench-lift-off-static",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "العضلات البطنية السفلية",
+          "name_en_us": "Lower Abdominals",
+          "description": null,
+          "description_en_us": null
+        },
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "بينما أنت جالس على المقعد، ضع كفيك على المقعد بجانبك",
+          "text_en": "While seated on a bench, place your palms on the bench by your sides"
+        },
+        {
+          "text": "يجب أن تتيح مكان اليد مساحة للأصابع لتمسك حافة الدكة",
+          "text_en": "Palm placement should allow room for the fingers to grip the edge of the bench"
+        },
+        {
+          "text": "حاول رفع وزن جسمك عن الكرسي عن طريق دفع الكفين في الكرسي",
+          "text_en": "Try to lift your bodyweight off the bench by pushing the palms into the bench"
+        },
+        {
+          "text": "قفل مرفقيك وأبق على حالة ثابتة بشكل ثابت",
+          "text_en": "Lockout your elbows and hold isometrically"
+        }
+      ],
+      "seo_tags": [
+        "Lower Abdominals Exercise",
+        "Abs",
+        "Traps Exercise",
+        "Abs Exercise",
+        "Abdominal Exercise",
+        "Lower Traps Exercise",
+        "Abdominals Exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-bench-lift-off-seated-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-bench-lift-off-seated-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-bench-lift-off-seated-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-bench-lift-off-seated-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-bench-lift-off-seated-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-bench-lift-off-seated-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-bench-lift-off-seated-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-bench-lift-off-seated-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-bench-lift-off-seated-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-bench-lift-off-seated-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-bench-lift-off-seated-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-bench-lift-off-seated-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_static_front_male_npTldyr.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_static_back_male_bPWaOHf.png",
+          "front_file_path": "musclewiki/male/bodymaps/lower-trapezius-bench-lift-off-static-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lower-trapezius-bench-lift-off-static-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_static_front_female_62paJkp.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bench_lift_off_static_back_female_JFaCXKI.png",
+          "front_file_path": "musclewiki/female/bodymaps/lower-trapezius-bench-lift-off-static-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lower-trapezius-bench-lift-off-static-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "انخفاض الكتف",
+      "name_en": "Scapular Depression",
+      "name_alternative": null,
+      "slug": "scapular-depression",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس السفلية",
+          "name_en_us": "Lower Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من وضعية الوقوف أو الجلوس، قم بفرد ظهرك.",
+          "text_en": "From the standing or seated position straighten your back."
+        },
+        {
+          "text": "اسحب الكتفين للخلف لكن احتفظ بهما مرتخيين.",
+          "text_en": "Pull the shoulders back but keep them relaxed."
+        },
+        {
+          "text": "ابعد كتفيك عن أذنيك وعد إلى وضعية البداية المريحة.",
+          "text_en": "Move shoulders away from your ears and return to the starting, relaxed position."
+        }
+      ],
+      "seo_tags": [
+        "Traps Exercise",
+        "Trapezius Exercise",
+        "Lower Traps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-scapular-depression-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-scapular-depression-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-scapular-depression-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-scapular-depression-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-scapular-depression-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-scapular-depression-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-scapular-depression-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-scapular-depression-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-scapular-depression-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-scapular-depression-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-scapular-depression-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-scapular-depression-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_depression_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_depression_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/lower-trapezius-scapular-depression-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/lower-trapezius-scapular-depression-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_depression_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_depression_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/lower-trapezius-scapular-depression-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/lower-trapezius-scapular-depression-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

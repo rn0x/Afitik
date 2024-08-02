@@ -1,0 +1,1065 @@
+{
+  "id": 20,
+  "name": "العضلات الخلفية الوسطى",
+  "name_en_us": "Medial Hamstrings",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "رفع الأرداف والفخذين",
+      "name_en": "Glute Ham Raise",
+      "name_alternative": null,
+      "slug": "glute-ham-raise",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/gqs0J2KMwPg?si=g46jmBD1GsGOLFd7"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/gqs0J2KMwPg?si=g46jmBD1GsGOLFd7"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "ضع نفسك على جهاز رفع الأرداف والفخذين أو ابحث عن بديل مناسب مثل الكرة المستقرة أو الدكة.",
+          "text_en": "Position yourself on a glute ham raise machine or find a suitable substitute like a stability ball or bench."
+        },
+        {
+          "text": "قم بضبط المعدات لتناسب جسمك عن طريق تعيين لوح القدم على الارتفاع المناسب والتأكد من أن قدميك مثبتة بأمان.",
+          "text_en": "Adjust the equipment to fit your body by setting the footplate at an appropriate height and making sure your feet are securely anchored."
+        },
+        {
+          "text": "ابدأ الحركة بخفض الجزء العلوي من جسمك ببطء نحو الأرض مع الحفاظ على محاذاة جذع جسمك وساقيك.",
+          "text_en": "Begin the movement by slowly lowering your upper body towards the ground while keeping your torso and legs aligned."
+        },
+        {
+          "text": "بمجرد أن تصل إلى النقطة الأدنى حيث يكون جسمك موازيًا للأرض أو حتى أبعد ما يمكنك الوصول إليه براحة، قم بالتوقف لفترة وجيزة.",
+          "text_en": "Once you reach the lowest point where your body is parallel to the ground or as far as you can comfortably go, pause briefly."
+        },
+        {
+          "text": "أعد تفعيل عضلات أردافك وعضلات الفخذين الخلفية وأنت تدفع نفسك للوضع الابتدائي، مستخدمًا قوة عضلات سلسلتك الخلفية.",
+          "text_en": "Engage your glutes and hamstrings again as you push yourself back up to the starting position, using the strength of your posterior chain muscles."
+        }
+      ],
+      "seo_tags": [
+        "How to do Glute Ham Raise",
+        "Hamstrings Exercise",
+        "Hamstring Exercise",
+        "Leg Exercise",
+        "How To Do A Glute Ham Raise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-machine-glute-ham-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-glute-ham-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-glute-ham-raise-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-machine-glute-ham-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-glute-ham-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-glute-ham-raise-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-machine-glute-ham-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-glute-ham-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-glute-ham-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-machine-glute-ham-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-glute-ham-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-glute-ham-raise-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/glute_ham_raise_front_male_4lLjgm3.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/glute_ham_raise_back_male_EaOS0QD.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-glute-ham-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-glute-ham-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/glute_ham_raise_front_female_NZvtAXl.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/glute_ham_raise_back_female_a8I3RQ2.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-glute-ham-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-glute-ham-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "تمارين العضلات الخلفية للفخذ على الأجهزة",
+      "name_en": "Machine Hamstring Curl",
+      "name_alternative": null,
+      "slug": "machine-hamstring-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/gqs0J2KMwPg?si=g46jmBD1GsGOLFd7"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/gqs0J2KMwPg?si=g46jmBD1GsGOLFd7"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "استلق على الجهاز وضع ساقيك تحت المقبض المبطن. ضع ساقيك بحيث يكون المقبض المبطن تحت عضلات الساق الخلفية.",
+          "text_en": "Lay down on the machine, placing your legs beneath the padded lever. Position your legs so that the padded lever is below your calve muscles."
+        },
+        {
+          "text": "ادعم نفسك عن طريق التقاط مقابض الجهاز من الجانبين، وقم برفع الوزن ببطء بواسطة ساقيك، مع توجيه أصابع القدمين للأمام بشكل مستقيم.",
+          "text_en": "Support yourself by grabbing the side handles of the machine, and slowly raise the weight with your legs, toes pointed straight."
+        },
+        {
+          "text": "توقفي عن التحرك عند القمة، ثم عودي ببطء إلى وضع البداية.",
+          "text_en": "Pause at the apex of the motion, then slowly return to starting position."
+        }
+      ],
+      "seo_tags": [
+        "كيفية تنفيذ تمرين الكيرل لعضلة الفخذ الخلفية على الجهاز",
+        "Hamstrings Exercise",
+        "Hamstring Exercise",
+        "Leg Exercise",
+        "How To Do A Machine Hamstring Curl",
+        "beginner Machine exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-hamstring-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-machine-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-machine-hamstring-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-machine-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-hamstring-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-machine-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-machine-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-machine-hamstring-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hamstring_curl_front_male_NUSHmGd.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hamstring_curl_back_male_VfR7MDY.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-machine-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-machine-hamstring-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hamstring_curl_front_female_PCchbPu.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hamstring_curl_back_female_iaMMhGu.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-machine-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-machine-hamstring-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "تمرين الهامسترينج النرويجي",
+      "name_en": "Nordic Hamstring Curl",
+      "name_alternative": null,
+      "slug": "nordic-hamstring-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "انزل إلى ركبتيك واطلب من شخص أن يمسك كاحليك.",
+          "text_en": "Go to your knees and ask someone to hold your ankles."
+        },
+        {
+          "text": "ضع يديك أمامك",
+          "text_en": "Put your hands in front of you"
+        },
+        {
+          "text": "مع ثني خفيف في ركبتيك، أنزل جسمك ببطء إلى الأرض (كلما كان أبطأ كان أفضل)",
+          "text_en": "With a slight bend in your knees slowly bring your body to the ground (slower is better)"
+        },
+        {
+          "text": "اعمل دفعة لأعلى وأعد الضبط للموقع الأولي.",
+          "text_en": "Push up and reset to the starting position."
+        }
+      ],
+      "seo_tags": [
+        "كيفية تنفيذ تمرين نورديك لعضلة الفخذ الخلفية",
+        "Hamstrings Exercise",
+        "advanced exercise",
+        "Bodyweight Fitness",
+        "Hamstring Exercise",
+        "Leg Exercise",
+        "At Home Exercise",
+        "Bodyweight Exercise",
+        "advanced Bodyweight exercise",
+        "How To Do A Nordic Hamstring Curl"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-nordic-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-nordic-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-nordic-hamstring-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-nordic-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-nordic-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-nordic-hamstring-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-nordic-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-nordic-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-nordic-hamstring-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-nordic-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-nordic-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-nordic-hamstring-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/nordic_hamstring_curl_front_male_OjJRbq9.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/nordic_hamstring_curl_back_male_rkRnuPD.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-nordic-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-nordic-hamstring-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/nordic_hamstring_curl_front_female_0UCTpEE.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/nordic_hamstring_curl_back_female_eSGD3hh.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-nordic-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-nordic-hamstring-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "تمارين شد عضلات الفخذ الخلفية بالكابلات",
+      "name_en": "Cable Hamstring Curl",
+      "name_alternative": null,
+      "slug": "cable-hamstring-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "",
+        "name_en": "",
+        "description": "",
+        "description_en_us": ""
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق الكاحل مع الكابل معد ليتم ضبطه في الجزء السفلي من الجهاز بالكامل.",
+          "text_en": "Use an ankle attachment with the cable set all the way to the bottom of the machine."
+        },
+        {
+          "text": "قف بشكل مستقيم أو حاول الانحناء قليلاً للأمام.",
+          "text_en": "Stand upright or try bending slightly forward."
+        },
+        {
+          "text": "ثنِي ركبتك واسحب كاحلك مباشرةً للخلف.",
+          "text_en": "Flex at the knee and pull your ankle straight back."
+        }
+      ],
+      "seo_tags": [
+        "كيفية تنفيذ تمرين ثني العضلات الخلفية للفخذ بالكابل",
+        "Hamstrings Exercise",
+        "advanced exercise",
+        "How To Do A Cable Hamstring Curl",
+        "Hamstring Exercise",
+        "advanced Cables exercise",
+        "Leg Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-cable-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-cable-hamstring-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-cable-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-cable-hamstring-curl-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-cable-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-cable-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-cable-hamstring-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-cable-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-cable-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-cable-hamstring-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hamstring_curl_front_male_FCqJ1SI.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hamstring_curl_back_male_X18rJAH.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-cable-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-cable-hamstring-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hamstring_curl_front_female_x1H1ZlS.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_hamstring_curl_back_female_mM9GJmT.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-cable-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-cable-hamstring-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "تمرين تكس لعضلات الفخذ الخلفية",
+      "name_en": "TRX Hamstring Curl",
+      "name_alternative": null,
+      "slug": "trx-hamstring-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "تي آر إكس",
+        "name_en": "TRX"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ بمواجهة أحزمة TRX وضع نفسك في موضع الدفع - تمدد ذراعيك وضع يديك على الأرض وقدميك في مهادات القدم TRX.",
+          "text_en": "Start by facing the TRX straps and positioning yourself in a push-up position with your hands on the ground and your feet in the TRX foot cradles."
+        },
+        {
+          "text": "مع الحفاظ على تفعيل عضلات البطن وجسمك في خط مستقيم، اثني ركبتيك وجذب كعبيك نحو عضلات الأرداف لديك.",
+          "text_en": "Keeping your core engaged and body in a straight line, bend your knees and bring your heels towards your glutes."
+        },
+        {
+          "text": "توقف للحظة في أعلى الحركة، ثم أعد خفض ساقيك ببطء إلى الوضعية الابتدائية.",
+          "text_en": "Pause for a moment at the top of the movement, then slowly lower your legs back to the starting position."
+        }
+      ],
+      "seo_tags": [
+        "TRX Exercise",
+        "How to do TRX Hamstring Curl",
+        "Hamstrings Exercise",
+        "TRX",
+        "Hamstring Exercise",
+        "How To Do A TRX Hamstring Curl",
+        "تمرين ثني العضلة الخلفية للفخذ",
+        "Leg Exercise",
+        "beginner TRX exercise",
+        "Total Resistance Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-trx-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-trx-hamstring-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-trx-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-trx-hamstring-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-trx-hamstring-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-trx-hamstring-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-trx-hamstring-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-trx-hamstring-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-trx-hamstring-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-trx-hamstring-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/trx_hamstring_curl_front_male_TC5UZ3f.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/trx_hamstring_curl_back_male_WWWV7SS.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-trx-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-trx-hamstring-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/trx_hamstring_curl_front_female_pwLaB04.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/trx_hamstring_curl_back_female_yeGCb4u.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-trx-hamstring-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-trx-hamstring-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "تمرين الثني الجالس للساقين",
+      "name_en": "Seated Leg Curl",
+      "name_alternative": null,
+      "slug": "seated-leg-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على الجهاز. قم بتعديل وسادة الظهر بحيث تكون وسادة الساق موجودة فوق ركبتيك بقليل.",
+          "text_en": "Sit on the machine. Adjust the back pad to where the leg pad is just above your knees."
+        },
+        {
+          "text": "قم بتعديل وسادة الساق التي توضع على ساقك السفلية حتى تكون على وتر العرقوب الخاص بك.",
+          "text_en": "Adjust the leg pad that goes on your lower leg until it's on your achilles."
+        },
+        {
+          "text": "استخدم اليدتين لدفع نفسك إلى الخلف في الكرسي. قم بثني ساقيك قدر الإمكان، ثم مد ركبتيك. (لا تقم بالمد الزائد)",
+          "text_en": "Use the two handles to push your self back in the chair. Curl your legs as far as possible, and then extend your knees. (Do not hyperextend)"
+        }
+      ],
+      "seo_tags": [
+        "Hamstring Exercise",
+        "Leg Exercise",
+        "Medial Hamstrings Exercise",
+        "Hamstrings Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-seated-leg-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-seated-leg-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-seated-leg-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-seated-leg-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-seated-leg-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-seated-leg-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-seated-leg-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-seated-leg-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-seated-leg-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-seated-leg-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-seated-leg-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-seated-leg-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_leg_curl_front_male_3Hzx9S1.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_leg_curl_back_male_ymt4xf5.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-seated-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-seated-leg-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_leg_curl_front_female_fT8RYP9.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_leg_curl_back_female_IMuL7c8.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-seated-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-seated-leg-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "تمارين الساق باستخدام الآلة والجلوس",
+      "name_en": "Machine Seated Leg Curl",
+      "name_alternative": null,
+      "slug": "machine-seated-leg-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس براحة في المقعد. استخدم المقبضين لدفع نفسك للخلف في الكرسي.",
+          "text_en": "Sit back in the seat. Use the two handles to push yourself back into the chair."
+        },
+        {
+          "text": "ثني كاحليك ووجه أصابع قدميك نحو الأعلى.",
+          "text_en": "Flex your ankles and point your toes upward."
+        },
+        {
+          "text": "قم بثني ركبتك مما يسبب في جلب الوسادة للخلف، وامدد ركبتك دون السماح للوزن باللمس مرة أخرى للأسفل.",
+          "text_en": "Flex your knee bringing the pad backward, extend your knee without allowing the weight to touch back down."
+        }
+      ],
+      "seo_tags": [
+        "Hamstring Exercise",
+        "Leg Exercise",
+        "Medial Hamstrings Exercise",
+        "Hamstrings Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-seated-leg-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-machine-seated-leg-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-machine-seated-leg-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-seated-leg-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Machine-machine-seated-leg-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Machine-machine-seated-leg-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-machine-seated-leg-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-machine-seated-leg-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-machine-seated-leg-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Machine-machine-seated-leg-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Machine-machine-seated-leg-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Machine-machine-seated-leg-curl-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_leg_curl_front_male_0vI96Lj.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_leg_curl_back_male_tvpuXhu.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-machine-seated-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-machine-seated-leg-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_leg_curl_front_female_rY0m1GH.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_leg_curl_back_female_oup9HiM.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-machine-seated-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-machine-seated-leg-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "تمرين تقوية الرجل الجالس بالكابلات",
+      "name_en": "Cable Seated Leg Curl",
+      "name_alternative": null,
+      "slug": "cable-seated-leg-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "أحضر مقعدًا إلى جانب أبراج الكابلات، ضع الكابل عند ارتفاع الرأس (عند الجلوس). استخدم ربطة الكاحل.",
+          "text_en": "Bring a bench over to the cable stack, put the cable at head height (when seated). Use an ankle attachment."
+        },
+        {
+          "text": "اجلس على المقعد.",
+          "text_en": "Sit on the bench."
+        },
+        {
+          "text": "أثني ركبتك واسحب كاحلك مباشرة للخلف.",
+          "text_en": "Flex at the knee and pull your ankle straight back."
+        }
+      ],
+      "seo_tags": [
+        "Hamstring Exercise",
+        "Medial Hamstrings Exercise",
+        "Leg Exercise",
+        "Hamstrings Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-seated-leg-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-seated-leg-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-seated-leg-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-seated-leg-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-seated-leg-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-seated-leg-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-seated-leg-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-seated-leg-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-seated-leg-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-seated-leg-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-seated-leg-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-seated-leg-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_leg_curl_front_male_nxOnFJU.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_leg_curl_back_male_JwdFCYh.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-cable-seated-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-cable-seated-leg-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_leg_curl_front_female_Q4m40hb.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_seated_leg_curl_back_female_I3WT3xW.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-cable-seated-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-cable-seated-leg-curl-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "تمارين الساق الواحدة بواسطة الكابلات وأنت مستلقي",
+      "name_en": "Cable Single Leg Laying Leg Curl",
+      "name_alternative": null,
+      "slug": "cable-single-leg-laying-leg-curl",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الفخذ الخلفية",
+          "name_en_us": "Hamstrings",
+          "description": "العضلات الخلفية للفخذ هي العضلات الكبيرة في الجزء الخلفي من الفخذين. هذه العضلات تعمل جنباً إلى جنب مع العضلات الترقوية لجعل المشي والوقوف ممكنًا.\n\nتتكون العضلات الخلفية للفخذ من العضلات التالية - عضلات الساق الكوعية (الرأس القصير والطويل)، والنصف الغشائية، والنصف الوترية.\n\nالعضلات الخلفية للفخذ هي عضلات ضعيفة بالمقارنة مع العضلات الترقوية (العضلات الأمامية للفخذ). تقوم كل من العضلات الخلفية للفخذ والعضلات الترقوية بجذب المفصل الركابي ، لذا إذا كانت إحدى هذه العضلات أقوى من الأخرى، فمن المحتمل أن تنشأ مشاكل في الركبة. قاعدة جيدة عامة هي التأكد من أن العضلات الخلفية للفخذ قوية بنسبة 2/3 مقارنة بالعضلات الترقوية. على سبيل المثال، إذا كنت تستطيع مقاومة 100 رطل بالعضلات الترقوية، فيجب أن تكون قادراً على مقاومة 66 رطل بالعضلات الخلفية للفخذ.",
+          "description_en_us": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+        },
+        {
+          "name": "العضلات الخلفية الوسطى",
+          "name_en_us": "Medial Hamstrings",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قم بجلب مقعد إلى جانب ركم الكابلات، ثم ضع الكابل في الجزء السفلي تمامًا. استخدم مرفق الكاحل.",
+          "text_en": "Bring a bench over to the cable stack, put the cable all the way at the bottom. Use an ankle attachment."
+        },
+        {
+          "text": "استلق على اللوح.",
+          "text_en": "Lay on the bench."
+        },
+        {
+          "text": "ثني ركبتك واسحب كاحلك مباشرة للخلف.",
+          "text_en": "Flex at the knee and pull your ankle straight back."
+        }
+      ],
+      "seo_tags": [
+        "Hamstring Exercise",
+        "Medial Hamstrings Exercise",
+        "Leg Exercise",
+        "Hamstrings Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-single-leg-laying-leg-curl-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-single-leg-laying-leg-curl-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-single-leg-laying-leg-curl-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-single-leg-laying-leg-curl-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-single-leg-laying-leg-curl-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-single-leg-laying-leg-curl-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-single-leg-laying-leg-curl-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-single-leg-laying-leg-curl-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-single-leg-laying-leg-curl-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-single-leg-laying-leg-curl-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-single-leg-laying-leg-curl-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-single-leg-laying-leg-curl-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_leg_laying_leg_curl_front_male_1pDkWXj.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_leg_laying_leg_curl_back_male_x60Twmf.png",
+          "front_file_path": "musclewiki/male/bodymaps/medial-hamstrings-cable-single-leg-laying-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/medial-hamstrings-cable-single-leg-laying-leg-curl-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_leg_laying_leg_curl_front_female_1Kajotl.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_leg_laying_leg_curl_back_female_BSpcwRE.png",
+          "front_file_path": "musclewiki/female/bodymaps/medial-hamstrings-cable-single-leg-laying-leg-curl-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/medial-hamstrings-cable-single-leg-laying-leg-curl-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import AppBar from "../components/AppBar.jsx";
 import ScreenshotCapture from "../components/ScreenshotCapture.jsx";
+import ImageWithSkeleton from "../components/ImageWithSkeleton.jsx";
 import musclesData from "../assets/json/muscles.json";
 import '../assets/styles/MusclePage.css'
 
@@ -51,7 +52,7 @@ export default function MusclePage() {
                 <div className="muscle_description" >{muscle.description}</div>
 
                 <div className="muscles_pages_images">
-                    {muscle.bodymaps.male.front ? <img
+                    {muscle.bodymaps.male.front ? <ImageWithSkeleton
                         src={muscle.bodymaps.male.front}
                         alt={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
                         title={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
@@ -60,7 +61,7 @@ export default function MusclePage() {
                         draggable="false"
                     /> : ''}
 
-                    {muscle.bodymaps.male.back ? <img
+                    {muscle.bodymaps.male.back ? <ImageWithSkeleton
                         src={muscle.bodymaps.male.back}
                         alt={`معلومات عن ${muscle.name} | ${muscle.name_en}`}
                         title={`معلومات عن ${muscle.name} | ${muscle.name_en}`}

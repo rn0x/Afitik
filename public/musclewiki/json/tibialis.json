@@ -1,0 +1,627 @@
+{
+  "id": 10,
+  "name": "عضلة الساق الأمامية (تيبياليس)",
+  "name_en_us": "Tibialis",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "رفع القبة المقعدة بالدمبل",
+      "name_en": "Dumbbell Seated Tibialis Raise",
+      "name_alternative": null,
+      "slug": "dumbbell-seated-tibialis-raise",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على صندوق أو مقعد، ضع كعبيك على درج أو صحن، وضع أوزان الدمبل على ربلاتك.",
+          "text_en": "Sit on a box or bench, place your heels on a step or plate, and place dumbbells on your quads."
+        },
+        {
+          "text": "ارفع أصابع قدميك مباشرة نحو السقف.",
+          "text_en": "Raise your toes straight toward the ceiling."
+        }
+      ],
+      "seo_tags": [
+        "Dumbbell Exercise",
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves",
+        "Tibialis Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-seated-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-seated-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-seated-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-seated-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-seated-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-seated-tibialis-raise-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-seated-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-seated-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-seated-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-seated-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-seated-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-seated-tibialis-raise-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_tibialis_raise_front_male_PVtn3ZY.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_tibialis_raise_back_male_823qegk.png",
+          "front_file_path": "musclewiki/male/bodymaps/tibialis-dumbbell-seated-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/tibialis-dumbbell-seated-tibialis-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_tibialis_raise_front_female_nn7tc4k.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_tibialis_raise_back_female_iIkBXCG.png",
+          "front_file_path": "musclewiki/female/bodymaps/tibialis-dumbbell-seated-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/tibialis-dumbbell-seated-tibialis-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "رفع التبيليس وأنت جالس",
+      "name_en": "Seated Tibialis Raise",
+      "name_alternative": null,
+      "slug": "seated-tibialis-raise",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على صندوق أو مقعد، وضع كعبيك على درج أو لوح.",
+          "text_en": "Sit on a box or bench, place your heels on a step or plate."
+        },
+        {
+          "text": "ارفع أصابع قدميك مباشرة نحو السقف.",
+          "text_en": "Raise your toes straight toward the ceiling."
+        }
+      ],
+      "seo_tags": [
+        "Bodyweight Fitness",
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves",
+        "Bodyweight Exercise",
+        "Tibialis Exercise",
+        "At Home Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-seated-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-seated-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-seated-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-seated-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-seated-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-seated-tibialis-raise-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-seated-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-seated-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-seated-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-seated-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-seated-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-seated-tibialis-raise-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_tibialis_raise_front_male_e63kNxX.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_tibialis_raise_back_male_qsfyxza.png",
+          "front_file_path": "musclewiki/male/bodymaps/tibialis-seated-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/tibialis-seated-tibialis-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_tibialis_raise_front_female_sPTI5WF.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_tibialis_raise_back_female_RCAl6vr.png",
+          "front_file_path": "musclewiki/female/bodymaps/tibialis-seated-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/tibialis-seated-tibialis-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "رفع التبيلياس واقفا",
+      "name_en": "Standing Tibialis Raise",
+      "name_alternative": null,
+      "slug": "standing-tibialis-raise",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {},
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "اخطُ على اللوح، وضع الباربل على ظهرك.",
+          "text_en": "Step on the plate, and place barbell on your back."
+        },
+        {
+          "text": "ارفع أصابع قدميك مباشرة نحو السقف.",
+          "text_en": "Raise your toes straight toward the ceiling."
+        },
+        {
+          "text": "جرب الإمساك في الأعلى لبضع ثوان ثم أعد أصابع قدميك إلى الأرض.",
+          "text_en": "Try holding at the top for a few seconds then bring your toes back down to the floor."
+        }
+      ],
+      "seo_tags": [
+        "Leg Exercise",
+        "Tibialis Exercise",
+        "Calves Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-standing-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-standing-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-standing-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-standing-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Barbell-standing-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Barbell-standing-tibialis-raise-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-standing-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-standing-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-standing-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Barbell-standing-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Barbell-standing-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Barbell-standing-tibialis-raise-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_tibialis_raise_front_male_4iNG1g4.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_tibialis_raise_back_male_RjGaX6e.png",
+          "front_file_path": "musclewiki/male/bodymaps/tibialis-standing-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/tibialis-standing-tibialis-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_tibialis_raise_front_female_11eMMpS.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_tibialis_raise_back_female_QHoHYeU.png",
+          "front_file_path": "musclewiki/female/bodymaps/tibialis-standing-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/tibialis-standing-tibialis-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "رفع التبيال واقفاً بالأثقال الحديدية",
+      "name_en": "Dumbbell Standing Tibialis Raise",
+      "name_alternative": null,
+      "slug": "dumbbell-standing-tibialis-raise",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ضع كعبك على الدرج أو اللوح، وأمسك الأثقال على جانبيك.",
+          "text_en": "Place your heels on a step or plate, and hold dumbbells to your side."
+        },
+        {
+          "text": "ارفع أصابع قدميك مباشرة نحو السقف.",
+          "text_en": "Raise your toes straight toward the ceiling."
+        },
+        {
+          "text": "توقف في الأعلى للحصول على فائدة إضافية. عد ببطء إلى الوضع الابتدائي.",
+          "text_en": "Hold at the top for extra benefit. Slowly return to the starting position."
+        }
+      ],
+      "seo_tags": [
+        "Dumbbell Exercise",
+        "Leg Exercise",
+        "Calves Exercise",
+        "Calves",
+        "Tibialis Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-standing-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-standing-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-standing-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-standing-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-standing-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-standing-tibialis-raise-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-standing-tibialis-raise-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-standing-tibialis-raise-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-standing-tibialis-raise-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-standing-tibialis-raise-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-standing-tibialis-raise-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-standing-tibialis-raise-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_standing_tibialis_raise_front_male_xJYwQsA.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_standing_tibialis_raise_back_male_jUE3MEu.png",
+          "front_file_path": "musclewiki/male/bodymaps/tibialis-dumbbell-standing-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/tibialis-dumbbell-standing-tibialis-raise-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_standing_tibialis_raise_front_female_Tscux3B.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_standing_tibialis_raise_back_female_PNQvnDi.png",
+          "front_file_path": "musclewiki/female/bodymaps/tibialis-dumbbell-standing-tibialis-raise-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/tibialis-dumbbell-standing-tibialis-raise-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "تمرين الثبيت للانثناء الظهري",
+      "name_en": "Dorsal Flexion Hold",
+      "name_alternative": null,
+      "slug": "dorsal-flexion-hold",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من وضعية الوقوف، ارفع أصابع قدميك واتزن على كعبيك للمدة المحددة.",
+          "text_en": "From the standing position, raise your toes and balance on your heels for the given duration."
+        },
+        {
+          "text": "حافظ على وضعية جيدة للجزء العلوي من الجسم.",
+          "text_en": "Maintain a good upper body form."
+        }
+      ],
+      "seo_tags": [
+        "Leg Exercise",
+        "Tibialis Exercise",
+        "Calves Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dorsal-flexion-2-isometric-standing-bilateral-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-dorsal-flexion-2-isometric-standing-bilateral-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-dorsal-flexion-2-isometric-standing-bilateral-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dorsal-flexion-2-isometric-standing-bilateral-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-dorsal-flexion-2-isometric-standing-bilateral-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-dorsal-flexion-2-isometric-standing-bilateral-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-dorsal-flexion-2-isometric-standing-bilateral-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-dorsal-flexion-2-isometric-standing-bilateral-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-dorsal-flexion-2-isometric-standing-bilateral-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-dorsal-flexion-2-isometric-standing-bilateral-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-dorsal-flexion-2-isometric-standing-bilateral-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-dorsal-flexion-2-isometric-standing-bilateral-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dorsal_flexion_hold_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dorsal_flexion_hold_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/tibialis-dorsal-flexion-hold-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/tibialis-dorsal-flexion-hold-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dorsal_flexion_hold_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dorsal_flexion_hold_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/tibialis-dorsal-flexion-hold-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/tibialis-dorsal-flexion-hold-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "انثناء ظهري مع دعم الجدار",
+      "name_en": "Wall Supported Dorsal Flexion",
+      "name_alternative": null,
+      "slug": "wall-supported-dorsal-flexion",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلة الساق الأمامية (تيبياليس)",
+          "name_en_us": "Tibialis",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استند إلى الجدار، ارفع أصابع قدميك وتوازن على كعبيك للمدة المحددة.",
+          "text_en": "Lean against a wall, raise your toes and balance on your heels for the given duration."
+        },
+        {
+          "text": "حافظ على وضعية جيدة للجزء العلوي من الجسم.",
+          "text_en": "Maintain a good upper body form."
+        }
+      ],
+      "seo_tags": [
+        "Leg Exercise",
+        "Tibialis Exercise",
+        "Calves Exercise",
+        "Calves"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-dorsal-flexion-1-isometric-standing-bilateral-wall-support-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wall_supported_dorsal_flexion_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wall_supported_dorsal_flexion_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/tibialis-wall-supported-dorsal-flexion-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/tibialis-wall-supported-dorsal-flexion-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wall_supported_dorsal_flexion_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wall_supported_dorsal_flexion_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/tibialis-wall-supported-dorsal-flexion-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/tibialis-wall-supported-dorsal-flexion-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

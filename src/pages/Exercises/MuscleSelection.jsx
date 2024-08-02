@@ -3,6 +3,7 @@ import { useParams, Link } from "react-router-dom";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
+import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import AppBar from "../../components/AppBar.jsx";
 import "../../assets/styles/Exercises.css";
 import musclesData from "../../assets/json/muscles.json";
@@ -43,7 +44,7 @@ export default function MuscleSelection() {
 
   // دالة لإنشاء أزرار العضلات
   const renderMuscleButtons = () => {
-    return musclesData.map((muscle) => {
+    return musclesData.map((muscle, index) => {
       const imageSrc = muscle.bodymaps[normalizedGender]?.front || muscle.bodymaps[normalizedGender]?.back;
 
       return (
@@ -58,7 +59,9 @@ export default function MuscleSelection() {
           <p>
             {muscle.name}
           </p>
-          <img
+
+          <ImageWithSkeleton
+            key={index}
             src={imageSrc}
             alt={`${muscle.name} | ${muscle.name_en}`}
             title={`${muscle.name} | ${muscle.name_en}`}

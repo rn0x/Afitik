@@ -5,6 +5,7 @@ import AliceCarousel from "react-alice-carousel";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
+import ImageWithSkeleton from "../components/ImageWithSkeleton.jsx";
 import MenuList from "../components/MenuList.jsx";
 import tipsJson from "../assets/json/tips.json";
 import musclesData from "../assets/json/muscles.json";
@@ -47,7 +48,9 @@ export default function Home(props) {
       key={index}
       className="slider-item"
     >
-      <img
+
+      <ImageWithSkeleton
+        key={index}
         src={muscle.bodymaps.male.front ? muscle.bodymaps.male.front : muscle.bodymaps.male.back}
         alt={muscle.name_en}
         title={muscle.name_en}
@@ -101,10 +104,6 @@ export default function Home(props) {
       <h3 className="title_item">القائمة الرئيسية</h3>
 
       <MenuList />
-
-      <p>
-        kkkkkkkkkkkkkk
-      </p>
     </div>
   );
 }

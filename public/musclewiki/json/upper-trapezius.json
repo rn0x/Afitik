@@ -1,0 +1,1723 @@
+{
+  "id": 32,
+  "name": "العضلات العلوية للترابس",
+  "name_en_us": "Upper Traps",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "تمرين كابل الرفع بزاوية 30 درجة",
+      "name_en": "Cable 30 Degree Shrug",
+      "name_alternative": null,
+      "slug": "cable-30-degree-shrug",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم ملحق المقبض على كلا الجانبين من التقاطع. مع تعيين مرفق الكابل في أدنى مستوى.",
+          "text_en": "Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom."
+        },
+        {
+          "text": "أمسك بكلا المقبضين وتأكد من أنك في وسط الجهاز. دع ذراعيك تتدلى بحرية.",
+          "text_en": "Grab both handles and make sure you are centered in the machine. Let your arms hang freely."
+        },
+        {
+          "text": "ارفع شفرات الكتف لأعلى وباتجاه أذنيك. اترك شفرات الكتف حتى تنخفض مرة أخرى إلى الوضع الابتدائي.",
+          "text_en": "Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Cable 30 Degree Shrug",
+        "How to do Cable 30 Degree Shrug",
+        "Traps Exercise",
+        "beginner Cables exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-30-degree-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-30-degree-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-30-degree-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-30-degree-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-30-degree-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-30-degree-shrug-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-30-degree-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-30-degree-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-30-degree-shrug-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-30-degree-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-30-degree-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-30-degree-shrug-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_30_degree_shrug_front_male_XbbZcXG.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_30_degree_shrug_back_male_QtpbWBo.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-cable-30-degree-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-cable-30-degree-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_30_degree_shrug_front_female_gwrADXO.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_30_degree_shrug_back_female_Ufs7YN2.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-cable-30-degree-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-cable-30-degree-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "سحب الباربيل العمودي",
+      "name_en": "Barbell Upright Row",
+      "name_alternative": null,
+      "slug": "barbell-upright-row",
+      "description": "<p><br></p>\r\n<h1>رفع الباربيل لأعلى: دليل شامل</h1>\r\n<h2>الإعداد</h2>\r\n<ul>\r\n  <li>اختر باربيل مناسب لمستوى قوتك وأهداف لياقتك البدنية.</li>\r\n  <li>قف بقدميك على بعد الوركين من بعضهما والركبتين منحنيتين قليلاً، والباربيل مرتاح على الأرض أمامك.</li>\r\n  <li>امسك الباربيل بكلا اليدين، باستخدام قبضة علوية أوسع قليلاً من عرض الكتفين.</li>\r\n  <li>ارفع الباربيل من الأرض وضعه عند فخذيك، مع الحفاظ على ظهرك مستقيم وبطنك مشدود.</li>\r\n</ul>\r\n<h2>كيف يتم التنفيذ</h2>\r\n<ul>\r\n  <li>مع الحفاظ على أكواعك قريبة من جوانبك، ارفع الباربيل مباشرة نحو صدرك.</li>\r\n  <li>توقف عندما يصل الباربيل إلى صدرك، أو قليلاً تحت الذقن، حسب مدى حركتك ومستوى الراحة الخاص بك.</li>\r\n  <li>توقف للحظة، ثم أخفض الباربيل ببطء إلى فخذيك.</li>\r\n  <li>كرر الحركة للعدد المطلوب من التكرارات.</li>\r\n</ul>\r\n<h2>التقنية</h2>\r\n<ul>\r\n  <li>حافظ على ظهرك مستقيم وبطنك مشدود خلال التمرين لحماية فقرات العمود الفقري ومنع الإصابة.</li>\r\n  <li>حافظ على السيطرة على الباربيل في جميع الأوقات، مع تجنب التأرجح أو الرجفة التي يمكن أن تجهد كتفيك أو الجزء العلوي من ظهرك.</li>\r\n  <li>ركز على ضغط كتفيك معًا في أعلى الحركة لتنشيط عضلات الجزء العلوي من ظهرك وخلق تمرين أكثر فعالية.</li>\r\n</ul>\r\n<h2>الأمور التي يجب تجنبها</h2>\r\n<ul>\r\n  <li>استخدام وزن ثقيل جدًا، الذي يمكن أن يؤدي إلى نمط غير صحيح ويزيد من خطر الإصابة.</li>\r\n  <li>السماح لأكواعك بالتوسع نحو الجانبين، مما يمكن أن يضع ضغطاً زائداً على كتفيك وعضلات الأوتار الدوارة.</li>\r\n  <li>رفع الباربيل بشكل مرتفع جدًا، مما يمكن أن يسبب الألم أو الإ discomfort في عنقك أو كتفيك.</li>\r\n  <li>تقويس ظهرك، وهو ما يمكن أن يضع ضغطًا غير ضروري على فقرات العمود الفقري ويزيد من خطر الإصابة.</li>\r\n</ul>",
+      "description_en_us": "<p><br></p>\r\n<h1>Barbell Upright Row: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Choose a barbell that is appropriate for your strength level and fitness goals.</li>\r\n  <li>Stand with your feet hip-width apart, knees slightly bent, and the barbell resting on the floor in front of you.</li>\r\n  <li>Grip the barbell with both hands, using an overhand grip that is slightly wider than shoulder-width apart.</li>\r\n  <li>Lift the barbell off the floor and position it at your thighs, keeping your back straight and your core engaged.</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li>Keeping your elbows close to your sides, lift the barbell straight up towards your chest.</li>\r\n  <li>Stop when the barbell reaches your chest, or just below your chin, depending on your range of motion and comfort level.</li>\r\n  <li>Pause for a moment, then slowly lower the barbell back down to your thighs.</li>\r\n  <li>Repeat the movement for the desired number of reps.</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li>Keep your back straight and your core engaged throughout the exercise to protect your spine and prevent injury.</li>\r\n  <li>Maintain control of the barbell at all times, avoiding swinging or jerking movements that can strain your shoulders or upper back.</li>\r\n  <li>Focus on squeezing your shoulder blades together at the top of the movement to engage your upper back muscles and create a more effective workout.</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li>Using a weight that is too heavy, which can lead to improper form and increase your risk of injury.</li>\r\n  <li>Allowing your elbows to flare out to the sides, which can place excessive stress on your shoulders and rotator cuff muscles.</li>\r\n  <li>Lifting the barbell too high, which can cause discomfort or pain in your neck or shoulders.</li>\r\n  <li>Rounding your back, which can put unnecessary stress on your spine and increase your risk of injury.</li>\r\n</ul>",
+      "muscles_primary": [
+        {
+          "name": "الكتفين",
+          "name_en_us": "Shoulders",
+          "description": "بالنسبة للرجال والنساء على حد سواء، الدلتويد، والمعروف أيضا بالدلت، هو عضلة مرغوبة جدا لبناءها. الأكتاف الجيدة التطور يمكن أن تعطي مظهرا لخصر أصغر (لأن الأكتاف تبدو أوسع). لذلك، الدلتويد الجيدة التدريب يحسن مظهر الجسم بأكمله.\n\nتحتوي العضلة الدلتويدية على ثلاثة رؤوس مختلفة: الأمامية (الجبهة)، والجانبية (الوسط)، والخلفية (الخلف). كل رأس له وظائف مشابهة، ولكن لديهم بعض التفاوت.",
+          "description_en_us": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+        },
+        {
+          "name": "الكتف الجانبي (الدلتا)",
+          "name_en_us": "Lateral Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الكتفين الأماميين",
+          "name_en_us": "Front Shoulders",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "الكتف الأمامي (الدلتا)",
+          "name_en_us": "Anterior Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الكتفين",
+          "name_en_us": "Shoulders",
+          "description": "بالنسبة للرجال والنساء على حد سواء، الدلتويد، والمعروف أيضا بالدلت، هو عضلة مرغوبة جدا لبناءها. الأكتاف الجيدة التطور يمكن أن تعطي مظهرا لخصر أصغر (لأن الأكتاف تبدو أوسع). لذلك، الدلتويد الجيدة التدريب يحسن مظهر الجسم بأكمله.\n\nتحتوي العضلة الدلتويدية على ثلاثة رؤوس مختلفة: الأمامية (الجبهة)، والجانبية (الوسط)، والخلفية (الخلف). كل رأس له وظائف مشابهة، ولكن لديهم بعض التفاوت.",
+          "description_en_us": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+        },
+        {
+          "name": "الكتف الجانبي (الدلتا)",
+          "name_en_us": "Lateral Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الكتف الأمامي (الدلتا)",
+          "name_en_us": "Anterior Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الكتفين الأماميين",
+          "name_en_us": "Front Shoulders",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "الباربيل",
+        "name_en": "Barbell"
+      },
+      "difficulty": {
+        "name": "متقدم",
+        "name_en": "Advanced"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "أمسك بكلا اليدين بشكل متقاطع تقريبًا على عرض الكتفين.",
+          "text_en": "Take a double overhand roughly shoulder width grip."
+        },
+        {
+          "text": "ارفع مرفقيك مباشرةً نحو السقف. حاول أن تصل العصا إلى مستوى الذقن أو أعلى بقليل.",
+          "text_en": "Pull your elbows straight up the ceiling. Aim to get the bar to chin level or slightly higher."
+        }
+      ],
+      "seo_tags": [
+        "Lateral Deltoid Exercise",
+        "Shoulder Exercise",
+        "Shoulders Exercise",
+        "advanced exercise",
+        "How To Do A Barbell Upright Row",
+        "كيفية أداء تمرين رفع الباربيل للأعلى",
+        "advanced Barbell exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-upright-row-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-upright-row-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-upright-row-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-barbell-upright-row-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-barbell-upright-row-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-barbell-upright-row-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-upright-row-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-upright-row-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-upright-row-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-barbell-upright-row-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-barbell-upright-row-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-barbell-upright-row-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_upright_row_front_male_EP3549X.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_upright_row_back_male_uqrpHJm.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-barbell-upright-row-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-barbell-upright-row-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_upright_row_front_female_HOhyjf9.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_upright_row_back_female_ZW2xSQI.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-barbell-upright-row-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-barbell-upright-row-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "تمارين الكتف بالدمبل",
+      "name_en": "Dumbbell Shrug",
+      "name_alternative": null,
+      "slug": "dumbbell-shrug",
+      "description": "<p><b><span style=font-size: 36px;>كيفية أداء تمرين رفع الأثقال الثنائية وقوفا</span></b></p><p><b><span style=font-size: 36px;><br></span></b></p><p><b><span style=font-size: 24px;>الإعداد</span></b></p><p>أمسك بثقلين وقف بوضعية مستقيمة والقدمين قريبتين من بعضهما. انتفخ صدرك واسحب شفرات كتفيك إلى الخلف. يجب أن تكون الأثقال بجوار ساقيك.&nbsp;</p><p><br></p><p><b><span style=font-size: 24px;>الأداء&nbsp;</span></b></p><p>ارفع مفصل الكتف مباشرة نحو السقف. اجعل كتفيك في أعلى ما يمكن. يجب أن تشعر بعضلات الرقبة متقلصة بشدة عندما تصل إلى النطاق الكافي للحركة. من هذه النقطة، قم بخفض كتفيك إلى الوضعية الأصلية.</p><p><br></p><p>تجنب الدوران الزائد في الكتفين. هذا خطأ شائع في أداء هذا التمرين. الجزء العلوي من عضلات الرقبة يرفع الكتف، بينما الجزء الأوسط والسفلي من عضلات الرقبة يقوم بسحب الكتف للخلف وللأسفل. ولكن عندما تكون في وضعية جالس أو قائم، ستكون الأثقال تجذب نحو الأسفل (بسبب الجاذبية) لذا فإن رفع الكتف هو الوظيفة الوحيدة التي تتم ضد المقاومة. لذا، سحب الكتف ودفعه للأسفل في كل مرة (لف الكتفين) لن يعمل على تنشيط العضلات الوسطى والسفلى من عضلات الرقبة. ستحتاج إلى تمرين مختلف لذلك.</p><p><br></p><p>كما يجب أن تولي اهتماما خاصا لرقبتك. من الشائع جدا دفع رأسك للأمام عند أداء هذا التمرين. وهذا يمكن أن يضع ضغطا غير ضروري على الرقبة والعمود الفقري. حافظ على الذقن مرتدة ورأسك في وضع محايد.</p>",
+      "description_en_us": "<p><b><span style=\"font-size: 36px;\">How To Perform The Standing Dumbbell Shrug</span></b></p><p><b><span style=\"font-size: 36px;\"><br></span></b></p><p><b><span style=\"font-size: 24px;\">Setup</span></b></p><p>Grab two dumbbells and stand tall with a narrow foot stance. Poke your chest out and pull your shoulder blades back. The dumbbells should be on the side of your legs.&nbsp;</p><p><br></p><p><b><span style=\"font-size: 24px;\">Performing&nbsp;</span></b></p><p>Pull your shoulder joint straight up toward the ceiling. Get your shoulders as high as you can. You should feel your traps contract very hard when you have hit an adequate range of motion. From this point, begin to drop your shoulders back down to the starting position.</p><p><br></p><p>Avoid rolling your shoulders. This is a very common form mistake on shrugs. The upper portion of the traps elevates the scapula, while the mid and lower traps, retract and depress the scapula. However, when you are in a seated or standing position the dumbbells will be pulling downward (because of gravity) so scapular elevation is the only anatomical function being performed against resistance. Therefore, retracting and depressing the scapula on each rep (rolling the shoulders) will not recruit your mid and lower traps. You would need a different exercise for that.</p><p><br></p><p>Also, pay particular attention to your neck. It is also very common to push one's head forward when performing a shrug. This can put unnecessary stress on your neck and cervical spine. Keep your chin pulled back and your head in a neutral position.</p>",
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "قف بشكل مرتفع مع حديدين تمارين. ارفع لوحات كتفيك. قم بالضغط على الجزء العلوي لمدة ثانية واحدة.",
+          "text_en": "Stand tall with two dumbbells. Pull your shoulder blades up. Give a one second squeeze at the top."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Dumbbell Shrug",
+        "Traps Exercise",
+        "كيفية تنفيذ تمرين شد الكتف بالدمبل",
+        "Dumbbell Exercise",
+        "beginner Dumbbells exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Dumbbells-dumbbell-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Dumbbells-dumbbell-shrug-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Dumbbells-dumbbell-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Dumbbells-dumbbell-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Dumbbells-dumbbell-shrug-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_front_male_XZTlJSA.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_back_male_dERdrBL.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-dumbbell-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-dumbbell-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_front_female_RaVagvs.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_back_female_Xf0LpO6.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-dumbbell-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-dumbbell-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "تمارين الرفع الواقف باستخدام ماكينة سميث",
+      "name_en": "Smith Machine Standing Shrugs",
+      "name_alternative": null,
+      "slug": "smith-machine-standing-shrugs",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "آلة",
+        "name_en": "Machine"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ضع القضيب على درج أقل بحيث عندما تمسكه يكون ذراعيك ممدودتين بالكامل وظهرك مستقيم.",
+          "text_en": "Place the bar on a lower rung so that when gripped your arms are fully extended and your back is straight."
+        },
+        {
+          "text": "أمسك بعرض الكتف، ارفع القضيب باستخدام أكتافك وأوقف في الموضع المتقلص.",
+          "text_en": "Grip at shoulder width, raise the bar with your shoulders and pause at the contracted position."
+        },
+        {
+          "text": "أعد خفض القضيب ببطء إلى الوضعية الابتدائية.",
+          "text_en": "Slowly lower the bar back to starting position."
+        }
+      ],
+      "seo_tags": [
+        "Traps Exercise",
+        "كيفية أداء تمارين الرفع القائمة ضمن جهاز القوة سميث",
+        "Trapezius Exercise",
+        "How To Do A Smith Machine Standing Shrugs",
+        "beginner Machine exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-standing-smith-machine-shrugs-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-standing-smith-machine-shrugs-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-standing-smith-machine-shrugs-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-standing-smith-machine-shrugs-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-standing-smith-machine-shrugs-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-standing-smith-machine-shrugs-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-standing-smith-machine-shrugs-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-standing-smith-machine-shrugs-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-standing-smith-machine-shrugs-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_standing_shrugs_front_male_aqXTnrx.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_standing_shrugs_back_male_ro0SEEh.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-smith-machine-standing-shrugs-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-smith-machine-standing-shrugs-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_standing_shrugs_front_female_u5RCkwK.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_standing_shrugs_back_female_JXb5bnX.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-smith-machine-standing-shrugs-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-smith-machine-standing-shrugs-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "ترجيح الدمبل وأنت جالس",
+      "name_en": "Dumbbell Seated Shrug",
+      "name_alternative": null,
+      "slug": "dumbbell-seated-shrug",
+      "description": "<p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>كيفية أداء تمرين الانكماش الممتد</b></span></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;><br></span></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>الإعداد</b></span></p><p><b style=font-weight:normal; id=docs-internal-guid-627774cb-7fff-38e2-c50d-2e4afb554689><br></b></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>امسك بكلتا الدمبل واجلس على حافة المقعد أو الصندوق. عليك أن تجعل ساقيك قريبة جدا من بعضها البعض، بحيث لا تتداخل مع الدمبل.</span></p><p><b style=font-weight:normal;><br></b></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>استخدم الإشارة صدر سوبرمان. تخيل أن لديك شعار سوبرمان على صدرك وأظهره. هذا سيفتح صدرك ويجبرك على الجلوس بشكل منتصب بينما تسحب أهداب الكتف إلى الخلف.</span></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>دع ذراعيك في وضع معلق عُمودي.</span></p><p><b style=font-weight:normal;><br></b></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;><b>أداء تمرين الانكماش الممتد</b></span></p><p><b style=font-weight:normal;><br></b></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>اسحب مفصل الكتف مباشرة نحو السقف. ارفع كتفيك إلى أعلى ما يمكن. يجب أن تشعر بتقلص عضلات الأكتاف بشكل قوي عندما تصل إلى مدى حركة مناسب. من هذه النقطة، ابدأ في إنزال كتفيك مرة أخرى إلى وضع البداية.</span></p><p><b style=font-weight:normal;><br></b></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>تجنب دواران كتفيك. هذا خطأ شائع جدًا في تمرينات الانكماش. الجزء العلوي من الأكتاف يرفع العضلات، في حين أن الأكتاف المتوسطة والسفلى تسحب العضلات للخلف. ولكن، عندما تكون في وضع ممتد أو واقف، ستجذب الأوزان إلى الأسفل (بسبب الجاذبية) لذا فإن رفع الكتف هو الوظيفة الأناتومية الوحيدة التي يتم أداؤها ضد المقاومة. لذا، سحب الكتف للخلف في كل تكرار (دواران الكتف) لن يضمن استخدام أكتافك الوسطى والسفلى. ستحتاج إلى تمرين مختلف لذلك.</span></p><p><br></p><p dir=ltr style=line-height:1.38;margin-top:0pt;margin-bottom:0pt;><span style=font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;>وأيضاً، أولِ الاهتمام الخاص لرقبتك. من الشائع جداً دفع الرأس للأمام عند أداء تمرين الانكماش. هذا يمكن أن يثير ضغطًا غير ضروري على رقبتك وعمودك الفقري العنقي. حافظ على ذقنك راجعة ورأسك في وضع محايد.</span></p>",
+      "description_en_us": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>How To Perform The Seated Shrug</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-627774cb-7fff-38e2-c50d-2e4afb554689\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Grab two dumbbells and sit at the edge of either a bench or box. Bring your legs relatively close together, so they are out of the way of the dumbbells.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Use the cue, \"superman chest.\" Imagine you have the Superman logo on your chest and show it off. This will open your chest and force you to sit tall while pulling your shoulder blades back.</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Let your arms be in a dead hang position.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing the Seated Shrug</b></span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Pull your shoulder joint straight up toward the ceiling. Get your shoulders as high as you can. You should feel your traps contract very hard when you have hit an adequate range of motion. From this point, begin to drop your shoulders back down to the starting position.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Avoid rolling your shoulders. This is a very common form mistake on shrugs. The upper portion of the traps elevates the scapula, while the mid and lower traps, retract and depress the scapula. However, when you are in a seated or standing position the dumbbells will be pulling downward (because of gravity) so scapular elevation is the only anatomical function being performed against resistance. Therefore, retracting and depressing the scapula on each rep (rolling the shoulders) will not recruit your mid and lower traps. You would need a different exercise for that.</span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Also, pay particular attention to your neck. It is also very common to push one's head forward when performing a shrug. This can put unnecessary stress on your neck and cervical spine. Keep your chin pulled back and your head in a neutral position.</span></p>",
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال",
+        "name_en": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {
+          "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+        },
+        "female": {
+          "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+        }
+      },
+      "correct_steps": [
+        {
+          "text": "اجلس على مقعد مع ثقل في كل يد، بحيث تكون راحة يديك متجهة نحو جسمك، وظهرك مستقيم.",
+          "text_en": "Sit on a bench with dumbbells in both hands, palms facing your body, back straight."
+        },
+        {
+          "text": "ارفع كتفيك وحافظ على الوضع المتقلص عند القمة في حركة التمرين.",
+          "text_en": "Elevate your shoulders and hold the contracted position at the apex of the motion."
+        },
+        {
+          "text": "أعد كتفيك ببطء إلى وضعية البداية.",
+          "text_en": "Slowly lower your shoulders back to starting position."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Dumbbell Seated Shrug",
+        "Traps Exercise",
+        "Dumbbell Exercise",
+        "How to do Dumbbell Seated Shrug",
+        "beginner Dumbbells exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-seated-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-seated-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-seated-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/male-dumbbell-seated-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-dumbbell-seated-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-dumbbell-seated-shrug-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-seated-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-seated-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-seated-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/branded/female-dumbbell-seated-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-dumbbell-seated-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-dumbbell-seated-shrug-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_front_male_MZKf8GL.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_back_male_nrABKrf.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-dumbbell-seated-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-dumbbell-seated-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_front_female_SDFx1PC.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_back_female_MBecZsH.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-dumbbell-seated-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-dumbbell-seated-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "تمارين شد الكتفين بوضعية البطة المرتفعة",
+      "name_en": "Elevated Pike Shoulder Shrug",
+      "name_alternative": null,
+      "slug": "elevated-pike-shoulder-shrug",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "",
+        "name_en": "",
+        "description": "",
+        "description_en_us": ""
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مقعدًا أو شيئًا مثل كرسي لرفع قدميك.",
+          "text_en": "Use a bench or an object like a chair to elevate your feet."
+        },
+        {
+          "text": "أخفض جسمك (الكتف) ببطء مع الحفاظ على قفل مرفقيك (هذا أمر مهم)",
+          "text_en": "Slowly lower your body (scapula) while keeping your elbows locked (this is key)"
+        },
+        {
+          "text": "ارفع جسمك ببطء إلى الوضعية الابتدائية.",
+          "text_en": "Slowly raise your body back to the start position."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Elevated Pike Shoulder Shrug",
+        "beginner Bodyweight exercise",
+        "Traps Exercise",
+        "Bodyweight Fitness",
+        "كيفية تنفيذ تمرين رفع الكتفين في وضعية الحدقة المرتفعة",
+        "Upper Traps Exercise",
+        "At Home Exercise",
+        "Bodyweight Exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-elevated-pike-shoulder-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-elevated-pike-shoulder-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-elevated-pike-shoulder-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-elevated-pike-shoulder-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-elevated-pike-shoulder-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-elevated-pike-shoulder-shrug-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-elevated-pike-shoulder-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-elevated-pike-shoulder-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-elevated-pike-shoulder-shrug-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-elevated-pike-shoulder-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-elevated-pike-shoulder-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-elevated-pike-shoulder-shrug-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/elevated_pike_shoulder_shrug_front_male_zZriprV.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/elevated_pike_shoulder_shrug_back_male_TjNkIBl.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-elevated-pike-shoulder-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-elevated-pike-shoulder-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/elevated_pike_shoulder_shrug_front_female_dHfOIYV.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/elevated_pike_shoulder_shrug_back_female_k0ZsSbu.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-elevated-pike-shoulder-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-elevated-pike-shoulder-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "سميث ماشين صف عمودي",
+      "name_en": "Smith Machine Upright Row",
+      "name_alternative": null,
+      "slug": "smith-machine-upright-row",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الكتفين",
+          "name_en_us": "Shoulders",
+          "description": "بالنسبة للرجال والنساء على حد سواء، الدلتويد، والمعروف أيضا بالدلت، هو عضلة مرغوبة جدا لبناءها. الأكتاف الجيدة التطور يمكن أن تعطي مظهرا لخصر أصغر (لأن الأكتاف تبدو أوسع). لذلك، الدلتويد الجيدة التدريب يحسن مظهر الجسم بأكمله.\n\nتحتوي العضلة الدلتويدية على ثلاثة رؤوس مختلفة: الأمامية (الجبهة)، والجانبية (الوسط)، والخلفية (الخلف). كل رأس له وظائف مشابهة، ولكن لديهم بعض التفاوت.",
+          "description_en_us": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+        },
+        {
+          "name": "الكتف الجانبي (الدلتا)",
+          "name_en_us": "Lateral Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الكتفين الأماميين",
+          "name_en_us": "Front Shoulders",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الكتفين",
+          "name_en_us": "Shoulders",
+          "description": "بالنسبة للرجال والنساء على حد سواء، الدلتويد، والمعروف أيضا بالدلت، هو عضلة مرغوبة جدا لبناءها. الأكتاف الجيدة التطور يمكن أن تعطي مظهرا لخصر أصغر (لأن الأكتاف تبدو أوسع). لذلك، الدلتويد الجيدة التدريب يحسن مظهر الجسم بأكمله.\n\nتحتوي العضلة الدلتويدية على ثلاثة رؤوس مختلفة: الأمامية (الجبهة)، والجانبية (الوسط)، والخلفية (الخلف). كل رأس له وظائف مشابهة، ولكن لديهم بعض التفاوت.",
+          "description_en_us": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+        },
+        {
+          "name": "الكتف الجانبي (الدلتا)",
+          "name_en_us": "Lateral Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الكتفين الأماميين",
+          "name_en_us": "Front Shoulders",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "آلة سميث",
+        "name_en": "Smith-Machine"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "خذ قبضة مزدوجة من الأعلى تقريبا بنفس عرض الكتفين.",
+          "text_en": "Take a double overhand roughly shoulder width grip."
+        },
+        {
+          "text": "ارفع ذراعيك مباشرة إلى السقف. حاول أن يصل القضيب إلى مستوى الذقن أو أعلى قليلاً.",
+          "text_en": "Pull your elbows straight up the ceiling. Aim to get the bar to chin level or slightly higher."
+        },
+        {
+          "text": "أخفض القضيب وكرر الحركة.",
+          "text_en": "lower the bar and repeat."
+        }
+      ],
+      "seo_tags": [
+        "Shoulders Exercise",
+        "Lateral Deltoid Exercise",
+        "Shoulder Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-upright-row-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-upright-row-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-upright-row-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Smithmachine-upright-row-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Smithmachine-upright-row-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Smithmachine-upright-row-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-upright-row-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-upright-row-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-upright-row-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Smithmachine-upright-row-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Smithmachine-upright-row-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Smithmachine-upright-row-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_upright_row_front_male_k4mlS9L.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_upright_row_back_male_cA7ywes.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-smith-machine-upright-row-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-smith-machine-upright-row-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_upright_row_front_female_xodTTaB.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/smith_machine_upright_row_back_female_vXhx7ZZ.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-smith-machine-upright-row-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-smith-machine-upright-row-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "تقليص الكتف بواسطة رفع الكرة الثقيلة",
+      "name_en": "Kettlebell Shrug",
+      "name_alternative": null,
+      "slug": "kettlebell-shrug",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "وقف برجليك على بعد مساوٍ لعرض الورك، وامسك كمية من الكتل في كل يد على جانبيك.",
+          "text_en": "Stand with feet hip-width apart, hold one kettlebell in each hand at your sides."
+        },
+        {
+          "text": "ارفع كتفيك لأعلى بينما تحافظ على ذراعيك ممدودتين.",
+          "text_en": "Lift your shoulders upward while keeping arms straight."
+        },
+        {
+          "text": "أعد كتفيك للأسفل، كرر الحركة للمرات المطلوبة.",
+          "text_en": "Lower shoulders back down, repeat for desired reps."
+        }
+      ],
+      "seo_tags": [
+        "Kettlebell Exercise",
+        "Traps Exercise",
+        "Kettlebells",
+        "Upper Traps Exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-shrug-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-shrug-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-shrug-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-shrug-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_shrug_front_male_lbonq2y.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_shrug_back_male_J6kpUWt.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-kettlebell-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-kettlebell-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_shrug_front_female_Crw4NUg.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_shrug_back_female_qaLjjSy.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-kettlebell-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-kettlebell-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "تقليد الغوريلا الفضية بالكرة الحديدية",
+      "name_en": "Kettlebell Silverback Shrug",
+      "name_alternative": null,
+      "slug": "kettlebell-silverback-shrug",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "الترابس (الجزء الأوسط من الظهر)",
+          "name_en_us": "Traps (mid-back)",
+          "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الترابس (الجزء الأوسط من الظهر)",
+          "name_en_us": "Traps (mid-back)",
+          "description": "هناك أكثر بكثير في عضلة المنشار مما يلتقي العين. المنشار ليس مجرد العضلة التي تجلس على أعلى الكتفين. بل أن المنشار يمتد على قسم كبير من العمود الفقري. عند التطور الجيد، يتخذ المنشار شكل هامة الكوبرا. \n\nينقسم المنشار إلى ثلاثة أجزاء. هذه الأجزاء تشمل الألياف العلوية والوسطى والسفلى. تعمل الأجزاء الثلاثة على مهام متشابهة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "قف بقدميك على بُعد عرض الوركين، وامسك بكتلة رياضية في كل يد عند جانبيك ، واميل للأمام.",
+          "text_en": "Stand with feet hip-width apart, hold one kettlebell in each hand at your sides, and lean forward."
+        },
+        {
+          "text": "ارفع كتفيك إلى الخلف مع الحفاظ على ذراعيك ممدودتين.",
+          "text_en": "Lift your shoulders backward while keeping arms straight."
+        },
+        {
+          "text": "أعد كتفيك للوراء، كرر الحركة للمرات المطلوبة.",
+          "text_en": "Lower shoulders back down, repeat for desired reps."
+        }
+      ],
+      "seo_tags": [
+        "Kettlebell Exercise",
+        "Traps Exercise",
+        "Trapezius Exercise",
+        "Kettlebells",
+        "Upper Traps Exercise",
+        "Mid Back Exercise",
+        "Traps (mid-back) Exercise",
+        "Traps (Mid-Back) Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-silverback-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-silverback-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-silverback-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-silverback-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-silverback-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-silverback-shrug-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-silverback-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-silverback-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-silverback-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-silverback-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-silverback-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-silverback-shrug-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_silverback_shrug_front_male_HNavffp.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_silverback_shrug_back_male_2Dk7Kk4.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-kettlebell-silverback-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-kettlebell-silverback-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_silverback_shrug_front_female_wFQF0f7.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_silverback_shrug_back_female_Ls8MrYj.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-kettlebell-silverback-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-kettlebell-silverback-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "رفعة الكيتل بيل العامودية",
+      "name_en": "Kettlebell Upright Row",
+      "name_alternative": null,
+      "slug": "kettlebell-upright-row",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "الكتفين",
+          "name_en_us": "Shoulders",
+          "description": "بالنسبة للرجال والنساء على حد سواء، الدلتويد، والمعروف أيضا بالدلت، هو عضلة مرغوبة جدا لبناءها. الأكتاف الجيدة التطور يمكن أن تعطي مظهرا لخصر أصغر (لأن الأكتاف تبدو أوسع). لذلك، الدلتويد الجيدة التدريب يحسن مظهر الجسم بأكمله.\n\nتحتوي العضلة الدلتويدية على ثلاثة رؤوس مختلفة: الأمامية (الجبهة)، والجانبية (الوسط)، والخلفية (الخلف). كل رأس له وظائف مشابهة، ولكن لديهم بعض التفاوت.",
+          "description_en_us": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+        },
+        {
+          "name": "الكتف الجانبي (الدلتا)",
+          "name_en_us": "Lateral Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الكتفين الأماميين",
+          "name_en_us": "Front Shoulders",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "muscles_secondary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "الكتفين",
+          "name_en_us": "Shoulders",
+          "description": "بالنسبة للرجال والنساء على حد سواء، الدلتويد، والمعروف أيضا بالدلت، هو عضلة مرغوبة جدا لبناءها. الأكتاف الجيدة التطور يمكن أن تعطي مظهرا لخصر أصغر (لأن الأكتاف تبدو أوسع). لذلك، الدلتويد الجيدة التدريب يحسن مظهر الجسم بأكمله.\n\nتحتوي العضلة الدلتويدية على ثلاثة رؤوس مختلفة: الأمامية (الجبهة)، والجانبية (الوسط)، والخلفية (الخلف). كل رأس له وظائف مشابهة، ولكن لديهم بعض التفاوت.",
+          "description_en_us": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+        },
+        {
+          "name": "الكتف الجانبي (الدلتا)",
+          "name_en_us": "Lateral Deltoid",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        },
+        {
+          "name": "الكتفين الأماميين",
+          "name_en_us": "Front Shoulders",
+          "description": null,
+          "description_en_us": null
+        }
+      ],
+      "category": {
+        "name": "أثقال الركبة",
+        "name_en": "Kettlebells"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "خذ قبضة ثنائية من فوق الكتف بشكل خشن بعرض الكتف.",
+          "text_en": "Take a double overhand roughly shoulder width grip."
+        },
+        {
+          "text": "ارفع ذراعيك مباشرةً نحو السقف. اسعى لجعل القضيب على مستوى الذقن أو أعلى قليلاً.",
+          "text_en": "Pull your elbows straight up the ceiling. Aim to get the bar to chin level or slightly higher."
+        }
+      ],
+      "seo_tags": [
+        "Lateral Deltoid Exercise",
+        "Shoulder Exercise",
+        "Shoulders Exercise",
+        "Kettlebell Exercise",
+        "Kettlebells"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-upright-row-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-upright-row-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-upright-row-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Kettlebells-upright-row-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Kettlebells-upright-row-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Kettlebells-upright-row-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-upright-row-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-upright-row-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-upright-row-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Kettlebells-upright-row-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Kettlebells-upright-row-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Kettlebells-upright-row-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_upright_row_front_male_Xml8hcb.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_upright_row_back_male_bgat9hr.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-kettlebell-upright-row-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-kettlebell-upright-row-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_upright_row_front_female_pWTXHDN.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/kettlebell_upright_row_back_female_GMPTw4p.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-kettlebell-upright-row-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-kettlebell-upright-row-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "تمارين تركيز الكرة البولاتية مع بيك شرج",
+      "name_en": "Bosu Ball Pike Shrug",
+      "name_alternative": null,
+      "slug": "pike-shrug",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كرة بوسو",
+        "name_en": "Bosu-Ball"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ضع أصابع القدمين على البوسو، واليدين على الأرض.",
+          "text_en": "Place toes on Bosu, hands on the floor."
+        },
+        {
+          "text": "ارفع الورك عاليًا من موضع البطة، وأرفع الكتفين، وركّز على شد عضلات البطن.",
+          "text_en": "Pike hips up, shrug shoulders, engage core."
+        }
+      ],
+      "seo_tags": [
+        "How To Do A Pike Shrug",
+        "Traps Exercise",
+        "Bosu",
+        "How to do Pike Shrug",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bosu-Ball-pike-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bosu-Ball-pike-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bosu-Ball-pike-shrug-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bosu-Ball-pike-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bosu-Ball-pike-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bosu-Ball-pike-shrug-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bosu-Ball-pike-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bosu-Ball-pike-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bosu-Ball-pike-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bosu-Ball-pike-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bosu-Ball-pike-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bosu-Ball-pike-shrug-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bosu_ball_pike_shrug_front_male_tYwux31.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bosu_ball_pike_shrug_back_male_LWrd5ni.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-pike-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-pike-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bosu_ball_pike_shrug_front_female_ZDyPCcn.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bosu_ball_pike_shrug_back_female_g0v5YPF.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-pike-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-pike-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "تمارين الكابل بذراع واحدة وبزاوية 30 درجة",
+      "name_en": "Cable Single Arm 30 Degree Shrug",
+      "name_alternative": null,
+      "slug": "cable-single-arm-30-degree-shrug",
+      "description": "",
+      "description_en_us": "",
+      "muscles_primary": [
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "كابلات",
+        "name_en": "Cables"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Beginner"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "استخدم مرفق المقبض. مع تعيين مرفق الكابل في الجزء الأسفل تمامًا.",
+          "text_en": "Use a handle attachment. With the cable attachment set all the way to the bottom."
+        },
+        {
+          "text": "أمسك بمقبض واحد وتأكد من أنك مركزًا في الجهاز. دع ذراعك تتدلى بحرية.",
+          "text_en": "Grab one handle and make sure you are centered in the machine. Let your arm hang freely."
+        },
+        {
+          "text": "ارفع العظمة الكتفية أعلى وباتجاه أذنيك. دع العظمة الكتفية تعود لتستقر في وضعها الابتدائي.",
+          "text_en": "Pull your shoulder blade up and in towards your ears. Let your shoulder blade depress back to the starting position."
+        }
+      ],
+      "seo_tags": [
+        "Traps Exercise",
+        "Trapezius Exercise",
+        "Upper Traps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-single-arm-30-degree-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-single-arm-30-degree-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-single-arm-30-degree-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cables-cable-single-arm-30-degree-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Cables-cable-single-arm-30-degree-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Cables-cable-single-arm-30-degree-shrug-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-single-arm-30-degree-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-single-arm-30-degree-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-single-arm-30-degree-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Cables-cable-single-arm-30-degree-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Cables-cable-single-arm-30-degree-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Cables-cable-single-arm-30-degree-shrug-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_30_degree_shrug_front_male_sXJBGfx.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_30_degree_shrug_back_male_aQ2atbn.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-cable-single-arm-30-degree-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-cable-single-arm-30-degree-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_30_degree_shrug_front_female_uLpYWya.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cable_single_arm_30_degree_shrug_back_female_KTaszej.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-cable-single-arm-30-degree-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-cable-single-arm-30-degree-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "تقليص أكتاف بوزن الجسم بشكل مائل",
+      "name_en": "Bodyweight Pike Shrug",
+      "name_alternative": null,
+      "slug": "bodyweight-pike-shrug",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "عضلات الترابس",
+          "name_en_us": "Traps",
+          "description": "هناك الكثير لعضلة العنق (الترابيزيوس) بعيدًا عن ما يُرى. العضلات العنقية ليست فقط العضلة الموجودة في أعلى الكتفيين. ولكنها تمتد لجزء كبير من العمود الفقري. عند التطور الجيد تأخذ شكل غطاء الأفعى.\n\nتنقسم العضلات العنقية إلى ثلاثة أجزاء. تطلق على تلك الأجزاء أسماء الألياف العليا والوسطى والسفلى. تؤدي الأجزاء الثلاثة وظائف مماثلة ولكنها مختلفة.",
+          "description_en_us": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+        },
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "وزن الجسم",
+        "name_en": "Bodyweight"
+      },
+      "difficulty": {
+        "name": "متوسط",
+        "name_en": "Intermediate"
+      },
+      "force": {
+        "name": "دفع",
+        "name_en": "Push",
+        "description": "الدفع بعيداً عن الجسم.",
+        "description_en_us": "Pushing away from the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "ابدأ في وضعية الطابور وارفع وركيك نحو السقف.",
+          "text_en": "Start in a plank position and raise your hips toward the ceiling."
+        },
+        {
+          "text": "أخفض جسمك (الكتف) ببطء مع الحفاظ على تثبيت مرفقيك في مكانها (هذا الجزء مهم جدًا)",
+          "text_en": "Slowly lower your body (scapula) while keeping your elbows locked (this is key)"
+        },
+        {
+          "text": "ارفع جسمك ببطء إلى وضعية البداية.",
+          "text_en": "Slowly raise your body back to the start position."
+        }
+      ],
+      "seo_tags": [
+        "Traps Exercise",
+        "Bodyweight Fitness",
+        "Upper Traps Exercise",
+        "At Home Exercise",
+        "Bodyweight Exercise",
+        "Trapezius Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-pike-shrug-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-bodyweight-pike-shrug-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-bodyweight-pike-shrug-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-pike-shrug-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Bodyweight-bodyweight-pike-shrug-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Bodyweight-bodyweight-pike-shrug-side.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-bodyweight-pike-shrug-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-bodyweight-pike-shrug-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-bodyweight-pike-shrug-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Bodyweight-bodyweight-pike-shrug-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Bodyweight-bodyweight-pike-shrug-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Bodyweight-bodyweight-pike-shrug-front.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_pike_shrug_front_male_ef5ah7m.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_pike_shrug_back_male_ME8p08K.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-bodyweight-pike-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-bodyweight-pike-shrug-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_pike_shrug_front_female_7FkxqT3.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_pike_shrug_back_female_au8mKPA.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-bodyweight-pike-shrug-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-bodyweight-pike-shrug-back-Afitik.png"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "ارتفاع الكتف",
+      "name_en": "Scapular Elevation",
+      "name_alternative": null,
+      "slug": "scapular-elevation",
+      "description": null,
+      "description_en_us": null,
+      "muscles_primary": [
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "muscles_secondary": [],
+      "muscles_tertiary": [],
+      "muscles": [
+        {
+          "name": "العضلات العلوية للترابس",
+          "name_en_us": "Upper Traps",
+          "description": "",
+          "description_en_us": ""
+        }
+      ],
+      "category": {
+        "name": "التعافي",
+        "name_en": "Recovery"
+      },
+      "difficulty": {
+        "name": "مبتدئ",
+        "name_en": "Novice"
+      },
+      "force": {
+        "name": "سحب",
+        "name_en": "Pull",
+        "description": "السحب نحو الجسم.",
+        "description_en_us": "Pulling towards the body."
+      },
+      "grips": {},
+      "long_form_content": {
+        "male": {},
+        "female": {}
+      },
+      "correct_steps": [
+        {
+          "text": "من وضعية الوقوف أو الجلوس، قم بفرد ظهرك.",
+          "text_en": "From the standing or seated position straighten your back."
+        },
+        {
+          "text": "ارجع الكتفين للخلف ولكن احتفظ بالاسترخاء.",
+          "text_en": "Pull the shoulders back but keep them relaxed."
+        },
+        {
+          "text": "حرّك أكتافك بعيدًا عن أذنيك وعد إلى وضعية البداية المريحة.",
+          "text_en": "Move shoulders towards from your ears and return to the starting, relaxed position."
+        }
+      ],
+      "seo_tags": [
+        "Traps Exercise",
+        "Trapezius Exercise",
+        "Upper Traps Exercise"
+      ],
+      "videos": {
+        "male": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-scapular-elevation-side.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-scapular-elevation-side.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-scapular-elevation-side.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-scapular-elevation-front.mp4",
+            "file_path": "musclewiki/male/videos/Afitik-male-Recovery-scapular-elevation-front.mp4",
+            "preview_image": "musclewiki/male/videos/previews/Afitik-male-Recovery-scapular-elevation-front.png"
+          }
+        ],
+        "female": [
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-scapular-elevation-front.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-scapular-elevation-front.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-scapular-elevation-front.png"
+          },
+          {
+            "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-Recovery-scapular-elevation-side.mp4",
+            "file_path": "musclewiki/female/videos/Afitik-female-Recovery-scapular-elevation-side.mp4",
+            "preview_image": "musclewiki/female/videos/previews/Afitik-female-Recovery-scapular-elevation-side.png"
+          }
+        ]
+      },
+      "body_map": {
+        "male": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_elevation_front_male.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_elevation_back_male.png",
+          "front_file_path": "musclewiki/male/bodymaps/upper-trapezius-scapular-elevation-front-Afitik.png",
+          "back_file_path": "musclewiki/male/bodymaps/upper-trapezius-scapular-elevation-back-Afitik.png"
+        },
+        "female": {
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_elevation_front_female.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scapular_elevation_back_female.png",
+          "front_file_path": "musclewiki/female/bodymaps/upper-trapezius-scapular-elevation-front-Afitik.png",
+          "back_file_path": "musclewiki/female/bodymaps/upper-trapezius-scapular-elevation-back-Afitik.png"
+        }
+      }
+    }
+  ]
+}

@@ -37,12 +37,16 @@
     flex-wrap: wrap;
     align-items: center;
     align-content: center;
+    width: 90%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .muscles_pages .muscles_pages_images img {
     display: block;
     width: 80%;
-    max-width: 150px;
+    max-width: 100px;
     margin-right: auto;
     margin-left: auto;
     border-width: 2px;
