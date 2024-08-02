@@ -18,12 +18,7 @@ export default function MenuList() {
             name: 'الأدوات',
             path: '/Tools',
             background: 'url(/images/Menu_List/background-Tools.jpg)',
-        },
-        {
-            name: 'المجتمع',
-            path: '/Community',
-            background: 'url(/images/Menu_List/background-Community.jpg)',
-        },
+        }
     ];
 
     return (

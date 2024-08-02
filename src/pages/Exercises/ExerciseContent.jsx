@@ -1,23 +1,17 @@
 import React, { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
-import AliceCarousel from "react-alice-carousel";
 import { Skeleton } from "@mui/material";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
-import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
-import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
-import Slider from "../../components/Slider.jsx";
 import AppBar from "../../components/AppBar.jsx";
-import "../../assets/styles/Exercises.css";
+import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import musclesData from "../../assets/json/muscles.json";
 
-
-export default function ExerciseList() {
-  const { gender, muscle } = useParams();
-  const [exerciseData, setExerciseData] = useState(null);
+export default function ExerciseContent() {
+  const { gender, muscle, exercise } = useParams();
+  const [exerciseDetail, setExerciseDetail] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [itemsToShow, setItemsToShow] = useState(10);
 
   const validGenders = ["male", "female"];
   const normalizedGender = gender ? gender.toLowerCase() : '';
@@ -26,25 +20,30 @@ export default function ExerciseList() {
 
   useEffect(() => {
     if (muscleValue) {
-      const fetchDataFromPath = async () => {
+      const fetchExerciseDetail = async () => {
         const json_data_path = muscleValue.json_data_path;
         const { data, error } = await fetchData(json_data_path);
         if (error) {
           setError(error);
         } else {
-          setExerciseData(data);
+          const exerciseDetail = data.flatMap(data => data.exercises).find(ex => ex.slug === exercise);
+          if (exerciseDetail) {
+            setExerciseDetail(exerciseDetail);
+          } else {
+            setError("Exercise not found.");
+          }
         }
         setLoading(false);
       };
-      fetchDataFromPath();
+      fetchExerciseDetail();
     }
-  }, [muscleValue]);
+  }, [muscleValue, exercise]);
 
   const pageMetadata = {
-    title: "الصفحة الرئيسية",
-    description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
-    keywords: "موقع, إنترنت, رياكت",
-    ogImage: "https://example.com/homepage.jpg",
+    title: "تفاصيل التمرين",
+    description: "تفاصيل تمرين محدد",
+    keywords: "تمرين, رياضة, تفاصيل",
+    ogImage: "https://example.com/exercise.jpg",
     canonicalUrl: "https://example.com",
     contentLanguage: "ar",
     author: "مؤسس الموقع",
@@ -76,100 +75,95 @@ export default function ExerciseList() {
     </div>
   );
 
-  const renderExerciseList = () => {
+  const renderInvalidExerciseMessage = () => (
+    <div style={{ textAlign: "center", direction: "ltr" }} className="InvalidExercise">
+      <p>Invalid Exercise selected. Please go back and select a valid Exercise.</p>
+      <Link to={`/Exercises/${gender}/${muscle}`} onMouseDown={(e) => e.preventDefault()} draggable="false">Go back to Exercises</Link>
+    </div>
+  );
+
+  const renderExerciseDetail = () => {
     if (loading) {
       return (
         <div>
-          {Array.from({ length: 10 }).map((_, index) => (
-            <Skeleton key={index} variant="rectangular" height={200} style={{ marginBottom: '20px' }} />
-          ))}
+          <Skeleton variant="rectangular" height={400} style={{ marginBottom: '20px' }} />
         </div>
       );
     }
 
     if (error) {
-      return <div style={{ textAlign: "center" }} className="ExerciseList">{error}</div>;
+      return <div style={{ textAlign: "center" }} className="ExerciseDetail">{error}</div>;
     }
 
-    const handleLoadMore = () => {
-      setItemsToShow((prev) => prev + 10);
-    };
-
-    const exercises = exerciseData.flatMap(data => data.exercises);
-
     return (
-      <div className="ExerciseList">
-        {exercises.slice(0, itemsToShow).map((ex, index) => {
-          const difficulty = ex.difficulty.name;
-          const category = ex.category.name;
-          const force = ex.force.name;
-          const videos = ex.videos[gender];
-          const videosMap = videos.map((videoData, videoIndex) => {
-            const preview_image = `https://musclewiki.i8x.net/api/files/${videoData.preview_image}`;
-            return (
-              <ImageWithSkeleton
-                key={videoIndex}
-                src={preview_image}
-                alt={ex.name}
-                title={ex.name}
-                className="slider_images"
-              />
-            );
-          });
-
-          return (
-            <Link
-              to={`/Exercises/${gender}/${muscle}/${ex.slug}`}
-              key={index}
-              title={ex.name}
-              aria-label={ex.name}
-              onMouseDown={(e) => e.preventDefault()}
-              draggable="false"
-              className="item-exercise"
-            >
-
-              <div className="item-exercise-title">
-                <p>{ex.name}</p>
-              </div>
-
-              <Slider items={videosMap} />
-              {difficulty ? <p className="difficulty">{difficulty}</p> : null}
-              {category ? <p className="category">{category}</p> : null}
-            </Link>
-          );
-        })}
-        {exercises.length > itemsToShow && (
-          <button onClick={handleLoadMore} className="buttonMore">عرض المزيد</button>
-        )}
+      <div className="ExerciseDetail">
+        <h2>{exerciseDetail.name}</h2>
+        <div dangerouslySetInnerHTML={{ __html: exerciseDetail.description }} />
+        {/* Render other details like images, videos, etc. */}
       </div>
     );
   };
 
   const appBarTitle = !isGenderValid
     ? "Invalid gender selected"
-    : muscleValue
-      ? muscleValue.name
-      : "Invalid Muscle selected";
+    : muscleValue && exerciseDetail
+      ? exerciseDetail.name
+      : muscleValue
+        ? muscleValue.name
+        : "Invalid Muscle selected";
 
-  const appBarBackLink = ((!isGenderValid && !muscleValue) || (!isGenderValid && muscleValue))
-    ? "/Exercises"
-    : `/Exercises/${normalizedGender}`;
+  const appBarBackLink = () => {
+    // إذا كان الجنس غير صحيح
+    if (!isGenderValid) {
+      return "/Exercises";
+    }
+
+    // إذا كان الجنس صحيح ولكن العضلة غير صحيحة
+    if (isGenderValid && !muscleValue) {
+      return `/Exercises/${normalizedGender}`;
+    }
+
+    // إذا كان الجنس والعضلة صحيحة ولكن التمرين غير صحيح
+    if (isGenderValid && muscleValue && !exerciseDetail) {
+      return `/Exercises/${normalizedGender}/${muscle}`;
+    }
+
+    // إذا كان الجنس والعضلة غير صحيحة ولكن التمرين صحيح (غير محتمل)
+    if (!isGenderValid && muscleValue && exerciseDetail) {
+      return "/Exercises";
+    }
+
+    // إذا كان الجنس صحيح ولكن العضلة والتمرين غير صحيحين
+    if (isGenderValid && !muscleValue && !exerciseDetail) {
+      return `/Exercises/${normalizedGender}`;
+    }
+
+    // إذا كان الجنس والعضلة صحيحة ولكن التمرين غير صحيح
+    if (isGenderValid && muscleValue && !exerciseDetail) {
+      return `/Exercises/${normalizedGender}/${muscle}`;
+    }
+
+    // إذا كان الجنس والعضلة والتمر صحيحة
+    return `/Exercises/${normalizedGender}/${muscle}`;
+  };
+
 
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
       <StatusBarColor color="#7AB2B2" />
-      <AppBar title={appBarTitle} backLink={appBarBackLink} />
+      <AppBar title={appBarTitle} backLink={appBarBackLink()} />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
 
-      <div className="ExerciseListPage">
+      <div className="ExerciseContentPage">
         {!isGenderValid ? renderInvalidGenderMessage() : null}
         {!muscleValue && isGenderValid ? renderInvalidMuscleMessage() : null}
-        {muscleValue && isGenderValid ? renderExerciseList() : null}
+        {muscleValue && isGenderValid && error && !exerciseDetail ? renderInvalidExerciseMessage() : null}
+        {muscleValue && isGenderValid && exerciseDetail ? renderExerciseDetail() : null}
       </div>
     </>
   );
