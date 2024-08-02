@@ -31,13 +31,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-width: 70px;
+    width: 70px;
     height: 60px;
     padding: 7px;
     border-radius: 7px;
     position: relative;
     overflow: hidden;
     transition: transform 0.2s ease-out;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navigation-bar a::after {
@@ -82,7 +84,11 @@
 }
 
 
-@media (max-width: 300px) {
+@media (max-width: 340px) {
+    .navigation-bar a {
+        width: 40px;
+
+    }
     .navigation-bar a>p {
         display: none;
     }
