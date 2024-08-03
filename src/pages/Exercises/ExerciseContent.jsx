@@ -4,7 +4,9 @@ import { Skeleton } from "@mui/material";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
 import AppBar from "../../components/AppBar.jsx";
-import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
+import Slider from "../../components/Slider.jsx";     
+import ToggleActiveClass from "../../components/ToggleActiveClass.jsx"; 
+import CustomVideoPlayer from "../../components/CustomVideoPlayer.jsx"; 
 import musclesData from "../../assets/json/muscles.json";
 
 export default function ExerciseContent() {
@@ -95,9 +97,24 @@ export default function ExerciseContent() {
       return <div style={{ textAlign: "center" }} className="ExerciseDetail">{error}</div>;
     }
 
+    const videos = exerciseDetail.videos[normalizedGender];
+
+    const videosMap = videos.map((el, index) => {
+      const filePath = `https://musclewiki.i8x.net/api/files/${el.file_path}`;
+      return (
+        <CustomVideoPlayer
+          key={index}
+          src={filePath}
+          autoPlay
+          loop
+          className="video_item"
+        />
+      )
+    });
+
     return (
       <div className="ExerciseDetail">
-        <h2>{exerciseDetail.name}</h2>
+        <Slider items={videosMap} />
         <div dangerouslySetInnerHTML={{ __html: exerciseDetail.description }} />
         {/* Render other details like images, videos, etc. */}
       </div>
@@ -184,5 +201,16 @@ const fetchData = async (paths) => {
     return { data, error: null };
   } catch (error) {
     return { data: null, error: `Error loading data: ${error.message}` };
+  }
+};
+
+
+// دالة للتحقق من صلاحية الروابط
+const checkVideoUrl = async (url) => {
+  try {
+    const response = await fetch(url, { method: 'HEAD' });
+    return response.ok;
+  } catch {
+    return false;
   }
 };
