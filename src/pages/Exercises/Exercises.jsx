@@ -8,27 +8,22 @@ import ScrollToTop from "../../components/ScrollToTop.jsx";
 import "../../assets/styles/Exercises.css"
 
 export default function Exercises() {
-
+  const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
-    title: "الصفحة الرئيسية",
-    description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
-    keywords: "موقع, إنترنت, رياكت",
-    ogImage: "https://example.com/homepage.jpg",
-    canonicalUrl: "https://example.com",
+    title: "تمارين اللياقة البدنية - تطبيق عافيتك",
+    description: "اكتشف مجموعة متنوعة من التمارين الرياضية المصممة لتحسين لياقتك البدنية وصحتك العامة. استمتع بتمارين مخصصة للرجال والنساء مع تطبيق عافيتك.",
+    keywords: "تمارين رياضية, لياقة بدنية, صحة, تمارين للرجال, تمارين للنساء, تطبيق عافيتك",
+    ogImage: `${window.location.origin}/exercises.jpg`,
+    canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس الموقع",
-    analyticsKeywords: "زيارات, تحليلات, إحصائيات",
+    author: "مؤسس تطبيق عافيتك",
+    analyticsKeywords: "تمارين رياضية, لياقة بدنية, صحة, تمارين للرجال, تمارين للنساء, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      name: "موقعنا",
-      url: "https://example.com",
-      potentialAction: {
-        "@type": "SearchAction",
-        target: "https://example.com/search?q={search_term_string}",
-        "query-input": "required name=search_term_string",
-      },
-    },
+      "name": "تطبيق عافيتك",
+      "url": currentUrl
+    }
   };
 
   return (

@@ -11,7 +11,6 @@ import ScrollToTop from "../../components/ScrollToTop.jsx";
 import "../../assets/styles/Exercises.css";
 import musclesData from "../../assets/json/muscles.json";
 
-
 export default function ExerciseList() {
   const { gender, muscle } = useParams();
   const [exerciseData, setExerciseData] = useState(null);
@@ -39,40 +38,65 @@ export default function ExerciseList() {
       fetchDataFromPath();
     }
   }, [muscleValue]);
-
+  
+  const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
-    title: "الصفحة الرئيسية",
-    description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
-    keywords: "موقع, إنترنت, رياكت",
-    ogImage: "https://example.com/homepage.jpg",
-    canonicalUrl: "https://example.com",
+    title: isGenderValid && muscleValue ? `تمارين عضلة ${muscleValue.name} - تطبيق عافيتك` : "خطأ في اختيار الجنس أو العضلة - تطبيق عافيتك",
+    description: isGenderValid && muscleValue
+      ? `اكتشف قائمة التمارين المتخصصة لعضلة ${muscleValue.name} لجنس ${gender === 'male' ? 'الرجال' : 'النساء'} في تطبيق عافيتك. عرض تفاصيل التمارين، الصعوبة، وفئات التمارين المناسبة لك.`
+      : "تم اختيار جنس أو عضلة غير صحيحة. يرجى العودة وتحديد جنس وعضلة صحيحة لعرض التمارين المناسبة.",
+    keywords: isGenderValid && muscleValue
+      ? `تمارين عضلات, عضلة ${muscleValue.name}, ${gender === 'male' ? 'تمارين للرجال' : 'تمارين للنساء'}, تطبيق عافيتك`
+      : "جنس غير صحيح, عضلة غير صحيحة, تطبيق عافيتك",
+    ogImage: isGenderValid && muscleValue
+      ? `${window.location.origin}/exercise-list-${normalizedGender}-${muscleValue.slug}.jpg`
+      : `${window.location.origin}/error.jpg`,
+    canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس الموقع",
-    analyticsKeywords: "زيارات, تحليلات, إحصائيات",
+    author: "مؤسس تطبيق عافيتك",
+    analyticsKeywords: isGenderValid && muscleValue
+      ? `تمارين عضلات, عضلة ${muscleValue.name}, تطبيق عافيتك`
+      : "جنس أو عضلة غير صحيحة, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",
-      "@type": "WebSite",
-      name: "موقعنا",
-      url: "https://example.com",
-      potentialAction: {
-        "@type": "SearchAction",
-        target: "https://example.com/search?q={search_term_string}",
-        "query-input": "required name=search_term_string",
-      },
-    },
+      "@type": "WebPage",
+      "name": isGenderValid && muscleValue ? `تمارين عضلة ${muscleValue.name} - تطبيق عافيتك` : "خطأ في اختيار الجنس أو العضلة - تطبيق عافيتك",
+      "url": currentUrl,
+      "description": isGenderValid && muscleValue
+        ? `اكتشف قائمة التمارين المتخصصة لعضلة ${muscleValue.name} لجنس ${gender === 'male' ? 'الرجال' : 'النساء'} في تطبيق عافيتك. عرض تفاصيل التمارين، الصعوبة، وفئات التمارين المناسبة لك.`
+        : "تم اختيار جنس أو عضلة غير صحيحة. يرجى العودة وتحديد جنس وعضلة صحيحة لعرض التمارين المناسبة."
+    }
+  };
+
+  // دالة لجلب البيانات من مسار محدد
+  const fetchData = async (paths) => {
+    try {
+      const data = await Promise.all(
+        paths.map(async (path) => {
+          const response = await fetch(path);
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+      );
+      return { data, error: null };
+    } catch (error) {
+      return { data: null, error: `Error loading data: ${error.message}` };
+    }
   };
 
   const renderInvalidGenderMessage = () => (
     <div style={{ textAlign: "center", direction: "ltr" }} className="InvalidGender">
-      <p>Invalid gender selected. Please go back and select a valid gender.</p>
-      <Link to="/Exercises" onMouseDown={(e) => e.preventDefault()} draggable="false">Go back to Exercises</Link>
+      <p>تم اختيار جنس غير صحيح. يرجى العودة وتحديد جنس صحيح.</p>
+      <Link to="/Exercises" onMouseDown={(e) => e.preventDefault()} draggable="false">العودة إلى التمارين</Link>
     </div>
   );
 
   const renderInvalidMuscleMessage = () => (
     <div style={{ textAlign: "center", direction: "ltr" }} className="InvalidMuscle">
-      <p>Invalid Muscle selected. Please go back and select a valid Muscle.</p>
-      <Link to={`/Exercises/${gender}`} onMouseDown={(e) => e.preventDefault()} draggable="false">Go back to Muscle</Link>
+      <p>تم اختيار عضلة غير صحيحة. يرجى العودة وتحديد عضلة صحيحة.</p>
+      <Link to={`/Exercises/${gender}`} onMouseDown={(e) => e.preventDefault()} draggable="false">العودة إلى العضلات</Link>
     </div>
   );
 
@@ -146,10 +170,10 @@ export default function ExerciseList() {
   };
 
   const appBarTitle = !isGenderValid
-    ? "Invalid gender selected"
+    ? "جنس غير صحيح"
     : muscleValue
       ? muscleValue.name
-      : "Invalid Muscle selected";
+      : "عضلة غير صحيحة";
 
   const appBarBackLink = ((!isGenderValid && !muscleValue) || (!isGenderValid && muscleValue))
     ? "/Exercises"
@@ -176,21 +200,3 @@ export default function ExerciseList() {
     </>
   );
 }
-
-// دالة لجلب البيانات من مسار محدد
-const fetchData = async (paths) => {
-  try {
-    const data = await Promise.all(
-      paths.map(async (path) => {
-        const response = await fetch(path);
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        return response.json();
-      })
-    );
-    return { data, error: null };
-  } catch (error) {
-    return { data: null, error: `Error loading data: ${error.message}` };
-  }
-};

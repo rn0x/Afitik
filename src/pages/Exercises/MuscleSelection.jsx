@@ -21,26 +21,33 @@ export default function MuscleSelection() {
   // التحقق من صحة البيانات
   const isGenderValid = () => validGenders.includes(normalizedGender);
 
+  const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
-    title: "الصفحة الرئيسية",
-    description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
-    keywords: "موقع, إنترنت, رياكت",
-    ogImage: "https://example.com/homepage.jpg",
-    canonicalUrl: "https://example.com",
+    title: isGenderValid() ? "اختيار العضلة - تطبيق عافيتك" : "جنس غير صالح - تطبيق عافيتك",
+    description: isGenderValid()
+      ? "اختر من قائمة العضلات المناسبة لجنسك لتحديد التمارين التي تناسب أهدافك الصحية والبدنية. اكتشف تمارين مخصصة للرجال والنساء."
+      : "تم اختيار جنس غير صالح. يرجى العودة واختيار جنس صحيح لعرض العضلات المناسبة.",
+    keywords: isGenderValid()
+      ? "اختيار العضلة, تمارين رياضية, لياقة بدنية, عضلات, تطبيق عافيتك"
+      : "جنس غير صالح, عضلات, تطبيق عافيتك",
+    ogImage: isGenderValid()
+      ? `${window.location.origin}/muscle-selection.jpg`
+      : `${window.location.origin}/error.jpg`,
+    canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس الموقع",
-    analyticsKeywords: "زيارات, تحليلات, إحصائيات",
+    author: "مؤسس تطبيق عافيتك",
+    analyticsKeywords: isGenderValid()
+      ? "اختيار العضلة, تمارين رياضية, لياقة بدنية, تطبيق عافيتك"
+      : "جنس غير صالح, عضلات, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",
-      "@type": "WebSite",
-      name: "موقعنا",
-      url: "https://example.com",
-      potentialAction: {
-        "@type": "SearchAction",
-        target: "https://example.com/search?q={search_term_string}",
-        "query-input": "required name=search_term_string",
-      },
-    },
+      "@type": "WebPage",
+      "name": isGenderValid() ? "اختيار العضلة - تطبيق عافيتك" : "جنس غير صالح - تطبيق عافيتك",
+      "url": currentUrl,
+      "description": isGenderValid()
+        ? "اختر من قائمة العضلات المناسبة لجنسك لتحديد التمارين التي تناسب أهدافك الصحية والبدنية. اكتشف تمارين مخصصة للرجال والنساء."
+        : "تم اختيار جنس غير صالح. يرجى العودة واختيار جنس صحيح لعرض العضلات المناسبة."
+    }
   };
 
   // دالة لإنشاء أزرار العضلات
@@ -76,8 +83,8 @@ export default function MuscleSelection() {
   // دالة لعرض رسالة الجنس غير صالح
   const renderInvalidGenderMessage = () => (
     <div style={{ textAlign: "center", direction: "ltr" }} className="InvalidGender">
-      <p>Invalid gender selected. Please go back and select a valid gender.</p>
-      <Link to="/Exercises" onMouseDown={(e) => e.preventDefault()} draggable="false" >Go back to Exercises</Link>
+      <p>تم اختيار جنس غير صالح. يرجى العودة واختيار جنس صحيح لعرض العضلات المناسبة.</p>
+      <Link to="/Exercises" onMouseDown={(e) => e.preventDefault()} draggable="false" >العودة إلى التمارين</Link>
     </div>
   );
 
@@ -85,7 +92,6 @@ export default function MuscleSelection() {
   const renderMuscleSelection = () => (
     <>
       {renderMuscleButtons()}
-      {/* <h2>You selected: {gender ? gender : "null"}</h2> */}
     </>
   );
 
@@ -93,7 +99,7 @@ export default function MuscleSelection() {
     <>
       <SetPageMetadata {...pageMetadata} />
       <StatusBarColor color="#7AB2B2" />
-      <AppBar title={isGenderValid() ? "اختيار العضلة" : "Invalid gender selected"} backLink="/Exercises" />
+      <AppBar title={isGenderValid() ? "اختيار العضلة" : "جنس غير صالح"} backLink="/Exercises" />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
@@ -103,12 +109,11 @@ export default function MuscleSelection() {
       <ScrollToTop />
 
       <div className="MuscleSelectionPage">
-        {/* <h2>Select Muscle</h2> */}
+        {!isGenderValid() ? renderInvalidGenderMessage() : null}
+
         <div className="MuscleSelection">
           {isGenderValid() ? renderMuscleSelection() : null}
         </div>
-        {!isGenderValid() ? renderInvalidGenderMessage() : null}
-
       </div>
     </>
   );

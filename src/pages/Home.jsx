@@ -14,26 +14,23 @@ import "../assets/styles/Home.css";
 import "react-alice-carousel/lib/alice-carousel.css";
 
 export default function Home(props) {
+  const currentUrl = window.location.origin + window.location.pathname;
+
   const pageMetadata = {
-    title: "الصفحة الرئيسية",
-    description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
-    keywords: "موقع, إنترنت, رياكت",
-    ogImage: "https://example.com/homepage.jpg",
-    canonicalUrl: "https://example.com",
+    title: "تطبيق عافيتك | الصفحة الرئيسية",
+    description: "تطبيق عافيتك هو تطبيق شامل يهدف إلى مساعدتك في تحقيق أهدافك الرياضية والصحية. اكتشف معلومات شاملة عن العضلات وتمارينها، خطط غذائية وصحية، أدوات لحساب السعرات الحرارية وكتلة الجسم، وتتبع إنجازاتك الرياضية. سواء كنت تسعى لبناء العضلات، فقدان الوزن، أو الحفاظ على لياقتك البدنية، فإن عافيتك هو رفيقك المثالي.",
+    keywords: "تطبيق عافيتك, رياضة, صحة, لياقة بدنية, تمارين رياضية, بناء العضلات, فقدان الوزن, تغذية, صحة عامة, خطط غذائية, حمية صحية, تمارين, حساب السعرات الحرارية, حساب كتلة الجسم, تتبع الإنجازات الرياضية",
+    ogImage: `${window.location.origin}/homepage.jpg`,
+    canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس الموقع",
-    analyticsKeywords: "زيارات, تحليلات, إحصائيات",
+    author: "مؤسس تطبيق عافيتك",
+    analyticsKeywords: "زيارات, تحليلات, إحصائيات, تطبيق عافيتك, رياضة وصحة, تحسين اللياقة البدنية, تمارين بالصور والفيديو, معلومات عن العضلات",
     structuredData: {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      name: "موقعنا",
-      url: "https://example.com",
-      potentialAction: {
-        "@type": "SearchAction",
-        target: "https://example.com/search?q={search_term_string}",
-        "query-input": "required name=search_term_string",
-      },
-    },
+      "name": "تطبيق عافيتك",
+      "url": currentUrl
+    }
   };
 
   const tipsRandom =

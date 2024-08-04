@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "عافيتك | Afitil",
+  "name": "تطبيق عافيتك",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,10 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#eceff4",
+  "background_color": "#eceff4",
+  "lang": "ar",
+  "description": "تطبيق شامل ومتكامل يهدف إلى مساعدتك في تحقيق أهدافك الرياضية والصحية. سواء كنت تسعى لبناء العضلات، فقدان الوزن، أو الحفاظ على لياقتك البدنية، فإن 'عافيتك' يوفر لك الأدوات والمعرفة اللازمة لتحقيق ذلك. من خلال تقديم معلومات شاملة عن العضلات وتقسيماتها، تمارين متكاملة بالصورة والفيديو، أنظمة غذائية وصحية، بالإضافة إلى أدوات لحساب السعرات الحرارية وكتلة الجسم، وتتبع إنجازاتك الرياضية، فإن 'عافيتك' هو رفيقك المثالي في رحلتك نحو صحة أفضل.",
+  "orientation": "portrait-primary",
+  "categories": ["health", "fitness", "education"]
 }

@@ -18,22 +18,22 @@ export default function MusclePage() {
     if (!muscle) {
         return <div>Muscle not found</div>;
     }
-
+    const currentUrl = window.location.origin + window.location.pathname;
     const pageMetadata = {
-        title: muscle.name,
-        description: `معلومات عن عضلة ${muscle.name}`,
-        keywords: `عضلات, ${muscle.name}`,
+        title: `معلومات عن عضلة ${muscle.name}`,
+        description: `اكتشف معلومات شاملة عن عضلة ${muscle.name}، بما في ذلك مواقعها، وظائفها، وكيفية تقويتها بالتمارين المناسبة.`,
+        keywords: `عضلات, عضلة ${muscle.name}, تمارين ${muscle.name}, تقوية ${muscle.name}, رياضة, صحة`,
         ogImage: muscle.image,
-        canonicalUrl: `https://example.com/muscles/${muscleId}`,
+        canonicalUrl: currentUrl,
         contentLanguage: "ar",
-        author: "مؤسس الموقع",
-        analyticsKeywords: `${muscle.name}, عضلات, رياضة`,
+        author: "مؤسس تطبيق عافيتك",
+        analyticsKeywords: `${muscle.name}, عضلات, تمارين, صحة, رياضة, تقوية العضلات`,
         structuredData: {
             "@context": "https://schema.org",
-            "@type": "WebPage",
-            name: muscle.name,
-            url: `https://example.com/muscles/${muscleId}`,
-        },
+            "@type": "WebSite",
+            "name": "تطبيق عافيتك",
+            "url": currentUrl
+        }
     };
 
     return (

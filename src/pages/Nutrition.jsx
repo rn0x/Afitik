@@ -5,26 +5,22 @@ import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
 
 export default function Nutrition() {
+  const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
-    title: "الصفحة الرئيسية",
-    description: "مرحباً بك في الصفحة الرئيسية لموقعنا",
-    keywords: "موقع, إنترنت, رياكت",
-    ogImage: "https://example.com/homepage.jpg",
-    canonicalUrl: "https://example.com",
+    title: "التغذية الصحية - تطبيق عافيتك",
+    description: "اكتشف نصائح وخطط غذائية صحية تساعدك في تحقيق أهدافك الصحية واللياقية. استمتع بمقالات وفيديوهات تغذية شاملة ودقيقة مع تطبيق عافيتك.",
+    keywords: "تغذية صحية, خطط غذائية, نصائح تغذية, صحة, لياقة بدنية, تطبيق عافيتك",
+    ogImage: `${window.location.origin}/nutrition.jpg`,
+    canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس الموقع",
-    analyticsKeywords: "زيارات, تحليلات, إحصائيات",
+    author: "مؤسس تطبيق عافيتك",
+    analyticsKeywords: "تغذية, صحة, لياقة بدنية, نصائح غذائية, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      name: "موقعنا",
-      url: "https://example.com",
-      potentialAction: {
-        "@type": "SearchAction",
-        target: "https://example.com/search?q={search_term_string}",
-        "query-input": "required name=search_term_string",
-      },
-    },
+      "name": "تطبيق عافيتك",
+      "url": currentUrl
+    }
   };
 
   const centerStyle = {
