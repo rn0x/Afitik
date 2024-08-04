@@ -126,7 +126,6 @@ export default function ExerciseList() {
         {exercises.slice(0, itemsToShow).map((ex, index) => {
           const difficulty = ex.difficulty.name;
           const category = ex.category.name;
-          const force = ex.force.name;
           const videos = ex.videos[gender];
           const videosMap = videos.map((videoData, videoIndex) => {
             const preview_image = `https://musclewiki.i8x.net/api/files/${videoData.preview_image}`;

@@ -46,7 +46,7 @@ export default function ExerciseContent() {
   const pageMetadata = {
     title: exerciseDetail ? `${exerciseDetail.name} - تفاصيل التمرين | تطبيق عافيتك` : "تفاصيل التمرين - تطبيق عافيتك",
     description: exerciseDetail
-      ? `تعرف على تفاصيل تمرين ${exerciseDetail.name} المخصص لعضلة ${muscleValue ? muscleValue.name : 'غير محددة'} لجنس ${normalizedGender === 'male' ? 'الرجال' : 'النساء'} في تطبيق عافيتك. يحتوي على خطوات التمرين، فيديوهات تعليمية، والعديد من المعلومات المفيدة.` 
+      ? `تعرف على تفاصيل تمرين ${exerciseDetail.name} المخصص لعضلة ${muscleValue ? muscleValue.name : 'غير محددة'} لجنس ${normalizedGender === 'male' ? 'الرجال' : 'النساء'} في تطبيق عافيتك. يحتوي على خطوات التمرين، فيديوهات تعليمية، والعديد من المعلومات المفيدة.`
       : "تفاصيل تمرين غير محددة. يرجى العودة واختيار تمرين صحيح.",
     keywords: exerciseDetail
       ? `تفاصيل تمرين, تمرين ${exerciseDetail.name}, تمرين عضلة ${muscleValue ? muscleValue.name : 'غير محددة'}, تطبيق عافيتك`
@@ -129,7 +129,7 @@ export default function ExerciseContent() {
       const original_video = el.original_video;
       const file_path = `https://musclewiki.i8x.net/api/files/${el.file_path}`;
       return (
-        <>
+        <React.Fragment key={index}>
           {index === 0 && (
             <style>{`
               video::-webkit-media-controls-mute-button {
@@ -140,7 +140,7 @@ export default function ExerciseContent() {
 
           <video
             key={index}
-            src={original_video ? original_video : file_path}
+            src={file_path ? file_path : original_video}
             poster={preview_image}
             controlsList="nodownload noremoteplayback norewind novolume"
             controls
@@ -151,7 +151,7 @@ export default function ExerciseContent() {
             title={exerciseDetail.name}
             aria-label={exerciseDetail.name}
           />
-        </>
+        </React.Fragment>
       );
     });
 
@@ -174,7 +174,6 @@ export default function ExerciseContent() {
 
     const difficulty = exerciseDetail.difficulty.name;
     const category = exerciseDetail.category.name;
-    const force = exerciseDetail.force.name;
 
     return (
       <div className="ExerciseDetail">

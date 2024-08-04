@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import { MdOutlineLightbulb } from "react-icons/md";
 import AliceCarousel from "react-alice-carousel";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
