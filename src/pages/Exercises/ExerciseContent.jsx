@@ -4,9 +4,10 @@ import { Skeleton } from "@mui/material";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
 import AppBar from "../../components/AppBar.jsx";
-import Slider from "../../components/Slider.jsx";     
-import ToggleActiveClass from "../../components/ToggleActiveClass.jsx"; 
-import CustomVideoPlayer from "../../components/CustomVideoPlayer.jsx"; 
+import Slider from "../../components/Slider.jsx";
+import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
+import ScrollToTop from "../../components/ScrollToTop.jsx";
+import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import musclesData from "../../assets/json/muscles.json";
 
 export default function ExerciseContent() {
@@ -100,23 +101,129 @@ export default function ExerciseContent() {
     const videos = exerciseDetail.videos[normalizedGender];
 
     const videosMap = videos.map((el, index) => {
-      const filePath = `https://musclewiki.i8x.net/api/files/${el.file_path}`;
+      const preview_image = `https://musclewiki.i8x.net/api/files/${el.preview_image}`;
+      const original_video = el.original_video;
+      const file_path = `https://musclewiki.i8x.net/api/files/${el.file_path}`;
       return (
-        <CustomVideoPlayer
-          key={index}
-          src={filePath}
-          autoPlay
-          loop
-          className="video_item"
-        />
+        <>
+          {index === 0 && (
+            <style>{`
+              video::-webkit-media-controls-mute-button {
+                display: none;
+              }
+
+              /* إخفاء زر التكبير */
+              // video::-webkit-media-controls-fullscreen-button {
+              //   display: none;
+              // }
+            `}</style>
+          )}
+
+          <video
+            key={index}
+            src={original_video ? original_video : file_path}
+            poster={preview_image}
+            controlsList="nodownload noremoteplayback norewind novolume"
+            controls
+            preload="metadata"
+            autoPlay
+            loop
+            className="video_item"
+            title={exerciseDetail.name}
+            aria-label={exerciseDetail.name}
+          />
+        </>
       )
     });
+
+    const body_map = exerciseDetail.body_map[normalizedGender];
+
+    const correct_steps = exerciseDetail.correct_steps;
+    const correct_steps_map = correct_steps.map((el, index) => {
+      return (
+
+        <li key={index}>
+          <div className="step_number">{index + 1}</div>
+          <div className="step_text">{el.text}</div>
+        </li>
+      )
+    });
+
+    const youtube_link = exerciseDetail?.long_form_content?.[normalizedGender]?.youtube_link
 
     return (
       <div className="ExerciseDetail">
         <Slider items={videosMap} />
-        <div dangerouslySetInnerHTML={{ __html: exerciseDetail.description }} />
-        {/* Render other details like images, videos, etc. */}
+
+        {
+          body_map ? (
+            <>
+
+              <h2 className="category_title">
+                العضلات المستهدفة
+              </h2>
+
+              <div className="box_body_map">
+                {body_map.front ?
+                  <ImageWithSkeleton
+                    src={body_map.front}
+                    alt={exerciseDetail.name}
+                    title={exerciseDetail.name}
+                    aria-label={exerciseDetail.name}
+                  />
+                  : null}
+
+                {body_map.back ?
+                  <ImageWithSkeleton
+                    src={body_map.back}
+                    alt={exerciseDetail.name}
+                    title={exerciseDetail.name}
+                    aria-label={exerciseDetail.name}
+                  />
+                  : null}
+              </div>
+
+            </>
+          ) : null
+        }
+
+        {
+          correct_steps ?
+            <>
+              <h2 className="category_title">
+                خطوات التمرين الصحيحة
+              </h2>
+              <ol className="box_correct_steps">
+                {correct_steps_map}
+              </ol>
+            </> : null
+        }
+
+        {
+          youtube_link ?
+            <>
+              <iframe
+                src={youtube_link}
+                frameBorder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                title={exerciseDetail.name}
+                aria-label={exerciseDetail.name}
+                className="box_youtube"
+                sandbox="allow-same-origin allow-scripts"
+                poster="/images/icons/youtube.png"
+              ></iframe>
+            </>
+            : null
+        }
+
+
+        {
+          exerciseDetail.description && exerciseDetail.description !== 0 ? (
+            <div dangerouslySetInnerHTML={{ __html: exerciseDetail.description }} className="box_description" />
+          ) : null
+        }
+
       </div>
     );
   };
@@ -176,6 +283,8 @@ export default function ExerciseContent() {
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
 
+      <ScrollToTop />
+
       <div className="ExerciseContentPage">
         {!isGenderValid ? renderInvalidGenderMessage() : null}
         {!muscleValue && isGenderValid ? renderInvalidMuscleMessage() : null}
@@ -201,16 +310,5 @@ const fetchData = async (paths) => {
     return { data, error: null };
   } catch (error) {
     return { data: null, error: `Error loading data: ${error.message}` };
-  }
-};
-
-
-// دالة للتحقق من صلاحية الروابط
-const checkVideoUrl = async (url) => {
-  try {
-    const response = await fetch(url, { method: 'HEAD' });
-    return response.ok;
-  } catch {
-    return false;
   }
 };

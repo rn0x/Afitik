@@ -1,6 +1,6 @@
 .homepage>.tips {
     display: block;
-    background-color: var(--box);
+    background-color: var(--box-3);
     max-width: 600px;
     width: 87%;
     margin-top: 30px;
@@ -8,38 +8,48 @@
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    border-radius: 7px;
     text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.116) 0px 25px 20px -20px;
+    position: relative;
+    border-radius: 7px;
     border-width: 1px;
-    border-style: solid;
-    border-color: var(--border);
-    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-style: dashed;
+    border-color: var(--color-3);
+    border-radius: 18px;
 }
 
 .homepage>.tips>h3 {
     margin-top: 0px;
     margin-bottom: 5px;
     font-size: 16px;
+    color: var(--color-6);
 }
 
 .homepage>.tips>p {
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 12px;
-    background-color: var(--box-2);
+    background: var(--color-6);
     border-radius: 5px;
     padding: 5px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: var(--border);
+    color: var(--whiteColor);
 }
 
-.homepage>.tips>#tipsIcon {
-    color: var(--iconColor);
+.homepage>.tips>.tips_title {
+    position: absolute;
+    right: -5px;
+    top: -10px;
+    font-size: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: var(--color-7);
+    color: var(--whiteColor);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }
 
 .homepage>.slider-muscles {
-    color: var(--iconColor);
     max-width: 700px;
     width: 90%;
     margin-top: 10px;

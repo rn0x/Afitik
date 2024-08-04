@@ -4,6 +4,7 @@ import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
+import ScrollToTop from "../../components/ScrollToTop.jsx";
 import "../../assets/styles/Exercises.css"
 
 export default function Exercises() {
@@ -39,6 +40,8 @@ export default function Exercises() {
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+
+      <ScrollToTop />
 
       <div className="ExercisesPage">
         {/* <h2>SelectGender</h2> */}

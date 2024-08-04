@@ -299,11 +299,115 @@
 }
 
 .ExerciseContentPage>.ExerciseDetail {
-    width: 90%;
+    width: 99%;
     max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .ExerciseContentPage>.ExerciseDetail>.slider .video_item {
+    width: 100%;
+    max-width: 700px;
+    background-color: var(--box);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+
+}
+
+
+.ExerciseContentPage>.ExerciseDetail>.category_title {
+    color: var(--color-4);
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_body_map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_body_map img {
+    max-width: 80px;
+    margin: 0 2.5%;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_description {
     width: 90%;
     max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--box-3);
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    direction: rtl;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_description h1 {
+    font-size: 16px;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_description h2 {
+    font-size: 14px;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_description li,
+.ExerciseContentPage>.ExerciseDetail>.box_description p {
+    font-size: 13px;
+}
+
+
+.ExerciseContentPage>.ExerciseDetail>.box_correct_steps {
+    list-style: none;
+    padding: 0px;
+    width: 90%;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_correct_steps li {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    background-color: var(--box-3);
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_correct_steps .step_number {
+    background-color: var(--color-6);
+    color: var(--whiteColor);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_correct_steps .step_text {
+    font-size: 16px;
+}
+
+.ExerciseContentPage>.ExerciseDetail>.box_youtube {
+    display: block;
+    width: 90%;
+    height: 280px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

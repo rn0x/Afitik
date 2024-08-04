@@ -2,6 +2,7 @@ import React from "react";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
+import ScrollToTop from "../components/ScrollToTop.jsx";
 
 export default function Tools() {
   const pageMetadata = {
@@ -34,6 +35,7 @@ export default function Tools() {
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={true} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+      <ScrollToTop />
       <div>Tools</div>
     </>
   );

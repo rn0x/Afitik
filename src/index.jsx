@@ -15,6 +15,10 @@ function handleCordovaReady() {
     if (window.MobileAccessibility) {
       window.MobileAccessibility.usePreferredTextZoom(false);
     }
+
+    if (window.NavigationBar) {
+      window.NavigationBar.backgroundColorByHexString("#ffffff", true);
+    }
   }
 
   renderReactDom();

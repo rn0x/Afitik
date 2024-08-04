@@ -5,6 +5,7 @@ import StatusBarColor from "../../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import AppBar from "../../components/AppBar.jsx";
+import ScrollToTop from "../../components/ScrollToTop.jsx";
 import "../../assets/styles/Exercises.css";
 import musclesData from "../../assets/json/muscles.json";
 
@@ -98,6 +99,8 @@ export default function MuscleSelection() {
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+
+      <ScrollToTop />
 
       <div className="MuscleSelectionPage">
         {/* <h2>Select Muscle</h2> */}

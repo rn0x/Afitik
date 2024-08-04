@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import { MdOutlineTipsAndUpdates } from "react-icons/md";
+import { MdOutlineLightbulb } from "react-icons/md";
 import AliceCarousel from "react-alice-carousel";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import ImageWithSkeleton from "../components/ImageWithSkeleton.jsx";
 import MenuList from "../components/MenuList.jsx";
+import ScrollToTop from "../components/ScrollToTop.jsx";
 import tipsJson from "../assets/json/tips.json";
 import musclesData from "../assets/json/muscles.json";
 import "../assets/styles/Home.css";
@@ -81,8 +82,12 @@ export default function Home(props) {
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
 
+      <ScrollToTop />
+
       <div className="tips">
-        <MdOutlineTipsAndUpdates id="tipsIcon" />
+        <p className="tips_title">
+          نصيحة عشوائية
+        </p>
         <h3>{tipsRandom.tip}</h3>
         <p>{tipsRandom.description}</p>
       </div>

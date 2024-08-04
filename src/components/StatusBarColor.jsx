@@ -20,13 +20,13 @@ const StatusBarColor = ({ color }) => {
         if (window.cordova && window.StatusBar) {
             try {
                 if (window.cordova.platformId === 'android') {
-                    window.StatusBar.backgroundColorByHexString(color);
+                    if (window.StatusBar) {
+                        window.StatusBar.backgroundColorByHexString(color);
+                    }
                 }
             } catch (error) {
                 console.error("Failed to set status bar color: ", error);
             }
-        } else {
-            console.warn("Cordova or StatusBar plugin is not available.");
         }
     }, [color]); // Re-run effect if color changes
 

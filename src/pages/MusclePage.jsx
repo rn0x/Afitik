@@ -6,6 +6,7 @@ import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import AppBar from "../components/AppBar.jsx";
 import ScreenshotCapture from "../components/ScreenshotCapture.jsx";
 import ImageWithSkeleton from "../components/ImageWithSkeleton.jsx";
+import ScrollToTop from "../components/ScrollToTop.jsx";
 import musclesData from "../assets/json/muscles.json";
 import '../assets/styles/MusclePage.css'
 
@@ -44,6 +45,8 @@ export default function MusclePage() {
             <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
             <ToggleActiveClass elementId="nvBarTools" isActive={false} />
             <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+
+            <ScrollToTop />
 
             <AppBar title={muscle.name} backLink="/" />
 

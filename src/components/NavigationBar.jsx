@@ -29,8 +29,8 @@ export default function NavigationBar() {
             <Link
               to="/"
               id="nvBarHome"
-              title="الصفحة الرئيسية"
-              aria-label="الصفحة الرئيسية"
+              title="الرئيسية"
+              aria-label="الرئيسية"
               onMouseDown={(e) => e.preventDefault()}
               draggable="false"
             >
@@ -42,7 +42,7 @@ export default function NavigationBar() {
               {isLoading ? (
                 <Skeleton variant="text" width={80} />
               ) : (
-                <p>الصفحة الرئيسية</p>
+                <p>الرئيسية</p>
               )}
             </Link>
           </li>
