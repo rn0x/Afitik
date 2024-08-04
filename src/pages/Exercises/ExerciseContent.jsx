@@ -149,11 +149,33 @@ export default function ExerciseContent() {
       )
     });
 
-    const youtube_link = exerciseDetail?.long_form_content?.[normalizedGender]?.youtube_link
+    const youtube_link = exerciseDetail?.long_form_content?.[normalizedGender]?.youtube_link;
+
+    const seo_tags = exerciseDetail.seo_tags;
+
+    const seo_tags_map = seo_tags.map((tag, index) => {
+      return (
+        <li key={'seo_tags_' + index}>
+          {tag}
+        </li>
+      )
+    });
+
+    const difficulty = exerciseDetail.difficulty.name;
+    const category = exerciseDetail.category.name;
+    const force = exerciseDetail.force.name;
 
     return (
       <div className="ExerciseDetail">
+
+        <div className="box_info">
+          {difficulty ? <p className="difficulty">{difficulty}</p> : null}
+          {category ? <p className="category">{category}</p> : null}
+        </div>
+
         <Slider items={videosMap} />
+
+
 
         {
           body_map ? (
@@ -221,6 +243,14 @@ export default function ExerciseContent() {
         {
           exerciseDetail.description && exerciseDetail.description !== 0 ? (
             <div dangerouslySetInnerHTML={{ __html: exerciseDetail.description }} className="box_description" />
+          ) : null
+        }
+
+        {
+          seo_tags ? (
+            <ul className="seo_tags_box">
+              {seo_tags_map}
+            </ul>
           ) : null
         }
 

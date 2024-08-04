@@ -26,6 +26,15 @@ export default function Tools() {
       },
     },
   };
+
+  const centerStyle = {
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    height: "100vh",
+    textAlign: "center",
+  };
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
@@ -36,7 +45,10 @@ export default function Tools() {
       <ToggleActiveClass elementId="nvBarTools" isActive={true} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
       <ScrollToTop />
-      <div>Tools</div>
+
+      <div style={centerStyle}>
+        قريباً
+      </div>
     </>
   );
 }

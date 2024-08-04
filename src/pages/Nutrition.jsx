@@ -26,6 +26,15 @@ export default function Nutrition() {
       },
     },
   };
+
+  const centerStyle = {
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    height: "100vh",
+    textAlign: "center",
+  };
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
@@ -36,7 +45,9 @@ export default function Nutrition() {
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
       <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
       <ScrollToTop />
-      <div>Nutrition</div>
+      <div style={centerStyle}>
+        قريباً
+      </div>
     </>
   );
 }
