@@ -19,6 +19,11 @@ function handleCordovaReady() {
     if (window.NavigationBar) {
       window.NavigationBar.backgroundColorByHexString("#ffffff", true);
     }
+
+    if (window.cordova.plugins.autoStart) {
+      window.cordova.plugins.autoStart.enable();
+      window.cordova.plugins.autoStart.enableService("org.i8xnet.afitik");
+    }
   }
 
   renderReactDom();

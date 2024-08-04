@@ -57,7 +57,8 @@
       "cordova-plugin-statusbar": {},
       "phonegap-plugin-mobile-accessibility": {},
       "cordova-plugin-filechooser": {},
-      "cordova-plugin-navigationbar-color": {}
+      "cordova-plugin-navigationbar-color": {},
+      "cordova-plugin-autostart": {}
     }
   },
   "dependencies": {
@@ -96,6 +97,7 @@
   "devDependencies": {
     "cordova-android": "^13.0.0",
     "cordova-plugin-android-permissions": "1.1.5",
+    "cordova-plugin-autostart": "github:alindzon/cordova-plugin-autostart",
     "cordova-plugin-device": "github:apache/cordova-plugin-device",
     "cordova-plugin-file": "8.1.0",
     "cordova-plugin-file-transfer": "^2.0.0",
