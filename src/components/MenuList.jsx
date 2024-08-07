@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { MdFitnessCenter, MdFastfood, MdBuild, MdOutlineSportsMartialArts } from 'react-icons/md';
+import { MdFitnessCenter, MdFastfood, MdBuild, MdOutlineSportsMartialArts, MdCalendarMonth } from 'react-icons/md';
 
 export default function MenuList() {
     // قائمة الفئات مع الأيقونات وروابط التوجيه
@@ -24,7 +24,12 @@ export default function MenuList() {
             name: 'معدات النادي',
             path: '/gym-equipment',
             icon: <MdFitnessCenter />
-        }
+        },
+        {
+            name: 'جداول التمارين',
+            path: '/workout-schedule',
+            icon: <MdCalendarMonth />
+        },
     ];
 
     return (
