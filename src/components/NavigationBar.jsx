@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import {
-  MdFitnessCenter,
   MdFastfood,
   MdHome,
   MdOutlineSettingsSuggest,
+  MdOutlineSportsMartialArts,
 } from "react-icons/md";
 import { Skeleton } from "@mui/material";
 import "../assets/styles/NavigationBar.css";
@@ -58,7 +58,7 @@ export default function NavigationBar() {
               {isLoading ? (
                 <Skeleton variant="circular" width={40} height={40} />
               ) : (
-                <MdFitnessCenter className="icon" />
+                <MdOutlineSportsMartialArts className="icon" />
               )}
               {isLoading ? (
                 <Skeleton variant="text" width={80} />

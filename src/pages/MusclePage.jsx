@@ -44,7 +44,7 @@ export default function MusclePage() {
             <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
             <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
             <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-            <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+            
 
             <ScrollToTop />
 

@@ -58,7 +58,11 @@
       "phonegap-plugin-mobile-accessibility": {},
       "cordova-plugin-filechooser": {},
       "cordova-plugin-navigationbar-color": {},
-      "cordova-plugin-autostart": {}
+      "cordova-plugin-autostart": {},
+      "cordova-plugin-local-notification": {},
+      "cordova-plugin-background-mode": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-inappbrowser": {}
     }
   },
   "dependencies": {
@@ -98,10 +102,15 @@
     "cordova-android": "^13.0.0",
     "cordova-plugin-android-permissions": "1.1.5",
     "cordova-plugin-autostart": "github:alindzon/cordova-plugin-autostart",
+    "cordova-plugin-background-mode": "github:brunochikuji/cordova-plugin-background-mode",
+    "cordova-plugin-badge": "^0.8.9",
     "cordova-plugin-device": "github:apache/cordova-plugin-device",
+    "cordova-plugin-dialogs": "^2.0.2",
     "cordova-plugin-file": "8.1.0",
     "cordova-plugin-file-transfer": "^2.0.0",
     "cordova-plugin-filechooser": "^1.2.0",
+    "cordova-plugin-inappbrowser": "^6.0.0",
+    "cordova-plugin-local-notification": "github:flowsa/cordova-plugin-local-notifications",
     "cordova-plugin-navigationbar-color": "github:accessai/cordova-plugin-navigationbar",
     "cordova-plugin-network-information": "github:apache/cordova-plugin-network-information",
     "cordova-plugin-statusbar": "^4.0.0",

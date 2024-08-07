@@ -29,23 +29,29 @@
     min-height: 120px;
 }
 
+
 .ExercisesPage>.ExercisesPageSelectGender>#male {
-    border-color: #7185bc;
-    background-color: var(--male);
+    border-color: #516291;
+    box-shadow: #7185bcb6 0px 20px 50px 0px;
+    background: linear-gradient(125deg, #a5bdff, #6478b0);
 
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#female {
-    border-color: #be87bd;
-    background-color: var(--female);
+    box-shadow: #be87bda3 0px 20px 50px 0px;
+    border-color: #9c6c9b;
+    background: linear-gradient(125deg, #edb1ec, #d790d6);
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#male:hover {
     box-shadow: #7185bc 0px 20px 50px 0px;
+    background: linear-gradient(75deg, #8fa5e0, #506191);
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#female:hover {
     box-shadow: #be87bd 0px 20px 50px 0px;
+    background: linear-gradient(75deg, #dfa6de, #a66fa5);
+
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>a>p {
@@ -56,19 +62,19 @@
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#male>p {
-    color: #506295;
+    color: var(--whiteColor);
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#female>p {
-    color: #a272a1;
+    color: var(--whiteColor);
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#male:hover>p {
-    color: var(--whiteColor);
+    color: #2b3655;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>#female:hover>p {
-    color: var(--whiteColor);
+    color: #6c456b;
 }
 
 .ExercisesPage>.ExercisesPageSelectGender>a>img {
@@ -174,7 +180,7 @@
 
 
 .ExerciseListPage>.ExerciseList>.item-exercise>.slider .alice-carousel__dots-item.__active {
-    background-color: var(--color-4);
+    background: linear-gradient(45deg, var(--color-4), var(--color-6));
 }
 
 .ExerciseListPage>.ExerciseList>.item-exercise>.slider .alice-carousel__dots-item {
@@ -197,7 +203,7 @@
     /* لتوسيط العنصر أفقياً */
     width: 100%;
     height: 40px;
-    background-color: var(--color-6);
+    background: linear-gradient(45deg, var(--color-3), var(--color-7));
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     margin-bottom: 10px;
@@ -216,7 +222,7 @@
 }
 
 .ExerciseListPage>.ExerciseList>.item-exercise>.difficulty {
-    background-color: var(--color-7);
+    background: linear-gradient(45deg, var(--color-7), var(--color-6));
     color: var(--whiteColor);
     position: absolute;
     top: 50px;
@@ -229,7 +235,7 @@
 }
 
 .ExerciseListPage>.ExerciseList>.item-exercise>.category {
-    background-color: var(--color-6);
+    background: linear-gradient(45deg, var(--color-7), var(--color-3));
     color: var(--whiteColor);
     position: absolute;
     top: 80px;
@@ -242,7 +248,7 @@
 }
 
 .ExerciseListPage>.ExerciseList>.item-exercise>.force {
-    background-color: var(--color-7);
+    background: linear-gradient(45deg, var(--color-4), var(--color-6));
     color: var(--whiteColor);
     position: absolute;
     top: 110px;
@@ -256,7 +262,7 @@
 
 .ExerciseListPage>.ExerciseList>.buttonMore {
     display: block;
-    background-color: var(--color-7);
+    background: linear-gradient(45deg, var(--color-4), var(--color-6));
     color: var(--whiteColor);
     box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
     margin-left: auto;
@@ -272,7 +278,7 @@
 }
 
 .ExerciseListPage>.ExerciseList>.buttonMore:hover {
-    background-color: var(--color-6);
+    background: linear-gradient(45deg, var(--color-7), var(--color-3));
     /* تغيير اللون عند التمرير */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
     /* تأثير الظل */
@@ -387,7 +393,7 @@
 }
 
 .ExerciseContentPage>.ExerciseDetail>.box_correct_steps .step_number {
-    background-color: var(--color-6);
+    background: linear-gradient(45deg, var(--color-7), var(--color-3));
     color: var(--whiteColor);
     border-radius: 50%;
     width: 30px;
@@ -420,7 +426,7 @@
 }
 
 .ExerciseContentPage>.ExerciseDetail>.box_info>.difficulty {
-    background-color: var(--color-7);
+    background: linear-gradient(45deg, var(--color-7), var(--color-3));
     color: var(--whiteColor);
     font-size: 11px;
     padding-left: 10px;
@@ -430,7 +436,7 @@
 }
 
 .ExerciseContentPage>.ExerciseDetail>.box_info>.category {
-    background-color: var(--color-6);
+    background: linear-gradient(45deg, var(--color-3), var(--color-5));
     color: var(--whiteColor);
     font-size: 11px;
     padding-left: 10px;
@@ -479,4 +485,3 @@
 
 
 /* ______________________________________________ */
-

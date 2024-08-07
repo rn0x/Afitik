@@ -39,7 +39,7 @@ export default function Tools() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={true} />
-      <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+      
       <ScrollToTop />
 
       <div style={centerStyle}>

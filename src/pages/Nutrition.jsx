@@ -39,7 +39,7 @@ export default function Nutrition() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={true} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+      
       <ScrollToTop />
       <div style={centerStyle}>
         قريباً

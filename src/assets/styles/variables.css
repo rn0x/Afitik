@@ -16,10 +16,9 @@
     --navigationbarBackground: #ffffff;
     --navigationbarColor: #000000;
     --navigationbarColorIcon: #7AB2B2;
-    --navigationbarBackgroundHover: #eceff4;
+    --navigationbarBackgroundHover: #e1f6f6;
+    --navigationbarBackgroundHover-2: #c1dfdf;
     --navigationbarBackgroundAfter: #7ab2b244;
-    --male: #8fa5e0;
-    --female: #dfa6de;
 }
 
 

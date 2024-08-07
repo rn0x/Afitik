@@ -43,6 +43,11 @@
     margin-right: auto;
 }
 
+.navigation-bar a:hover {
+    background: linear-gradient(20deg, var(--navigationbarBackgroundHover-2), var(--navigationbarBackgroundHover));
+    transform: translateY(-5px);
+}
+
 .navigation-bar a::after {
     content: '';
     position: absolute;
@@ -65,7 +70,7 @@
 
 /* .navigation-bar a:hover, */
 .navigation-bar .active {
-    background-color: var(--navigationbarBackgroundHover);
+    background: linear-gradient(20deg, var(--navigationbarBackgroundHover-2), var(--navigationbarBackgroundHover));
     transform: translateY(-5px);
 }
 

@@ -104,7 +104,7 @@ export default function MuscleSelection() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+      
 
       <ScrollToTop />
 

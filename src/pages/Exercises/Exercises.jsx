@@ -34,7 +34,7 @@ export default function Exercises() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      <ToggleActiveClass elementId="nvBarCommunity" isActive={false} />
+      
 
       <ScrollToTop />
 

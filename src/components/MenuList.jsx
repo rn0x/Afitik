@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { MdFitnessCenter, MdFastfood, MdBuild, MdOutlineSportsMartialArts } from 'react-icons/md';
 
 export default function MenuList() {
     // قائمة الفئات مع الأيقونات وروابط التوجيه
@@ -7,17 +8,22 @@ export default function MenuList() {
         {
             name: 'التمارين',
             path: '/Exercises',
-            background: 'url(/images/Menu_List/background-Exercises.jpg)',
+            icon: <MdOutlineSportsMartialArts />
         },
         {
             name: 'التغذية',
             path: '/Nutrition',
-            background: 'url(/images/Menu_List/background-Nutrition.jpg)',
+            icon: <MdFastfood />
         },
         {
             name: 'الأدوات',
             path: '/Tools',
-            background: 'url(/images/Menu_List/background-Tools.jpg)',
+            icon: <MdBuild />
+        },
+        {
+            name: 'معدات النادي',
+            path: '/gym-equipment',
+            icon: <MdFitnessCenter />
         }
     ];
 
@@ -32,13 +38,9 @@ export default function MenuList() {
                         aria-label={item.name}
                         onMouseDown={(e) => e.preventDefault()}
                         draggable="false"
-                        style={{ position: 'relative', overflow: 'hidden', textDecoration: 'none' }}
                     >
-                        <div
-                            className='backgroundMenuList'
-                            style={{ backgroundImage: item.background }}
-                        ></div>
-                        <p>{item.name} </p>
+                        {item.icon}
+                        <p>{item.name}</p>
                     </Link>
                 </li>
             ))}
