@@ -189,7 +189,7 @@ We welcome contributions to the Cordova StepCounter Plugin. You can contribute b
 #### Development Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/cordova-plugin-stepcounter.git
+    git clone https://github.com/rn0x/cordova-plugin-stepcounter.git
     cd cordova-plugin-stepcounter
     ```
 
@@ -198,7 +198,7 @@ We welcome contributions to the Cordova StepCounter Plugin. You can contribute b
 3. Submit a pull request with a clear description of your changes.
 
 #### Licensing
-This plugin is licensed under the GPL 3.0 License. See the `LICENSE` file for more information.
+This plugin is licensed under the GPL 3.0 License. See the [`LICENSE`](/LICENSE) file for more information.
 
 #### Contact
 For any questions or feedback, feel free to open an issue on the GitHub repository.
