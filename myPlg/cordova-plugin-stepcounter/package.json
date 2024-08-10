@@ -1,0 +1,35 @@
+{
+  "name": "cordova-stepcounter",
+  "version": "1.0.2",
+  "description": "A Cordova plugin for step counting on Android.",
+  "main": "www/StepCounter.js",
+  "scripts": {
+    "push":"npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-plugin",
+    "step",
+    "counter",
+    "pedometer",
+    "health",
+    "fitness"
+  ],
+  "author": "Rayan Almalki (rn0x)",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rn0x/cordova-plugin-stepcounter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rn0x/cordova-plugin-stepcounter/issues"
+  },
+  "homepage": "https://github.com/rn0x/cordova-plugin-stepcounter#readme",
+  "cordova": {
+    "id": "cordova-plugin-stepcounter",
+    "platforms": [
+      "android"
+    ]
+  }
+}

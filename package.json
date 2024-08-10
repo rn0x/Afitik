@@ -120,7 +120,7 @@
     "cordova-plugin-navigationbar-color": "github:accessai/cordova-plugin-navigationbar",
     "cordova-plugin-network-information": "github:apache/cordova-plugin-network-information",
     "cordova-plugin-statusbar": "^4.0.0",
-    "cordova-plugin-stepcounter": "file:cordova-plugin-stepcounter",
+    "cordova-stepcounter": "file:myPlg/cordova-plugin-stepcounter",
     "phonegap-plugin-mobile-accessibility": "github:phonegap/phonegap-mobile-accessibility"
   }
 }

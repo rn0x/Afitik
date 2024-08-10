@@ -1,10 +1,11 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-stepcounter"
-    version="1.0.0">
+    version="1.0.2">
     <name>StepCounter</name>
     <description>Step Counter Plugin for Android</description>
     <license>GPL 3.0</license>
     <keywords>step counter, pedometer, health, fitness</keywords>
+    <author>Rayan Almalki (rn0x)</author>
     <js-module src="www/StepCounter.js" name="StepCounter">
         <clobbers target="cordova.plugins.stepCounter" />
     </js-module>
