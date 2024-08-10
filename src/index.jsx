@@ -24,11 +24,15 @@ import {
   disableWebViewOptimizations
 } from './utils/backgroundMode.js';
 
+// import AdMobPlugin from '../admobplugin/src/www/AdMobPlugin.js';
+
+
 /**
  * دالة لعرض React DOM بعد تحميل Cordova.
  */
 function handleCordovaReady() {
   console.log("Cordova is ready. Rendering React DOM...");
+  renderReactDom();
 
   if (window.cordova.platformId === 'android') {
 
@@ -79,10 +83,7 @@ function handleCordovaReady() {
     };
 
     scheduleLocalNotification(notificationOptions);
-
   }
-
-  renderReactDom();
 }
 
 /**

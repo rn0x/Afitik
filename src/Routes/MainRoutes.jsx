@@ -6,6 +6,7 @@ import WorkoutSchedule from "../pages/WorkoutSchedule.jsx";
 import NotFound from "../pages/NotFound.jsx";
 import Nutrition from "../pages/Nutrition.jsx";
 import Tools from "../pages/Tools.jsx";
+import StepCounter from "../pages/tools/StepCounter.jsx";
 import MusclesRoutes from "./MusclesRoutes.jsx";
 import ExercisesRoutes from "./ExercisesRoutes.jsx";
 
@@ -20,6 +21,7 @@ export default function MainRoutes() {
       <Route path="/Exercises/*" element={<ExercisesRoutes />} />
       <Route path="/Nutrition" element={<Nutrition />} />
       <Route path="/Tools" element={<Tools />} />
+      <Route path="/Tools/step-counter" element={<StepCounter />} />
       <Route path="/muscles/*" element={<MusclesRoutes />} />
       <Route path="*" element={<NotFound />} />
     </Routes>

@@ -102,7 +102,7 @@ const Home = () => {
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      
+
 
       <ScrollToTop />
 

@@ -11,6 +11,7 @@
     z-index: 1000;
     top: 0;
     box-sizing: border-box;
+    background: linear-gradient(180deg, var(--color-3), var(--color-6));
 }
 
 .app-bar .back-button {

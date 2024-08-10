@@ -2,21 +2,24 @@
   "name": "org.i8xnet.afitik",
   "private": true,
   "displayName": "Afitik",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Afitik is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.",
   "scripts": {
     "keytool": "node keytool.js",
     "dev": "react-scripts start",
     "build": "node prebuild.js",
-    "build-linux": "react-scripts build && mkdir -p www && mv build/* www && rm -r build",
-    "device": "cordova run android --device",
-    "cordova-build": "cordova build android --release",
     "android": "cordova platform add android@latest",
-    "rm-android": "cordova platform rm android && cordova platform add android@latest",
+    "re-android": "cordova platform rm android && cordova platform add android@latest",
+    "build-apk": "npm run build && cordova build android --release -- --packageType=apk",
+    "build-aab": "npm run build && cordova build android --release -- --packageType=bundle",
+    "device": "cordova run android --device",
+    "bu-device": "npm run build && cordova run android --device",
     "logcat": "adb logcat",
-    "log": "adb logcat | Select-String \"INFO:CONSOLE\"",
+    "log": "adb logcat | Select-String INFO:CONSOLE",
     "clean": "cordova clean && npm cache clean --force",
-    "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run android"
+    "rm": "rmdir /s /q node_modules platforms plugins && del package-lock.json && npm run android",
+    "rm-linux": "rm -rf node_modules platforms plugins && rm package-lock.json && npm run android",
+    "sync": "cordova prepare"
   },
   "keywords": [
     "fitness app",
@@ -59,10 +62,13 @@
       "cordova-plugin-filechooser": {},
       "cordova-plugin-navigationbar-color": {},
       "cordova-plugin-autostart": {},
-      "cordova-plugin-local-notification": {},
+      "cordova-plugin-local-notification": {
+        "ANDROID_SUPPORT_V4_VERSION": "26.+"
+      },
       "cordova-plugin-background-mode": {},
       "cordova-plugin-dialogs": {},
-      "cordova-plugin-inappbrowser": {}
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-stepcounter": {}
     }
   },
   "dependencies": {
@@ -114,6 +120,7 @@
     "cordova-plugin-navigationbar-color": "github:accessai/cordova-plugin-navigationbar",
     "cordova-plugin-network-information": "github:apache/cordova-plugin-network-information",
     "cordova-plugin-statusbar": "^4.0.0",
+    "cordova-plugin-stepcounter": "file:cordova-plugin-stepcounter",
     "phonegap-plugin-mobile-accessibility": "github:phonegap/phonegap-mobile-accessibility"
   }
 }

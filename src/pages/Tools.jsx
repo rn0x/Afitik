@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { Link } from 'react-router-dom';
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
@@ -39,8 +40,21 @@ export default function Tools() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={true} />
-      
+
       <ScrollToTop />
+
+      <Link
+        to="/Tools/step-counter"
+        className='menu-link'
+        title="step-counter"
+        aria-label="step-counter"
+        onMouseDown={(e) => e.preventDefault()}
+        draggable="false"
+      >
+        <p>
+          عداد الخطوات
+        </p>
+      </Link>
 
       <div style={centerStyle}>
         قريباً
