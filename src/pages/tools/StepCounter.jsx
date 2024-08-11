@@ -211,7 +211,7 @@ const StepCounter = () => {
             <div id='info_box'>
               <p><strong>المدة الزمنية:</strong> {Math.floor(duration / 60)} دقيقة {duration % 60} ثانية</p>
               <p><strong>المسافة المقطوعة:</strong> {calculateDistance(steps).toFixed(2)} كم</p>
-              <p><strong>السعرات الحرارية:</strong> {calories.toFixed(2)} سعر حراري</p>
+              <p><strong>السعرات الحرارية:</strong> {calories.toFixed(2)} سعرة حرارية</p>
             </div>
 
             <div id='weight_control'>

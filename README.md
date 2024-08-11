@@ -1,9 +1,21 @@
 # عافيتك | afitik
 
-![Badge](https://img.shields.io/github/v/release/rn0x/Afitik)
-![GitHub all releases](https://img.shields.io/github/downloads/rn0x/Afitik/total?color=blue&label=Total%20Downloads)
-[![Downloads](https://playbadges.pavi2410.me/badge/downloads?id=org.i8xnet.afitik)](https://play.google.com/store/apps/details?id=org.i8xnet.afitik)
 
+<div align="center">
+
+![Badge](https://img.shields.io/github/v/release/rn0x/Afitik)
+
+![GitHub all releases](https://img.shields.io/github/downloads/rn0x/Afitik/total?color=blue&label=Total%20Downloads) 
+
+<br>
+
+![ssss](/unused/logo%20afitik/250px.png)
+
+![downloads_badge][downloads_badge]
+
+![card][card]
+
+</div>
 
 ## وصف قصير
 
@@ -43,3 +55,9 @@
 |  ![afitik](/unused/Screenshot/Screenshot_2024-08-04-06-27-41-281_org.i8xnet.afitik.jpg)   |  
 
 <br>
+
+
+
+
+[card]: https://PlayBadges.pavi2410.me/badge/full?id=org.i8xnet.afitik
+[downloads_badge]: https://PlayBadges.pavi2410.me/badge/downloads?id=org.i8xnet.afitik
