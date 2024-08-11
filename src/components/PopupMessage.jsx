@@ -32,7 +32,7 @@ const PopupComponent = ({ message, onClose }) => {
           <button className="popup-close" onClick={onClose}>
             <MdClose />
           </button>
-          <div className="popup-message">{message}</div>
+          <div className="popup-message" style={{direction:"ltr"}} >{message}</div>
         </div>
       </div>
     );

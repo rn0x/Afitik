@@ -55,7 +55,6 @@
       "cordova-plugin-file": {
         "ANDROIDX_WEBKIT_VERSION": "1.4.0"
       },
-      "cordova-plugin-android-permissions": {},
       "cordova-plugin-file-transfer": {},
       "cordova-plugin-statusbar": {},
       "phonegap-plugin-mobile-accessibility": {},
@@ -68,7 +67,8 @@
       "cordova-plugin-background-mode": {},
       "cordova-plugin-dialogs": {},
       "cordova-plugin-inappbrowser": {},
-      "cordova-plugin-stepcounter": {}
+      "cordova-plugin-stepcounter": {},
+      "cordova-plugin-android-permissions": {}
     }
   },
   "dependencies": {
@@ -106,7 +106,7 @@
   },
   "devDependencies": {
     "cordova-android": "^13.0.0",
-    "cordova-plugin-android-permissions": "1.1.5",
+    "cordova-plugin-android-permissions": "github:kelter-antunes/cordova-plugin-android-permission",
     "cordova-plugin-autostart": "github:alindzon/cordova-plugin-autostart",
     "cordova-plugin-background-mode": "github:brunochikuji/cordova-plugin-background-mode",
     "cordova-plugin-badge": "^0.8.9",

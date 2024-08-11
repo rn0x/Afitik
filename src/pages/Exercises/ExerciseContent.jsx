@@ -11,6 +11,7 @@ import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import musclesData from "../../assets/json/muscles.json";
 
 export default function ExerciseContent() {
+  const apiUrl = process.env.REACT_APP_API_BASE_URL;
   const { gender, muscle, exercise } = useParams();
   const [exerciseDetail, setExerciseDetail] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -125,9 +126,9 @@ export default function ExerciseContent() {
 
     const videos = exerciseDetail.videos[normalizedGender];
     const videosMap = videos.map((el, index) => {
-      const preview_image = `https://musclewiki.i8x.net/api/files/${el.preview_image}`;
+      const preview_image = `${apiUrl}/api/files/${el.preview_image}`;
       const original_video = el.original_video;
-      const file_path = `https://musclewiki.i8x.net/api/files/${el.file_path}`;
+      const file_path = `${apiUrl}/api/files/${el.file_path}`;
       return (
         <React.Fragment key={index}>
           {index === 0 && (
@@ -271,7 +272,7 @@ export default function ExerciseContent() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      
+
       <ScrollToTop />
       <div className="ExerciseContentPage">
         {!isGenderValid ? renderInvalidGenderMessage() : null}

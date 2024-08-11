@@ -1,0 +1,191 @@
+/* صفحة الادوات */
+
+#ToolsPage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 700px;
+}
+
+#ToolsPage>#box_tools {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 0px;
+    list-style: none;
+    margin-top: 50px;
+}
+
+#ToolsPage>#box_tools>li>a {
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-decoration: none;
+    color: var(--color-3);
+    padding: 10px;
+    box-sizing: border-box;
+    background: linear-gradient(45deg, var(--color-4), var(--color-6));
+    border-radius: 17px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--color-7);
+}
+
+#ToolsPage>#box_tools>li>a>svg {
+    color: var(--color-7);
+    font-size: 25px;
+    margin-left: 10px;
+    background-color: var(--box-3);
+    border-radius: 7px;
+    padding: 5px;
+}
+
+#ToolsPage>#box_tools>li>a:hover {
+    background: linear-gradient(45deg, var(--color-6), var(--color-4));
+}
+
+#ToolsPage>#box_tools>li>a>.title_tools {
+    color: var(--whiteColor);
+    font-size: 15px;
+    text-align: center;
+}
+
+@media (max-width: 245px) {
+    #ToolsPage>#box_tools>li>a>svg {
+        display: none;
+    }
+}
+
+
+/* صفحة عداد خطوات المشي */
+
+#StepCounterPage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: 66px; */
+    padding-top: 66px;
+    width: 90%;
+    max-width: 700px;
+    text-align: center;
+}
+
+#StepCounterPage>#box_steps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 150px;
+    height: 150px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    background-color: var(--color-1);
+    background: linear-gradient(80deg, var(--color-1), var(--color-5));
+    color: var(--color-7);
+    border-radius: 50%;
+    position: relative;
+}
+
+#StepCounterPage>#box_steps>#steps {
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#StepCounterPage>#box_steps>#steps_title {
+    position: absolute;
+    top: 10px;
+    background-color: var(--color-7);
+    color: var(--whiteColor);
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#StepCounterPage>#button_steps {
+    position: relative;
+    background-color: var(--color-7);
+    color: var(--whiteColor);
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, box-shadow 0.3s, transform 0.2s;
+}
+
+#StepCounterPage>#button_steps:hover {
+    background-color: var(--color-6);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+#StepCounterPage>#button_steps:active {
+    background-color: var(--color-5);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: scale(0.98);
+}
+
+#StepCounterPage>#button_steps:active::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+#StepCounterPage>#info_box {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background-color: var(--box-3);
+    text-align: right;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#StepCounterPage>#info_box p {
+    font-size: 12px;
+    margin: 5px 0;
+}
+
+#StepCounterPage>#weight_control {
+    margin-bottom: 50px;
+}
+
+#StepCounterPage>#weight_control>span{
+    font-size: 12px;
+}
+
+#StepCounterPage>#weight_control>button {
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    color: var(--whiteColor);
+    border-radius: 3px;
+    background: linear-gradient(45deg, var(--color-4), var(--color-6));
+}

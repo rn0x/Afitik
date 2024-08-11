@@ -1,5 +1,6 @@
 /**
  * تحقق مما إذا كانت Cordova متاحة وتحقق من وجود الإضافات المطلوبة.
+ * @throws {Error} إذا كانت Cordova غير متاحة أو الإضافات غير موجودة.
  */
 function checkCordovaAvailability() {
     if (typeof window.cordova === 'undefined' || !window.cordova.plugins || !window.cordova.plugins.notification) {
@@ -10,6 +11,7 @@ function checkCordovaAvailability() {
 /**
  * جدولة إشعار محلي.
  * @param {Object} options - خيارات الإشعار.
+ * @throws {Error} إذا كانت الخيارات غير صالحة.
  */
 export function scheduleLocalNotification(options) {
     checkCordovaAvailability();
@@ -25,6 +27,7 @@ export function scheduleLocalNotification(options) {
  * تحديث إشعار محلي.
  * @param {number} notificationId - معرف الإشعار.
  * @param {Object} options - الخصائص الجديدة التي تريد تحديثها.
+ * @throws {Error} إذا كان المعرف أو الخيارات غير صالحة.
  */
 export function updateLocalNotification(notificationId, options) {
     checkCordovaAvailability();
@@ -48,7 +51,7 @@ export function updateLocalNotification(notificationId, options) {
  * @param {number} notificationId - معرف الإشعار.
  * @param {Function} [callback=()=>{}] - دالة التابعية التي تُستدعى عند الانتهاء من إلغاء الإشعار.
  */
-export function cancelLocalNotification(notificationId, callback = () => {}) {
+export function cancelLocalNotification(notificationId, callback = () => { }) {
     checkCordovaAvailability();
     window.cordova.plugins.notification.local.cancel(notificationId, callback);
 }
@@ -70,18 +73,16 @@ export function isLocalNotificationPresent(notificationId) {
 export function registerLocalNotificationClickEvent(callback) {
     checkCordovaAvailability();
     window.cordova.plugins.notification.local.on('click', (notification) => {
-        if (notification.action === 'closeAudio') {
-            callback(notification);
-        }
+        callback(notification);
     });
 }
 
 /**
- * تسجيل الحدث للاستماع إلى النقر على الإشعارات المحلية والتحقق من الإجراء المطلوب.
+ * تسجيل الحدث للاستماع إلى نقرات الإشعارات المحلية للتحقق من الإجراء المحدد.
  * @param {String} actionID - معرف الإجراء أو الحدث.
  * @param {Function} [callback=()=>{}] - دالة التابعية التي تُستدعى عند الضغط على الإشعار.
  */
-export function registerLocalNotificationActionEvent(actionID, callback = () => {}) {
+export function registerLocalNotificationActionEvent(actionID, callback = () => { }) {
     checkCordovaAvailability();
     window.cordova.plugins.notification.local.on(actionID, callback);
 }

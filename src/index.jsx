@@ -4,15 +4,6 @@ import "./assets/styles/index.css";
 import "./assets/styles/variables.css";
 import App from "./App.jsx";
 import {
-  scheduleLocalNotification,
-  updateLocalNotification,
-  cancelLocalNotification,
-  isLocalNotificationPresent,
-  registerLocalNotificationClickEvent,
-  registerLocalNotificationActionEvent
-} from "./utils/localNotifications.js";
-
-import {
   enableBackgroundMode,
   isBackgroundModeActive,
   onBackgroundModeEvent,
@@ -24,13 +15,10 @@ import {
   disableWebViewOptimizations
 } from './utils/backgroundMode.js';
 
-// import AdMobPlugin from '../admobplugin/src/www/AdMobPlugin.js';
-
-
 /**
  * دالة لعرض React DOM بعد تحميل Cordova.
  */
-function handleCordovaReady() {
+async function handleCordovaReady() {
   console.log("Cordova is ready. Rendering React DOM...");
   renderReactDom();
 
@@ -38,7 +26,7 @@ function handleCordovaReady() {
 
     // backgroundMode
     setNotificationDefaults({
-      title: "",
+      title: "AFITIK",
       text: "Running 🛠️✨",
       icon: 'ic_stat_onesignal_default',
       silent: false
@@ -73,16 +61,6 @@ function handleCordovaReady() {
       window.cordova.plugins.autoStart.enable();
       window.cordova.plugins.autoStart.enableService("org.i8xnet.afitik");
     }
-
-    const notificationOptions = {
-      id: 1331,
-      title: 'عنوان الإشعار',
-      text: 'محتوى الإشعار',
-      smallIcon: 'res://mipmap-hdpi/ic_stat_onesignal_default.png',
-      badge: 1,
-    };
-
-    scheduleLocalNotification(notificationOptions);
   }
 }
 

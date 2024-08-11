@@ -12,6 +12,7 @@ import "../../assets/styles/Exercises.css";
 import musclesData from "../../assets/json/muscles.json";
 
 export default function ExerciseList() {
+  const apiUrl = process.env.REACT_APP_API_BASE_URL;
   const { gender, muscle } = useParams();
   const [exerciseData, setExerciseData] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -38,7 +39,7 @@ export default function ExerciseList() {
       fetchDataFromPath();
     }
   }, [muscleValue]);
-  
+
   const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
     title: isGenderValid && muscleValue ? `تمارين عضلة ${muscleValue.name} - تطبيق عافيتك` : "خطأ في اختيار الجنس أو العضلة - تطبيق عافيتك",
@@ -128,7 +129,7 @@ export default function ExerciseList() {
           const category = ex.category.name;
           const videos = ex.videos[gender];
           const videosMap = videos.map((videoData, videoIndex) => {
-            const preview_image = `https://musclewiki.i8x.net/api/files/${videoData.preview_image}`;
+            const preview_image = `${apiUrl}/api/files/${videoData.preview_image}`;
             return (
               <ImageWithSkeleton
                 key={videoIndex}
@@ -187,7 +188,7 @@ export default function ExerciseList() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      
+
 
       <ScrollToTop />
 

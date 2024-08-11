@@ -1,9 +1,10 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Link } from 'react-router-dom';
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
+import { MdOutlineTimer } from 'react-icons/md';
 
 export default function Tools() {
   const currentUrl = window.location.origin + window.location.pathname;
@@ -24,13 +25,10 @@ export default function Tools() {
     }
   };
 
-  const centerStyle = {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    height: "100vh",
-    textAlign: "center",
-  };
+  // قائمة الروابط
+  const links = [
+    { to: "/Tools/step-counter", title: "عداد الخطوات", ariaLabel: "step-counter", icon: <MdOutlineTimer /> },
+  ];
 
   return (
     <>
@@ -43,21 +41,24 @@ export default function Tools() {
 
       <ScrollToTop />
 
-      <Link
-        to="/Tools/step-counter"
-        className='menu-link'
-        title="step-counter"
-        aria-label="step-counter"
-        onMouseDown={(e) => e.preventDefault()}
-        draggable="false"
-      >
-        <p>
-          عداد الخطوات
-        </p>
-      </Link>
-
-      <div style={centerStyle}>
-        قريباً
+      <div id="ToolsPage">
+        <ol id="box_tools">
+          {links.map((link, index) => (
+            <li key={index}>
+              <Link
+                to={link.to}
+                className='menu-link'
+                title={link.title}
+                aria-label={link.ariaLabel}
+                onMouseDown={(e) => e.preventDefault()}
+                draggable="false"
+              >
+                {link.icon}
+                <p className="title_tools">{link.title}</p>
+              </Link>
+            </li>
+          ))}
+        </ol>
       </div>
     </>
   );
