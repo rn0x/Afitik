@@ -2,7 +2,7 @@
   "name": "org.i8xnet.afitik",
   "private": true,
   "displayName": "Afitik",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Afitik is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.",
   "scripts": {
     "keytool": "node keytool.js",
