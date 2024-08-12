@@ -5,6 +5,8 @@ import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
 import { MdOutlineTimer } from 'react-icons/md';
+import { FaCalculator } from "react-icons/fa";
+
 
 export default function Tools() {
   const currentUrl = window.location.origin + window.location.pathname;
@@ -28,6 +30,7 @@ export default function Tools() {
   // قائمة الروابط
   const links = [
     { to: "/Tools/step-counter", title: "عداد الخطوات", ariaLabel: "step-counter", icon: <MdOutlineTimer /> },
+    { to: "/Tools/calorie-calculator", title: "حساب السعرات الحرارية", ariaLabel: "calorie-calculator", icon: <FaCalculator /> },
   ];
 
   return (

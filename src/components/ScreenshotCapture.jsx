@@ -13,6 +13,7 @@ import PopupMessage from "./PopupMessage.jsx";
  * @param {string} [props.buttonText='Capture Image'] - The text displayed on the capture button
  * @param {string} [props.fileName='screenshot.png'] - The name of the file for the captured image
  * @param {string} [props.className=''] - Additional class name for the button
+ * @param {string} [props.id=''] - Additional id name for the button
  * @returns {React.Element} - A React element rendering a button to capture the image
  */
 const ScreenshotCapture = ({
@@ -20,6 +21,7 @@ const ScreenshotCapture = ({
   buttonText = "Capture Image",
   fileName = "screenshot.png",
   className = "",
+  id = "",
 }) => {
   const uniqueId = generateUniqueId(40);
   const [popupMessage, setPopupMessage] = useState("");
@@ -92,7 +94,7 @@ const ScreenshotCapture = ({
 
   return (
     <>
-      <button onClick={handleCapture} className={className}>
+      <button onClick={handleCapture} className={className} id={id}>
         <MdOutlineImage />
       </button>
       {popupMessage && (
