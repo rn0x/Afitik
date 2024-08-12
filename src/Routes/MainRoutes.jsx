@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Home from "../pages/Home.jsx";
-import GymEquipment from "../pages/GymEquipment.jsx";
+import GymEquipment from "../pages/Home/GymEquipment.jsx";
 import WorkoutSchedule from "../pages/WorkoutSchedule.jsx";
 import NotFound from "../pages/NotFound.jsx";
 import Nutrition from "../pages/Nutrition.jsx";

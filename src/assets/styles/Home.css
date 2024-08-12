@@ -170,3 +170,44 @@
         display: none;
     }
 }
+
+
+
+/* صفحة ادوات النادي GymEquipmentPage  */
+
+#GymEquipmentPage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 66px;
+    width: 90%;
+    max-width: 700px;
+    text-align: center;
+}
+
+#GymEquipmentPage>#box_equipments {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 0px;
+    list-style: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#GymEquipmentPage>#box_equipments>.item_equipments {
+    background-color: var(--box-3);
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+#GymEquipmentPage>#box_equipments>.item_equipments>.equipments_images {
+    width: 100%;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}

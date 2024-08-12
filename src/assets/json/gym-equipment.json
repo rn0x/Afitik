@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "دمبل",
+    "name_en": "Dumbbell",
+    "slug": "dumbbell",
+    "image": "/images/gym-equipment/dumbbell.png"
+  },
+  {
+    "id": 2,
+    "name": "بار",
+    "name_en": "Barbell",
+    "slug": "barbell",
+    "image": "/images/gym-equipment/barbell.png"
+  },
+  {
+    "id": 3,
+    "name": "بار متعرج",
+    "name_en": "EZ Barbell",
+    "slug": "ez-barbell",
+    "image": "/images/gym-equipment/ez-barbell.png"
+  },
+  {
+    "id": 4,
+    "name": "تي بار",
+    "name_en": "T-Bar",
+    "slug": "t-bar",
+    "image": "/images/gym-equipment/t-bar.png"
+  },
+  {
+    "id": 5,
+    "name": "مساكة",
+    "name_en": "Weight Clips",
+    "slug": "weight-clips",
+    "image": "/images/gym-equipment/weight-clips.png"
+  },
+  {
+    "id": 6,
+    "name": "بنش ثابت",
+    "name_en": "Bench",
+    "slug": "bench",
+    "image": "/images/gym-equipment/bench.png"
+  },
+  {
+    "id": 7,
+    "name": "بنش متعدد الزوايا",
+    "name_en": "Adjustable Bench",
+    "slug": "adjustable-bench",
+    "image": "/images/gym-equipment/adjustable-bench.png"
+  },
+  {
+    "id": 8,
+    "name": "بليت",
+    "name_en": "Plates Weight",
+    "slug": "plates-weight",
+    "image": "/images/gym-equipment/plates-weight.png"
+  },
+  {
+    "id": 9,
+    "name": "حبل الكيبل",
+    "name_en": "Cable Rope",
+    "slug": "cable-rope",
+    "image": "/images/gym-equipment/cable-rope.png"
+  },
+  {
+    "id": 10,
+    "name": "بار الكيبل",
+    "name_en": "Cable Bar",
+    "slug": "cable-bar",
+    "image": "/images/gym-equipment/cable-bar.png"
+  },
+  {
+    "id": 11,
+    "name": "لات بار",
+    "name_en": "Lat Bar",
+    "slug": "lat-bar",
+    "image": "/images/gym-equipment/lat-bar.png"
+  },
+  {
+    "id": 12,
+    "name": "مسكة ضيقة",
+    "name_en": "Handle D Double",
+    "slug": "handle-d-double",
+    "image": "/images/gym-equipment/handle-d-double.png"
+  }
+]
