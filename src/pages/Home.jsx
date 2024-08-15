@@ -1,11 +1,11 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Link } from "react-router-dom";
+import { MdFitnessCenter, MdFastfood, MdBuild, MdOutlineSportsMartialArts, MdCalendarMonth } from 'react-icons/md';
 import AliceCarousel from "react-alice-carousel";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import ImageWithSkeleton from "../components/ImageWithSkeleton.jsx";
-import MenuList from "../components/MenuList.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
 import { openSystem } from "../utils/inAppBrowserUtils.js";
 import tipsJson from "../assets/json/tips.json";
@@ -15,7 +15,6 @@ import "react-alice-carousel/lib/alice-carousel.css";
 
 const Home = () => {
   const currentUrl = window.location.origin + window.location.pathname;
-
   const pageMetadata = {
     title: "تطبيق عافيتك | الصفحة الرئيسية",
     description: "تطبيق عافيتك هو تطبيق شامل يهدف إلى مساعدتك في تحقيق أهدافك الرياضية والصحية. اكتشف معلومات شاملة عن العضلات وتمارينها، خطط غذائية وصحية، أدوات لحساب السعرات الحرارية وكتلة الجسم، وتتبع إنجازاتك الرياضية. سواء كنت تسعى لبناء العضلات، فقدان الوزن، أو الحفاظ على لياقتك البدنية، فإن عافيتك هو رفيقك المثالي.",
@@ -94,6 +93,34 @@ const Home = () => {
     };
   }, [handleBackButton, handleResize]);
 
+  const menuItems = [
+    {
+      name: 'التمارين',
+      path: '/Exercises',
+      icon: <MdOutlineSportsMartialArts />
+    },
+    {
+      name: 'التغذية',
+      path: '/Nutrition',
+      icon: <MdFastfood />
+    },
+    {
+      name: 'الأدوات',
+      path: '/Tools',
+      icon: <MdBuild />
+    },
+    {
+      name: 'معدات النادي',
+      path: '/gym-equipment',
+      icon: <MdFitnessCenter />
+    },
+    {
+      name: 'جداول التمارين',
+      path: '/workout-schedule',
+      icon: <MdCalendarMonth />
+    },
+  ];
+
   return (
     <div className="homepage">
       <SetPageMetadata {...pageMetadata} />
@@ -127,7 +154,33 @@ const Home = () => {
 
       <h3 className="title_item">القائمة الرئيسية</h3>
 
-      <MenuList />
+      <ul className='menu-list'>
+        {menuItems.map((item, index) => (
+          <li key={index} className='menu-item'>
+            <Link
+              to={item.path}
+              className='menu-link'
+              title={item.name}
+              aria-label={item.name}
+              onMouseDown={(e) => e.preventDefault()}
+              draggable="false"
+            >
+              {item.icon}
+              <p>{item.name}</p>
+            </Link>
+          </li>
+        ))}
+      </ul>
+
+      {/* <ImageWithSkeleton
+                src="/images/diet-success-tips.png"
+                alt=""
+                title=""
+                aria-label=""
+                className=""
+                onMouseDown={(e) => e.preventDefault()}
+                draggable="false"
+              /> */}
     </div>
   );
 };

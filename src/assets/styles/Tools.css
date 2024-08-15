@@ -69,8 +69,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /* margin-top: 66px; */
-    padding-top: 66px;
+    margin-top: 10px;
     width: 90%;
     max-width: 700px;
     text-align: center;
@@ -198,7 +197,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 66px;
+    margin: 10px;
     width: 95%;
 }
 
@@ -206,7 +205,7 @@
     background-color: var(--box-4);
     margin-left: auto;
     margin-right: auto;
-    padding-top: 66px;
+    margin-top: 10px;
     max-width: 700px;
     border-radius: 8px;
     border: 1px var(--border) solid;
@@ -340,7 +339,7 @@
 }
 
 #CalorieCalculatorPage>#healthTips {
-    max-width: 850px;
+    max-width: 700px;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: auto;
@@ -354,4 +353,12 @@
 
 #CalorieCalculatorPage>#healthTips>ul>li {
     font-size: 14px;
+}
+
+#CalorieCalculatorPage>#healthTips>img {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
 }

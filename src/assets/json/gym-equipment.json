@@ -82,5 +82,12 @@
     "name_en": "Handle D Double",
     "slug": "handle-d-double",
     "image": "/images/gym-equipment/handle-d-double.png"
+  },
+  {
+    "id": 13,
+    "name": "جهاز الجري",
+    "name_en": "Treadmill",
+    "slug": "Treadmill",
+    "image": "/images/gym-equipment/treadmill.png"
   }
 ]

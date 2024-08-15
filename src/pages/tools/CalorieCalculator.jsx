@@ -1,11 +1,12 @@
 import React, { useState, useRef } from 'react';
-import { FaWalking, FaBicycle, FaSwimmer, FaRunning, FaAppleAlt, FaHeartbeat } from 'react-icons/fa';
+import { FaWalking, FaSwimmer, FaRunning, FaAppleAlt, FaHeartbeat } from 'react-icons/fa';
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
 import AppBar from "../../components/AppBar.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
 import ScreenshotCapture from "../../components/ScreenshotCapture.jsx";
+import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 
 const CalorieCalculator = () => {
     const captureRef = useRef(null);
@@ -122,7 +123,7 @@ const CalorieCalculator = () => {
         <>
             <SetPageMetadata {...pageMetadata} />
             <StatusBarColor color="#7AB2B2" />
-            <AppBar title="حساب السعرات الحرارية" backLink="/Tools" />
+            <AppBar title="حاسبة السعرات الحرارية" backLink="/Tools" />
             <ToggleActiveClass elementId="nvBarHome" isActive={false} />
             <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
             <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
@@ -231,6 +232,13 @@ const CalorieCalculator = () => {
 
                 {/* نصائح صحية */}
                 <div id="healthTips">
+                    <ImageWithSkeleton
+                        src="/images/bmi.jpg"
+                        alt="قياس معدل السمنة"
+                        aria-label="obesity-rate-measurement"
+                        onMouseDown={(e) => e.preventDefault()}
+                        draggable="false"
+                    />
                     <h3><FaHeartbeat style={{ color: '#e74c3c' }} /> نصائح صحية:</h3>
                     <ul style={{ listStyleType: 'none', padding: '0' }}>
                         <li><FaAppleAlt style={{ color: '#2ecc71', marginRight: '10px' }} /> يتغير احتياجك من السعرات الحرارية بتغير نشاطك البدني أو بتغير وزنك.</li>

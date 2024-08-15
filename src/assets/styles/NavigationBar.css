@@ -7,7 +7,7 @@
     z-index: 1000;
     border-top: 1px solid var(--border);
     user-select: none;
-    box-shadow: #00000044 0px 25px 10px 20px;
+    /* box-shadow: #00000044 0px 25px 10px 20px; */
 }
 
 .navigation-bar ul {

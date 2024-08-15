@@ -63,11 +63,6 @@ a {
   margin-bottom: 10px;
 }
 
-.Main {
-  position: relative;
-  padding-bottom: 100px;
-}
-
 .LoadingPageSkeleton {
   display: block;
   margin-bottom: 30px;
@@ -80,4 +75,10 @@ textarea:focus,
 select:focus,
 a:focus {
   outline: none;
+}
+
+#App {
+  padding-top: 56px;
+  padding-bottom: 100px;
+  position: relative;
 }
