@@ -43,11 +43,11 @@
 The **Afitik** app relies on **FileServeX** for serving images and JSON files. Ensure **[FileServeX](https://github.com/rn0x/FileServeX)** is set up as follows:
 
 - **Base URL**: `http://localhost:7000`
-- **Download MuscleWiki Files**: [musclewiki.zip](https://home.i8x.net/api/files/musclewiki.zip) (Size: 77.4 GB)
+- **Download MuscleWiki Files**: [musclewiki.zip](https://home.i8x.net/files/musclewiki.zip) (Size: 77.4 GB)
 
 Make sure to extract the `musclewiki` directory and place it in the `files` directory on the **FileServeX** server.
 
-`http://localhost:7000/api/files/musclewiki`
+`http://localhost:7000/files/musclewiki`
 
 ## 📦 Environment Variables (`.env`)
 
