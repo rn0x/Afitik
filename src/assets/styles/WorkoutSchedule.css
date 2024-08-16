@@ -149,3 +149,85 @@
   color: var(--color-4);
   font-size: 13px;
 }
+
+/* <====| صفحة تمارين اول يوم بالنادي - FirstDayGymPage |====> */
+
+#FirstDayGymPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+#FirstDayGymPage > .workout-list > .workout-item {
+  margin-bottom: 25px;
+  padding: 15px;
+  border-radius: 12px;
+  background-color: var(--box-3);
+  border: 1px solid var(--border);
+  /* transition: transform 0.3s, box-shadow 0.3s; */
+}
+
+/* #FirstDayGymPage > .workout-list > .workout-item:hover {
+  transform: translateY(-5px);
+} */
+
+#FirstDayGymPage > .workout-list > .workout-item > p > span {
+  color: #ff5050;
+}
+
+#FirstDayGymPage > .workout-list > .workout-item > .workout-image-skeleton {
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+
+#FirstDayGymPage > .workout-list > .workout-item > .workout-image {
+  width: 100%;
+  height: 250px;
+  border-radius: 12px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+}
+
+#FirstDayGymPage > .workout-list > .workout-item > .workout-title {
+  font-size: 1.8rem;
+  color: var(--text-h);
+  margin: 0 0 10px;
+  font-weight: bold;
+}
+
+#FirstDayGymPage > .workout-list > .workout-item > .workout-target,
+#FirstDayGymPage > .workout-list > .workout-item > .workout-sets,
+#FirstDayGymPage > .workout-list > .workout-item > .workout-reps {
+  font-size: 1.1rem;
+  color: var(--color-6);
+  margin: 8px 0;
+}
+
+#FirstDayGymPage > .workout-list > .workout-item > .workout-description {
+  font-size: 1.1rem;
+  color: var(--color-7);
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+#FirstDayGymPage > .workout-list > .workout-item > .workout-video-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 24px;
+  background-color: var(--color-3);
+  color: var(--whiteColor);
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+#FirstDayGymPage > .workout-list > .workout-item > .workout-video-button:hover {
+  background-color: var(--color-4);
+  transform: scale(1.05);
+}

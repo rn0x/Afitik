@@ -18,11 +18,13 @@ const indexPath = path.join(wwwPath, 'index.html');
 function checkDirectoryAndFile() {
   if (!fs.existsSync(wwwPath)) {
     console.error(`[${new Date().toISOString()}] 📁 'www' directory is missing. Please create it and add 'index.html' file.`);
+    runPrebuildScript();
     process.exit(1);
   }
-  
+
   if (!fs.existsSync(indexPath)) {
     console.error(`[${new Date().toISOString()}] 📄 'index.html' file is missing inside the 'www' directory. Please add it.`);
+    runPrebuildScript();
     process.exit(1);
   }
 }
@@ -39,7 +41,7 @@ function runPrebuildScript() {
 
 // Initialize Express app
 const app = express();
-const PORT = process.env.PORT || 3012;
+const PORT = process.env.PORT_SERVER_EXPRESS || 7000;
 
 // Middleware to parse JSON and URL-encoded data
 app.use(express.json());

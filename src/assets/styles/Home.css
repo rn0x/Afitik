@@ -224,14 +224,14 @@
 /* صفحة مصطلحات رياضية GlossaryPage  */
 
 /* Container for the entire glossary page */
-.glossaryPage {
+#glossaryPage {
   padding: 10px;
   max-width: 900px;
   margin: 10px auto;
 }
 
 /* Container for the glossary section within the page */
-.glossaryPage .glossary {
+#glossaryPage .glossary {
   background-color: var(--whiteColor);
   padding: 10px;
   border-radius: 12px;
@@ -239,7 +239,7 @@
 }
 
 /* Header styling within the glossary section */
-.glossaryPage .glossary .header {
+#glossaryPage .glossary .header {
   display: flex;
   align-items: center;
   gap: 10px;
@@ -248,13 +248,13 @@
   margin-bottom: 20px;
 }
 
-.glossaryPage .glossary .header h1 {
+#glossaryPage .glossary .header h1 {
   font-size: 17px;
   color: var(--color-4);
 }
 
 /* Individual term styling within the glossary section */
-.glossaryPage .glossary .term {
+#glossaryPage .glossary .term {
   margin-bottom: 10px;
   padding-left: 15px;
   padding-right: 15px;
@@ -266,17 +266,17 @@
   cursor: pointer;
 }
 
-.glossaryPage .glossary .term:hover {
+#glossaryPage .glossary .term:hover {
   background-color: var(--color-5);
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-.glossaryPage .glossary .term h2 {
+#glossaryPage .glossary .term h2 {
   font-size: 15px;
   color: #333;
 }
 
-.glossaryPage .glossary .term p {
+#glossaryPage .glossary .term p {
   font-size: 14px;
   color: #555;
 }

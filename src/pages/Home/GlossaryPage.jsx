@@ -4,7 +4,7 @@ import StatusBarColor from "../../components/StatusBarColor.jsx";
 import AppBar from "../../components/AppBar.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
-import glossaryJson from '../../assets/json/fitness_glossary.json';
+import glossaryJson from '../../assets/json/fitness-glossary.json';
 import { MdBook } from 'react-icons/md';
 import { copyToClipboard } from '../../utils/clipboardUtils.js';
 import CustomNotification from "../../components/CustomNotification.jsx";
@@ -53,7 +53,7 @@ export default function GlossaryPage() {
 
       <ScrollToTop />
 
-      <main className="glossaryPage container">
+      <main className="container" id='glossaryPage'>
         <section className="glossary">
           <header className="header">
             <MdBook size={32} color="var(--color-4)" />

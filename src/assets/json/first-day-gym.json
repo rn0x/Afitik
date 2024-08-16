@@ -1,0 +1,83 @@
+[
+  {
+    "exercise": "Machine Chest Press",
+    "targetMuscle": "صدر",
+    "sets": "3",
+    "repetitions": "12",
+    "videoLink": "https://www.youtube.com/watch?v=CIykDiF4sfg",
+    "image": "/images/first-day-gym/image-machine-chest-press.jpg",
+    "description": "تمرين آلة البنش يوفر دعمًا إضافيًا أثناء الضغط على الصدر، مما يساعد في تعزيز القوة والتركيز على عضلات الصدر. استخدم الوزن المناسب للحفاظ على التقنية الصحيحة."
+  },
+  {
+    "exercise": "Lat Pulldown",
+    "targetMuscle": "ظهر",
+    "sets": "4",
+    "repetitions": "12",
+    "videoLink": "https://www.youtube.com/watch?v=7JnP8dFbS14",
+    "image": "/images/first-day-gym/image-lat-pulldown.jpg",
+    "description": "تمرين اللات بولداون يستهدف عضلات الظهر العلوية ويساعد على تحسين قوة وسعة عضلات الظهر. تأكد من استخدام قبضة مناسبة والحفاظ على حركة سلسة."
+  },
+  {
+    "exercise": "Shoulder Machine Press",
+    "targetMuscle": "كتف",
+    "sets": "3",
+    "repetitions": "10",
+    "videoLink": "https://www.youtube.com/watch?v=WvLMauqrnK8",
+    "image": "/images/first-day-gym/image-shoulder-machine-press.jpg",
+    "description": "تمرين آلة الضغط للأكتاف يركز على تقوية عضلات الأكتاف الأمامية والجانبية. استخدم الوزن المناسب لضمان أن التمرين يركز على الأكتاف دون إجهاد المفاصل."
+  },
+  {
+    "exercise": "Dumbbell Hammer Curls",
+    "targetMuscle": "ذراع",
+    "sets": "3",
+    "repetitions": "15",
+    "videoLink": "https://www.youtube.com/watch?v=CFBZ4jN1CMI",
+    "image": "/images/first-day-gym/image-dumbbell-hammer-curls.jpg",
+    "description": "تمرين دمبل هامر كيرلز يركز على تقوية عضلات الذراعين، خاصة العضلة ذات الرأسين. يساعد في تحسين القوة والتحمل ويجب أداءه ببطء لتحقيق أقصى استفادة."
+  },
+  {
+    "exercise": "Push Down",
+    "targetMuscle": "ترايسبس",
+    "sets": "3",
+    "repetitions": "12",
+    "videoLink": "https://www.youtube.com/watch?v=-xa-6cQaZKY",
+    "image": "/images/first-day-gym/image-push-down.jpg",
+    "description": "تمرين pushdown يستهدف عضلات الترايسبس بشكل فعال، مما يساعد على تحسين قوة الذراعين. تأكد من استخدام تقنيات مناسبة للحفاظ على التركيز على العضلة المستهدفة."
+  },
+  {
+    "exercise": "Horizontal Leg Press",
+    "targetMuscle": "أرجل",
+    "sets": "4",
+    "repetitions": "15",
+    "videoLink": "https://www.youtube.com/watch?v=qCR9bN3G1t4",
+    "image": "/images/first-day-gym/image-horizontal-leg-press.jpg",
+    "description": "تمرين آلة الضغط الأفقي للأرجل يساهم في بناء قوة عضلات الساقين والفخذين. تأكد من ضبط المقعد والوزن بشكل صحيح لضمان أداء التمرين بكفاءة."
+  },
+  {
+    "exercise": "Seated Leg Curls",
+    "targetMuscle": "الفخذ الأمامي",
+    "sets": "3",
+    "repetitions": "12",
+    "videoLink": "https://www.youtube.com/watch?v=Orxowest56U",
+    "image": "/images/first-day-gym/image-seated-leg-curls.jpg",
+    "description": "تمرين جلوس لتقوية أوتار الركبة يساعد على تعزيز القوة في الجزء الخلفي من الفخذين. حافظ على حركة بطيئة ومركزة لتحقيق أفضل النتائج."
+  },
+  {
+    "exercise": "Lying Leg Curl",
+    "targetMuscle": "الفخذ الخلفي",
+    "sets": "3",
+    "repetitions": "15",
+    "videoLink": "https://www.youtube.com/watch?v=SbSNUXPRkc8",
+    "image": "/images/first-day-gym/image-lying-leg-curl.jpg",
+    "description": "تمرين تمديد الساق أثناء الاستلقاء يستهدف أوتار الركبة بشكل مباشر، مما يساعد في تقوية الجزء الخلفي للفخذين."
+  },
+  {
+    "exercise": "Standing Calf Raise",
+    "targetMuscle": "البطات/السمانة",
+    "sets": "4",
+    "repetitions": "20",
+    "videoLink": "https://www.youtube.com/watch?v=g_E7_q1z2bo",
+    "image": "/images/first-day-gym/image-standing-calf-raise.jpg",
+    "description": "تمرين رفع الساقين أثناء الوقوف يساعد في تقوية عضلات الساقين وزيادة حجمها. قم بأداء التمرين ببطء للحفاظ على التركيز على عضلات الساق."
+  }
+]
