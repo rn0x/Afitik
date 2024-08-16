@@ -129,7 +129,7 @@ export default function ExerciseList() {
           const category = ex.category.name;
           const videos = ex.videos[gender];
           const videosMap = videos.map((videoData, videoIndex) => {
-            const preview_image = `${apiUrl}/api/files/${videoData.preview_image}`;
+            const preview_image = `${apiUrl}/files/${videoData.preview_image}`;
             return (
               <ImageWithSkeleton
                 key={videoIndex}

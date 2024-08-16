@@ -151,9 +151,9 @@ export default function ExerciseContent() {
 
     const videos = exerciseDetail.videos[normalizedGender];
     const videosMap = videos.map((el, index) => {
-      const preview_image = `${apiUrl}/api/files/${el.preview_image}`;
+      const preview_image = `${apiUrl}/files/${el.preview_image}`;
       const original_video = el.original_video;
-      const videoFileServeX = `${apiUrl}/api/files/${el.file_path}`;
+      const videoFileServeX = `${apiUrl}/files/${el.file_path}`;
       return (
         <React.Fragment key={index}>
           {index === 0 && (
