@@ -21,6 +21,7 @@ export default function ExerciseContent() {
   const normalizedGender = gender ? gender.toLowerCase() : '';
   const isGenderValid = validGenders.includes(normalizedGender);
   const muscleValue = musclesData.find(m => m.slug === muscle);
+  const [validVideoUrl, setValidVideoUrl] = useState(null);
 
   useEffect(() => {
     if (muscleValue) {
@@ -42,6 +43,30 @@ export default function ExerciseContent() {
       fetchExerciseDetail();
     }
   }, [muscleValue, exercise]);
+
+  useEffect(() => {
+    if (exerciseDetail) {
+      const videos = exerciseDetail.videos[normalizedGender];
+      const validateVideoUrl = async (primaryUrl, fallbackUrl) => {
+        try {
+          const response = await fetch(primaryUrl, { method: 'HEAD' });
+          if (response.ok) {            
+            setValidVideoUrl(primaryUrl);
+          } else {            
+            setValidVideoUrl(fallbackUrl);
+          }
+        } catch {          
+          setValidVideoUrl(fallbackUrl);
+        }
+      };
+
+      videos.forEach((el) => {
+        const videoFileServeX = `${apiUrl}/api/files/${el.file_path}`;
+        const original_video = el.original_video;
+        validateVideoUrl(videoFileServeX, original_video);
+      });
+    }
+  }, [exerciseDetail]);
 
   const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
@@ -128,7 +153,7 @@ export default function ExerciseContent() {
     const videosMap = videos.map((el, index) => {
       const preview_image = `${apiUrl}/api/files/${el.preview_image}`;
       const original_video = el.original_video;
-      const file_path = `${apiUrl}/api/files/${el.file_path}`;
+      const videoFileServeX = `${apiUrl}/api/files/${el.file_path}`;
       return (
         <React.Fragment key={index}>
           {index === 0 && (
@@ -141,7 +166,7 @@ export default function ExerciseContent() {
 
           <video
             key={index}
-            src={el.file_path ? file_path : original_video}
+            src={validVideoUrl || videoFileServeX}
             poster={preview_image}
             controlsList="nodownload noremoteplayback norewind novolume"
             controls

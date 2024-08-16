@@ -77,6 +77,13 @@ export default function FiveDaysWorkout() {
           reps: 12,
         },
         {
+          muscle: "الساقين",
+          exercise: "تمرين القرفصاء (Squats)",
+          video: "https://www.youtube.com/watch?v=aclHkVaku9U",
+          sets: 4,
+          reps: 15,
+        },
+        {
           muscle: "الأرداف",
           exercise: "تمرين رفع الورك (Hip Thrusts)",
           video: "https://www.youtube.com/watch?v=FJNPGhF1R-Y",
@@ -112,6 +119,13 @@ export default function FiveDaysWorkout() {
       day: "الخميس",
       details: [
         {
+          muscle: "الذراعين",
+          exercise: "تمرين العضلة الثنائية (Bicep Curls)",
+          video: "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+          sets: 3,
+          reps: 12,
+        },
+        {
           muscle: "الصدر",
           exercise: "تمرين الضغط المائل (Incline Push-ups)",
           video: "https://www.youtube.com/watch?v=Me9bHFAxnCs",
@@ -129,22 +143,7 @@ export default function FiveDaysWorkout() {
     },
     {
       day: "الجمعة",
-      details: [
-        {
-          muscle: "الساقين",
-          exercise: "تمرين القرفصاء (Squats)",
-          video: "https://www.youtube.com/watch?v=aclHkVaku9U",
-          sets: 4,
-          reps: 15,
-        },
-        {
-          muscle: "الذراعين",
-          exercise: "تمرين العضلة الثنائية (Bicep Curls)",
-          video: "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
-          sets: 3,
-          reps: 12,
-        },
-      ],
+      details: "راحة واستعادة النشاط (Rest)",
     },
   ];
 
