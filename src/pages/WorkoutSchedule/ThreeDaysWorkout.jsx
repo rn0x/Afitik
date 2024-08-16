@@ -120,7 +120,7 @@ export default function ThreeDaysWorkoutPage() {
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
 
       <ScrollToTop />
-      <main className="container" id="ThreeDaysWorkoutPage">
+      <main className="container scheduleWorkout" id="ThreeDaysWorkoutPage">
         <table id="schedule">
           <thead>
             <tr>
@@ -149,14 +149,14 @@ export default function ThreeDaysWorkoutPage() {
                       <div className="exercise-details">
                         {item.details.map((detail, i) => (
                           <div key={i} className="exercise-item">
-                            <h3><span className="iconitem"><GiMuscleUp /></span> العضلة: {detail.muscle}</h3>
-                            <p><span className="iconitem"><FaDumbbell /></span> التمرين: {detail.exercise}</p>
+                            <h3><span className="iconitem"><GiMuscleUp /></span> العضلة: <span className="text">{detail.muscle}</span></h3>
+                            <p><span className="iconitem"><FaDumbbell /></span> التمرين: <span className="text">{detail.exercise}</span></p>
                             <button onClick={() => { openSystem(detail.video) }}>
                               <span className="iconitem"><FaYoutube /></span>
                               <span>مشاهدة التمرين</span>
                             </button>
-                            <p>عدد الجلسات: {detail.sets}</p>
-                            <p>عدد التكرارات: {detail.reps}</p>
+                            <p>عدد الجلسات: <span className="number">{detail.sets}</span></p>
+                            <p>عدد التكرارات: <span className="number">{detail.reps}</span></p>
                           </div>
                         ))}
                       </div>

@@ -66,11 +66,6 @@ export default function WorkoutSchedule() {
             name: 'جدول تمارين 6 ايام اسبوعيا',
             slug: '6-days-weekly-workout',
             icon: <TbCircleDashedNumber6 />
-        },
-        {
-            name: 'جدول تمارين المنزل',
-            slug: 'home-workout',
-            icon: <AiOutlineHome />
         }
     ];
 

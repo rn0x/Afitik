@@ -7,7 +7,6 @@ import ThreeDaysWorkout from "../pages/WorkoutSchedule/ThreeDaysWorkout.jsx";
 import FourDaysWorkout from "../pages/WorkoutSchedule/FourDaysWorkout.jsx";
 import FiveDaysWorkout from "../pages/WorkoutSchedule/FiveDaysWorkout.jsx";
 import SixDaysWorkout from "../pages/WorkoutSchedule/SixDaysWorkout.jsx";
-import HomeWorkout from "../pages/WorkoutSchedule/HomeWorkout.jsx";
 
 
 export default function MusclesRoutes() {
@@ -20,7 +19,6 @@ export default function MusclesRoutes() {
       <Route path="/4-days-weekly-workout" element={<FourDaysWorkout />} />
       <Route path="/5-days-weekly-workout" element={<FiveDaysWorkout />} />
       <Route path="/6-days-weekly-workout" element={<SixDaysWorkout />} />
-      <Route path="/home-workout" element={<HomeWorkout />} />
     </Routes>
   );
 }
