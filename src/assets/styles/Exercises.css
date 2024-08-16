@@ -1,487 +1,493 @@
-.ExercisesPage>.ExercisesPageSelectGender {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    align-content: center;
-    width: 80%;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+.ExercisesPage > .ExercisesPageSelectGender {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  width: 90%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>a {
-    /* background-color: aqua; */
-    box-sizing: border-box;
-    text-decoration: none;
-    border-radius: 8px;
-    border-width: 1px;
-    border-style: solid;
-    margin-left: 5px;
-    margin-right: 5px;
-    position: relative;
-    width: 100%;
-    max-width: 300px;
-    min-height: 120px;
+.ExercisesPage > .ExercisesPageSelectGender > a {
+  /* background-color: aqua; */
+  box-sizing: border-box;
+  text-decoration: none;
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+  min-height: 120px;
 }
 
-
-.ExercisesPage>.ExercisesPageSelectGender>#male {
-    border-color: #516291;
-    box-shadow: #7185bcb6 0px 20px 50px 0px;
-    background: linear-gradient(125deg, #a5bdff, #6478b0);
-
+.ExercisesPage > .ExercisesPageSelectGender > #male {
+  border-color: #4985d4;
+  box-shadow: #4685d3ae 0px 20px 30px 0px;
+  background: linear-gradient(125deg, #b2cff5, #5c9bed);
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>#female {
-    box-shadow: #be87bda3 0px 20px 50px 0px;
-    border-color: #9c6c9b;
-    background: linear-gradient(125deg, #edb1ec, #d790d6);
+.ExercisesPage > .ExercisesPageSelectGender > #female {
+  box-shadow: #eb57a88d 0px 20px 30px 0px;
+  border-color: #ee7dbb;
+  background: linear-gradient(225deg, #f8c3df, #ff9ed2);
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>#male:hover {
-    box-shadow: #7185bc 0px 20px 50px 0px;
-    background: linear-gradient(75deg, #8fa5e0, #506191);
+.ExercisesPage > .ExercisesPageSelectGender > #male:hover {
+  background: linear-gradient(125deg, #5c9bed, #b2cff5);
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>#female:hover {
-    box-shadow: #be87bd 0px 20px 50px 0px;
-    background: linear-gradient(75deg, #dfa6de, #a66fa5);
-
+.ExercisesPage > .ExercisesPageSelectGender > #female:hover {
+  background: linear-gradient(225deg, #ff9ed2, #f8c3df);
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>a>p {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    text-align: center;
-    font-size: 30px;
+.ExercisesPage > .ExercisesPageSelectGender > a > p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 30px;
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>#male>p {
-    color: var(--whiteColor);
+.ExercisesPage > .ExercisesPageSelectGender > #male > p {
+  color: var(--whiteColor);
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>#female>p {
-    color: var(--whiteColor);
+.ExercisesPage > .ExercisesPageSelectGender > #female > p {
+  color: var(--whiteColor);
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>#male:hover>p {
-    color: #2b3655;
+.ExercisesPage > .ExercisesPageSelectGender > #male:hover > p {
+  color: #336aae;
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>#female:hover>p {
-    color: #6c456b;
+.ExercisesPage > .ExercisesPageSelectGender > #female:hover > p {
+  color: #c44b8e;
 }
 
-.ExercisesPage>.ExercisesPageSelectGender>a>img {
-    display: block;
-    width: 100%;
-    max-width: 300px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+.ExercisesPage > .ExercisesPageSelectGender > a > img {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
-
 
 /* ====| MuscleSelectionPage |==== */
 
 .MuscleSelectionPage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    width: 90%;
-    max-width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 90%;
+  max-width: 700px;
 }
 
-.MuscleSelectionPage>.MuscleSelection {
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    grid-template-columns: repeat(2, 1fr);
-    /* تحديد عمودين */
-    gap: 10px 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.MuscleSelectionPage > .MuscleSelection {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  grid-template-columns: repeat(2, 1fr);
+  /* تحديد عمودين */
+  gap: 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-.MuscleSelectionPage>.MuscleSelection>a {
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
-    max-width: 200px;
-    padding: 10px;
-    text-decoration: none;
-    border-radius: 7px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: var(--color-3);
+.MuscleSelectionPage > .MuscleSelection > a {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 200px;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 7px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--color-3);
 }
 
-.MuscleSelectionPage>.MuscleSelection>a:hover {
-    background-color: var(--color-1);
+.MuscleSelectionPage > .MuscleSelection > a:hover {
+  background-color: var(--color-1);
 }
 
-.MuscleSelectionPage>.MuscleSelection>a>p {
-    color: var(--color-3);
-    text-align: center;
+.MuscleSelectionPage > .MuscleSelection > a > p {
+  color: var(--color-3);
+  text-align: center;
 }
 
-.MuscleSelectionPage>.MuscleSelection>a:hover>p {
-    color: var(--color-4);
+.MuscleSelectionPage > .MuscleSelection > a:hover > p {
+  color: var(--color-4);
 }
 
-.MuscleSelectionPage>.MuscleSelection>a>img {
-    display: block;
-    width: 100%;
-    max-width: 100px;
-    margin-left: auto;
-    margin-right: auto;
+.MuscleSelectionPage > .MuscleSelection > a > img {
+  display: block;
+  width: 100%;
+  max-width: 100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ====| ExerciseList |==== */
 
 .ExerciseListPage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    width: 100%;
-    max-width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 100%;
+  max-width: 700px;
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise {
-    display: block;
-    width: 90%;
-    max-width: 700px;
-    background-color: var(--box-3);
-    /* padding: 10px; */
-    border-radius: 8px;
-    /* border-width: 1px;
+.ExerciseListPage > .ExerciseList > .item-exercise {
+  display: block;
+  width: 90%;
+  max-width: 700px;
+  background-color: var(--box-3);
+  /* padding: 10px; */
+  border-radius: 8px;
+  /* border-width: 1px;
     border-style: solid;
     border-color: var(--border); */
-    margin-top: 20px;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    text-decoration: none;
-    box-shadow: #0000002a 0px 15px 20px -20px;
-    position: relative;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  box-shadow: #0000002a 0px 15px 20px -20px;
+  position: relative;
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise>.slider {
-    width: 100%;
-    overflow: hidden;
+.ExerciseListPage > .ExerciseList > .item-exercise > .slider {
+  width: 100%;
+  overflow: hidden;
 }
 
-
-.ExerciseListPage>.ExerciseList>.item-exercise>.slider .alice-carousel__dots-item.__active {
-    background: linear-gradient(45deg, var(--color-4), var(--color-6));
+.ExerciseListPage
+  > .ExerciseList
+  > .item-exercise
+  > .slider
+  .alice-carousel__dots-item.__active {
+  background: linear-gradient(45deg, var(--color-4), var(--color-6));
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise>.slider .alice-carousel__dots-item {
-    background-color: var(--color-2);
+.ExerciseListPage
+  > .ExerciseList
+  > .item-exercise
+  > .slider
+  .alice-carousel__dots-item {
+  background-color: var(--color-2);
 }
 
-
-.ExerciseListPage>.ExerciseList>.item-exercise>.slider img {
-    width: 100%;
-    background-color: var(--box-2);
-    object-fit: cover;
-    border-radius: 8px;
+.ExerciseListPage > .ExerciseList > .item-exercise > .slider img {
+  width: 100%;
+  background-color: var(--box-2);
+  object-fit: cover;
+  border-radius: 8px;
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise>.item-exercise-title {
-    display: flex;
-    align-items: center;
-    /* لتوسيط العنصر عمودياً */
-    justify-content: center;
-    /* لتوسيط العنصر أفقياً */
-    width: 100%;
-    height: 40px;
-    background: linear-gradient(45deg, var(--color-3), var(--color-7));
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    margin-bottom: 10px;
+.ExerciseListPage > .ExerciseList > .item-exercise > .item-exercise-title {
+  display: flex;
+  align-items: center;
+  /* لتوسيط العنصر عمودياً */
+  justify-content: center;
+  /* لتوسيط العنصر أفقياً */
+  width: 100%;
+  height: 40px;
+  background: linear-gradient(45deg, var(--color-3), var(--color-7));
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin-bottom: 10px;
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise>.item-exercise-title>p {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    white-space: nowrap;
-    /* لمنع الالتفاف */
-    overflow: hidden;
-    /* لإخفاء النص الزائد */
-    text-overflow: ellipsis;
-    /* لإظهار "..." في نهاية النص */
-    color: var(--whiteColor);
+.ExerciseListPage > .ExerciseList > .item-exercise > .item-exercise-title > p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  white-space: nowrap;
+  /* لمنع الالتفاف */
+  overflow: hidden;
+  /* لإخفاء النص الزائد */
+  text-overflow: ellipsis;
+  /* لإظهار "..." في نهاية النص */
+  color: var(--whiteColor);
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise>.difficulty {
-    background: linear-gradient(45deg, var(--color-7), var(--color-6));
-    color: var(--whiteColor);
-    position: absolute;
-    top: 50px;
-    right: -10px;
-    font-size: 11px;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+.ExerciseListPage > .ExerciseList > .item-exercise > .difficulty {
+  background: linear-gradient(45deg, var(--color-7), var(--color-6));
+  color: var(--whiteColor);
+  position: absolute;
+  top: 50px;
+  right: -10px;
+  font-size: 11px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise>.category {
-    background: linear-gradient(45deg, var(--color-7), var(--color-3));
-    color: var(--whiteColor);
-    position: absolute;
-    top: 80px;
-    right: -10px;
-    font-size: 11px;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+.ExerciseListPage > .ExerciseList > .item-exercise > .category {
+  background: linear-gradient(45deg, var(--color-7), var(--color-3));
+  color: var(--whiteColor);
+  position: absolute;
+  top: 80px;
+  right: -10px;
+  font-size: 11px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 
-.ExerciseListPage>.ExerciseList>.item-exercise>.force {
-    background: linear-gradient(45deg, var(--color-4), var(--color-6));
-    color: var(--whiteColor);
-    position: absolute;
-    top: 110px;
-    right: -10px;
-    font-size: 11px;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+.ExerciseListPage > .ExerciseList > .item-exercise > .force {
+  background: linear-gradient(45deg, var(--color-4), var(--color-6));
+  color: var(--whiteColor);
+  position: absolute;
+  top: 110px;
+  right: -10px;
+  font-size: 11px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 
-.ExerciseListPage>.ExerciseList>.buttonMore {
-    display: block;
-    background: linear-gradient(45deg, var(--color-4), var(--color-6));
-    color: var(--whiteColor);
-    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 30px;
-    border: none;
-    border-radius: 8px;
-    padding: 5px 40px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    /* إضافة تأثير الانتقال */
+.ExerciseListPage > .ExerciseList > .buttonMore {
+  display: block;
+  background: linear-gradient(45deg, var(--color-4), var(--color-6));
+  color: var(--whiteColor);
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: none;
+  border-radius: 8px;
+  padding: 5px 40px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  /* إضافة تأثير الانتقال */
 }
 
-.ExerciseListPage>.ExerciseList>.buttonMore:hover {
-    background: linear-gradient(45deg, var(--color-7), var(--color-3));
-    /* تغيير اللون عند التمرير */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
-    /* تأثير الظل */
-    transform: scale(1.05);
-    /* تكبير العنصر قليلاً */
+.ExerciseListPage > .ExerciseList > .buttonMore:hover {
+  background: linear-gradient(45deg, var(--color-7), var(--color-3));
+  /* تغيير اللون عند التمرير */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+  /* تأثير الظل */
+  transform: scale(1.05);
+  /* تكبير العنصر قليلاً */
 }
 
-.ExerciseListPage>.ExerciseList>.buttonMore:active {
-    background-color: var(--color-6);
-    /* تغيير اللون عند الضغط */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    /* تقليل تأثير الظل */
-    transform: scale(0.95);
-    /* تصغير العنصر قليلاً */
+.ExerciseListPage > .ExerciseList > .buttonMore:active {
+  background-color: var(--color-6);
+  /* تغيير اللون عند الضغط */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  /* تقليل تأثير الظل */
+  transform: scale(0.95);
+  /* تصغير العنصر قليلاً */
 }
-
 
 /* ====| ExerciseList |==== */
 
 .ExerciseContentPage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    width: 100%;
-    max-width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 100%;
+  max-width: 700px;
 }
 
-.ExerciseContentPage>.ExerciseDetail {
-    width: 99%;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
+.ExerciseContentPage > .ExerciseDetail {
+  width: 99%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.slider .video_item {
-    width: 100%;
-    max-width: 700px;
-    background-color: var(--box);
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 8px;
-
+.ExerciseContentPage > .ExerciseDetail > .slider .video_item {
+  width: 100%;
+  max-width: 700px;
+  background-color: var(--box);
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
 }
 
-
-.ExerciseContentPage>.ExerciseDetail>.category_title {
-    color: var(--color-4);
-    text-align: center;
-    font-size: 16px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-
+.ExerciseContentPage > .ExerciseDetail > .category_title {
+  color: var(--color-4);
+  text-align: center;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_body_map {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.ExerciseContentPage > .ExerciseDetail > .box_body_map {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_body_map img {
-    max-width: 80px;
-    margin: 0 2.5%;
+.ExerciseContentPage > .ExerciseDetail > .box_body_map img {
+  max-width: 80px;
+  margin: 0 2.5%;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_description {
-    width: 90%;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: var(--box-3);
-    padding: 10px;
-    border-radius: 8px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    direction: rtl;
+.ExerciseContentPage > .ExerciseDetail > .box_description {
+  width: 90%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: var(--box-3);
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  direction: rtl;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_description h1 {
-    font-size: 16px;
+.ExerciseContentPage > .ExerciseDetail > .box_description h1 {
+  font-size: 16px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_description h2 {
-    font-size: 14px;
+.ExerciseContentPage > .ExerciseDetail > .box_description h2 {
+  font-size: 14px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_description li,
-.ExerciseContentPage>.ExerciseDetail>.box_description p {
-    font-size: 13px;
+.ExerciseContentPage > .ExerciseDetail > .box_description li,
+.ExerciseContentPage > .ExerciseDetail > .box_description p {
+  font-size: 13px;
 }
 
-
-.ExerciseContentPage>.ExerciseDetail>.box_correct_steps {
-    list-style: none;
-    padding: 0px;
-    width: 90%;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
+.ExerciseContentPage > .ExerciseDetail > .box_correct_steps {
+  list-style: none;
+  padding: 0px;
+  width: 90%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_correct_steps li {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 15px;
-    background-color: var(--box-3);
-    border-radius: 10px;
-    padding: 10px 15px;
+.ExerciseContentPage > .ExerciseDetail > .box_correct_steps li {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 15px;
+  background-color: var(--box-3);
+  border-radius: 10px;
+  padding: 10px 15px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_correct_steps .step_number {
-    background: linear-gradient(45deg, var(--color-7), var(--color-3));
-    color: var(--whiteColor);
-    border-radius: 50%;
-    width: 30px;
-    height: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
-    font-size: 16px;
+.ExerciseContentPage > .ExerciseDetail > .box_correct_steps .step_number {
+  background: linear-gradient(45deg, var(--color-7), var(--color-3));
+  color: var(--whiteColor);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 16px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_correct_steps .step_text {
-    font-size: 16px;
+.ExerciseContentPage > .ExerciseDetail > .box_correct_steps .step_text {
+  font-size: 16px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_info {
-    display: flex;
-    justify-content: center;
-    width: 90%;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+.ExerciseContentPage > .ExerciseDetail > .box_info {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_info>p {
-    margin-left: 10px;
-    margin-right: 10px;
+.ExerciseContentPage > .ExerciseDetail > .box_info > p {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_info>.difficulty {
-    background: linear-gradient(45deg, var(--color-7), var(--color-3));
-    color: var(--whiteColor);
-    font-size: 11px;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+.ExerciseContentPage > .ExerciseDetail > .box_info > .difficulty {
+  background: linear-gradient(45deg, var(--color-7), var(--color-3));
+  color: var(--whiteColor);
+  font-size: 11px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+    rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px,
+    rgba(0, 0, 0, 0.07) 0px 16px 16px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_info>.category {
-    background: linear-gradient(45deg, var(--color-3), var(--color-5));
-    color: var(--whiteColor);
-    font-size: 11px;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+.ExerciseContentPage > .ExerciseDetail > .box_info > .category {
+  background: linear-gradient(45deg, var(--color-3), var(--color-5));
+  color: var(--whiteColor);
+  font-size: 11px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+    rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px,
+    rgba(0, 0, 0, 0.07) 0px 16px 16px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.box_youtube {
-    display: block;
-    width: 90%;
-    height: 280px;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 8px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+.ExerciseContentPage > .ExerciseDetail > .box_youtube {
+  display: block;
+  width: 90%;
+  height: 280px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.seo_tags_box {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    align-content: center;
-    flex-wrap: wrap;
-    width: 90%;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 8px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    background-color: var(--box-3);
-    padding: 10px;
-    list-style: none;
+.ExerciseContentPage > .ExerciseDetail > .seo_tags_box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  width: 90%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: var(--box-3);
+  padding: 10px;
+  list-style: none;
 }
 
-.ExerciseContentPage>.ExerciseDetail>.seo_tags_box>li {
-    margin: 5px 10px;
-    background-color: var(--box);
-    border-radius: 8px;
-    padding-left: 10px;
-    padding-right: 10px;
+.ExerciseContentPage > .ExerciseDetail > .seo_tags_box > li {
+  margin: 5px 10px;
+  background-color: var(--box);
+  border-radius: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-
 
 /* ______________________________________________ */

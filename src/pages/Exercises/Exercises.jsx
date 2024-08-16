@@ -52,7 +52,7 @@ export default function Exercises() {
             <p>ذكر</p>
 
             <ImageWithSkeleton
-              src="/images/icons/male.png"
+              src="/images/icons/male-icon.webp"
               alt="ذكر"
               title="ذكر"
               aria-label="ذكر"
@@ -69,7 +69,7 @@ export default function Exercises() {
           >
             <p>انثى</p>
             <ImageWithSkeleton
-              src="/images/icons/female.png"
+              src="/images/icons/female-icon.webp"
               alt="انثى"
               title="انثى"
               aria-label="انثى"

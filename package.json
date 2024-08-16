@@ -5,6 +5,7 @@
   "version": "1.0.3",
   "description": "Afitik is a fitness app offering diverse workouts, balanced nutrition plans, and valuable tips for enhancing health and fitness.",
   "scripts": {
+    "server": "node server.mjs",
     "keytool": "node keytool.js",
     "dev": "react-scripts start",
     "build": "node prebuild.js",
