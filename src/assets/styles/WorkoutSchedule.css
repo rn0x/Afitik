@@ -231,3 +231,94 @@
   background-color: var(--color-4);
   transform: scale(1.05);
 }
+
+
+
+
+
+/* <====| صفحة تمارين ثلاثث ايام اسبوعيا - ThreeDaysWorkoutPage |====> */
+
+#ThreeDaysWorkoutPage {
+  margin: 20px auto;
+  width: 95%;
+  max-width: 8000px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#ThreeDaysWorkoutPage > #schedule {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+#ThreeDaysWorkoutPage > #schedule > thead > tr > th,
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td {
+  border: 1px solid var(--border);
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+}
+
+#ThreeDaysWorkoutPage > #schedule > thead > tr > th {
+  background: linear-gradient(45deg, var(--color-4), var(--color-6));
+  color: var(--whiteColor);
+  font-weight: bold;
+}
+
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td {
+  background-color: var(--box-3);
+}
+
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td > .details-button {
+  background: linear-gradient(45deg, var(--color-4), var(--color-6));
+  color: var(--whiteColor);
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td > .exercise-details {
+  text-align: right;
+  padding: 5px;
+  background-color: var(--box-4);
+  border-radius: 5px;
+}
+
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td > .exercise-details > .exercise-item {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: var(--color-8);
+  border-radius: 5px;
+  border: 1px solid var(--border);
+}
+
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td > .exercise-details > .exercise-item .iconitem{
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td > .exercise-details > .exercise-item > h3,
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td > .exercise-details > .exercise-item > p {
+  margin: 5px 0;
+  color: var(--text-h);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+#ThreeDaysWorkoutPage > #schedule > tbody > tr > td > .exercise-details > .exercise-item >button {
+  background: linear-gradient(45deg, var(--color-4), var(--color-6));
+  color: var(--whiteColor);
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin: 10px auto;
+}
