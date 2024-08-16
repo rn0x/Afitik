@@ -2,6 +2,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Home from "../pages/Home.jsx";
 import GymEquipment from "../pages/Home/GymEquipment.jsx";
+import GlossaryPage from "../pages/Home/GlossaryPage.jsx";
 import NotFound from "../pages/NotFound.jsx";
 import Nutrition from "../pages/Nutrition.jsx";
 import Tools from "../pages/Tools.jsx";
@@ -17,6 +18,7 @@ export default function MainRoutes() {
       <Route path="/index.html" element={<Home />} />
       <Route path="/" element={<Home />} />
       <Route path="/gym-equipment" element={<GymEquipment />} />
+      <Route path="/fitness-glossary" element={<GlossaryPage />} />
       <Route path="/workout-schedule/*" element={<WorkoutScheduleRoutes />} />
       <Route path="/Exercises/*" element={<ExercisesRoutes />} />
       <Route path="/Nutrition" element={<Nutrition />} />

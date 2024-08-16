@@ -35,6 +35,8 @@ export default function FirstDayGym() {
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
 
       <ScrollToTop />
+
+      
     </>
   )
 }

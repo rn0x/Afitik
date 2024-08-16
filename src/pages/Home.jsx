@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Link } from "react-router-dom";
-import { MdFitnessCenter, MdFastfood, MdBuild, MdOutlineSportsMartialArts, MdCalendarMonth } from 'react-icons/md';
+import { MdFitnessCenter, MdFastfood, MdBuild, MdOutlineSportsMartialArts, MdCalendarMonth, MdBook } from 'react-icons/md';
 import AliceCarousel from "react-alice-carousel";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
 import StatusBarColor from "../components/StatusBarColor.jsx";
@@ -118,6 +118,11 @@ const Home = () => {
       name: 'جداول التمارين',
       path: '/workout-schedule',
       icon: <MdCalendarMonth />
+    },
+    {
+      name: 'المصطلحات الرياضية',
+      path: '/fitness-glossary',
+      icon: <MdBook />
     },
   ];
 
