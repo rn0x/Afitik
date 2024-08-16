@@ -29,6 +29,7 @@
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
+    color: var(--color-6);
 }
 
 .muscles_pages_images {

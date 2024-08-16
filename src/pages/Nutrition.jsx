@@ -29,6 +29,7 @@ export default function Nutrition() {
     alignItems: "center",
     height: "100vh",
     textAlign: "center",
+    color:"#5e9e9e"
   };
 
   return (

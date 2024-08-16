@@ -87,9 +87,8 @@
     margin-left: auto;
     margin-right: auto;
     padding: 5px;
-    background-color: var(--color-1);
-    background: linear-gradient(80deg, var(--color-1), var(--color-5));
-    color: var(--color-7);
+    background: linear-gradient(80deg, var(--color-8), var(--color-5));
+    color: var(--color-3);
     border-radius: 50%;
     position: relative;
 }
@@ -103,7 +102,7 @@
 #StepCounterPage>#box_steps>#steps_title {
     position: absolute;
     top: 10px;
-    background-color: var(--color-7);
+    background-color: var(--color-6);
     color: var(--whiteColor);
     border-radius: 8px;
     padding-left: 10px;
@@ -169,10 +168,12 @@
 #StepCounterPage>#info_box p {
     font-size: 12px;
     margin: 5px 0;
+    color: var(--color-4);
 }
 
 #StepCounterPage>#weight_control {
     margin-bottom: 50px;
+    color: var(--color-4);
 }
 
 #StepCounterPage>#weight_control>span {
@@ -222,13 +223,15 @@
     font-size: 16px;
     margin-top: 10px;
     margin-bottom: 0px;
+    color: var(--color-4);
 }
 
 #CalorieCalculatorPage>#Calculator>div>input {
     display: block;
     height: 35px;
     width: 100%;
-    background-color: var(--whiteColor);
+    background-color: var(--input);
+    color: var(--input-text);
     border: 1px var(--border) solid;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -239,7 +242,8 @@
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: var(--whiteColor);
+    background-color: var(--input);
+    color: var(--input-text);
     border: 1px var(--border) solid;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -349,10 +353,12 @@
     background-color: var(--box-4);
     border-radius: 8px;
     border: 1px var(--border) solid;
+    color: var(--color-7);
 }
 
 #CalorieCalculatorPage>#healthTips>ul>li {
     font-size: 14px;
+    color: var(--color-4);
 }
 
 #CalorieCalculatorPage>#healthTips>img {

@@ -37,6 +37,7 @@ body {
   margin: 0px 0px 0px 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: var(--whiteColor);
 }
 
 code {

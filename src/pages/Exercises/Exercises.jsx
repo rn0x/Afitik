@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
 import StatusBarColor from "../../components/StatusBarColor.jsx";
@@ -26,6 +26,13 @@ export default function Exercises() {
     }
   };
 
+  useEffect(() => {
+    document.getElementById("BtTheme")?.style.setProperty("display", "none");
+    return () => {
+      document.getElementById("BtTheme")?.style.setProperty("display", "block");
+    };
+  }, []);
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
@@ -34,7 +41,7 @@ export default function Exercises() {
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      
+
 
       <ScrollToTop />
 

@@ -142,6 +142,7 @@ const CalorieCalculator = () => {
                             name="age"
                             value={formData.age}
                             onChange={handleChange}
+                            placeholder="ادخل عمرك"
                         />
                         {formErrors.age && <span style={{ color: 'red', fontSize: '11px' }}>{formErrors.age}</span>}
                     </div>
@@ -162,6 +163,7 @@ const CalorieCalculator = () => {
                             value={formData.weight}
                             onChange={handleChange}
                             style={{ marginLeft: '10px' }}
+                            placeholder="ادخل وزنك بالكيلوغرام"
                         />
                         {formErrors.weight && <span style={{ color: 'red', fontSize: '11px' }}>{formErrors.weight}</span>}
                     </div>
@@ -174,6 +176,7 @@ const CalorieCalculator = () => {
                             value={formData.height}
                             onChange={handleChange}
                             style={{ marginLeft: '10px' }}
+                            placeholder="ادخل طولك بالسنتيمتر"
                         />
                         {formErrors.height && <span style={{ color: 'red', fontSize: '11px' }}>{formErrors.height}</span>}
                     </div>
