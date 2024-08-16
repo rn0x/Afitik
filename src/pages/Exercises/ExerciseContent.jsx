@@ -61,7 +61,7 @@ export default function ExerciseContent() {
       };
 
       videos.forEach((el) => {
-        const videoFileServeX = `${apiUrl}/api/files/${el.file_path}`;
+        const videoFileServeX = `${apiUrl}/files/${el.file_path}`;
         const original_video = el.original_video;
         validateVideoUrl(videoFileServeX, original_video);
       });
