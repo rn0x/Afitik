@@ -1,11 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
-import StatusBarColor from "../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../components/NavigationBarAndStatusBar.jsx';
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
+import { useTheme } from '../contexts/ThemeProvider.jsx';
 
 export default function NotFound() {
+  const { theme } = useTheme();
   const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
     title: "صفحة غير موجودة - تطبيق عافيتك",
@@ -23,15 +25,23 @@ export default function NotFound() {
       "url": currentUrl
     }
   };
+
+  const statusBarColorTh = theme === 'light' ? '#eceff4' : '#121212';
+  const iconIslightTh = theme === 'light' ? true : false;
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#eceff4" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={!iconIslightTh}
+        overrideTheme={true}
+      />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      
+
 
       <ScrollToTop />
 

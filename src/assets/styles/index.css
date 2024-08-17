@@ -1,27 +1,27 @@
 @font-face {
-  font-family: 'Cairo';
-  src: url('../fonts/Cairo-Regular.ttf') format('truetype');
+  font-family: "Cairo-Regular";
+  src: url("../../../public/fonts/Cairo-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Cairo';
-  src: url('../fonts/Cairo-Bold.ttf') format('truetype');
+  font-family: "Cairo";
+  src: url("../../../public/fonts/Cairo-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Cairo';
-  src: url('../fonts/Cairo-ExtraBold.ttf') format('truetype');
+  font-family: "Cairo-ExtraBold";
+  src: url("../../../public/fonts/Cairo-ExtraBold.ttf") format("truetype");
   font-weight: 800;
   /* قد يتطلب تعيين الوزن برقم معين */
   font-style: normal;
 }
 
 * {
-  font-family: 'Cairo', Arial, sans-serif;
+  font-family: "Cairo", Arial, sans-serif;
   -webkit-tap-highlight-color: #00000000;
   user-select: none;
   -webkit-user-select: none;
@@ -41,10 +41,9 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
 
 a {
   user-select: none;
@@ -82,4 +81,25 @@ a:focus {
   padding-top: 56px;
   padding-bottom: 100px;
   position: relative;
+}
+
+#BtTheme {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  position: fixed;
+  bottom: 110px;
+  left: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 12px;
+  background-color: var(--color-3);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 4px;
+  border-radius: 6px;
+  opacity: 0.5;
 }

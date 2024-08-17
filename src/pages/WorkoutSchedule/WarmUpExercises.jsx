@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import { Skeleton } from "@mui/material";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
-import StatusBarColor from "../../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../../components/NavigationBarAndStatusBar.jsx';
 import AppBar from "../../components/AppBar.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
+import { useTheme } from '../../contexts/ThemeProvider.jsx';
 import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 
 export default function WarmUpExercises() {
+  const { theme } = useTheme();
   const [videoLoaded, setVideoLoaded] = useState(false); // حالة التحميل
 
   const currentUrl = window.location.origin + window.location.pathname;
@@ -28,10 +30,16 @@ export default function WarmUpExercises() {
     }
   };
 
+  const statusBarColorTh = theme === 'light' ? '#7AB2B2' : '#4a8e8e';
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#7AB2B2" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={true}
+        overrideTheme={true}
+      />
       <AppBar title="تمارين التحمية" backLink="/workout-schedule" />
       <ToggleActiveClass elementId="nvBarHome" isActive={true} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />

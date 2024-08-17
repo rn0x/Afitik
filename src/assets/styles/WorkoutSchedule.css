@@ -123,6 +123,7 @@
 
 #WarmUpExercisesPage > #box_steps > div > div > p {
   text-align: center;
+  color: var(--color-6);
 }
 
 #WarmUpExercisesPage > #box_steps > div > div > .images_step {
@@ -272,6 +273,7 @@
 
 .scheduleWorkout > #schedule > tbody > tr > td {
   background-color: var(--box-3);
+  color: var(--color-6);
 }
 
 .scheduleWorkout > #schedule > tbody > tr > td > .details-button {

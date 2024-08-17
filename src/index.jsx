@@ -14,16 +14,16 @@ import {
   setNotificationDefaults,
   disableWebViewOptimizations
 } from './utils/backgroundMode.js';
+import NavigationBarAndStatusBar from './components/NavigationBarAndStatusBar.jsx';
+import { ThemeProvider } from './contexts/ThemeProvider.jsx';
 
 /**
  * دالة لعرض React DOM بعد تحميل Cordova.
  */
 async function handleCordovaReady() {
   console.log("Cordova is ready. Rendering React DOM...");
-  renderReactDom();
 
   if (window.cordova.platformId === 'android') {
-
     // backgroundMode
     setNotificationDefaults({
       title: "AFITIK",
@@ -32,16 +32,13 @@ async function handleCordovaReady() {
       silent: false
     });
     enableBackgroundMode();
-    // overrideBackButton();
     disableBatteryOptimizations();
-    // تنفيذ بعض العمليات عند تفعيل وضع الخلفية
+
     onBackgroundModeEvent('activate', () => {
       console.log('Background mode enabled:', isBackgroundModeActive());
       disableWebViewOptimizations();
-      wakeUp();
     });
 
-    // تأكد من أن التطبيق يستمر في العمل حتى عند إغلاق الشاشة
     isScreenOff((isOff) => {
       if (isOff) {
         console.log('Screen is off, waking up...');
@@ -53,15 +50,14 @@ async function handleCordovaReady() {
       window.MobileAccessibility.usePreferredTextZoom(false);
     }
 
-    if (window.NavigationBar) {
-      window.NavigationBar.backgroundColorByHexString("#ffffff", true);
-    }
-
     if (window.cordova.plugins.autoStart) {
       window.cordova.plugins.autoStart.enable();
       window.cordova.plugins.autoStart.enableService("org.i8xnet.afitik");
     }
   }
+
+  // Render the React DOM with the Cordova-specific setup
+  renderReactDom();
 }
 
 /**
@@ -72,13 +68,18 @@ function renderReactDom() {
   const root = createRoot(container);
   root.render(
     <React.StrictMode>
-      <App />
+      <ThemeProvider>
+        <>
+          <NavigationBarAndStatusBar />
+          <App />
+        </>
+      </ThemeProvider>
     </React.StrictMode>
   );
 }
 
 /**
- * دالة لإضافة شفرة إعلانات Google AdSense إلى الصفحة
+ * دالة لإضافة شفرة إعلانات Google AdSense إلى الصفحة.
  */
 function injectAds() {
   // تحقق مما إذا كان في بيئة متصفح
@@ -101,6 +102,6 @@ if (window.cordova) {
   document.addEventListener('deviceready', handleCordovaReady, false);
 } else {
   console.log("Cordova is not available. Rendering React DOM...");
-  renderReactDom();
+  renderReactDom(); // Render without Cordova-specific setup
   injectAds();
 }

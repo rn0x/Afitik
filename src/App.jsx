@@ -4,6 +4,18 @@ import { HelmetProvider } from 'react-helmet-async';
 import { FaSun, FaMoon } from 'react-icons/fa';
 import NavigationBar from './components/NavigationBar.jsx';
 import MainRoutes from './Routes/MainRoutes.jsx';
+import { useTheme } from './contexts/ThemeProvider.jsx'
+
+function ThemeToggleButton() {
+  const { theme, toggleTheme } = useTheme();
+  const iconColor = theme === 'dark' ? '#FFD700' : '#3a6b7c';
+
+  return (
+    <button id='BtTheme' onClick={toggleTheme}>
+      {theme === 'dark' ? <FaSun color={iconColor} /> : <FaMoon color={iconColor} />}
+    </button>
+  );
+}
 
 /**
  * تطبيق الواجهة الرئيسي للموقع.
@@ -11,43 +23,12 @@ import MainRoutes from './Routes/MainRoutes.jsx';
  * @returns {JSX.Element} - واجهة المستخدم للتطبيق.
  */
 export default function App() {
-  const [theme, setTheme] = useState(() => {
-    // استرجاع الثيم من الـ localStorage أو استخدام "dark" كقيمة افتراضية
-    return localStorage.getItem('theme') || 'dark';
-  });
-
-  useEffect(() => {
-    document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('theme', theme);
-  }, [theme]);
-
-  const toggleTheme = () => {
-    setTheme(prevTheme => prevTheme === 'dark' ? 'light' : 'dark');
-  };
-
-  // تحديد لون الأيقونة بناءً على الثيم
-  const iconColor = theme === 'dark' ? '#FFD700' : '#3a6b7c';
-
   return (
     <Router>
       <HelmetProvider>
         <div id="App">
           <MainRoutes />
-          <button
-            id='BtTheme'
-            onClick={toggleTheme}
-            style={{
-              position: 'fixed', 
-              bottom: 100, 
-              left: 20, 
-              background: 'none', 
-              border: 'none', 
-              cursor: 'pointer', 
-              fontSize: '12px'
-            }}
-          >
-            {theme === 'dark' ? <FaSun color={iconColor} /> : <FaMoon color={iconColor} />}
-          </button>
+          <ThemeToggleButton />
         </div>
         <NavigationBar />
       </HelmetProvider>

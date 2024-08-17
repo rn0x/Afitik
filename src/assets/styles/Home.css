@@ -29,7 +29,7 @@
   margin-top: 0px;
   margin-bottom: 5px;
   font-size: 16px;
-  color: var(--color-5);
+  color: var(--color-8);
 }
 
 .homepage > .tips > p {
@@ -199,6 +199,7 @@
   list-style: none;
   margin-top: 50px;
   margin-bottom: 50px;
+  color: var(--color-4);
 }
 
 #GymEquipmentPage > #box_equipments > .item_equipments {

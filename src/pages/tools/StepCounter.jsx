@@ -1,10 +1,11 @@
 import React, { useState, useEffect, useRef } from 'react';
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
-import StatusBarColor from "../../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../../components/NavigationBarAndStatusBar.jsx';
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
 import AppBar from "../../components/AppBar.jsx";
 import PopupMessage from "../../components/PopupMessage.jsx";
+import { useTheme } from '../../contexts/ThemeProvider.jsx';
 import "../../assets/styles/Tools.css";
 
 // Constants
@@ -181,10 +182,17 @@ const StepCounter = () => {
     setWeight((prevWeight) => Math.max(prevWeight - 1, 50)); // Min weight: 50 kg
   };
 
+  const { theme } = useTheme();
+  const statusBarColorTh = theme === 'light' ? '#7AB2B2' : '#4a8e8e';
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#7AB2B2" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={true}
+        overrideTheme={true}
+      />
       <AppBar title="عداد الخطوات" backLink="/Tools" />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />

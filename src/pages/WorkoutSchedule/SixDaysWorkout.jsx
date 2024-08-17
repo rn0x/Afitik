@@ -2,13 +2,15 @@ import React, { useState } from "react";
 import { FaDumbbell, FaYoutube, FaCalendarAlt } from "react-icons/fa";
 import { GiMuscleUp } from "react-icons/gi";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
-import StatusBarColor from "../../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../../components/NavigationBarAndStatusBar.jsx';
 import AppBar from "../../components/AppBar.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
+import { useTheme } from '../../contexts/ThemeProvider.jsx';
 import { openSystem } from '../../utils/inAppBrowserUtils.js'
 
 export default function SixDaysWorkout() {
+  const { theme } = useTheme();
   const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
     title: "جدول تمارين 6 أيام أسبوعيًا - تطبيق عافيتك",
@@ -182,10 +184,16 @@ export default function SixDaysWorkout() {
     setExpandedDay(expandedDay === dayIndex ? null : dayIndex);
   };
 
+  const statusBarColorTh = theme === 'light' ? '#7AB2B2' : '#4a8e8e';
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#7AB2B2" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={true}
+        overrideTheme={true}
+      />
       <AppBar title="جدول تمارين 5 ايام اسبوعيا" backLink="/workout-schedule" />
       <ToggleActiveClass elementId="nvBarHome" isActive={true} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />

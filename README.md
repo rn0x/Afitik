@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[Arabic](README.md) || [English](README.EN.md)
-
 ![Badge](https://img.shields.io/github/v/release/rn0x/Afitik)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/rn0x/Afitik/total?color=blue&label=Total%20Downloads)
@@ -32,9 +30,17 @@
 
 ## 📸 صور الشاشة
 
-| ![Screenshot 1][screen1] | ![Screenshot 2][screen2] |
+| ![1][1] | ![1-dark][1-dark] |
 | :----------------------- | ------------------------ |
-| ![Screenshot 3][screen3] | ![Screenshot 4][screen4] |
+| ![2][2] | ![2-dark][2-dark] |
+| ![3][3] | ![3-dark][3-dark] |
+| ![4][4] | ![4-dark][4-dark] |
+| ![5][5] | ![5-dark][5-dark] |
+| ![6][6] | ![6-dark][6-dark] |
+| ![7][7] | ![7-dark][7-dark] |
+| ![8][8] | ![8-dark][8-dark] |
+| ![9][9] | ![9-dark][9-dark] |
+| ![10][10] | ![10-dark][10-dark] |
 
 <br>
 
@@ -221,13 +227,30 @@
 | `release.keystore` | ملف keystore لتوقيع تطبيقات Android. (يتم إنشاؤه تلقائيًا)                                                       |
 | `server.mjs`       | سكربت خادم Express.js يشغل الخادم ويعيد توجيه جميع الطلبات إلى index.html لمعالجة الروابط باستخدام React Router. |
 
+
+
+![10](/unused/cordova_react.png)
+
 [card]: https://PlayBadges.pavi2410.me/badge/full?id=org.i8xnet.afitik
 [downloads_badge]: https://PlayBadges.pavi2410.me/badge/downloads?id=org.i8xnet.afitik
 [logo]: /unused/logo%20afitik/250px.png
-[screen1]: /unused/Screenshot/Screenshot_2024-08-04-06-27-23-959_org.i8xnet.afitik.jpg
-[screen2]: /unused/Screenshot/Screenshot_2024-08-04-06-27-31-315_org.i8xnet.afitik.jpg
-[screen3]: /unused/Screenshot/Screenshot_2024-08-04-06-27-36-216_org.i8xnet.afitik.jpg
-[screen4]: /unused/Screenshot/Screenshot_2024-08-04-06-28-02-818_org.i8xnet.afitik.jpg
-[screen5]: /unused/Screenshot/Screenshot_2024-08-04-06-27-41-281_org.i8xnet.afitik.jpg
-[screen6]: /unused/Screenshot/Screenshot_2024-08-04-06-27-48-381_org.i8xnet.afitik.jpg
-[screen7]: /unused/Screenshot/Screenshot_2024-08-04-06-28-10-741_org.i8xnet.afitik.jpg
+[1]: /unused/Screenshot/1.png
+[1-dark]: /unused/Screenshot/1-dark.png
+[2]: /unused/Screenshot/2.png
+[2-dark]: /unused/Screenshot/2-dark.png
+[3]: /unused/Screenshot/3.png
+[3-dark]: /unused/Screenshot/3-dark.png
+[4]: /unused/Screenshot/4.png
+[4-dark]: /unused/Screenshot/4-dark.png
+[5]: /unused/Screenshot/5.png
+[5-dark]: /unused/Screenshot/5-dark.png
+[6]: /unused/Screenshot/6.png
+[6-dark]: /unused/Screenshot/6-dark.png
+[7]: /unused/Screenshot/7.png
+[7-dark]: /unused/Screenshot/7-dark.png
+[8]: /unused/Screenshot/8.png
+[8-dark]: /unused/Screenshot/8-dark.png
+[9]: /unused/Screenshot/9.png
+[9-dark]: /unused/Screenshot/9-dark.png
+[10]: /unused/Screenshot/10.png
+[10-dark]: /unused/Screenshot/10-dark.png

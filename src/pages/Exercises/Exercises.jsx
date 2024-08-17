@@ -1,13 +1,15 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
-import StatusBarColor from "../../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../../components/NavigationBarAndStatusBar.jsx';
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
+import { useTheme } from '../../contexts/ThemeProvider.jsx';
 import "../../assets/styles/Exercises.css"
 
 export default function Exercises() {
+  const { theme } = useTheme();
   const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
     title: "تمارين اللياقة البدنية - تطبيق عافيتك",
@@ -29,14 +31,21 @@ export default function Exercises() {
   useEffect(() => {
     document.getElementById("BtTheme")?.style.setProperty("display", "none");
     return () => {
-      document.getElementById("BtTheme")?.style.setProperty("display", "block");
+      document.getElementById("BtTheme")?.style.setProperty("display", "flex");
     };
   }, []);
+
+  const statusBarColorTh = theme === 'light' ? '#eceff4' : '#121212';
+  const iconIslightTh = theme === 'light' ? true : false;
 
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#eceff4" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={!iconIslightTh}
+        overrideTheme={true}
+      />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />

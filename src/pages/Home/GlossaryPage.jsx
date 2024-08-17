@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
-import StatusBarColor from "../../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../../components/NavigationBarAndStatusBar.jsx';
 import AppBar from "../../components/AppBar.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
+import { useTheme } from '../../contexts/ThemeProvider.jsx';
 import glossaryJson from '../../assets/json/fitness-glossary.json';
 import { MdBook } from 'react-icons/md';
 import { copyToClipboard } from '../../utils/clipboardUtils.js';
@@ -12,6 +13,7 @@ import CustomNotification from "../../components/CustomNotification.jsx";
 const fitnessTerms = glossaryJson.fitnessTerms;
 
 export default function GlossaryPage() {
+  const { theme } = useTheme();
   const [notification, setNotification] = useState(null);
 
   const handleCopyToClipboard = (title, description) => {
@@ -41,10 +43,16 @@ export default function GlossaryPage() {
     }
   };
 
+  const statusBarColorTh = theme === 'light' ? '#7AB2B2' : '#4a8e8e';
+
   return (
     <> {/* معرف كبير للصفحة */}
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#7AB2B2" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={true}
+        overrideTheme={true}
+      />
       <AppBar title="قائمة المصطلحات الرياضية" backLink="/" />
       <ToggleActiveClass elementId="nvBarHome" isActive={true} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />

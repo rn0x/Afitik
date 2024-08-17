@@ -1,16 +1,18 @@
 import React from "react";
 import { useParams, Link } from "react-router-dom";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
-import StatusBarColor from "../../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../../components/NavigationBarAndStatusBar.jsx';
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import AppBar from "../../components/AppBar.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
+import { useTheme } from '../../contexts/ThemeProvider.jsx';
 import "../../assets/styles/Exercises.css";
 import musclesData from "../../assets/json/muscles.json";
 
 export default function MuscleSelection() {
   const { gender } = useParams();
+  const { theme } = useTheme();
 
   // قائمة الجنسين المقبولة
   const validGenders = ["male", "female"];
@@ -95,16 +97,22 @@ export default function MuscleSelection() {
     </>
   );
 
+  const statusBarColorTh = theme === 'light' ? '#7AB2B2' : '#4a8e8e';
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#7AB2B2" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={true}
+        overrideTheme={true}
+      />
       <AppBar title={isGenderValid() ? "اختيار العضلة" : "جنس غير صالح"} backLink="/Exercises" />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
       <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-      
+
 
       <ScrollToTop />
 

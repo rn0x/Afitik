@@ -3,10 +3,11 @@ import { Link } from "react-router-dom";
 import { MdFitnessCenter, MdFastfood, MdBuild, MdOutlineSportsMartialArts, MdCalendarMonth, MdBook } from 'react-icons/md';
 import AliceCarousel from "react-alice-carousel";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
-import StatusBarColor from "../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../components/NavigationBarAndStatusBar.jsx';
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import ImageWithSkeleton from "../components/ImageWithSkeleton.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
+import { useTheme } from '../contexts/ThemeProvider.jsx';
 import { openSystem } from "../utils/inAppBrowserUtils.js";
 import tipsJson from "../assets/json/tips.json";
 import musclesData from "../assets/json/muscles.json";
@@ -14,6 +15,7 @@ import "../assets/styles/Home.css";
 import "react-alice-carousel/lib/alice-carousel.css";
 
 const Home = () => {
+  const { theme } = useTheme();
   const currentUrl = window.location.origin + window.location.pathname;
   const pageMetadata = {
     title: "تطبيق عافيتك | الصفحة الرئيسية",
@@ -126,10 +128,17 @@ const Home = () => {
     },
   ];
 
+  const statusBarColorTh = theme === 'light' ? '#eceff4' : '#121212';
+  const iconIslightTh = theme === 'light' ? true : false;
+
   return (
     <div className="homepage">
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#eceff4" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={!iconIslightTh}
+        overrideTheme={true}
+      />
       <ToggleActiveClass elementId="nvBarHome" isActive={true} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
       <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
@@ -177,7 +186,7 @@ const Home = () => {
         ))}
       </ul>
 
-      {/* <ImageWithSkeleton
+      {/* <ImageWithSkeletonِ
                 src="/images/diet-success-tips.png"
                 alt=""
                 title=""

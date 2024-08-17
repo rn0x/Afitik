@@ -1,16 +1,18 @@
 import React, { useRef } from "react";
 import { useParams } from "react-router-dom";
 import SetPageMetadata from "../components/SetPageMetadata.jsx";
-import StatusBarColor from "../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../components/NavigationBarAndStatusBar.jsx';
 import ToggleActiveClass from "../components/ToggleActiveClass.jsx";
 import AppBar from "../components/AppBar.jsx";
 import ScreenshotCapture from "../components/ScreenshotCapture.jsx";
 import ImageWithSkeleton from "../components/ImageWithSkeleton.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
+import { useTheme } from '../contexts/ThemeProvider.jsx';
 import musclesData from "../assets/json/muscles.json";
 import '../assets/styles/MusclePage.css'
 
 export default function MusclePage() {
+    const { theme } = useTheme();
     const { muscleId } = useParams();
     const captureRef = useRef(null);
 
@@ -36,15 +38,20 @@ export default function MusclePage() {
         }
     };
 
+    const statusBarColorTh = theme === 'light' ? '#7AB2B2' : '#4a8e8e';
     return (
         <>
             <SetPageMetadata {...pageMetadata} />
-            <StatusBarColor color="#7AB2B2" />
+            <NavigationBarAndStatusBar
+                statusBarColor={statusBarColorTh}
+                statusBarIconIsLight={true}
+                overrideTheme={true}
+            />
             <ToggleActiveClass elementId="nvBarHome" isActive={true} />
             <ToggleActiveClass elementId="nvBarExercises" isActive={false} />
             <ToggleActiveClass elementId="nvBarNutrition" isActive={false} />
             <ToggleActiveClass elementId="nvBarTools" isActive={false} />
-            
+
 
             <ScrollToTop />
 

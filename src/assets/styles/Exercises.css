@@ -330,6 +330,16 @@
   border-radius: 8px;
 }
 
+.ExerciseContentPage
+  > .ExerciseDetail
+  > .slider
+  .alice-carousel__dots-item.__active {
+  background: linear-gradient(45deg, var(--color-4), var(--color-6));
+}
+.ExerciseContentPage > .ExerciseDetail > .slider .alice-carousel__dots-item {
+  background-color: var(--color-2);
+}
+
 .ExerciseContentPage > .ExerciseDetail > .category_title {
   color: var(--color-4);
   text-align: center;
@@ -371,9 +381,19 @@
 }
 
 .ExerciseContentPage > .ExerciseDetail > .box_description li,
+.ExerciseContentPage > .ExerciseDetail > .box_description span,
 .ExerciseContentPage > .ExerciseDetail > .box_description p {
   font-size: 13px;
+  direction: rtl;
+  color: var(--color-7) !important;
+  font-family: "Cairo-Regular", Courier, monospace !important;
 }
+
+.ExerciseContentPage > .ExerciseDetail > .box_description b {
+  color: var(--color-6) !important;
+}
+
+
 
 .ExerciseContentPage > .ExerciseDetail > .box_correct_steps {
   list-style: none;
@@ -410,6 +430,7 @@
 
 .ExerciseContentPage > .ExerciseDetail > .box_correct_steps .step_text {
   font-size: 16px;
+  color: var(--color-7);
 }
 
 .ExerciseContentPage > .ExerciseDetail > .box_info {

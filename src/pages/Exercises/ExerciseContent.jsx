@@ -2,16 +2,18 @@ import React, { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 import { Skeleton } from "@mui/material";
 import SetPageMetadata from "../../components/SetPageMetadata.jsx";
-import StatusBarColor from "../../components/StatusBarColor.jsx";
+import NavigationBarAndStatusBar from '../../components/NavigationBarAndStatusBar.jsx';
 import AppBar from "../../components/AppBar.jsx";
 import Slider from "../../components/Slider.jsx";
 import ToggleActiveClass from "../../components/ToggleActiveClass.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
+import { useTheme } from '../../contexts/ThemeProvider.jsx';
 import ImageWithSkeleton from "../../components/ImageWithSkeleton.jsx";
 import musclesData from "../../assets/json/muscles.json";
 
 export default function ExerciseContent() {
   const apiUrl = process.env.REACT_APP_API_BASE_URL;
+  const { theme } = useTheme();
   const { gender, muscle, exercise } = useParams();
   const [exerciseDetail, setExerciseDetail] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -50,12 +52,12 @@ export default function ExerciseContent() {
       const validateVideoUrl = async (primaryUrl, fallbackUrl) => {
         try {
           const response = await fetch(primaryUrl, { method: 'HEAD' });
-          if (response.ok) {            
+          if (response.ok) {
             setValidVideoUrl(primaryUrl);
-          } else {            
+          } else {
             setValidVideoUrl(fallbackUrl);
           }
-        } catch {          
+        } catch {
           setValidVideoUrl(fallbackUrl);
         }
       };
@@ -288,10 +290,16 @@ export default function ExerciseContent() {
     return `/Exercises/${normalizedGender}/${muscle}`;
   };
 
+  const statusBarColorTh = theme === 'light' ? '#7AB2B2' : '#4a8e8e';
+
   return (
     <>
       <SetPageMetadata {...pageMetadata} />
-      <StatusBarColor color="#7AB2B2" />
+      <NavigationBarAndStatusBar
+        statusBarColor={statusBarColorTh}
+        statusBarIconIsLight={true}
+        overrideTheme={true}
+      />
       <AppBar title={appBarTitle} backLink={appBarBackLink()} />
       <ToggleActiveClass elementId="nvBarHome" isActive={false} />
       <ToggleActiveClass elementId="nvBarExercises" isActive={true} />
