@@ -16,10 +16,10 @@ export default function Tools() {
     title: "أدوات الصحة واللياقة - تطبيق عافيتك",
     description: "اكتشف مجموعة من الأدوات المميزة التي تساعدك في تحقيق أهدافك الصحية واللياقية. احسب السعرات الحرارية، كتلة الجسم، وتابع إنجازاتك الرياضية بسهولة مع تطبيق عافيتك.",
     keywords: "أدوات صحية, حساب السعرات الحرارية, كتلة الجسم, تتبع الإنجازات, تطبيق عافيتك",
-    ogImage: `${window.location.origin}/tools.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "أدوات صحية, صحة, لياقة بدنية, حساب السعرات, كتلة الجسم, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

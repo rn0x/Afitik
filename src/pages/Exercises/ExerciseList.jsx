@@ -51,12 +51,10 @@ export default function ExerciseList() {
     keywords: isGenderValid && muscleValue
       ? `تمارين عضلات, عضلة ${muscleValue.name}, ${gender === 'male' ? 'تمارين للرجال' : 'تمارين للنساء'}, تطبيق عافيتك`
       : "جنس غير صحيح, عضلة غير صحيحة, تطبيق عافيتك",
-    ogImage: isGenderValid && muscleValue
-      ? `${window.location.origin}/exercise-list-${normalizedGender}-${muscleValue.slug}.jpg`
-      : `${window.location.origin}/error.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: isGenderValid && muscleValue
       ? `تمارين عضلات, عضلة ${muscleValue.name}, تطبيق عافيتك`
       : "جنس أو عضلة غير صحيحة, تطبيق عافيتك",

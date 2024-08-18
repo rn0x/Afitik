@@ -15,10 +15,10 @@ export default function Exercises() {
     title: "تمارين اللياقة البدنية - تطبيق عافيتك",
     description: "اكتشف مجموعة متنوعة من التمارين الرياضية المصممة لتحسين لياقتك البدنية وصحتك العامة. استمتع بتمارين مخصصة للرجال والنساء مع تطبيق عافيتك.",
     keywords: "تمارين رياضية, لياقة بدنية, صحة, تمارين للرجال, تمارين للنساء, تطبيق عافيتك",
-    ogImage: `${window.location.origin}/exercises.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "تمارين رياضية, لياقة بدنية, صحة, تمارين للرجال, تمارين للنساء, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

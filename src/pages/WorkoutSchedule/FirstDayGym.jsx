@@ -18,10 +18,10 @@ export default function FirstDayGym() {
     title: "تمارين أول يوم بالنادي - تطبيق عافيتك",
     description: "استعرض جدول تمارين أول يوم في النادي مع تفاصيل حول كل تمرين، العضلات المستهدفة، وعدد الجلسات والتكرارات. خطط لياقتك البدنية مع تطبيق عافيتك.",
     keywords: "تمارين أول يوم, جدول تمارين, خطة التمرين, لياقة بدنية, تطبيق عافيتك",
-    ogImage: `${window.location.origin}/workout-schedule.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "جدول التمارين, خطة التمرين, لياقة بدنية, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

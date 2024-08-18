@@ -30,10 +30,10 @@ export default function GlossaryPage() {
     title: "قائمة المصطلحات الرياضية",
     description: "تعرف على أهم المصطلحات الرياضية في عالم اللياقة البدنية.",
     keywords: "مصطلحات رياضية, تعريفات تمارين, لياقة بدنية, تطبيق عافيتك",
-    ogImage: `${window.location.origin}/fitness-glossary.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "مصطلحات رياضية, تعريفات تمارين, لياقة بدنية, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

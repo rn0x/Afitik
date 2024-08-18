@@ -13,10 +13,10 @@ export default function NotFound() {
     title: "صفحة غير موجودة - تطبيق عافيتك",
     description: "الصفحة التي تبحث عنها غير موجودة. قم بالعودة إلى الصفحة الرئيسية لمتابعة تصفح تطبيق عافيتك.",
     keywords: "404, صفحة غير موجودة, خطأ, تطبيق عافيتك",
-    ogImage: `${window.location.origin}/404.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "صفحة غير موجودة, خطأ 404, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

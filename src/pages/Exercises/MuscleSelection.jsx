@@ -32,12 +32,10 @@ export default function MuscleSelection() {
     keywords: isGenderValid()
       ? "اختيار العضلة, تمارين رياضية, لياقة بدنية, عضلات, تطبيق عافيتك"
       : "جنس غير صالح, عضلات, تطبيق عافيتك",
-    ogImage: isGenderValid()
-      ? `${window.location.origin}/muscle-selection.jpg`
-      : `${window.location.origin}/error.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: isGenderValid()
       ? "اختيار العضلة, تمارين رياضية, لياقة بدنية, تطبيق عافيتك"
       : "جنس غير صالح, عضلات, تطبيق عافيتك",

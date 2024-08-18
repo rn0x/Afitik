@@ -15,7 +15,7 @@ export default function Nutrition() {
     ogImage: `${window.location.origin}/nutrition.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "تغذية, صحة, لياقة بدنية, نصائح غذائية, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

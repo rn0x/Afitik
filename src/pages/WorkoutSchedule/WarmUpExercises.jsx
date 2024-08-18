@@ -17,10 +17,10 @@ export default function WarmUpExercises() {
     title: "",
     description: "",
     keywords: "",
-    ogImage: `${window.location.origin}/workout-schedule.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "جدول التمارين, خطة التمرين, لياقة بدنية, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

@@ -16,10 +16,10 @@ export default function ThreeDaysWorkoutPage() {
     title: "جدول تمارين 3 أيام أسبوعيًا - تطبيق عافيتك",
     description: "استعرض جدول تمارين مخصص لثلاثة أيام في الأسبوع يشمل تمارين متنوعة مع تفاصيل حول كل تمرين، العضلات المستهدفة، وعدد الجلسات والتكرارات. خطط لياقتك البدنية مع تطبيق عافيتك.",
     keywords: "جدول تمارين 3 أيام, خطة التمرين, تمارين رياضية, لياقة بدنية, تطبيق عافيتك",
-    ogImage: `${window.location.origin}/workout-schedule.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "جدول التمارين, خطة التمرين, لياقة بدنية, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",

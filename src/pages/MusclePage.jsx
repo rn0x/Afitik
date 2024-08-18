@@ -28,7 +28,7 @@ export default function MusclePage() {
         ogImage: muscle.image,
         canonicalUrl: currentUrl,
         contentLanguage: "ar",
-        author: "مؤسس تطبيق عافيتك",
+        author: "AfitikApp",
         analyticsKeywords: `${muscle.name}, عضلات, تمارين, صحة, رياضة, تقوية العضلات`,
         structuredData: {
             "@context": "https://schema.org",

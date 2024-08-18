@@ -79,12 +79,10 @@ export default function ExerciseContent() {
     keywords: exerciseDetail
       ? `تفاصيل تمرين, تمرين ${exerciseDetail.name}, تمرين عضلة ${muscleValue ? muscleValue.name : 'غير محددة'}, تطبيق عافيتك`
       : "تفاصيل تمرين, تطبيق عافيتك",
-    ogImage: exerciseDetail
-      ? `${window.location.origin}/exercise-${exercise}.jpg`
-      : `${window.location.origin}/error.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: exerciseDetail
       ? `تفاصيل تمرين, تمرين ${exerciseDetail.name}, تطبيق عافيتك`
       : "تفاصيل تمرين, تطبيق عافيتك",

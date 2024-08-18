@@ -20,10 +20,10 @@ export default function GymEquipment() {
         title: "أجهزة (معدات) النادي الرياضي - تطبيق عافيتك",
         description: "تعرف على مختلف الأجهزة الرياضية المستخدمة في النادي، وكيفية استخدامها لتحقيق أهدافك الصحية واللياقية.",
         keywords: "أجهزة رياضية, نادي رياضي, لياقة بدنية, تطبيق عافيتك",
-        ogImage: `${window.location.origin}/gym-equipment.jpg`,
+        ogImage: `${window.location.origin}/images/preview.jpg`,
         canonicalUrl: currentUrl,
         contentLanguage: "ar",
-        author: "مؤسس تطبيق عافيتك",
+        author: "AfitikApp",
         analyticsKeywords: "أجهزة رياضية, نادي رياضي, لياقة بدنية, تطبيق عافيتك",
         structuredData: {
             "@context": "https://schema.org",

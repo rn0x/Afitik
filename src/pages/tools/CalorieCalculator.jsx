@@ -17,10 +17,10 @@ const CalorieCalculator = () => {
         title: "حاسبة السعرات الحرارية - تطبيق عافيتك",
         description: "استخدم حاسبة السعرات الحرارية لحساب احتياجاتك اليومية من الطاقة بناءً على عمرك، وزنك، طولك، ومستوى نشاطك البدني. استمتع بنصائح صحية للوصول إلى أهدافك.",
         keywords: "حاسبة السعرات الحرارية, حساب السعرات, كتلة الجسم, وزن مثالي, صحة, لياقة, تطبيق عافيتك",
-        ogImage: `${window.location.origin}/calorie-calculator.jpg`,
+        ogImage: `${window.location.origin}/images/preview.jpg`,
         canonicalUrl: currentUrl,
         contentLanguage: "ar",
-        author: "مؤسس تطبيق عافيتك",
+        author: "AfitikApp",
         analyticsKeywords: "حاسبة السعرات, صحة, لياقة, حساب السعرات الحرارية, تطبيق عافيتك",
         structuredData: {
             "@context": "https://schema.org",

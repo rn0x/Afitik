@@ -19,10 +19,10 @@ const StepCounter = () => {
     title: "عداد الخطوات - تطبيق عافيتك لتحسين اللياقة البدنية",
     description: "تتبع خطواتك اليومية بدقة مع تطبيق عافيتك. احصل على رؤى مفصلة حول نشاطك البدني وساعد في تحقيق أهداف لياقتك.",
     keywords: "عداد الخطوات, تتبع الخطوات, تطبيق لياقة بدنية, عافيتك, تمرين يومي, تطبيق خطوات",
-    ogImage: `${window.location.origin}/images/step-counter.jpg`,
+    ogImage: `${window.location.origin}/images/preview.jpg`,
     canonicalUrl: currentUrl,
     contentLanguage: "ar",
-    author: "مؤسس تطبيق عافيتك",
+    author: "AfitikApp",
     analyticsKeywords: "عداد الخطوات, تتبع النشاط, تطبيق عافيتك",
     structuredData: {
       "@context": "https://schema.org",
