@@ -319,10 +319,19 @@
     padding: 10px;
 }
 
+#CalorieCalculatorPage>#Calculator>#boxOutput>#healthMetrics>div>h3 {
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: var(--color-3);
+}
+
+
 #CalorieCalculatorPage>#Calculator>#boxOutput>#healthMetrics>div>p {
     font-size: 14px;
     margin-top: 0px;
     margin-bottom: 0px;
+    color: var(--color-4);
 }
 
 #CalorieCalculatorPage>#Calculator>#boxOutput>#ScreenshotCaptureButton {
